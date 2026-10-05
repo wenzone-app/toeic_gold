@@ -11,13 +11,13 @@
   },
   {
     "day": 3,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "詞性辨識強化與間接回答"
   },
   {
     "day": 4,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "動詞時態與時間線索"
   },
   {
     "day": 5,
