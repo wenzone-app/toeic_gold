@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "day": 1,
+  "title": "程度診斷 + 基礎建立日",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": {
+    "min": 90,
+    "max": 120
+  },
+  "level": "程度診斷／基礎",
+  "source": "使用者提供的 Day 1 教材",
+  "scheduleReference": {
+    "timezone": "Asia/Taipei",
+    "time": "20:00",
+    "statedNextRun": "2026-08-31T20:00:00+08:00",
+    "note": "原文排程資訊，非本次建立或更新的排程。"
+  },
+  "sections": [
+    {
+      "title": "程度診斷 + 基礎建立日",
+      "markdown": "最終目標 TOEIC Listening & Reading 860+。建議投入 90～120 分鐘，先自己完成答案，再看解析。"
+    },
+    {
+      "title": "① 今日核心單字 30 個",
+      "markdown": "Office & Business 基礎高頻字\n\n| 單字 | 詞性 | 中文 | 常見搭配 |\n|---|---|---|---|\n| applicant | n. | 申請者 | job applicant |\n| application | n. | 申請；申請書 | submit an application |\n| candidate | n. | 候選人 | qualified candidate |\n| qualification | n. | 資格 | meet the qualifications |\n| recruit | v. | 招募 | recruit employees |\n| position | n. | 職位 | apply for a position |\n| vacancy | n. | 職缺 | fill a vacancy |\n| supervisor | n. | 主管 | contact a supervisor |\n| colleague | n. | 同事 | former colleague |\n| department | n. | 部門 | sales department |\n| appointment | n. | 約會；預約 | make an appointment |\n| schedule | n./v. | 行程；安排 | schedule a meeting |\n| postpone | v. | 延後 | postpone a meeting |\n| reschedule | v. | 重新安排 | reschedule an appointment |\n| attend | v. | 出席 | attend a conference |\n| participate | v. | 參加 | participate in |\n| available | adj. | 有空的；可取得的 | available immediately |\n| convenient | adj. | 方便的 | convenient location |\n| deadline | n. | 截止期限 | meet a deadline |\n| submit | v. | 提交 | submit a report |\n| approve | v. | 核准 | approve a proposal |\n| authorization | n. | 授權 | obtain authorization |\n| purchase | n./v. | 購買 | purchase equipment |\n| invoice | n. | 發票；請款單 | issue an invoice |\n| receipt | n. | 收據 | keep a receipt |\n| shipment | n. | 貨件；出貨 | track a shipment |\n| delivery | n. | 配送 | delivery date |\n| inventory | n. | 庫存 | check inventory |\n| manufacturer | n. | 製造商 | local manufacturer |\n| supplier | n. | 供應商 | reliable supplier |\n\n### 今天特別記 5 組\n\n> apply for a position → 應徵職位\n> meet a deadline → 趕上期限\n> submit an application → 提交申請\n> participate in a conference → 參加會議\n> track a shipment → 追蹤貨件\n\n不要只背單字，要把搭配當成一整塊記。TOEIC 很常直接考這些搭配。"
+    },
+    {
+      "title": "② 今日文法：詞性判斷",
+      "markdown": "看到空格後迅速判斷需要名詞、動詞、形容詞或副詞，先不要翻譯整句。\n\n### Q1\n\nThe manager gave a _____ explanation of the new policy.\n\n(A) detail\n(B) detailed\n(C) details\n(D) detailing\n\n**Q1 → B**\n\na _____ explanation：explanation 是名詞，修飾名詞通常需要形容詞，故為 detailed explanation。\n\n### Noun｜名詞\n\n常見字尾：-tion, -ment, -ness, -ity\n\napplication\ndevelopment\navailability\nagreement\n\n### Adjective｜形容詞\n\n常見字尾：-ive, -able, -ful, -ous\n\neffective\navailable\nsuccessful\nvarious\n\n### Adverb｜副詞\n\n常見字尾：-ly\n\nquickly\ncarefully\nrecently\nsuccessfully\n\n### Verb｜動詞\n\n主詞 + 動詞\n\nThe company announced its new policy."
+    },
+    {
+      "title": "③ Listening 訓練",
+      "markdown": "建立 Part 2 問句預測能力。聽到第一個疑問詞，就預測答案種類，不要急著翻譯每個單字。\n\n### Q1\n\nWhen will the new employees start working?\n\n(A) Next Monday.\n(B) At the main office.\n(C) Five employees.\n\n### Q2\n\nWhere should I leave these documents?\n\n(A) About twenty pages.\n(B) On Mr. Chen's desk.\n(C) I read them yesterday.\n\n### Q3\n\nWhy was the meeting postponed?\n\n(A) Because the manager is away.\n(B) In Conference Room B.\n(C) At three o'clock.\n\n### Q4\n\nWho is responsible for ordering office supplies?\n\n(A) The purchasing manager.\n(B) Twice a month.\n(C) About fifty dollars.\n\n### Q5\n\nHow often do you check the inventory?\n\n(A) In the warehouse.\n(B) Every Friday.\n(C) About twenty boxes.\n\n### 答案與解析\n\n**Q1 → A**\n\nWhen → 時間。\n\n**Q2 → B**\n\nWhere → 地點。\n\n**Q3 → A**\n\nWhy → 原因。\n\n**Q4 → A**\n\nWho → 人。\n\n**Q5 → B**\n\nHow often → 頻率。\n\n後續會加入間接回答。"
+    },
+    {
+      "title": "④ Reading 訓練",
+      "markdown": "### Email\n\n> To: All Employees\n> From: Human Resources\n> \n> The employee training session originally scheduled for September 5 has been postponed until September 12. The session will begin at 9:30 A.M. in Conference Room B.\n> \n> Employees who have already registered do not need to register again. If you are unable to attend on the new date, please contact the Human Resources Department before September 8.\n\n### Q1\n\nWhy was this email written?\n\n(A) To announce a change in a training schedule\n(B) To recruit new employees\n(C) To introduce a new conference room\n(D) To request employee applications\n\n### Q2\n\nWhen will the training take place?\n\n(A) September 5\n(B) September 8\n(C) September 9\n(D) September 12\n\n### Q3\n\nWho should contact Human Resources?\n\n(A) New applicants\n(B) Employees unable to attend\n(C) Department supervisors\n(D) Employees who already registered\n\n### 答案與解析\n\n**Q1 → A**\n\n關鍵：postponed until September 12。\n\n**Q2 → D**\n\n新日期為 September 12。\n\n**Q3 → B**\n\n無法出席新日期的員工應聯絡人資；已報名者不必再次報名。\n\n問題 → 關鍵字 → 回文章定位，不要先逐字翻譯。"
+    },
+    {
+      "title": "⑤ 今日 TOEIC 仿真題",
+      "markdown": "先自己作答。\n\n### Q1\n\nAll employees must _____ their expense reports by Friday.\n\n(A) submission\n(B) submit\n(C) submitted\n(D) submitting\n\n### Q2\n\nThe company's new website is extremely _____ and easy to navigate.\n\n(A) convenience\n(B) conveniently\n(C) convenient\n(D) conveniences\n\n### Q3\n\nMs. Wang has extensive _____ in international marketing.\n\n(A) experienced\n(B) experience\n(C) experiencing\n(D) experientially\n\n### Q4\n\nThe conference was _____ postponed because of severe weather.\n\n(A) temporary\n(B) temporarily\n(C) temperature\n(D) temporal\n\n### Q5\n\nApplicants should send their résumés _____ the Human Resources Department.\n\n(A) at\n(B) to\n(C) by\n(D) during"
+    },
+    {
+      "title": "⑥ Day 1 小考",
+      "markdown": "10 題程度紀錄。先記下答案，再看解析。\n\n### Q1\n\nThe manager will _____ the proposal tomorrow.\n\n(A) approval\n(B) approve\n(C) approved\n(D) approving\n\n### Q2\n\nThe new software significantly improves employee _____.\n\n(A) productive\n(B) production\n(C) productivity\n(D) productively\n\n### Q3\n\nOur company is looking for a highly _____ sales representative.\n\n(A) qualify\n(B) qualified\n(C) qualification\n(D) qualifyingly\n\n### Q4\n\nPlease submit the application _____ Friday.\n\n(A) by\n(B) from\n(C) during\n(D) among\n\n### Q5\n\nThe shipment is expected to _____ tomorrow morning.\n\n(A) arrive\n(B) arrival\n(C) arriving\n(D) arrived\n\n### Q6\n\nThe conference room is currently _____.\n\n(A) availability\n(B) available\n(C) availably\n(D) availability's\n\n### Q7\n\nThe meeting was _____ because the director was ill.\n\n(A) participated\n(B) purchased\n(C) postponed\n(D) submitted\n\n### Q8\n\nEmployees must obtain _____ before purchasing new equipment.\n\n(A) authorize\n(B) authorized\n(C) authorization\n(D) authorizing\n\n### Q9\n\nWho should new employees contact about their schedules?\n\n(A) Tomorrow morning.\n(B) Their supervisor.\n(C) In the main office.\n\n### Q10\n\nWhen will the package be delivered?\n\n(A) By Friday afternoon.\n(B) At the reception desk.\n(C) The delivery driver."
+    },
+    {
+      "title": "⑦ 小考答案與解析",
+      "markdown": "**Q1 → B**\n\nwill + 原形動詞：will approve。\n\n**Q2 → C**\n\nemployee _____ 需要名詞；productivity = 生產力。\n\n**Q3 → B**\n\n空格修飾 sales representative，需要形容詞 qualified。\n\n**Q4 → A**\n\nby Friday 代表星期五以前／最晚星期五。\n\n**Q5 → A**\n\nto + 原形動詞：expected to arrive。\n\n**Q6 → B**\n\nbe 動詞後可接形容詞：currently available。\n\n**Q7 → C**\n\n因為主管生病，所以 meeting was postponed。\n\n**Q8 → C**\n\nobtain + 名詞：obtain authorization。\n\n**Q9 → B**\n\nWho → 人：Their supervisor。\n\n**Q10 → A**\n\nWhen → 時間：By Friday afternoon。"
+    },
+    {
+      "title": "⑧ 仿真題答案",
+      "markdown": "**Q1 → B**\n\nmust + 原形動詞 submit。\n\n**Q2 → C**\n\nbe 動詞後需要形容詞 convenient；extremely 修飾形容詞。\n\n**Q3 → B**\n\nextensive 修飾名詞 experience。\n\n**Q4 → B**\n\n副詞 temporarily 修飾 postponed。\n\n**Q5 → B**\n\nsend something to someone：把某物寄給某人／部門。\n\n1～4 題錯誤 → 複習詞性判斷。第 5 題錯誤 → 介系詞／搭配問題。"
+    },
+    {
+      "title": "⑨ 今日錯題分類",
+      "markdown": "| 代碼 | 問題 |\n|---|---|\n| V | Vocabulary 單字 |\n| G | Grammar 文法 |\n| L | Listening 沒聽懂 |\n| M | Misread 看錯 |\n| T | Time 時間不足 |\n| TR | Trap 被陷阱選項騙 |\n\n紀錄範例：Q2 → G → 不知道 improve 後面需要名詞 → productivity。不要只寫「Q2 錯」。"
+    },
+    {
+      "title": "⑩ 今日作業與達標標準",
+      "markdown": "30 個單字至少複習 2 次，特別是 applicant / qualification / postpone / deadline / submit / shipment / inventory / supplier。\n\n五個搭配念三次：\n\n> submit an application\n> apply for a position\n> meet a deadline\n> postpone a meeting\n> track a shipment\n\n睡前重新做一次 10 題小考，目標 10 / 10。\n\n| 正確題數 | 初步判斷 |\n|---|---|\n| 10 | 基礎很好，後續可以快速提高難度 |\n| 8–9 | 有不錯的 TOEIC 基礎 |\n| 6–7 | 中等，需要補文法與單字 |\n| 4–5 | 基礎較弱，前 30 天會加強基本功 |\n| 0–3 | 先建立核心英文能力 |\n\n> TOEIC 不需要把每一句英文翻成中文，而是快速辨認「題目正在考什麼」。\n\nDay 2：五大句型 S / V / O / C + Part 2 疑問句 + Part 5 詞性進階，累積第二批高頻單字。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "applicant",
+      "partOfSpeech": "n.",
+      "meaning": "申請者",
+      "phrase": "job applicant"
+    },
+    {
+      "id": 2,
+      "word": "application",
+      "partOfSpeech": "n.",
+      "meaning": "申請；申請書",
+      "phrase": "submit an application"
+    },
+    {
+      "id": 3,
+      "word": "candidate",
+      "partOfSpeech": "n.",
+      "meaning": "候選人",
+      "phrase": "qualified candidate"
+    },
+    {
+      "id": 4,
+      "word": "qualification",
+      "partOfSpeech": "n.",
+      "meaning": "資格",
+      "phrase": "meet the qualifications"
+    },
+    {
+      "id": 5,
+      "word": "recruit",
+      "partOfSpeech": "v.",
+      "meaning": "招募",
+      "phrase": "recruit employees"
+    },
+    {
+      "id": 6,
+      "word": "position",
+      "partOfSpeech": "n.",
+      "meaning": "職位",
+      "phrase": "apply for a position"
+    },
+    {
+      "id": 7,
+      "word": "vacancy",
+      "partOfSpeech": "n.",
+      "meaning": "職缺",
+      "phrase": "fill a vacancy"
+    },
+    {
+      "id": 8,
+      "word": "supervisor",
+      "partOfSpeech": "n.",
+      "meaning": "主管",
+      "phrase": "contact a supervisor"
+    },
+    {
+      "id": 9,
+      "word": "colleague",
+      "partOfSpeech": "n.",
+      "meaning": "同事",
+      "phrase": "former colleague"
+    },
+    {
+      "id": 10,
+      "word": "department",
+      "partOfSpeech": "n.",
+      "meaning": "部門",
+      "phrase": "sales department"
+    },
+    {
+      "id": 11,
+      "word": "appointment",
+      "partOfSpeech": "n.",
+      "meaning": "約會；預約",
+      "phrase": "make an appointment"
+    },
+    {
+      "id": 12,
+      "word": "schedule",
+      "partOfSpeech": "n./v.",
+      "meaning": "行程；安排",
+      "phrase": "schedule a meeting"
+    },
+    {
+      "id": 13,
+      "word": "postpone",
+      "partOfSpeech": "v.",
+      "meaning": "延後",
+      "phrase": "postpone a meeting"
+    },
+    {
+      "id": 14,
+      "word": "reschedule",
+      "partOfSpeech": "v.",
+      "meaning": "重新安排",
+      "phrase": "reschedule an appointment"
+    },
+    {
+      "id": 15,
+      "word": "attend",
+      "partOfSpeech": "v.",
+      "meaning": "出席",
+      "phrase": "attend a conference"
+    },
+    {
+      "id": 16,
+      "word": "participate",
+      "partOfSpeech": "v.",
+      "meaning": "參加",
+      "phrase": "participate in"
+    },
+    {
+      "id": 17,
+      "word": "available",
+      "partOfSpeech": "adj.",
+      "meaning": "有空的；可取得的",
+      "phrase": "available immediately"
+    },
+    {
+      "id": 18,
+      "word": "convenient",
+      "partOfSpeech": "adj.",
+      "meaning": "方便的",
+      "phrase": "convenient location"
+    },
+    {
+      "id": 19,
+      "word": "deadline",
+      "partOfSpeech": "n.",
+      "meaning": "截止期限",
+      "phrase": "meet a deadline"
+    },
+    {
+      "id": 20,
+      "word": "submit",
+      "partOfSpeech": "v.",
+      "meaning": "提交",
+      "phrase": "submit a report"
+    },
+    {
+      "id": 21,
+      "word": "approve",
+      "partOfSpeech": "v.",
+      "meaning": "核准",
+      "phrase": "approve a proposal"
+    },
+    {
+      "id": 22,
+      "word": "authorization",
+      "partOfSpeech": "n.",
+      "meaning": "授權",
+      "phrase": "obtain authorization"
+    },
+    {
+      "id": 23,
+      "word": "purchase",
+      "partOfSpeech": "n./v.",
+      "meaning": "購買",
+      "phrase": "purchase equipment"
+    },
+    {
+      "id": 24,
+      "word": "invoice",
+      "partOfSpeech": "n.",
+      "meaning": "發票；請款單",
+      "phrase": "issue an invoice"
+    },
+    {
+      "id": 25,
+      "word": "receipt",
+      "partOfSpeech": "n.",
+      "meaning": "收據",
+      "phrase": "keep a receipt"
+    },
+    {
+      "id": 26,
+      "word": "shipment",
+      "partOfSpeech": "n.",
+      "meaning": "貨件；出貨",
+      "phrase": "track a shipment"
+    },
+    {
+      "id": 27,
+      "word": "delivery",
+      "partOfSpeech": "n.",
+      "meaning": "配送",
+      "phrase": "delivery date"
+    },
+    {
+      "id": 28,
+      "word": "inventory",
+      "partOfSpeech": "n.",
+      "meaning": "庫存",
+      "phrase": "check inventory"
+    },
+    {
+      "id": 29,
+      "word": "manufacturer",
+      "partOfSpeech": "n.",
+      "meaning": "製造商",
+      "phrase": "local manufacturer"
+    },
+    {
+      "id": 30,
+      "word": "supplier",
+      "partOfSpeech": "n.",
+      "meaning": "供應商",
+      "phrase": "reliable supplier"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "apply for a position",
+      "meaning": "應徵職位"
+    },
+    {
+      "phrase": "meet a deadline",
+      "meaning": "趕上期限"
+    },
+    {
+      "phrase": "submit an application",
+      "meaning": "提交申請"
+    },
+    {
+      "phrase": "participate in a conference",
+      "meaning": "參加會議"
+    },
+    {
+      "phrase": "track a shipment",
+      "meaning": "追蹤貨件"
+    }
+  ],
+  "grammar": {
+    "title": "詞性判斷",
+    "goal": "看到空格後迅速判斷需要名詞、動詞、形容詞或副詞，先不要翻譯整句。",
+    "example": {
+      "id": 1,
+      "prompt": "The manager gave a _____ explanation of the new policy.",
+      "options": {
+        "A": "detail",
+        "B": "detailed",
+        "C": "details",
+        "D": "detailing"
+      },
+      "answer": "B",
+      "explanation": "a _____ explanation：explanation 是名詞，修飾名詞通常需要形容詞，故為 detailed explanation。"
+    },
+    "partsOfSpeech": [
+      {
+        "name": "Noun",
+        "meaning": "名詞",
+        "suffixes": [
+          "-tion",
+          "-ment",
+          "-ness",
+          "-ity"
+        ],
+        "examples": [
+          "application",
+          "development",
+          "availability",
+          "agreement"
+        ]
+      },
+      {
+        "name": "Adjective",
+        "meaning": "形容詞",
+        "suffixes": [
+          "-ive",
+          "-able",
+          "-ful",
+          "-ous"
+        ],
+        "examples": [
+          "effective",
+          "available",
+          "successful",
+          "various"
+        ]
+      },
+      {
+        "name": "Adverb",
+        "meaning": "副詞",
+        "suffixes": [
+          "-ly"
+        ],
+        "examples": [
+          "quickly",
+          "carefully",
+          "recently",
+          "successfully"
+        ]
+      },
+      {
+        "name": "Verb",
+        "meaning": "動詞",
+        "pattern": "主詞 + 動詞",
+        "example": "The company announced its new policy."
+      }
+    ]
+  },
+  "listening": {
+    "part": 2,
+    "strategy": "疑問詞 → 預測答案種類",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "When will the new employees start working?",
+        "options": {
+          "A": "Next Monday.",
+          "B": "At the main office.",
+          "C": "Five employees."
+        },
+        "answer": "A",
+        "explanation": "When → 時間。"
+      },
+      {
+        "id": 2,
+        "prompt": "Where should I leave these documents?",
+        "options": {
+          "A": "About twenty pages.",
+          "B": "On Mr. Chen's desk.",
+          "C": "I read them yesterday."
+        },
+        "answer": "B",
+        "explanation": "Where → 地點。"
+      },
+      {
+        "id": 3,
+        "prompt": "Why was the meeting postponed?",
+        "options": {
+          "A": "Because the manager is away.",
+          "B": "In Conference Room B.",
+          "C": "At three o'clock."
+        },
+        "answer": "A",
+        "explanation": "Why → 原因。"
+      },
+      {
+        "id": 4,
+        "prompt": "Who is responsible for ordering office supplies?",
+        "options": {
+          "A": "The purchasing manager.",
+          "B": "Twice a month.",
+          "C": "About fifty dollars."
+        },
+        "answer": "A",
+        "explanation": "Who → 人。"
+      },
+      {
+        "id": 5,
+        "prompt": "How often do you check the inventory?",
+        "options": {
+          "A": "In the warehouse.",
+          "B": "Every Friday.",
+          "C": "About twenty boxes."
+        },
+        "answer": "B",
+        "explanation": "How often → 頻率。"
+      }
+    ]
+  },
+  "reading": {
+    "part": 7,
+    "strategy": "問題 → 關鍵字 → 回文章定位",
+    "passages": [
+      {
+        "id": "email-1",
+        "type": "email",
+        "text": "To: All Employees\nFrom: Human Resources\n\nThe employee training session originally scheduled for September 5 has been postponed until September 12. The session will begin at 9:30 A.M. in Conference Room B.\n\nEmployees who have already registered do not need to register again. If you are unable to attend on the new date, please contact the Human Resources Department before September 8.",
+        "questions": [
+          {
+            "id": 1,
+            "prompt": "Why was this email written?",
+            "options": {
+              "A": "To announce a change in a training schedule",
+              "B": "To recruit new employees",
+              "C": "To introduce a new conference room",
+              "D": "To request employee applications"
+            },
+            "answer": "A",
+            "explanation": "關鍵：postponed until September 12。"
+          },
+          {
+            "id": 2,
+            "prompt": "When will the training take place?",
+            "options": {
+              "A": "September 5",
+              "B": "September 8",
+              "C": "September 9",
+              "D": "September 12"
+            },
+            "answer": "D",
+            "explanation": "新日期為 September 12。"
+          },
+          {
+            "id": 3,
+            "prompt": "Who should contact Human Resources?",
+            "options": {
+              "A": "New applicants",
+              "B": "Employees unable to attend",
+              "C": "Department supervisors",
+              "D": "Employees who already registered"
+            },
+            "answer": "B",
+            "explanation": "無法出席新日期的員工應聯絡人資；已報名者不必再次報名。"
+          }
+        ]
+      }
+    ]
+  },
+  "quizzes": [
+    {
+      "id": "practice",
+      "title": "今日 TOEIC 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "All employees must _____ their expense reports by Friday.",
+          "options": {
+            "A": "submission",
+            "B": "submit",
+            "C": "submitted",
+            "D": "submitting"
+          },
+          "answer": "B",
+          "explanation": "must + 原形動詞 submit。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company's new website is extremely _____ and easy to navigate.",
+          "options": {
+            "A": "convenience",
+            "B": "conveniently",
+            "C": "convenient",
+            "D": "conveniences"
+          },
+          "answer": "C",
+          "explanation": "be 動詞後需要形容詞 convenient；extremely 修飾形容詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "Ms. Wang has extensive _____ in international marketing.",
+          "options": {
+            "A": "experienced",
+            "B": "experience",
+            "C": "experiencing",
+            "D": "experientially"
+          },
+          "answer": "B",
+          "explanation": "extensive 修飾名詞 experience。"
+        },
+        {
+          "id": 4,
+          "prompt": "The conference was _____ postponed because of severe weather.",
+          "options": {
+            "A": "temporary",
+            "B": "temporarily",
+            "C": "temperature",
+            "D": "temporal"
+          },
+          "answer": "B",
+          "explanation": "副詞 temporarily 修飾 postponed。"
+        },
+        {
+          "id": 5,
+          "prompt": "Applicants should send their résumés _____ the Human Resources Department.",
+          "options": {
+            "A": "at",
+            "B": "to",
+            "C": "by",
+            "D": "during"
+          },
+          "answer": "B",
+          "explanation": "send something to someone：把某物寄給某人／部門。"
+        }
+      ]
+    },
+    {
+      "id": "daily-quiz",
+      "title": "Day 1 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The manager will _____ the proposal tomorrow.",
+          "options": {
+            "A": "approval",
+            "B": "approve",
+            "C": "approved",
+            "D": "approving"
+          },
+          "answer": "B",
+          "explanation": "will + 原形動詞：will approve。"
+        },
+        {
+          "id": 2,
+          "prompt": "The new software significantly improves employee _____.",
+          "options": {
+            "A": "productive",
+            "B": "production",
+            "C": "productivity",
+            "D": "productively"
+          },
+          "answer": "C",
+          "explanation": "employee _____ 需要名詞；productivity = 生產力。"
+        },
+        {
+          "id": 3,
+          "prompt": "Our company is looking for a highly _____ sales representative.",
+          "options": {
+            "A": "qualify",
+            "B": "qualified",
+            "C": "qualification",
+            "D": "qualifyingly"
+          },
+          "answer": "B",
+          "explanation": "空格修飾 sales representative，需要形容詞 qualified。"
+        },
+        {
+          "id": 4,
+          "prompt": "Please submit the application _____ Friday.",
+          "options": {
+            "A": "by",
+            "B": "from",
+            "C": "during",
+            "D": "among"
+          },
+          "answer": "A",
+          "explanation": "by Friday 代表星期五以前／最晚星期五。"
+        },
+        {
+          "id": 5,
+          "prompt": "The shipment is expected to _____ tomorrow morning.",
+          "options": {
+            "A": "arrive",
+            "B": "arrival",
+            "C": "arriving",
+            "D": "arrived"
+          },
+          "answer": "A",
+          "explanation": "to + 原形動詞：expected to arrive。"
+        },
+        {
+          "id": 6,
+          "prompt": "The conference room is currently _____.",
+          "options": {
+            "A": "availability",
+            "B": "available",
+            "C": "availably",
+            "D": "availability's"
+          },
+          "answer": "B",
+          "explanation": "be 動詞後可接形容詞：currently available。"
+        },
+        {
+          "id": 7,
+          "prompt": "The meeting was _____ because the director was ill.",
+          "options": {
+            "A": "participated",
+            "B": "purchased",
+            "C": "postponed",
+            "D": "submitted"
+          },
+          "answer": "C",
+          "explanation": "因為主管生病，所以 meeting was postponed。"
+        },
+        {
+          "id": 8,
+          "prompt": "Employees must obtain _____ before purchasing new equipment.",
+          "options": {
+            "A": "authorize",
+            "B": "authorized",
+            "C": "authorization",
+            "D": "authorizing"
+          },
+          "answer": "C",
+          "explanation": "obtain + 名詞：obtain authorization。"
+        },
+        {
+          "id": 9,
+          "prompt": "Who should new employees contact about their schedules?",
+          "options": {
+            "A": "Tomorrow morning.",
+            "B": "Their supervisor.",
+            "C": "In the main office."
+          },
+          "answer": "B",
+          "explanation": "Who → 人：Their supervisor。"
+        },
+        {
+          "id": 10,
+          "prompt": "When will the package be delivered?",
+          "options": {
+            "A": "By Friday afternoon.",
+            "B": "At the reception desk.",
+            "C": "The delivery driver."
+          },
+          "answer": "A",
+          "explanation": "When → 時間：By Friday afternoon。"
+        }
+      ]
+    }
+  ],
+  "errorCategories": [
+    {
+      "code": "V",
+      "label": "Vocabulary 單字"
+    },
+    {
+      "code": "G",
+      "label": "Grammar 文法"
+    },
+    {
+      "code": "L",
+      "label": "Listening 沒聽懂"
+    },
+    {
+      "code": "M",
+      "label": "Misread 看錯"
+    },
+    {
+      "code": "T",
+      "label": "Time 時間不足"
+    },
+    {
+      "code": "TR",
+      "label": "Trap 被陷阱選項騙"
+    }
+  ],
+  "errorLogExample": {
+    "questionId": 2,
+    "selectedAnswer": "A",
+    "category": "G",
+    "reason": "不知道 improve 後面需要名詞",
+    "correction": "productivity"
+  },
+  "homework": [
+    {
+      "task": "30 個單字至少複習 2 次",
+      "focusWords": [
+        "applicant",
+        "qualification",
+        "postpone",
+        "deadline",
+        "submit",
+        "shipment",
+        "inventory",
+        "supplier"
+      ]
+    },
+    {
+      "task": "把五個搭配念三次",
+      "phrases": [
+        "submit an application",
+        "apply for a position",
+        "meet a deadline",
+        "postpone a meeting",
+        "track a shipment"
+      ]
+    },
+    {
+      "task": "睡前重新做一次 10 題小考",
+      "targetCorrect": 10,
+      "totalQuestions": 10
+    }
+  ],
+  "assessmentStandards": [
+    {
+      "minCorrect": 10,
+      "maxCorrect": 10,
+      "assessment": "基礎很好，後續可以快速提高難度"
+    },
+    {
+      "minCorrect": 8,
+      "maxCorrect": 9,
+      "assessment": "有不錯的 TOEIC 基礎"
+    },
+    {
+      "minCorrect": 6,
+      "maxCorrect": 7,
+      "assessment": "中等，需要補文法與單字"
+    },
+    {
+      "minCorrect": 4,
+      "maxCorrect": 5,
+      "assessment": "基礎較弱，前 30 天會加強基本功"
+    },
+    {
+      "minCorrect": 0,
+      "maxCorrect": 3,
+      "assessment": "先建立核心英文能力"
+    }
+  ],
+  "keyTakeaway": "TOEIC 不需要把每一句英文翻成中文，而是快速辨認「題目正在考什麼」。",
+  "nextDay": {
+    "day": 2,
+    "topics": [
+      "五大句型 S / V / O / C",
+      "Part 2 疑問句",
+      "Part 5 詞性進階",
+      "第二批 TOEIC 高頻單字"
+    ]
+  },
+  "editorialNotes": [
+    "仿真題原文只有答案與錯題分類；逐題 explanation 為依據題目補充的文法解析。"
+  ]
+}
