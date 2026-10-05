@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "1.0",
+  "day": 2,
+  "title": "五大句型 + Part 2 疑問句判斷 + Part 5 詞性進階",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": { "min": 90, "max": 110 },
+  "level": "860+ 基礎養成",
+  "source": "使用者提供的 Day 2 教材",
+  "sections": [
+    {
+      "title": "Day 2 學習概覽",
+      "markdown": "今天延續 Day 1 的基礎訓練，主題是 **五大句型 S / V / O / C + Part 2 疑問句判斷 + Part 5 詞性進階**。由於目前還沒有 Day 1 的實際答題紀錄可供調整，今天先維持「860+ 基礎養成」難度；之後有作答結果時，再依錯題類型提高或降低難度。\n\n今天建議 **90～110 分鐘**。先做題，再看解析。"
+    },
+    {
+      "title": "① 今日 TOEIC 高頻單字 30 個",
+      "markdown": "今天主題：**Meeting / Project / Company**\n\n| # | 單字 | 中文 | TOEIC 常見搭配 |\n|---|---|---|---|\n| 1 | agenda | 議程 | meeting agenda |\n| 2 | conference | 會議 | attend a conference |\n| 3 | participant | 參與者 | conference participant |\n| 4 | presentation | 簡報 | give a presentation |\n| 5 | proposal | 提案 | submit a proposal |\n| 6 | project | 專案 | complete a project |\n| 7 | assignment | 任務 | complete an assignment |\n| 8 | responsibility | 責任 | take responsibility for |\n| 9 | objective | 目標 | achieve an objective |\n| 10 | strategy | 策略 | business strategy |\n| 11 | budget | 預算 | within budget |\n| 12 | expense | 費用 | travel expenses |\n| 13 | estimate | 估計；估價 | cost estimate |\n| 14 | contract | 合約 | sign a contract |\n| 15 | negotiate | 協商 | negotiate a contract |\n| 16 | agreement | 協議 | reach an agreement |\n| 17 | confirm | 確認 | confirm a reservation |\n| 18 | arrange | 安排 | arrange a meeting |\n| 19 | notify | 通知 | notify employees |\n| 20 | inform | 告知 | inform someone of |\n| 21 | announce | 宣布 | announce a decision |\n| 22 | recommend | 推薦；建議 | highly recommend |\n| 23 | require | 要求；需要 | require approval |\n| 24 | request | 要求；請求 | request information |\n| 25 | complete | 完成 | complete a report |\n| 26 | delay | 延誤 | production delay |\n| 27 | update | 更新 | provide an update |\n| 28 | progress | 進度 | monitor progress |\n| 29 | deadline | 截止期限 | meet a deadline |\n| 30 | extension | 延長 | request an extension |\n\n### 今天優先記這 8 組\n\n**meeting agenda**\n\n**give a presentation**\n\n**submit a proposal**\n\n**within budget**\n\n**sign a contract**\n\n**reach an agreement**\n\n**meet a deadline**\n\n**request an extension**\n\n> We need to **meet the deadline**.\n\n不是「遇見截止日期」，而是「如期完成／趕上期限」。"
+    },
+    {
+      "title": "② 今日文法：五大句型 S / V / O / C",
+      "markdown": "這是 Reading Part 5 很重要的底層能力。看到英文時，先不要急著翻成中文，先找：**誰 → 做什麼 → 對誰／什麼**。\n\n### 第一型：S + V\n\n> The meeting ended.\n\nThe meeting = S；ended = V。這類動詞不需要受詞，常見動詞有 arrive、occur、happen、remain。\n\n### 第二型：S + V + C\n\n> The conference room is available.\n\nconference room = S；is = V；available = C。C 是補充描述主詞，常見結構為 **be + adjective**。\n\n### 第三型：S + V + O\n\n> The manager approved the proposal.\n\nmanager = S；approved = V；proposal = O。也就是「主管 → 核准 → 提案」。\n\n### 第四型：S + V + O + O\n\n> The company sent customers an email.\n\ncompany = S；sent = V；customers = O；email = O。常見動詞有 send、give、offer、show。\n\n### 第五型：S + V + O + C\n\n> The company considers the project successful.\n\ncompany = S；considers = V；project = O；successful = C。successful 是在描述 project。"
+    },
+    {
+      "title": "③ Part 5 解題技巧",
+      "markdown": "> The manager considered the proposal _____.\n\n(A) favor\n\n(B) favorable\n\n(C) favorably\n\n(D) favored\n\n結構：manager = S；considered = V；proposal = O；空格 = C。C 在描述 proposal，所以需要**形容詞**。答案是 **B — favorable**。\n\n這就是為什麼學句型很重要。不是把四個選項全部翻譯，而是**先判斷空格需要什麼詞性**。"
+    },
+    {
+      "title": "④ Listening｜Part 2 疑問句進階",
+      "markdown": "Day 1 練習 Who → 人、When → 時間、Where → 地點、Why → 原因；今天增加 **How / Which / What**。\n\n### Q1\n\n> Which conference room should we use?\n\n(A) Room 305 is available.\n\n(B) About thirty people.\n\n(C) At two o'clock.\n\nWhich → 選擇。答案：**A**。\n\n### Q2\n\n> How did you travel to the conference?\n\n(A) Last Tuesday.\n\n(B) By train.\n\n(C) About three hours.\n\nHow → 方法。答案：**B**。\n\n### Q3\n\n> What time does the presentation begin?\n\n(A) The sales presentation.\n\n(B) In the auditorium.\n\n(C) At ten thirty.\n\nWhat time → 時間。答案：**C**。\n\n### 間接回答\n\n> Where is Mr. Chen?\n\n初階答案是 In his office.，但 TOEIC 很可能回答 He went to meet a client.。這句沒有直接回答在哪裡，卻可以推論他不在這裡。\n\n> Has Ms. Lee finished the report?\n\n(A) I'll ask her.\n\n(B) On the desk.\n\n(C) Three pages.\n\n答案：**A**。回答不是 Yes / No，而是「我去問她」，這就是 TOEIC Part 2 很重要的 **Indirect Response**。"
+    },
+    {
+      "title": "⑤ Reading｜Part 7",
+      "markdown": "> **To:** Marketing Department\n> **From:** Daniel Wu\n> **Subject:** Product Presentation\n> The presentation for our new software product has been moved from Wednesday morning to Thursday afternoon because several members of the sales team will be attending a conference on Wednesday.\n> The presentation will now begin at 2:00 P.M. in Conference Room 305. Please review the updated presentation materials before the meeting.\n> If you cannot attend, notify me by Tuesday afternoon.\n\n### Q1\n\nWhy was the presentation rescheduled?\n\n(A) The conference room is unavailable.\n\n(B) Some employees will attend a conference.\n\n(C) The software is not ready.\n\n(D) The manager requested more time.\n\n答案：**B**。定位：several members ... will be attending a conference。\n\n### Q2\n\nWhen will the presentation take place?\n\n(A) Tuesday afternoon\n\n(B) Wednesday morning\n\n(C) Thursday morning\n\n(D) Thursday afternoon\n\n答案：**D**。\n\n### Q3\n\nWhat are employees asked to do before the presentation?\n\n(A) Review some materials\n\n(B) Contact customers\n\n(C) Reserve a room\n\n(D) Submit an expense report\n\n答案：**A**。定位：review the updated presentation materials。"
+    },
+    {
+      "title": "⑥ TOEIC 仿真題",
+      "markdown": "這部分先自己完成，再到「階段小考」作答與查看解析。共 8 題，重點是詞性、動詞形式與常見搭配。"
+    },
+    {
+      "title": "⑦ 今日小考｜10 題",
+      "markdown": "先記錄答案，再看解析。請到「階段小考」選擇 Day 2 小考完成 10 題。"
+    },
+    {
+      "title": "⑧ 答案與解析",
+      "markdown": "### 仿真題答案\n\n**1 B / 2 C / 3 B / 4 C / 5 B / 6 C / 7 D / 8 A**\n\n> The project was completed **successfully**.\n\ncompleted 已經是動詞，要修飾動詞，所以使用副詞 successfully。\n\n> The campaign was **successful**.\n\nbe 動詞後描述 campaign，所以使用形容詞 successful。\n\n**success** → 名詞\n\n**succeed** → 動詞\n\n**successful** → 形容詞\n\n**successfully** → 副詞\n\n### 小考答案\n\n**1 A / 2 C / 3 B / 4 C / 5 B / 6 B / 7 A / 8 B / 9 A / 10 B**\n\nQ8 特別重要：Has Mr. Wang approved the budget? 答案不是 Yes / No，而是 I'll check with his assistant.，這就是今天的 **Indirect Response**。"
+    },
+    {
+      "title": "⑨ Day 1 錯題複習",
+      "markdown": "今天再複習 Day 1 最重要的詞性概念。\n\n### available / availability\n\n> The room is **available**.\n\navailable 是形容詞。\n\n> Please check room **availability**.\n\navailability 是名詞。\n\n### approve / approval\n\n> The manager will **approve** it.\n\napprove 是動詞。\n\n> We need your **approval**.\n\napproval 是名詞。\n\n### qualify / qualified / qualification\n\n> Applicants must **qualify**.\n\nqualify 是動詞。\n\n> We need a **qualified** applicant.\n\nqualified 是形容詞。\n\n> She has the necessary **qualifications**.\n\nqualification 是名詞。這種同一字根不同詞性會一路貫穿 Part 5。"
+    },
+    {
+      "title": "⑩ 今日作業與金色證書觀念",
+      "markdown": "今天完成三輪。\n\n第一輪，把今天 30 個單字快速複習一次，特別記：**proposal / budget / contract / negotiate / agreement / notify / require / deadline / extension**。\n\n第二輪，把下面句子直接理解，不翻成逐字中文：\n\n> The manager approved the proposal.\n> We need to meet the deadline.\n> The company negotiated a new contract.\n> Please notify employees of the change.\n> She requested an extension.\n\n第三輪，睡前重新完成今天的 **10 題小考**。目標：**10 / 10，並且每題能說出為什麼。**\n\n### Day 2 金色證書觀念\n\n> **先看句子結構，再看單字意思。**\n\n看到 The project was completed _____.，先想 completed 是動詞，空格修飾動詞，所以需要副詞。因此即使不知道完整句意，也能迅速選出 successfully。這種解題方式會直接影響未來 Part 5 能不能從 20 分鐘以上壓縮到約 10 分鐘。\n\n下一階段會進入 **Day 3：名詞、動詞、形容詞、副詞完整辨識 + Part 5 詞性陷阱 + Part 2 間接回答進階 + Part 7 定位閱讀**。"
+    }
+  ],
+  "vocabulary": [
+    { "id": 1, "word": "agenda", "meaning": "議程", "phrase": "meeting agenda" },
+    { "id": 2, "word": "conference", "meaning": "會議", "phrase": "attend a conference" },
+    { "id": 3, "word": "participant", "meaning": "參與者", "phrase": "conference participant" },
+    { "id": 4, "word": "presentation", "meaning": "簡報", "phrase": "give a presentation" },
+    { "id": 5, "word": "proposal", "meaning": "提案", "phrase": "submit a proposal" },
+    { "id": 6, "word": "project", "meaning": "專案", "phrase": "complete a project" },
+    { "id": 7, "word": "assignment", "meaning": "任務", "phrase": "complete an assignment" },
+    { "id": 8, "word": "responsibility", "meaning": "責任", "phrase": "take responsibility for" },
+    { "id": 9, "word": "objective", "meaning": "目標", "phrase": "achieve an objective" },
+    { "id": 10, "word": "strategy", "meaning": "策略", "phrase": "business strategy" },
+    { "id": 11, "word": "budget", "meaning": "預算", "phrase": "within budget" },
+    { "id": 12, "word": "expense", "meaning": "費用", "phrase": "travel expenses" },
+    { "id": 13, "word": "estimate", "meaning": "估計；估價", "phrase": "cost estimate" },
+    { "id": 14, "word": "contract", "meaning": "合約", "phrase": "sign a contract" },
+    { "id": 15, "word": "negotiate", "meaning": "協商", "phrase": "negotiate a contract" },
+    { "id": 16, "word": "agreement", "meaning": "協議", "phrase": "reach an agreement" },
+    { "id": 17, "word": "confirm", "meaning": "確認", "phrase": "confirm a reservation" },
+    { "id": 18, "word": "arrange", "meaning": "安排", "phrase": "arrange a meeting" },
+    { "id": 19, "word": "notify", "meaning": "通知", "phrase": "notify employees" },
+    { "id": 20, "word": "inform", "meaning": "告知", "phrase": "inform someone of" },
+    { "id": 21, "word": "announce", "meaning": "宣布", "phrase": "announce a decision" },
+    { "id": 22, "word": "recommend", "meaning": "推薦；建議", "phrase": "highly recommend" },
+    { "id": 23, "word": "require", "meaning": "要求；需要", "phrase": "require approval" },
+    { "id": 24, "word": "request", "meaning": "要求；請求", "phrase": "request information" },
+    { "id": 25, "word": "complete", "meaning": "完成", "phrase": "complete a report" },
+    { "id": 26, "word": "delay", "meaning": "延誤", "phrase": "production delay" },
+    { "id": 27, "word": "update", "meaning": "更新", "phrase": "provide an update" },
+    { "id": 28, "word": "progress", "meaning": "進度", "phrase": "monitor progress" },
+    { "id": 29, "word": "deadline", "meaning": "截止期限", "phrase": "meet a deadline" },
+    { "id": 30, "word": "extension", "meaning": "延長", "phrase": "request an extension" }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "TOEIC 仿真題",
+      "questions": [
+        { "id": 1, "prompt": "The manager asked the staff to _____ the report before Friday.", "options": { "A": "completion", "B": "complete", "C": "completely", "D": "completed" }, "answer": "B", "explanation": "ask + 人 + to + 原形動詞，因此使用 complete。" },
+        { "id": 2, "prompt": "The company's new advertising campaign has been extremely _____.", "options": { "A": "success", "B": "succeed", "C": "successful", "D": "successfully" }, "answer": "C", "explanation": "be 動詞後描述 campaign，需要形容詞 successful。" },
+        { "id": 3, "prompt": "All conference _____ must register at the front desk.", "options": { "A": "participate", "B": "participants", "C": "participation", "D": "participated" }, "answer": "B", "explanation": "all conference 後需要表示人的複數名詞 participants。" },
+        { "id": 4, "prompt": "The project was completed _____ despite several unexpected delays.", "options": { "A": "success", "B": "successful", "C": "successfully", "D": "succeed" }, "answer": "C", "explanation": "副詞 successfully 修飾動詞 completed。" },
+        { "id": 5, "prompt": "Ms. Lin will _____ the results during tomorrow's meeting.", "options": { "A": "presentation", "B": "present", "C": "presently", "D": "presenter" }, "answer": "B", "explanation": "will 後使用原形動詞 present。" },
+        { "id": 6, "prompt": "The company plans to _____ a new contract with its supplier.", "options": { "A": "negotiation", "B": "negotiable", "C": "negotiate", "D": "negotiated" }, "answer": "C", "explanation": "plan to 後使用原形動詞 negotiate。" },
+        { "id": 7, "prompt": "Employees were _____ of the schedule change by email.", "options": { "A": "notification", "B": "notifying", "C": "notify", "D": "notified" }, "answer": "D", "explanation": "員工被通知，使用被動語態 were notified。" },
+        { "id": 8, "prompt": "The project remained _____ budget despite the delay.", "options": { "A": "within", "B": "among", "C": "between", "D": "during" }, "answer": "A", "explanation": "within budget 是『在預算內』的固定搭配。" }
+      ]
+    },
+    {
+      "id": "day-2-quiz",
+      "title": "Day 2 小考",
+      "questions": [
+        { "id": 1, "prompt": "The director will _____ the proposal this afternoon.", "options": { "A": "review", "B": "reviewer", "C": "reviewing", "D": "reviewed" }, "answer": "A", "explanation": "will 後使用原形動詞 review。" },
+        { "id": 2, "prompt": "Our company recently hired three highly _____ engineers.", "options": { "A": "qualification", "B": "qualify", "C": "qualified", "D": "qualifications" }, "answer": "C", "explanation": "空格修飾 engineers，需要形容詞 qualified。" },
+        { "id": 3, "prompt": "The meeting ended _____ than expected.", "options": { "A": "early", "B": "earlier", "C": "earliest", "D": "more early" }, "answer": "B", "explanation": "than 表示比較，因此使用比較級 earlier。" },
+        { "id": 4, "prompt": "The marketing team gave an excellent _____ yesterday.", "options": { "A": "present", "B": "presenting", "C": "presentation", "D": "presented" }, "answer": "C", "explanation": "excellent 修飾名詞，因此使用 presentation。" },
+        { "id": 5, "prompt": "Employees must receive _____ before making purchases over $1,000.", "options": { "A": "approve", "B": "approval", "C": "approved", "D": "approving" }, "answer": "B", "explanation": "receive 後需要名詞 approval。" },
+        { "id": 6, "prompt": "Where will tomorrow's conference be held?", "options": { "A": "About two hours.", "B": "At the Grand Hotel.", "C": "Nearly 200 people." }, "answer": "B", "explanation": "Where 詢問地點，因此選 At the Grand Hotel。" },
+        { "id": 7, "prompt": "Why hasn't the shipment arrived?", "options": { "A": "There was a transportation delay.", "B": "At the loading dock.", "C": "Tomorrow afternoon." }, "answer": "A", "explanation": "Why 詢問原因，因此選運輸延誤。" },
+        { "id": 8, "prompt": "Has Mr. Wang approved the budget?", "options": { "A": "It's about $20,000.", "B": "I'll check with his assistant.", "C": "In the accounting department." }, "answer": "B", "explanation": "這是合理的間接回答：我會向他的助理確認。" },
+        { "id": 9, "prompt": "Who will give the presentation?", "options": { "A": "Ms. Huang from marketing.", "B": "At ten o'clock.", "C": "About the new product." }, "answer": "A", "explanation": "Who 詢問人物，因此選 Ms. Huang。" },
+        { "id": 10, "prompt": "When should I submit the application?", "options": { "A": "To Human Resources.", "B": "By Friday.", "C": "The online form." }, "answer": "B", "explanation": "When 詢問時間，因此選 By Friday。" }
+      ]
+    }
+  ],
+  "keyTakeaway": "先看句子結構，再看單字意思。",
+  "nextDay": "名詞、動詞、形容詞、副詞完整辨識 + Part 5 詞性陷阱 + Part 2 間接回答進階 + Part 7 定位閱讀"
+}
