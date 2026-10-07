@@ -1,0 +1,151 @@
+{
+  "course": {
+    "id": "toeic-gold-90",
+    "title": "TOEIC 金色證書 90 天訓練",
+    "targetScore": 860,
+    "day": 29,
+    "week": 5,
+    "level": "860-900+",
+    "estimatedMinutes": 100
+  },
+  "lesson": {
+    "title": "900+ 同義轉換、Triple Passage 入門與 Part 5 高速詞性辨識",
+    "objectives": [
+      "快速判斷 Part 5 詞性",
+      "辨識 Listening 同義改寫",
+      "判斷說話者意圖與下一步",
+      "整合 Triple Passage 跨文件資訊"
+    ]
+  },
+  "vocabulary": [
+    {"word":"recruit","meaning":"招募","collocation":"recruit employees"},
+    {"word":"applicant","meaning":"申請者","collocation":"job applicant"},
+    {"word":"candidate","meaning":"候選人","collocation":"qualified candidate"},
+    {"word":"vacancy","meaning":"職缺","collocation":"fill a vacancy"},
+    {"word":"position","meaning":"職位","collocation":"apply for a position"},
+    {"word":"qualification","meaning":"資格","collocation":"meet qualifications"},
+    {"word":"experience","meaning":"經驗","collocation":"previous experience"},
+    {"word":"expertise","meaning":"專業知識","collocation":"technical expertise"},
+    {"word":"resume","meaning":"履歷","collocation":"submit a resume"},
+    {"word":"interview","meaning":"面試","collocation":"conduct an interview"},
+    {"word":"hire","meaning":"雇用","collocation":"hire an employee"},
+    {"word":"orientation","meaning":"新人訓練","collocation":"employee orientation"},
+    {"word":"probation","meaning":"試用期","collocation":"probation period"},
+    {"word":"personnel","meaning":"人員","collocation":"personnel department"},
+    {"word":"supervisor","meaning":"主管","collocation":"immediate supervisor"},
+    {"word":"colleague","meaning":"同事","collocation":"work with colleagues"},
+    {"word":"department","meaning":"部門","collocation":"sales department"},
+    {"word":"transfer","meaning":"調職","collocation":"request a transfer"},
+    {"word":"promotion","meaning":"升遷","collocation":"receive a promotion"},
+    {"word":"resign","meaning":"辭職","collocation":"resign from a position"},
+    {"word":"retire","meaning":"退休","collocation":"retire next year"},
+    {"word":"compensation","meaning":"薪酬","collocation":"compensation package"},
+    {"word":"salary","meaning":"薪資","collocation":"annual salary"},
+    {"word":"benefit","meaning":"福利","collocation":"employee benefits"},
+    {"word":"eligible","meaning":"符合資格","collocation":"eligible for benefits"},
+    {"word":"performance","meaning":"績效","collocation":"performance review"},
+    {"word":"evaluate","meaning":"評估","collocation":"evaluate performance"},
+    {"word":"responsibility","meaning":"職責","collocation":"job responsibilities"},
+    {"word":"temporary","meaning":"臨時的","collocation":"temporary employee"},
+    {"word":"permanent","meaning":"正式的","collocation":"permanent position"}
+  ],
+  "grammar": {
+    "topic": "Part 5 高速詞性辨識",
+    "rules": [
+      "article + blank + noun：優先判斷 adjective",
+      "修飾一般動詞通常使用 adverb",
+      "linking verb 後可接 adjective",
+      "名詞可以修飾另一個名詞",
+      "先判斷 POS，再判斷語意"
+    ],
+    "targetSecondsPerQuestion": 10
+  },
+  "listening": [
+    {
+      "id": "L29-1",
+      "topic": "Recruitment",
+      "skills": ["paraphrase", "next-action"],
+      "summary": "Raj has relevant experience and certifications; management experience is preferred but not required; invite him for an interview."
+    },
+    {
+      "id": "L29-2",
+      "topic": "Schedule Change",
+      "skills": ["intent", "detail"],
+      "summary": "Michelle has a Thursday medical appointment and requests to work remotely afterward."
+    },
+    {
+      "id": "L29-3",
+      "topic": "Office Supplies",
+      "skills": ["paraphrase", "intent"],
+      "summary": "Printer paper is almost out; place the order early and add five packages."
+    }
+  ],
+  "reading": {
+    "type": "triple-passage",
+    "topic": "Marketing Coordinator Recruitment",
+    "documents": [
+      {
+        "type": "job-posting",
+        "keyFacts": ["2+ years marketing experience", "digital advertising preferred", "deadline October 12"]
+      },
+      {
+        "type": "application-email",
+        "keyFacts": ["Amy has 3 years experience", "no direct digital advertising experience", "completed online course", "two references"]
+      },
+      {
+        "type": "hr-email",
+        "keyFacts": ["interview October 16 at 10 AM", "bring portfolio", "reschedule request by October 14"]
+      }
+    ]
+  },
+  "quiz": {
+    "questionCount": 12,
+    "timeLimitSeconds": 210,
+    "answers": ["B","B","B","B","A","B","C","B","B","A","C","B"],
+    "targetScore": 11
+  },
+  "errorTags": [
+    {"code":"G","name":"Grammar"},
+    {"code":"V","name":"Vocabulary"},
+    {"code":"L","name":"Listening"},
+    {"code":"P","name":"Paraphrase"},
+    {"code":"I","name":"Information Integration"},
+    {"code":"T","name":"Timeline"},
+    {"code":"E","name":"Exception"},
+    {"code":"U","name":"Updated Information"},
+    {"code":"C","name":"Condition"},
+    {"code":"N","name":"Next Action"},
+    {"code":"POS","name":"Part of Speech"},
+    {"code":"INT","name":"Intent"}
+  ],
+  "homework": {
+    "part5": {
+      "questions": 15,
+      "secondAttemptTimeLimitSeconds": 150
+    },
+    "quiz": {
+      "secondAttemptTimeLimitSeconds": 180,
+      "targetCorrect": 12
+    },
+    "reviewStrategy": [
+      "structure -> POS -> meaning",
+      "compress each listening set into key facts",
+      "map triple passage as Rule/Situation/Action"
+    ]
+  },
+  "adaptiveDifficulty": {
+    "11-12": "Day 30: 900+ Triple Passage + high-density Part 3/4 paraphrase",
+    "9-10": "Maintain 900-level questions and reinforce POS/Paraphrase",
+    "7-8": "Keep Triple Passage but reduce information density",
+    "0-6": "Review Week 4 and POS before adding new question types"
+  },
+  "nextDay": {
+    "day": 30,
+    "focus": [
+      "900+ Triple Passage",
+      "Part 3/4 high-density paraphrase",
+      "Part 5 speed training",
+      "intent and next-action inference"
+    ]
+  }
+}
