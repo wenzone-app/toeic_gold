@@ -1,0 +1,797 @@
+{
+  "schemaVersion": "1.0",
+  "day": 9,
+  "title": "關係代名詞 who / which / that / whose",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": {
+    "min": 90,
+    "max": 110
+  },
+  "level": "860+ 難度",
+  "source": "使用者提供的 Day 9 教材",
+  "sections": [
+    {
+      "title": "TOEIC 金色證書 90 天訓練｜Day 9",
+      "markdown": "今天進入第二週核心文法：**關係代名詞 who / which / that / whose**。前 8 天已完成詞性、時態、主被動、to V / V-ing 與分詞，因此今天開始訓練「兩個子句如何連接」。\n\n目前沒有收到前幾日的實際答題紀錄，因此今天維持 **860+ 難度**，但題目會開始混入前面學過的文法，不再只考單一規則。建議 **90～110 分鐘**。"
+    },
+    {
+      "title": "① 今日高頻單字 30 個",
+      "markdown": "主題：**Contracts / Orders / Purchasing**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| contract | 合約 | sign a contract |\n| agreement | 協議 | reach an agreement |\n| term | 條款 | contract terms |\n| condition | 條件 | terms and conditions |\n| negotiate | 協商 | negotiate a contract |\n| negotiation | 協商 | contract negotiation |\n| renew | 續約 | renew a contract |\n| renewal | 續約 | contract renewal |\n| expire | 到期 | contract expires |\n| purchase | 購買 | make a purchase |\n| order | 訂單 | place an order |\n| quantity | 數量 | order quantity |\n| supplier | 供應商 | reliable supplier |\n| vendor | 供應商 | approved vendor |\n| manufacturer | 製造商 | local manufacturer |\n| quotation | 報價 | request a quotation |\n| estimate | 估價 | cost estimate |\n| invoice | 請款單 | issue an invoice |\n| payment | 付款 | make a payment |\n| confirm | 確認 | confirm an order |\n| process | 處理 | process an order |\n| deliver | 配送 | deliver goods |\n| shipment | 貨件 | track a shipment |\n| stock | 庫存 | in stock |\n| inventory | 庫存 | inventory level |\n| available | 可取得的 | currently available |\n| shortage | 短缺 | supply shortage |\n| replacement | 替換品 | replacement product |\n| discount | 折扣 | receive a discount |\n| bulk | 大量的 | bulk order |\n\n今天優先形成這些反射：\n\n**sign a contract**  \n**reach an agreement**  \n**renew a contract**  \n**place an order**  \n**request a quotation**  \n**process an order**  \n**track a shipment**  \n**in stock**  \n**supply shortage**  \n**bulk order**\n\n特別注意：\n\n> place an order = 下訂單\n\n`place` 在 TOEIC 不一定是「地方」。\n\n---"
+    },
+    {
+      "title": "② 今日文法｜關係代名詞",
+      "markdown": "先看：\n\n> The employee **who works in accounting** will help you.\n\n主句：\n\n> The employee will help you.\n\n中間：\n\n> who works in accounting\n\n用來描述 employee。\n\n這就是：\n\n**關係子句 Relative Clause**\n\n---\n\n## who\n\n先行詞是「人」。\n\n> The manager **who approved the proposal** is on vacation.\n\nwho 代替：\n\n**the manager**\n\n而且 who 在子句裡當：\n\n**主詞**\n\n---\n\n## which\n\n通常修飾「物」。\n\n> The report **which was submitted yesterday** contains several errors.\n\nwhich = the report。\n\n---\n\n## that\n\n可以修飾人或物，在許多限制性關係子句中使用。\n\n> The equipment **that was installed yesterday** is working properly.\n\n---\n\n## whose\n\n表示：\n\n**誰的**\n\n例如：\n\n> Employees **whose applications were approved** will receive an email.\n\n意思：\n\n申請被核准的員工。\n\n結構：\n\n> whose + noun\n\n這點非常重要。\n\n---"
+    },
+    {
+      "title": "③ 不要背「who = 人」",
+      "markdown": "真正的解題方法是：\n\n> **看關係子句缺什麼。**\n\n例如：\n\n> The employee _____ submitted the report is on vacation.\n\n子句：\n\n> _____ submitted the report\n\n缺：\n\n**主詞**\n\n而 employee 是人。\n\n所以：\n\n> **who**\n\n---\n\n再看：\n\n> The equipment _____ we purchased last year is still working.\n\n子句：\n\n> we purchased _____ last year\n\n主詞已經有：\n\n**we**\n\n缺：\n\n**受詞**\n\nequipment 是物。\n\n因此：\n\n> which / that\n\n---\n\n再看：\n\n> The employee _____ office is on the fifth floor is our new manager.\n\n子句：\n\n> _____ office\n\n需要：\n\n**所有格**\n\n所以：\n\n> whose office\n\n答案：\n\n**whose**\n\n---"
+    },
+    {
+      "title": "④ 860+ 陷阱：who vs. whom",
+      "markdown": "看：\n\n> The consultant _____ we hired last month is from Singapore.\n\n子句：\n\n> we hired _____\n\n主詞已經有：\n\n**we**\n\n空格是 hired 的受詞。\n\n正式文法可以使用：\n\n> **whom**\n\n但日常英文與限制性子句也常使用：\n\n> who / that\n\nTOEIC 如果選項出現：\n\n**who / whom / whose / which**\n\n就必須判斷：\n\n> 主詞 → who  \n> 受詞 → whom  \n> 所有格 → whose\n\n例如：\n\n> The applicant _____ the manager interviewed was highly qualified.\n\nmanager = 主詞\n\ninterviewed _____ = 缺受詞\n\n因此：\n\n> **whom**\n\n---"
+    },
+    {
+      "title": "⑤ Listening｜Part 2",
+      "markdown": "今天開始加入「建議、否定問句、推論」混合題。\n\n### Q1\n\n> Who's handling the contract renewal?\n\n(A) I think Daniel from Legal is.  \n(B) At the end of September.  \n(C) For another two years.\n\n**答案：A**\n\n---\n\n### Q2\n\n> Has the supplier confirmed our order?\n\n(A) I'm still waiting for their email.  \n(B) About five hundred units.  \n(C) The warehouse manager.\n\n**答案：A**\n\n注意：\n\n沒有說 No。\n\n但：\n\n> still waiting\n\n可以推論尚未確認。\n\n---\n\n### Q3\n\n> Why don't we request another quotation?\n\n(A) That's worth considering.  \n(B) Approximately $4,000.  \n(C) The purchasing department.\n\n**答案：A**\n\nWhy don't we = 建議。\n\n---\n\n### Q4\n\n> When does our contract with the vendor expire?\n\n(A) I'll have to check the agreement.  \n(B) About twenty pages.  \n(C) They supply office equipment.\n\n**答案：A**\n\nWhen 不一定有時間答案。\n\n---\n\n### Q5\n\n> Didn't you order replacement parts?\n\n(A) They're currently out of stock.  \n(B) In the storage room.  \n(C) About twenty kilograms.\n\n**答案：A**\n\n這裡需要推論：\n\n因為缺貨，所以可能沒有完成訂購。\n\n---"
+    },
+    {
+      "title": "⑥ Reading｜Part 7",
+      "markdown": "今天限時 **3 分鐘**。\n\n> **To:** Purchasing Department  \n> **From:** Greenfield Office Supplies  \n> **Subject:** Order #GF-5821\n>\n> Thank you for your recent order. We are writing to inform you that the ergonomic office chairs included in your order are temporarily out of stock because of unexpectedly high demand.\n>\n> A new shipment is expected to arrive at our distribution center on September 15. We can ship the chairs immediately after they arrive, or we can replace them with Model ER-300 chairs, which are currently available at the same price.\n>\n> The remaining items in your order are ready for shipment and can be delivered separately at no additional charge.\n>\n> Please let us know by September 11 whether you would prefer to wait for the original chairs or receive the replacement model.\n>\n> We apologize for the inconvenience.\n\n### Q1\n\nWhy did the company send the email?\n\n(A) To request payment  \n(B) To report an unavailable product  \n(C) To cancel an order  \n(D) To announce a price increase\n\n### Q2\n\nWhy are the chairs unavailable?\n\n(A) Manufacturing problems  \n(B) A transportation delay  \n(C) High demand  \n(D) A pricing error\n\n### Q3\n\nWhat is stated about Model ER-300?\n\n(A) It costs more  \n(B) It is currently available  \n(C) It will arrive September 15  \n(D) It has been discontinued\n\n### Q4\n\nWhat can happen to the remaining items?\n\n(A) They can be shipped separately  \n(B) They must be canceled  \n(C) They will cost more  \n(D) They will be replaced\n\n### Q5\n\nWhat must the customer do by September 11?\n\n(A) Make a payment  \n(B) Confirm a preference  \n(C) Submit another order  \n(D) Contact the manufacturer\n\n### Q6\n\nThe word **“remaining”** is closest in meaning to:\n\n(A) damaged  \n(B) additional  \n(C) leftover  \n(D) expensive\n\n答案：\n\n**1B / 2C / 3B / 4A / 5B / 6C**\n\n注意文章：\n\n> Model ER-300 chairs, **which are currently available**\n\n這正是今天的關係子句。\n\n---"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜12 題",
+      "markdown": "限制 **4 分鐘**。\n\n### 1\n\nEmployees _____ work in the accounting department must attend the meeting.\n\n(A) which  \n(B) whose  \n(C) who  \n(D) whom\n\n### 2\n\nThe equipment _____ was installed yesterday is functioning properly.\n\n(A) who  \n(B) which  \n(C) whose  \n(D) whom\n\n### 3\n\nThe applicant _____ résumé impressed the manager was invited for another interview.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### 4\n\nThe consultant _____ we hired has extensive experience.\n\n(A) whom  \n(B) whose  \n(C) which  \n(D) where\n\n### 5\n\nThe products _____ were damaged during shipment will be replaced.\n\n(A) who  \n(B) whose  \n(C) which  \n(D) whom\n\n### 6\n\nCustomers _____ orders exceed $500 receive free shipping.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### 7\n\nThe manager _____ approved the budget is currently overseas.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### 8\n\nThe software _____ the company purchased has been updated.\n\n(A) who  \n(B) whom  \n(C) which  \n(D) whose\n\n### 9\n\nThe employees _____ participated in the training received certificates.\n\n(A) whom  \n(B) whose  \n(C) who  \n(D) which\n\n### 10\n\nThe supplier _____ products we purchase is located in Taichung.\n\n(A) who  \n(B) whose  \n(C) whom  \n(D) which\n\n### 11\n\nThe report _____ was submitted yesterday contains several errors.\n\n(A) whose  \n(B) whom  \n(C) who  \n(D) that\n\n### 12\n\nThe candidate _____ the director interviewed accepted another position.\n\n(A) which  \n(B) whose  \n(C) whom  \n(D) where\n\n答案：\n\n**1C / 2B / 3C / 4A / 5C / 6C / 7A / 8C / 9C / 10B / 11D / 12C**\n\n---"
+    },
+    {
+      "title": "⑧ 今日小考｜10 題",
+      "markdown": "限制 **3 分 30 秒**。\n\n### Q1\n\nThe employee _____ prepared the financial report is on vacation.\n\n(A) which  \n(B) who  \n(C) whose  \n(D) whom\n\n### Q2\n\nThe company _____ products we distribute is based in Japan.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### Q3\n\nThe equipment _____ we purchased last year needs maintenance.\n\n(A) who  \n(B) whose  \n(C) which  \n(D) whom\n\n### Q4\n\nThe applicant _____ the manager interviewed has accepted the position.\n\n(A) whom  \n(B) whose  \n(C) which  \n(D) where\n\n### Q5\n\nThe contract _____ expires next month will be renewed.\n\n(A) who  \n(B) which  \n(C) whose  \n(D) whom\n\n### Q6\n\nHas the supplier confirmed our shipment?\n\n(A) I'm still waiting for a response.  \n(B) About fifty boxes.  \n(C) At the distribution center.\n\n### Q7\n\nWho handles contract negotiations?\n\n(A) I believe Ms. Wang does.  \n(B) For about two hours.  \n(C) Next Thursday.\n\n### Q8\n\nWhy don't we request another estimate?\n\n(A) That's a good suggestion.  \n(B) Around $5,000.  \n(C) From the supplier.\n\n### Q9\n\nWhen will the replacement products arrive?\n\n(A) The manufacturer hasn't confirmed a date.  \n(B) At the loading dock.  \n(C) About thirty units.\n\n### Q10\n\nIf a product is **out of stock**, it is:\n\n(A) damaged  \n(B) currently unavailable for purchase  \n(C) unusually expensive  \n(D) being returned\n\n## 答案\n\n**1B / 2C / 3C / 4A / 5B / 6A / 7A / 8A / 9A / 10B**\n\n---"
+    },
+    {
+      "title": "⑨ 今日解析",
+      "markdown": "Q1：\n\n> _____ prepared\n\n缺主詞，而且是 employee。\n\n→ **who**\n\nQ2：\n\n> _____ products\n\n需要表達：\n\n「這家公司的產品」\n\n→ **whose**\n\nQ3：\n\n> we purchased _____\n\n主詞已經有 we。\n\n缺受詞，而且是 equipment。\n\n→ **which**\n\nQ4：\n\n> manager interviewed _____\n\nmanager 已經是主詞。\n\n缺受詞，而且是 applicant。\n\n→ **whom**\n\n這四種情況要開始形成反射：\n\n> **who + verb**\n\n> **whom + S + verb**\n\n> **whose + noun**\n\n> **which → 物**\n\n但正式解題時仍然先看「子句缺什麼」。\n\n---"
+    },
+    {
+      "title": "⑩ 錯題複習",
+      "markdown": "今天把 Day 6～8 的高頻陷阱混在一起快速測試。\n\n> We look forward to _____ from you.\n\n→ **hearing**\n\n`to` 是介系詞。\n\n---\n\n> Customers were _____ with the service.\n\n→ **satisfied**\n\n感受到滿意。\n\n---\n\n> The results were _____.\n\n→ **surprising**\n\n結果令人驚訝。\n\n---\n\n> The equipment has already _____.\n\n→ **been installed**\n\n現在完成式被動。\n\n---\n\n> Management considered _____ another office.\n\n→ **opening**\n\nconsider + V-ing。\n\n如果這五個目前仍需要思考很久，今天作業要優先複習，而不是增加更多新單字。\n\n---"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "先複習今天 30 個單字，尤其直接記搭配：\n\n> sign a contract  \n> reach an agreement  \n> place an order  \n> request a quotation  \n> process an order  \n> track a shipment  \n> in stock  \n> supply shortage\n\n接著不看教材，完成四個句型：\n\n> The employee _____ works here...\n\n> The consultant _____ we hired...\n\n> The employee _____ office is upstairs...\n\n> The equipment _____ was installed...\n\n應該立即反應：\n\n**who / whom / whose / which**\n\n最後重新做今日 10 題小考，第二次限制 **3 分鐘**。\n\n目標：\n\n**10/10。**\n\n如果第一次達到 **9～10 題且 3 分鐘左右完成**，Day 10 會提高到接近 **900 分題型**；如果只有 7～8 題，後續會保留更多關係子句辨識；6 題以下則需要優先複習「子句到底缺主詞、受詞還是所有格」。\n\n今天最重要的規則不是「人用 who、物用 which」，而是：\n\n> **看到關係代名詞題，先把後面的子句拆出來，找出缺少的句子成分。**\n\n**Day 10** 將進入 **關係副詞 where / when + 關係代名詞混合陷阱**，並開始增加 Part 7 推論與同義改寫題比例。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "contract",
+      "meaning": "合約",
+      "phrase": "sign a contract"
+    },
+    {
+      "id": 2,
+      "word": "agreement",
+      "meaning": "協議",
+      "phrase": "reach an agreement"
+    },
+    {
+      "id": 3,
+      "word": "term",
+      "meaning": "條款",
+      "phrase": "contract terms"
+    },
+    {
+      "id": 4,
+      "word": "condition",
+      "meaning": "條件",
+      "phrase": "terms and conditions"
+    },
+    {
+      "id": 5,
+      "word": "negotiate",
+      "meaning": "協商",
+      "phrase": "negotiate a contract"
+    },
+    {
+      "id": 6,
+      "word": "negotiation",
+      "meaning": "協商",
+      "phrase": "contract negotiation"
+    },
+    {
+      "id": 7,
+      "word": "renew",
+      "meaning": "續約",
+      "phrase": "renew a contract"
+    },
+    {
+      "id": 8,
+      "word": "renewal",
+      "meaning": "續約",
+      "phrase": "contract renewal"
+    },
+    {
+      "id": 9,
+      "word": "expire",
+      "meaning": "到期",
+      "phrase": "contract expires"
+    },
+    {
+      "id": 10,
+      "word": "purchase",
+      "meaning": "購買",
+      "phrase": "make a purchase"
+    },
+    {
+      "id": 11,
+      "word": "order",
+      "meaning": "訂單",
+      "phrase": "place an order"
+    },
+    {
+      "id": 12,
+      "word": "quantity",
+      "meaning": "數量",
+      "phrase": "order quantity"
+    },
+    {
+      "id": 13,
+      "word": "supplier",
+      "meaning": "供應商",
+      "phrase": "reliable supplier"
+    },
+    {
+      "id": 14,
+      "word": "vendor",
+      "meaning": "供應商",
+      "phrase": "approved vendor"
+    },
+    {
+      "id": 15,
+      "word": "manufacturer",
+      "meaning": "製造商",
+      "phrase": "local manufacturer"
+    },
+    {
+      "id": 16,
+      "word": "quotation",
+      "meaning": "報價",
+      "phrase": "request a quotation"
+    },
+    {
+      "id": 17,
+      "word": "estimate",
+      "meaning": "估價",
+      "phrase": "cost estimate"
+    },
+    {
+      "id": 18,
+      "word": "invoice",
+      "meaning": "請款單",
+      "phrase": "issue an invoice"
+    },
+    {
+      "id": 19,
+      "word": "payment",
+      "meaning": "付款",
+      "phrase": "make a payment"
+    },
+    {
+      "id": 20,
+      "word": "confirm",
+      "meaning": "確認",
+      "phrase": "confirm an order"
+    },
+    {
+      "id": 21,
+      "word": "process",
+      "meaning": "處理",
+      "phrase": "process an order"
+    },
+    {
+      "id": 22,
+      "word": "deliver",
+      "meaning": "配送",
+      "phrase": "deliver goods"
+    },
+    {
+      "id": 23,
+      "word": "shipment",
+      "meaning": "貨件",
+      "phrase": "track a shipment"
+    },
+    {
+      "id": 24,
+      "word": "stock",
+      "meaning": "庫存",
+      "phrase": "in stock"
+    },
+    {
+      "id": 25,
+      "word": "inventory",
+      "meaning": "庫存",
+      "phrase": "inventory level"
+    },
+    {
+      "id": 26,
+      "word": "available",
+      "meaning": "可取得的",
+      "phrase": "currently available"
+    },
+    {
+      "id": 27,
+      "word": "shortage",
+      "meaning": "短缺",
+      "phrase": "supply shortage"
+    },
+    {
+      "id": 28,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "replacement product"
+    },
+    {
+      "id": 29,
+      "word": "discount",
+      "meaning": "折扣",
+      "phrase": "receive a discount"
+    },
+    {
+      "id": 30,
+      "word": "bulk",
+      "meaning": "大量的",
+      "phrase": "bulk order"
+    }
+  ],
+  "vocabularyTheme": "Contracts / Orders / Purchasing",
+  "priorityPhrases": [
+    "sign a contract",
+    "reach an agreement",
+    "renew a contract",
+    "place an order",
+    "request a quotation",
+    "process an order",
+    "track a shipment",
+    "in stock",
+    "supply shortage",
+    "bulk order"
+  ],
+  "vocabularyNotes": [
+    {
+      "phrase": "place an order",
+      "meaning": "下訂單",
+      "note": "place 在 TOEIC 不一定是「地方」。"
+    }
+  ],
+  "grammar": {
+    "title": "關係代名詞",
+    "decisionMethod": "看關係子句缺什麼：主詞、受詞或所有格。",
+    "relativePronouns": [
+      {
+        "word": "who",
+        "role": "人，主詞",
+        "pattern": "who + verb"
+      },
+      {
+        "word": "whom",
+        "role": "人，受詞（正式文法）",
+        "pattern": "whom + S + verb"
+      },
+      {
+        "word": "which",
+        "role": "物，主詞或受詞"
+      },
+      {
+        "word": "that",
+        "role": "人或物，許多限制性關係子句中使用"
+      },
+      {
+        "word": "whose",
+        "role": "所有格",
+        "pattern": "whose + noun"
+      }
+    ],
+    "notes": [
+      "原文指出：受詞位置在日常英文與限制性子句中，也常使用 who / that。"
+    ],
+    "markdown": "先看：\n\n> The employee **who works in accounting** will help you.\n\n主句：\n\n> The employee will help you.\n\n中間：\n\n> who works in accounting\n\n用來描述 employee。\n\n這就是：\n\n**關係子句 Relative Clause**\n\n---\n\n## who\n\n先行詞是「人」。\n\n> The manager **who approved the proposal** is on vacation.\n\nwho 代替：\n\n**the manager**\n\n而且 who 在子句裡當：\n\n**主詞**\n\n---\n\n## which\n\n通常修飾「物」。\n\n> The report **which was submitted yesterday** contains several errors.\n\nwhich = the report。\n\n---\n\n## that\n\n可以修飾人或物，在許多限制性關係子句中使用。\n\n> The equipment **that was installed yesterday** is working properly.\n\n---\n\n## whose\n\n表示：\n\n**誰的**\n\n例如：\n\n> Employees **whose applications were approved** will receive an email.\n\n意思：\n\n申請被核准的員工。\n\n結構：\n\n> whose + noun\n\n這點非常重要。\n\n---\n\n真正的解題方法是：\n\n> **看關係子句缺什麼。**\n\n例如：\n\n> The employee _____ submitted the report is on vacation.\n\n子句：\n\n> _____ submitted the report\n\n缺：\n\n**主詞**\n\n而 employee 是人。\n\n所以：\n\n> **who**\n\n---\n\n再看：\n\n> The equipment _____ we purchased last year is still working.\n\n子句：\n\n> we purchased _____ last year\n\n主詞已經有：\n\n**we**\n\n缺：\n\n**受詞**\n\nequipment 是物。\n\n因此：\n\n> which / that\n\n---\n\n再看：\n\n> The employee _____ office is on the fifth floor is our new manager.\n\n子句：\n\n> _____ office\n\n需要：\n\n**所有格**\n\n所以：\n\n> whose office\n\n答案：\n\n**whose**\n\n---\n\n看：\n\n> The consultant _____ we hired last month is from Singapore.\n\n子句：\n\n> we hired _____\n\n主詞已經有：\n\n**we**\n\n空格是 hired 的受詞。\n\n正式文法可以使用：\n\n> **whom**\n\n但日常英文與限制性子句也常使用：\n\n> who / that\n\nTOEIC 如果選項出現：\n\n**who / whom / whose / which**\n\n就必須判斷：\n\n> 主詞 → who  \n> 受詞 → whom  \n> 所有格 → whose\n\n例如：\n\n> The applicant _____ the manager interviewed was highly qualified.\n\nmanager = 主詞\n\ninterviewed _____ = 缺受詞\n\n因此：\n\n> **whom**\n\n---"
+  },
+  "listening": {
+    "part": 2,
+    "title": "建議、否定問句、推論混合题",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Who's handling the contract renewal?",
+        "options": {
+          "A": "I think Daniel from Legal is.",
+          "B": "At the end of September.",
+          "C": "For another two years."
+        },
+        "answer": "A",
+        "explanation": null
+      },
+      {
+        "id": 2,
+        "prompt": "Has the supplier confirmed our order?",
+        "options": {
+          "A": "I'm still waiting for their email.",
+          "B": "About five hundred units.",
+          "C": "The warehouse manager."
+        },
+        "answer": "A",
+        "explanation": "still waiting 可以推論尚未確認，沒有直接回答 No。"
+      },
+      {
+        "id": 3,
+        "prompt": "Why don't we request another quotation?",
+        "options": {
+          "A": "That's worth considering.",
+          "B": "Approximately $4,000.",
+          "C": "The purchasing department."
+        },
+        "answer": "A",
+        "explanation": "Why don't we 表示建議。"
+      },
+      {
+        "id": 4,
+        "prompt": "When does our contract with the vendor expire?",
+        "options": {
+          "A": "I'll have to check the agreement.",
+          "B": "About twenty pages.",
+          "C": "They supply office equipment."
+        },
+        "answer": "A",
+        "explanation": "When 的回應不一定直接包含時間。"
+      },
+      {
+        "id": 5,
+        "prompt": "Didn't you order replacement parts?",
+        "options": {
+          "A": "They're currently out of stock.",
+          "B": "In the storage room.",
+          "C": "About twenty kilograms."
+        },
+        "answer": "A",
+        "explanation": "因為缺貨，所以可能沒有完成訂購。"
+      }
+    ]
+  },
+  "reading": {
+    "part": 7,
+    "timeLimitSeconds": 180,
+    "passages": [
+      {
+        "id": "order-gf-5821",
+        "type": "email",
+        "title": "Order #GF-5821",
+        "text": "To: Purchasing Department  \nFrom: Greenfield Office Supplies  \nSubject: Order #GF-5821\n\nThank you for your recent order. We are writing to inform you that the ergonomic office chairs included in your order are temporarily out of stock because of unexpectedly high demand.\n\nA new shipment is expected to arrive at our distribution center on September 15. We can ship the chairs immediately after they arrive, or we can replace them with Model ER-300 chairs, which are currently available at the same price.\n\nThe remaining items in your order are ready for shipment and can be delivered separately at no additional charge.\n\nPlease let us know by September 11 whether you would prefer to wait for the original chairs or receive the replacement model.\n\nWe apologize for the inconvenience.",
+        "questions": [
+          {
+            "id": 1,
+            "prompt": "Why did the company send the email?",
+            "options": {
+              "A": "To request payment",
+              "B": "To report an unavailable product",
+              "C": "To cancel an order",
+              "D": "To announce a price increase"
+            },
+            "answer": "B",
+            "explanation": null
+          },
+          {
+            "id": 2,
+            "prompt": "Why are the chairs unavailable?",
+            "options": {
+              "A": "Manufacturing problems",
+              "B": "A transportation delay",
+              "C": "High demand",
+              "D": "A pricing error"
+            },
+            "answer": "C",
+            "explanation": null
+          },
+          {
+            "id": 3,
+            "prompt": "What is stated about Model ER-300?",
+            "options": {
+              "A": "It costs more",
+              "B": "It is currently available",
+              "C": "It will arrive September 15",
+              "D": "It has been discontinued"
+            },
+            "answer": "B",
+            "explanation": null
+          },
+          {
+            "id": 4,
+            "prompt": "What can happen to the remaining items?",
+            "options": {
+              "A": "They can be shipped separately",
+              "B": "They must be canceled",
+              "C": "They will cost more",
+              "D": "They will be replaced"
+            },
+            "answer": "A",
+            "explanation": null
+          },
+          {
+            "id": 5,
+            "prompt": "What must the customer do by September 11?",
+            "options": {
+              "A": "Make a payment",
+              "B": "Confirm a preference",
+              "C": "Submit another order",
+              "D": "Contact the manufacturer"
+            },
+            "answer": "B",
+            "explanation": null
+          },
+          {
+            "id": 6,
+            "prompt": "The word **“remaining”** is closest in meaning to:",
+            "options": {
+              "A": "damaged",
+              "B": "additional",
+              "C": "leftover",
+              "D": "expensive"
+            },
+            "answer": "C",
+            "explanation": null
+          }
+        ]
+      }
+    ]
+  },
+  "quizzes": [
+    {
+      "id": "practice",
+      "title": "Part 5 仿真題",
+      "timeLimitSeconds": 240,
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Employees _____ work in the accounting department must attend the meeting.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "who",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 2,
+          "prompt": "The equipment _____ was installed yesterday is functioning properly.",
+          "options": {
+            "A": "who",
+            "B": "which",
+            "C": "whose",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 3,
+          "prompt": "The applicant _____ résumé impressed the manager was invited for another interview.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 4,
+          "prompt": "The consultant _____ we hired has extensive experience.",
+          "options": {
+            "A": "whom",
+            "B": "whose",
+            "C": "which",
+            "D": "where"
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 5,
+          "prompt": "The products _____ were damaged during shipment will be replaced.",
+          "options": {
+            "A": "who",
+            "B": "whose",
+            "C": "which",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 6,
+          "prompt": "Customers _____ orders exceed $500 receive free shipping.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 7,
+          "prompt": "The manager _____ approved the budget is currently overseas.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 8,
+          "prompt": "The software _____ the company purchased has been updated.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "which",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 9,
+          "prompt": "The employees _____ participated in the training received certificates.",
+          "options": {
+            "A": "whom",
+            "B": "whose",
+            "C": "who",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 10,
+          "prompt": "The supplier _____ products we purchase is located in Taichung.",
+          "options": {
+            "A": "who",
+            "B": "whose",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 11,
+          "prompt": "The report _____ was submitted yesterday contains several errors.",
+          "options": {
+            "A": "whose",
+            "B": "whom",
+            "C": "who",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": null
+        },
+        {
+          "id": 12,
+          "prompt": "The candidate _____ the director interviewed accepted another position.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "whom",
+            "D": "where"
+          },
+          "answer": "C",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "id": "daily-quiz",
+      "title": "Day 9 今日小考",
+      "timeLimitSeconds": 210,
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The employee _____ prepared the financial report is on vacation.",
+          "options": {
+            "A": "which",
+            "B": "who",
+            "C": "whose",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "子句缺主詞，先行詞 employee 是人 → who。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company _____ products we distribute is based in Japan.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "_____ products 表達這家公司的產品，需要所有格 → whose。"
+        },
+        {
+          "id": 3,
+          "prompt": "The equipment _____ we purchased last year needs maintenance.",
+          "options": {
+            "A": "who",
+            "B": "whose",
+            "C": "which",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "we purchased _____：已有主詞 we，缺受詞，equipment 是物 → which。"
+        },
+        {
+          "id": 4,
+          "prompt": "The applicant _____ the manager interviewed has accepted the position.",
+          "options": {
+            "A": "whom",
+            "B": "whose",
+            "C": "which",
+            "D": "where"
+          },
+          "answer": "A",
+          "explanation": "manager interviewed _____：已有主詞 manager，缺受詞，applicant 是人 → whom。"
+        },
+        {
+          "id": 5,
+          "prompt": "The contract _____ expires next month will be renewed.",
+          "options": {
+            "A": "who",
+            "B": "which",
+            "C": "whose",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 6,
+          "prompt": "Has the supplier confirmed our shipment?",
+          "options": {
+            "A": "I'm still waiting for a response.",
+            "B": "About fifty boxes.",
+            "C": "At the distribution center."
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 7,
+          "prompt": "Who handles contract negotiations?",
+          "options": {
+            "A": "I believe Ms. Wang does.",
+            "B": "For about two hours.",
+            "C": "Next Thursday."
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 8,
+          "prompt": "Why don't we request another estimate?",
+          "options": {
+            "A": "That's a good suggestion.",
+            "B": "Around $5,000.",
+            "C": "From the supplier."
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 9,
+          "prompt": "When will the replacement products arrive?",
+          "options": {
+            "A": "The manufacturer hasn't confirmed a date.",
+            "B": "At the loading dock.",
+            "C": "About thirty units."
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 10,
+          "prompt": "If a product is **out of stock**, it is:",
+          "options": {
+            "A": "damaged",
+            "B": "currently unavailable for purchase",
+            "C": "unusually expensive",
+            "D": "being returned"
+          },
+          "answer": "B",
+          "explanation": null
+        }
+      ]
+    }
+  ],
+  "answerReview": {
+    "markdown": "Q1：\n\n> _____ prepared\n\n缺主詞，而且是 employee。\n\n→ **who**\n\nQ2：\n\n> _____ products\n\n需要表達：\n\n「這家公司的產品」\n\n→ **whose**\n\nQ3：\n\n> we purchased _____\n\n主詞已經有 we。\n\n缺受詞，而且是 equipment。\n\n→ **which**\n\nQ4：\n\n> manager interviewed _____\n\nmanager 已經是主詞。\n\n缺受詞，而且是 applicant。\n\n→ **whom**\n\n這四種情況要開始形成反射：\n\n> **who + verb**\n\n> **whom + S + verb**\n\n> **whose + noun**\n\n> **which → 物**\n\n但正式解題時仍然先看「子句缺什麼」。\n\n---"
+  },
+  "previousDayReview": {
+    "days": [
+      6,
+      7,
+      8
+    ],
+    "markdown": "今天把 Day 6～8 的高頻陷阱混在一起快速測試。\n\n> We look forward to _____ from you.\n\n→ **hearing**\n\n`to` 是介系詞。\n\n---\n\n> Customers were _____ with the service.\n\n→ **satisfied**\n\n感受到滿意。\n\n---\n\n> The results were _____.\n\n→ **surprising**\n\n結果令人驚訝。\n\n---\n\n> The equipment has already _____.\n\n→ **been installed**\n\n現在完成式被動。\n\n---\n\n> Management considered _____ another office.\n\n→ **opening**\n\nconsider + V-ing。\n\n如果這五個目前仍需要思考很久，今天作業要優先複習，而不是增加更多新單字。\n\n---"
+  },
+  "homework": {
+    "markdown": "先複習今天 30 個單字，尤其直接記搭配：\n\n> sign a contract  \n> reach an agreement  \n> place an order  \n> request a quotation  \n> process an order  \n> track a shipment  \n> in stock  \n> supply shortage\n\n接著不看教材，完成四個句型：\n\n> The employee _____ works here...\n\n> The consultant _____ we hired...\n\n> The employee _____ office is upstairs...\n\n> The equipment _____ was installed...\n\n應該立即反應：\n\n**who / whom / whose / which**\n\n最後重新做今日 10 題小考，第二次限制 **3 分鐘**。\n\n目標：\n\n**10/10。**\n\n如果第一次達到 **9～10 題且 3 分鐘左右完成**，Day 10 會提高到接近 **900 分題型**；如果只有 7～8 題，後續會保留更多關係子句辨識；6 題以下則需要優先複習「子句到底缺主詞、受詞還是所有格」。\n\n今天最重要的規則不是「人用 who、物用 which」，而是：\n\n> **看到關係代名詞題，先把後面的子句拆出來，找出缺少的句子成分。**\n\n**Day 10** 將進入 **關係副詞 where / when + 關係代名詞混合陷阱**，並開始增加 Part 7 推論與同義改寫題比例。",
+    "priorityPhrases": [
+      "sign a contract",
+      "reach an agreement",
+      "place an order",
+      "request a quotation",
+      "process an order",
+      "track a shipment",
+      "in stock",
+      "supply shortage"
+    ],
+    "sentenceDrills": [
+      {
+        "prompt": "The employee _____ works here...",
+        "answer": "who"
+      },
+      {
+        "prompt": "The consultant _____ we hired...",
+        "answer": "whom"
+      },
+      {
+        "prompt": "The employee _____ office is upstairs...",
+        "answer": "whose"
+      },
+      {
+        "prompt": "The equipment _____ was installed...",
+        "answer": "which"
+      }
+    ],
+    "quizRetry": {
+      "timeLimitSeconds": 180,
+      "targetCorrect": 10,
+      "totalQuestions": 10
+    }
+  },
+  "assessmentStandards": [
+    {
+      "minCorrect": 9,
+      "maxCorrect": 10,
+      "timeCondition": "約 3 分鐘完成",
+      "strategy": "Day 10 提高到接近 900 分題型"
+    },
+    {
+      "minCorrect": 7,
+      "maxCorrect": 8,
+      "strategy": "保留更多關係子句辨識"
+    },
+    {
+      "minCorrect": 0,
+      "maxCorrect": 6,
+      "strategy": "優先複習子句缺主詞、受詞還是所有格"
+    }
+  ],
+  "keyTakeaway": "看到關係代名詞題，先把後面的子句拆出來，找出缺少的句子成分。",
+  "nextDay": {
+    "day": 10,
+    "title": "關係副詞 where / when + 關係代名詞混合陷阱",
+    "notes": "增加 Part 7 推論與同義改寫題比例。"
+  },
+  "rawMarkdown": "# TOEIC 金色證書 90 天訓練｜Day 9\n\n今天進入第二週核心文法：**關係代名詞 who / which / that / whose**。前 8 天已完成詞性、時態、主被動、to V / V-ing 與分詞，因此今天開始訓練「兩個子句如何連接」。\n\n目前沒有收到前幾日的實際答題紀錄，因此今天維持 **860+ 難度**，但題目會開始混入前面學過的文法，不再只考單一規則。建議 **90～110 分鐘**。\n\n## ① 今日高頻單字 30 個\n\n主題：**Contracts / Orders / Purchasing**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| contract | 合約 | sign a contract |\n| agreement | 協議 | reach an agreement |\n| term | 條款 | contract terms |\n| condition | 條件 | terms and conditions |\n| negotiate | 協商 | negotiate a contract |\n| negotiation | 協商 | contract negotiation |\n| renew | 續約 | renew a contract |\n| renewal | 續約 | contract renewal |\n| expire | 到期 | contract expires |\n| purchase | 購買 | make a purchase |\n| order | 訂單 | place an order |\n| quantity | 數量 | order quantity |\n| supplier | 供應商 | reliable supplier |\n| vendor | 供應商 | approved vendor |\n| manufacturer | 製造商 | local manufacturer |\n| quotation | 報價 | request a quotation |\n| estimate | 估價 | cost estimate |\n| invoice | 請款單 | issue an invoice |\n| payment | 付款 | make a payment |\n| confirm | 確認 | confirm an order |\n| process | 處理 | process an order |\n| deliver | 配送 | deliver goods |\n| shipment | 貨件 | track a shipment |\n| stock | 庫存 | in stock |\n| inventory | 庫存 | inventory level |\n| available | 可取得的 | currently available |\n| shortage | 短缺 | supply shortage |\n| replacement | 替換品 | replacement product |\n| discount | 折扣 | receive a discount |\n| bulk | 大量的 | bulk order |\n\n今天優先形成這些反射：\n\n**sign a contract**  \n**reach an agreement**  \n**renew a contract**  \n**place an order**  \n**request a quotation**  \n**process an order**  \n**track a shipment**  \n**in stock**  \n**supply shortage**  \n**bulk order**\n\n特別注意：\n\n> place an order = 下訂單\n\n`place` 在 TOEIC 不一定是「地方」。\n\n---\n\n# ② 今日文法｜關係代名詞\n\n先看：\n\n> The employee **who works in accounting** will help you.\n\n主句：\n\n> The employee will help you.\n\n中間：\n\n> who works in accounting\n\n用來描述 employee。\n\n這就是：\n\n**關係子句 Relative Clause**\n\n---\n\n## who\n\n先行詞是「人」。\n\n> The manager **who approved the proposal** is on vacation.\n\nwho 代替：\n\n**the manager**\n\n而且 who 在子句裡當：\n\n**主詞**\n\n---\n\n## which\n\n通常修飾「物」。\n\n> The report **which was submitted yesterday** contains several errors.\n\nwhich = the report。\n\n---\n\n## that\n\n可以修飾人或物，在許多限制性關係子句中使用。\n\n> The equipment **that was installed yesterday** is working properly.\n\n---\n\n## whose\n\n表示：\n\n**誰的**\n\n例如：\n\n> Employees **whose applications were approved** will receive an email.\n\n意思：\n\n申請被核准的員工。\n\n結構：\n\n> whose + noun\n\n這點非常重要。\n\n---\n\n# ③ 不要背「who = 人」\n\n真正的解題方法是：\n\n> **看關係子句缺什麼。**\n\n例如：\n\n> The employee _____ submitted the report is on vacation.\n\n子句：\n\n> _____ submitted the report\n\n缺：\n\n**主詞**\n\n而 employee 是人。\n\n所以：\n\n> **who**\n\n---\n\n再看：\n\n> The equipment _____ we purchased last year is still working.\n\n子句：\n\n> we purchased _____ last year\n\n主詞已經有：\n\n**we**\n\n缺：\n\n**受詞**\n\nequipment 是物。\n\n因此：\n\n> which / that\n\n---\n\n再看：\n\n> The employee _____ office is on the fifth floor is our new manager.\n\n子句：\n\n> _____ office\n\n需要：\n\n**所有格**\n\n所以：\n\n> whose office\n\n答案：\n\n**whose**\n\n---\n\n# ④ 860+ 陷阱：who vs. whom\n\n看：\n\n> The consultant _____ we hired last month is from Singapore.\n\n子句：\n\n> we hired _____\n\n主詞已經有：\n\n**we**\n\n空格是 hired 的受詞。\n\n正式文法可以使用：\n\n> **whom**\n\n但日常英文與限制性子句也常使用：\n\n> who / that\n\nTOEIC 如果選項出現：\n\n**who / whom / whose / which**\n\n就必須判斷：\n\n> 主詞 → who  \n> 受詞 → whom  \n> 所有格 → whose\n\n例如：\n\n> The applicant _____ the manager interviewed was highly qualified.\n\nmanager = 主詞\n\ninterviewed _____ = 缺受詞\n\n因此：\n\n> **whom**\n\n---\n\n# ⑤ Listening｜Part 2\n\n今天開始加入「建議、否定問句、推論」混合題。\n\n### Q1\n\n> Who's handling the contract renewal?\n\n(A) I think Daniel from Legal is.  \n(B) At the end of September.  \n(C) For another two years.\n\n**答案：A**\n\n---\n\n### Q2\n\n> Has the supplier confirmed our order?\n\n(A) I'm still waiting for their email.  \n(B) About five hundred units.  \n(C) The warehouse manager.\n\n**答案：A**\n\n注意：\n\n沒有說 No。\n\n但：\n\n> still waiting\n\n可以推論尚未確認。\n\n---\n\n### Q3\n\n> Why don't we request another quotation?\n\n(A) That's worth considering.  \n(B) Approximately $4,000.  \n(C) The purchasing department.\n\n**答案：A**\n\nWhy don't we = 建議。\n\n---\n\n### Q4\n\n> When does our contract with the vendor expire?\n\n(A) I'll have to check the agreement.  \n(B) About twenty pages.  \n(C) They supply office equipment.\n\n**答案：A**\n\nWhen 不一定有時間答案。\n\n---\n\n### Q5\n\n> Didn't you order replacement parts?\n\n(A) They're currently out of stock.  \n(B) In the storage room.  \n(C) About twenty kilograms.\n\n**答案：A**\n\n這裡需要推論：\n\n因為缺貨，所以可能沒有完成訂購。\n\n---\n\n# ⑥ Reading｜Part 7\n\n今天限時 **3 分鐘**。\n\n> **To:** Purchasing Department  \n> **From:** Greenfield Office Supplies  \n> **Subject:** Order #GF-5821\n>\n> Thank you for your recent order. We are writing to inform you that the ergonomic office chairs included in your order are temporarily out of stock because of unexpectedly high demand.\n>\n> A new shipment is expected to arrive at our distribution center on September 15. We can ship the chairs immediately after they arrive, or we can replace them with Model ER-300 chairs, which are currently available at the same price.\n>\n> The remaining items in your order are ready for shipment and can be delivered separately at no additional charge.\n>\n> Please let us know by September 11 whether you would prefer to wait for the original chairs or receive the replacement model.\n>\n> We apologize for the inconvenience.\n\n### Q1\n\nWhy did the company send the email?\n\n(A) To request payment  \n(B) To report an unavailable product  \n(C) To cancel an order  \n(D) To announce a price increase\n\n### Q2\n\nWhy are the chairs unavailable?\n\n(A) Manufacturing problems  \n(B) A transportation delay  \n(C) High demand  \n(D) A pricing error\n\n### Q3\n\nWhat is stated about Model ER-300?\n\n(A) It costs more  \n(B) It is currently available  \n(C) It will arrive September 15  \n(D) It has been discontinued\n\n### Q4\n\nWhat can happen to the remaining items?\n\n(A) They can be shipped separately  \n(B) They must be canceled  \n(C) They will cost more  \n(D) They will be replaced\n\n### Q5\n\nWhat must the customer do by September 11?\n\n(A) Make a payment  \n(B) Confirm a preference  \n(C) Submit another order  \n(D) Contact the manufacturer\n\n### Q6\n\nThe word **“remaining”** is closest in meaning to:\n\n(A) damaged  \n(B) additional  \n(C) leftover  \n(D) expensive\n\n答案：\n\n**1B / 2C / 3B / 4A / 5B / 6C**\n\n注意文章：\n\n> Model ER-300 chairs, **which are currently available**\n\n這正是今天的關係子句。\n\n---\n\n# ⑦ Part 5 仿真題｜12 題\n\n限制 **4 分鐘**。\n\n### 1\n\nEmployees _____ work in the accounting department must attend the meeting.\n\n(A) which  \n(B) whose  \n(C) who  \n(D) whom\n\n### 2\n\nThe equipment _____ was installed yesterday is functioning properly.\n\n(A) who  \n(B) which  \n(C) whose  \n(D) whom\n\n### 3\n\nThe applicant _____ résumé impressed the manager was invited for another interview.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### 4\n\nThe consultant _____ we hired has extensive experience.\n\n(A) whom  \n(B) whose  \n(C) which  \n(D) where\n\n### 5\n\nThe products _____ were damaged during shipment will be replaced.\n\n(A) who  \n(B) whose  \n(C) which  \n(D) whom\n\n### 6\n\nCustomers _____ orders exceed $500 receive free shipping.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### 7\n\nThe manager _____ approved the budget is currently overseas.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### 8\n\nThe software _____ the company purchased has been updated.\n\n(A) who  \n(B) whom  \n(C) which  \n(D) whose\n\n### 9\n\nThe employees _____ participated in the training received certificates.\n\n(A) whom  \n(B) whose  \n(C) who  \n(D) which\n\n### 10\n\nThe supplier _____ products we purchase is located in Taichung.\n\n(A) who  \n(B) whose  \n(C) whom  \n(D) which\n\n### 11\n\nThe report _____ was submitted yesterday contains several errors.\n\n(A) whose  \n(B) whom  \n(C) who  \n(D) that\n\n### 12\n\nThe candidate _____ the director interviewed accepted another position.\n\n(A) which  \n(B) whose  \n(C) whom  \n(D) where\n\n答案：\n\n**1C / 2B / 3C / 4A / 5C / 6C / 7A / 8C / 9C / 10B / 11D / 12C**\n\n---\n\n# ⑧ 今日小考｜10 題\n\n限制 **3 分 30 秒**。\n\n### Q1\n\nThe employee _____ prepared the financial report is on vacation.\n\n(A) which  \n(B) who  \n(C) whose  \n(D) whom\n\n### Q2\n\nThe company _____ products we distribute is based in Japan.\n\n(A) who  \n(B) whom  \n(C) whose  \n(D) which\n\n### Q3\n\nThe equipment _____ we purchased last year needs maintenance.\n\n(A) who  \n(B) whose  \n(C) which  \n(D) whom\n\n### Q4\n\nThe applicant _____ the manager interviewed has accepted the position.\n\n(A) whom  \n(B) whose  \n(C) which  \n(D) where\n\n### Q5\n\nThe contract _____ expires next month will be renewed.\n\n(A) who  \n(B) which  \n(C) whose  \n(D) whom\n\n### Q6\n\nHas the supplier confirmed our shipment?\n\n(A) I'm still waiting for a response.  \n(B) About fifty boxes.  \n(C) At the distribution center.\n\n### Q7\n\nWho handles contract negotiations?\n\n(A) I believe Ms. Wang does.  \n(B) For about two hours.  \n(C) Next Thursday.\n\n### Q8\n\nWhy don't we request another estimate?\n\n(A) That's a good suggestion.  \n(B) Around $5,000.  \n(C) From the supplier.\n\n### Q9\n\nWhen will the replacement products arrive?\n\n(A) The manufacturer hasn't confirmed a date.  \n(B) At the loading dock.  \n(C) About thirty units.\n\n### Q10\n\nIf a product is **out of stock**, it is:\n\n(A) damaged  \n(B) currently unavailable for purchase  \n(C) unusually expensive  \n(D) being returned\n\n## 答案\n\n**1B / 2C / 3C / 4A / 5B / 6A / 7A / 8A / 9A / 10B**\n\n---\n\n# ⑨ 今日解析\n\nQ1：\n\n> _____ prepared\n\n缺主詞，而且是 employee。\n\n→ **who**\n\nQ2：\n\n> _____ products\n\n需要表達：\n\n「這家公司的產品」\n\n→ **whose**\n\nQ3：\n\n> we purchased _____\n\n主詞已經有 we。\n\n缺受詞，而且是 equipment。\n\n→ **which**\n\nQ4：\n\n> manager interviewed _____\n\nmanager 已經是主詞。\n\n缺受詞，而且是 applicant。\n\n→ **whom**\n\n這四種情況要開始形成反射：\n\n> **who + verb**\n\n> **whom + S + verb**\n\n> **whose + noun**\n\n> **which → 物**\n\n但正式解題時仍然先看「子句缺什麼」。\n\n---\n\n# ⑩ 錯題複習\n\n今天把 Day 6～8 的高頻陷阱混在一起快速測試。\n\n> We look forward to _____ from you.\n\n→ **hearing**\n\n`to` 是介系詞。\n\n---\n\n> Customers were _____ with the service.\n\n→ **satisfied**\n\n感受到滿意。\n\n---\n\n> The results were _____.\n\n→ **surprising**\n\n結果令人驚訝。\n\n---\n\n> The equipment has already _____.\n\n→ **been installed**\n\n現在完成式被動。\n\n---\n\n> Management considered _____ another office.\n\n→ **opening**\n\nconsider + V-ing。\n\n如果這五個目前仍需要思考很久，今天作業要優先複習，而不是增加更多新單字。\n\n---\n\n# ⑪ 今日作業\n\n先複習今天 30 個單字，尤其直接記搭配：\n\n> sign a contract  \n> reach an agreement  \n> place an order  \n> request a quotation  \n> process an order  \n> track a shipment  \n> in stock  \n> supply shortage\n\n接著不看教材，完成四個句型：\n\n> The employee _____ works here...\n\n> The consultant _____ we hired...\n\n> The employee _____ office is upstairs...\n\n> The equipment _____ was installed...\n\n應該立即反應：\n\n**who / whom / whose / which**\n\n最後重新做今日 10 題小考，第二次限制 **3 分鐘**。\n\n目標：\n\n**10/10。**\n\n如果第一次達到 **9～10 題且 3 分鐘左右完成**，Day 10 會提高到接近 **900 分題型**；如果只有 7～8 題，後續會保留更多關係子句辨識；6 題以下則需要優先複習「子句到底缺主詞、受詞還是所有格」。\n\n今天最重要的規則不是「人用 who、物用 which」，而是：\n\n> **看到關係代名詞題，先把後面的子句拆出來，找出缺少的句子成分。**\n\n**Day 10** 將進入 **關係副詞 where / when + 關係代名詞混合陷阱**，並開始增加 Part 7 推論與同義改寫題比例。",
+  "editorialNotes": [
+    "原文未提供逐題解析時，explanation 設為 null；完整教材保留在 sections 與 rawMarkdown。"
+  ]
+}

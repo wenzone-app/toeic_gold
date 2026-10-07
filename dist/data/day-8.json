@@ -1,0 +1,368 @@
+{
+  "schemaVersion": "1.0",
+  "day": 8,
+  "title": "分詞：V-ing vs. V-ed",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 90,
+    "max": 110
+  },
+  "level": "860+ 難度",
+  "source": "使用者提供的 Day 8 教材",
+  "sections": [
+    {
+      "title": "Day 8 學習概覽",
+      "markdown": "第一週完成後，今天正式進入第二週。主題是 **分詞：V-ing vs. V-ed**。這是 TOEIC Part 5 很常見的高頻考點，也是從基礎題走向 860+ 題型的重要一步。\n\n由於目前沒有收到 Day 7 週測的實際答題結果，今天維持 **860+ 難度**，但開始增加容易混淆的選項。建議訓練 **90～110 分鐘**。\n\n## ① 今日高頻單字 30 個\n\n主題：**Finance / Banking / Accounting**\n\n| # | 單字 | 中文 | TOEIC 常見搭配 |\n|---|---|---|\n| 1 | account | 帳戶；帳目 | bank account |\n| 2 | balance | 餘額 | account balance |\n| 3 | deposit | 存款；存入 | make a deposit |\n| 4 | withdraw | 提款 | withdraw money |\n| 5 | transaction | 交易 | financial transaction |\n| 6 | payment | 付款 | make a payment |\n| 7 | charge | 費用；收費 | service charge |\n| 8 | fee | 費用 | annual fee |\n| 9 | invoice | 發票；請款單 | issue an invoice |\n| 10 | receipt | 收據 | keep a receipt |\n| 11 | budget | 預算 | annual budget |\n| 12 | expense | 支出 | business expense |\n| 13 | revenue | 營收 | annual revenue |\n| 14 | profit | 利潤 | generate a profit |\n| 15 | loss | 損失 | financial loss |\n| 16 | estimate | 估計 | cost estimate |\n| 17 | calculate | 計算 | calculate costs |\n| 18 | financial | 財務的 | financial report |\n| 19 | accounting | 會計 | accounting department |\n| 20 | purchase | 購買 | purchase equipment |\n| 21 | refund | 退款 | receive a refund |\n| 22 | outstanding | 未支付的 | outstanding balance |\n| 23 | overdue | 逾期的 | overdue payment |\n| 24 | annual | 每年的 | annual report |\n| 25 | quarterly | 每季的 | quarterly earnings |\n| 26 | increase | 增加 | increase revenue |\n| 27 | decrease | 減少 | decrease expenses |\n| 28 | affordable | 負擔得起的 | affordable price |\n| 29 | profitable | 有利潤的 | profitable business |\n| 30 | approximately | 大約 | approximately $500 |\n\n今天優先形成這些搭配：\n\n**account balance**  \n**make a deposit**  \n**financial transaction**  \n**service charge**  \n**annual budget**  \n**business expense**  \n**generate a profit**  \n**outstanding balance**  \n**overdue payment**  \n**quarterly earnings**\n\n---"
+    },
+    {
+      "title": "② 今日文法｜V-ing vs. V-ed",
+      "markdown": "先比較：\n\n> The presentation was **boring**.\n\n和：\n\n> The employees were **bored**.\n\n兩個都來自：\n\n**bore**\n\n但意思完全不同。\n\n**boring** → 造成某種感覺\n\n**bored** → 感受到某種感覺\n\n所以：\n\n> The presentation is boring.\n\n簡報讓人無聊。\n\n> The employees are bored.\n\n員工感到無聊。\n\n這就是今天第一個核心。\n\n---\n\n## TOEIC 超高頻組合\n\n| V-ing | V-ed |\n|---|---|\n| interesting | interested |\n| exciting | excited |\n| surprising | surprised |\n| satisfying | satisfied |\n| disappointing | disappointed |\n| confusing | confused |\n| encouraging | encouraged |\n| pleasing | pleased |\n\n判斷時不要背「物用 ing、人用 ed」這種過度簡化規則。\n\n真正應該問：\n\n> **主詞是在造成感覺，還是感受到感覺？**\n\n例如：\n\n> The results were **surprising**.\n\n結果「令人驚訝」。\n\n而：\n\n> The manager was **surprised** by the results.\n\n主管「感到驚訝」。\n\n---"
+    },
+    {
+      "title": "③ 第二種分詞考法：修飾名詞",
+      "markdown": "TOEIC 不只考情緒。\n\n例如：\n\n> a _____ company\n\n(A) grow  \n(B) growing  \n(C) grown  \n(D) growth\n\n**growing company**\n\n= 正在成長的公司。\n\n答案：\n\n**B**\n\n再看：\n\n> _____ equipment\n\n(A) damage  \n(B) damaging  \n(C) damaged  \n(D) damages\n\n如果意思是：\n\n「受損的設備」\n\n就是：\n\n> **damaged equipment**\n\n答案：\n\n**C**\n\n所以可以先建立：\n\n**V-ing → 主動／進行**\n\n**V-ed → 被動／完成**\n\n---"
+    },
+    {
+      "title": "④ 860+ 分詞陷阱",
+      "markdown": "### Example 1\n\n> Customers were _____ with the improved service.\n\n(A) satisfy  \n(B) satisfying  \n(C) satisfied  \n(D) satisfaction\n\ncustomers 感到滿意。\n\n答案：\n\n**C**\n\n---\n\n### Example 2\n\n> The company reported _____ sales figures.\n\n(A) encourage  \n(B) encouraging  \n(C) encouraged  \n(D) encouragement\n\nsales figures 讓人受到鼓舞。\n\n所以：\n\n> **encouraging sales figures**\n\n答案：\n\n**B**\n\n---\n\n### Example 3\n\n> Please return all _____ products to the manufacturer.\n\n(A) defect  \n(B) defective  \n(C) defectively  \n(D) defects\n\n這題不是分詞，而是混入詞性陷阱。\n\n需要修飾：\n\n> products\n\n所以：\n\n**形容詞 defective**\n\n答案：\n\n**B**\n\n這就是第二週開始會出現的題型：\n\n> 你以為正在考分詞，但其實是在考詞性。\n\n因此仍然要遵守：\n\n**先看結構，不要猜考點。**\n\n---"
+    },
+    {
+      "title": "⑤ Listening｜Part 2 860+ 間接回答",
+      "markdown": "今天提高一級。\n\n### Q1\n\n> Aren't you attending the budget meeting?\n\n(A) It was moved to tomorrow.  \n(B) About $50,000.  \n(C) In the accounting office.\n\n答案：\n\n**A**\n\n不要被：\n\nbudget → $50,000\n\n這種相同主題字騙走。\n\n---\n\n### Q2\n\n> Who prepared the quarterly report?\n\n(A) I believe Sarah handled it.  \n(B) About twenty pages.  \n(C) Last Thursday.\n\n答案：\n\n**A**\n\nhandled it = 負責處理。\n\n---\n\n### Q3\n\n> Why hasn't the invoice been paid?\n\n(A) Accounting is still reviewing it.  \n(B) Approximately $800.  \n(C) On Mr. Chen's desk.\n\n答案：\n\n**A**\n\n沒有直接出現 because，但語意就是原因。\n\n---\n\n### Q4\n\n> Would you like me to calculate the total?\n\n(A) That would be helpful.  \n(B) About $3,000.  \n(C) The annual report.\n\n答案：\n\n**A**\n\nWould you like me to...?\n\n= 主動提出協助。\n\n---\n\n### Q5\n\n> Didn't Kevin submit the expense report?\n\n(A) He was waiting for a receipt.  \n(B) About five expenses.  \n(C) To the finance department.\n\n答案：\n\n**A**\n\n這題需要推論：\n\n還在等 receipt → 很可能還沒 submit。\n\n---"
+    },
+    {
+      "title": "⑥ Reading｜Part 7",
+      "markdown": "今天限時 **3 分鐘**。\n\n> **From:** Accounting Department  \n> **To:** Department Managers  \n> **Subject:** Expense Report Deadline\n>\n> All expense reports for business travel completed during August must be submitted to the Accounting Department by September 12.\n>\n> Employees should attach receipts for transportation, accommodation, meals, and other approved business expenses. Reports submitted without the required documentation may take longer to process.\n>\n> Managers are responsible for reviewing each report before it is sent to Accounting. Once a report has been approved, reimbursement will normally be deposited into the employee's bank account within five business days.\n>\n> Employees with questions about eligible expenses should consult the updated travel expense policy available on the company intranet.\n\n### Q1\n\nWho is the email primarily intended for?\n\n(A) Customers  \n(B) Department managers  \n(C) Job applicants  \n(D) Suppliers\n\n### Q2\n\nWhat must employees include with their expense reports?\n\n(A) Bank statements  \n(B) Travel schedules  \n(C) Receipts  \n(D) Employment contracts\n\n### Q3\n\nWhat could delay processing?\n\n(A) Missing documentation  \n(B) Overseas travel  \n(C) Manager approval  \n(D) Bank transactions\n\n### Q4\n\nWhat happens before a report is sent to Accounting?\n\n(A) An employee receives reimbursement  \n(B) A manager reviews it  \n(C) A bank verifies it  \n(D) A supplier approves it\n\n### Q5\n\nHow will employees normally receive reimbursement?\n\n(A) By check  \n(B) In cash  \n(C) Through a bank deposit  \n(D) Through their manager\n\n### Q6\n\nWhere can employees learn which expenses are eligible?\n\n(A) Company intranet  \n(B) Accounting office  \n(C) Bank website  \n(D) Conference room\n\n答案：\n\n**1B / 2C / 3A / 4B / 5C / 6A**\n\n今天 Part 7 要注意同義替換：\n\n文章：\n\n> documentation\n\n題目可能變成：\n\n> required documents\n\n文章：\n\n> deposited into the employee's bank account\n\n答案：\n\n> through a bank deposit\n\n正式 TOEIC 很少永遠把答案原字照抄。\n\n---"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜12 題",
+      "markdown": "限制 **4 分鐘**。\n\n### 1\n\nCustomers were _____ with the company's new refund policy.\n\n(A) satisfy  \n(B) satisfying  \n(C) satisfied  \n(D) satisfaction\n\n### 2\n\nThe company reported _____ financial results this quarter.\n\n(A) encourage  \n(B) encouraging  \n(C) encouraged  \n(D) encouragement\n\n### 3\n\nPlease replace any _____ equipment immediately.\n\n(A) damage  \n(B) damaging  \n(C) damaged  \n(D) damages\n\n### 4\n\nThe seminar was both informative and _____.\n\n(A) interest  \n(B) interested  \n(C) interesting  \n(D) interestingly\n\n### 5\n\nEmployees were _____ to hear about the additional benefits.\n\n(A) please  \n(B) pleased  \n(C) pleasing  \n(D) pleasure\n\n### 6\n\nThe rapidly _____ company plans to hire another fifty employees.\n\n(A) grow  \n(B) growing  \n(C) grown  \n(D) growth\n\n### 7\n\nThe manager found the sales figures _____.\n\n(A) disappoint  \n(B) disappointed  \n(C) disappointing  \n(D) disappointment\n\n### 8\n\nThe _____ customers were offered a full refund.\n\n(A) dissatisfy  \n(B) dissatisfied  \n(C) dissatisfying  \n(D) dissatisfaction\n\n### 9\n\nThe accounting department is reviewing all _____ invoices.\n\n(A) outstanding  \n(B) outstandingly  \n(C) withstand  \n(D) stood\n\n### 10\n\nThe company introduced an _____ training program.\n\n(A) improve  \n(B) improving  \n(C) improved  \n(D) improvement\n\n### 11\n\nThe announcement contained some _____ information.\n\n(A) surprise  \n(B) surprised  \n(C) surprising  \n(D) surprisingly\n\n### 12\n\nSeveral employees seemed _____ about the new policy.\n\n(A) confuse  \n(B) confusing  \n(C) confused  \n(D) confusion\n\n答案：\n\n**1C / 2B / 3C / 4C / 5B / 6B / 7C / 8B / 9A / 10C / 11C / 12C**\n\n注意 Q10：\n\n> an **improved** training program\n\n意思是：\n\n**經過改善的訓練計畫**\n\nprogram 接受 improve，因此用 V-ed。\n\n---"
+    },
+    {
+      "title": "⑧ Day 8 小考｜10 題",
+      "markdown": "今天請限制 **3 分 30 秒**。\n\n### Q1\n\nThe customers were _____ by the unexpected service charge.\n\n(A) surprise  \n(B) surprising  \n(C) surprised  \n(D) surprisingly\n\n### Q2\n\nThe company announced _____ sales results.\n\n(A) encourage  \n(B) encouraging  \n(C) encouraged  \n(D) encouragement\n\n### Q3\n\nAll _____ products should be returned immediately.\n\n(A) damage  \n(B) damaging  \n(C) damaged  \n(D) damages\n\n### Q4\n\nThe presentation was extremely _____.\n\n(A) interest  \n(B) interested  \n(C) interesting  \n(D) interestingly\n\n### Q5\n\nEmployees appeared _____ about the schedule change.\n\n(A) confuse  \n(B) confusing  \n(C) confused  \n(D) confusion\n\n### Q6\n\nWhy hasn't the invoice been processed?\n\n(A) Accounting is still reviewing it.  \n(B) About eight hundred dollars.  \n(C) Last Friday.\n\n### Q7\n\nWho's preparing the financial report?\n\n(A) I think Jessica is handling it.  \n(B) Twenty pages.  \n(C) Tomorrow morning.\n\n### Q8\n\nWould you like me to calculate the expenses?\n\n(A) Yes, that would help.  \n(B) About $2,000.  \n(C) The accounting office.\n\n### Q9\n\nDidn't David submit his reimbursement request?\n\n(A) He was still looking for a receipt.  \n(B) Approximately $300.  \n(C) To his supervisor.\n\n### Q10\n\nA payment described as **overdue** is:\n\n(A) paid early  \n(B) not paid by the required date  \n(C) unusually expensive  \n(D) automatically refunded\n\n答案：\n\n**1C / 2B / 3C / 4C / 5C / 6A / 7A / 8A / 9A / 10B**\n\n---"
+    },
+    {
+      "title": "⑨ 解析與錯題診斷",
+      "markdown": "今天最重要的是前五題。\n\n如果 Q1、Q5 錯：\n\n標記：\n\n**G — 感受者 V-ed**\n\n> customers were surprised\n\n> employees were confused\n\n如果 Q2、Q4 錯：\n\n標記：\n\n**G — 造成感覺 V-ing**\n\n> encouraging results\n\n> interesting presentation\n\n如果 Q3 錯：\n\n標記：\n\n**G — 被動分詞**\n\n> damaged products\n\n產品「被損壞」。\n\n如果 Q6～Q9 錯比較多：\n\n問題可能不在文法，而是：\n\n**L/TR — Part 2 還在找問題裡相同的單字，而不是理解回答。**\n\n---"
+    },
+    {
+      "title": "⑩ 第一週錯題複習",
+      "markdown": "今天仍要保留之前學過的結構。\n\n看到：\n\n> The company _____ three branches since January.\n\n先想到：\n\n**since → has opened**\n\n看到：\n\n> The equipment _____ yesterday.\n\n想到：\n\n**yesterday + 被動 → was inspected**\n\n看到：\n\n> Management considered _____ the office.\n\n想到：\n\n**consider + V-ing**\n\n看到：\n\n> We look forward to _____ from you.\n\n想到：\n\n**look forward to + V-ing**\n\n看到：\n\n> All applications must _____.\n\n想到：\n\n**must be submitted**\n\n第二週開始，這些不能每次重新分析很久，而要逐漸變成自動反射。\n\n---"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "今天先複習 30 個財務單字，尤其要直接認得：\n\n> account balance  \n> make a deposit  \n> service charge  \n> outstanding balance  \n> overdue payment  \n> annual budget  \n> quarterly earnings  \n> generate a profit\n\n接著做一個「分詞口頭訓練」。\n\n看到：\n\n**interest**\n\n立刻說：\n\n> The presentation is **interesting**.\n\n> I am **interested** in the presentation.\n\n看到：\n\n**surprise**\n\n說：\n\n> The results are **surprising**.\n\n> The manager is **surprised**.\n\n看到：\n\n**confuse**\n\n說：\n\n> The instructions are **confusing**.\n\n> The customers are **confused**.\n\n最後重新完成今日 10 題小考，第二次限制 **3 分鐘**，目標 **10/10**。\n\n今天開始，正確率之外也要追蹤速度。如果能做到 **9～10 題正確且 3 分鐘左右完成**，代表 Part 5 基礎已經可以開始往更高強度推進。\n\n**Day 8 核心：V-ing 偏向「造成／進行」，V-ed 偏向「感受／被動／完成」；但最後仍以句子真正的主被動關係為準。**\n\nDay 9 將進入 **關係代名詞 who / which / that / whose**，並開始訓練「先找缺少的句子成分再選關代」，這會比單純背 who=人、which=物更接近 TOEIC 860+ 的解題方式。"
+    }
+  ],
+  "vocabulary": [
+    {"id": 1, "word": "account", "meaning": "帳戶；帳目", "phrase": "bank account"},
+    {"id": 2, "word": "balance", "meaning": "餘額", "phrase": "account balance"},
+    {"id": 3, "word": "deposit", "meaning": "存款；存入", "phrase": "make a deposit"},
+    {"id": 4, "word": "withdraw", "meaning": "提款", "phrase": "withdraw money"},
+    {"id": 5, "word": "transaction", "meaning": "交易", "phrase": "financial transaction"},
+    {"id": 6, "word": "payment", "meaning": "付款", "phrase": "make a payment"},
+    {"id": 7, "word": "charge", "meaning": "費用；收費", "phrase": "service charge"},
+    {"id": 8, "word": "fee", "meaning": "費用", "phrase": "annual fee"},
+    {"id": 9, "word": "invoice", "meaning": "發票；請款單", "phrase": "issue an invoice"},
+    {"id": 10, "word": "receipt", "meaning": "收據", "phrase": "keep a receipt"},
+    {"id": 11, "word": "budget", "meaning": "預算", "phrase": "annual budget"},
+    {"id": 12, "word": "expense", "meaning": "支出", "phrase": "business expense"},
+    {"id": 13, "word": "revenue", "meaning": "營收", "phrase": "annual revenue"},
+    {"id": 14, "word": "profit", "meaning": "利潤", "phrase": "generate a profit"},
+    {"id": 15, "word": "loss", "meaning": "損失", "phrase": "financial loss"},
+    {"id": 16, "word": "estimate", "meaning": "估計", "phrase": "cost estimate"},
+    {"id": 17, "word": "calculate", "meaning": "計算", "phrase": "calculate costs"},
+    {"id": 18, "word": "financial", "meaning": "財務的", "phrase": "financial report"},
+    {"id": 19, "word": "accounting", "meaning": "會計", "phrase": "accounting department"},
+    {"id": 20, "word": "purchase", "meaning": "購買", "phrase": "purchase equipment"},
+    {"id": 21, "word": "refund", "meaning": "退款", "phrase": "receive a refund"},
+    {"id": 22, "word": "outstanding", "meaning": "未支付的", "phrase": "outstanding balance"},
+    {"id": 23, "word": "overdue", "meaning": "逾期的", "phrase": "overdue payment"},
+    {"id": 24, "word": "annual", "meaning": "每年的", "phrase": "annual report"},
+    {"id": 25, "word": "quarterly", "meaning": "每季的", "phrase": "quarterly earnings"},
+    {"id": 26, "word": "increase", "meaning": "增加", "phrase": "increase revenue"},
+    {"id": 27, "word": "decrease", "meaning": "減少", "phrase": "decrease expenses"},
+    {"id": 28, "word": "affordable", "meaning": "負擔得起的", "phrase": "affordable price"},
+    {"id": 29, "word": "profitable", "meaning": "有利潤的", "phrase": "profitable business"},
+    {"id": 30, "word": "approximately", "meaning": "大約", "phrase": "approximately $500"}
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Customers were _____ with the company's new refund policy.",
+          "options": {
+            "A": "satisfy",
+            "B": "satisfying",
+            "C": "satisfied",
+            "D": "satisfaction"
+          },
+          "answer": "C",
+          "explanation": "customers 是感受者，使用 V-ed 形容詞 satisfied。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company reported _____ financial results this quarter.",
+          "options": {
+            "A": "encourage",
+            "B": "encouraging",
+            "C": "encouraged",
+            "D": "encouragement"
+          },
+          "answer": "B",
+          "explanation": "results 造成鼓舞的感覺，使用 V-ing 形容詞 encouraging。"
+        },
+        {
+          "id": 3,
+          "prompt": "Please replace any _____ equipment immediately.",
+          "options": {
+            "A": "damage",
+            "B": "damaging",
+            "C": "damaged",
+            "D": "damages"
+          },
+          "answer": "C",
+          "explanation": "equipment 被損壞，使用過去分詞 damaged。"
+        },
+        {
+          "id": 4,
+          "prompt": "The seminar was both informative and _____.",
+          "options": {
+            "A": "interest",
+            "B": "interested",
+            "C": "interesting",
+            "D": "interestingly"
+          },
+          "answer": "C",
+          "explanation": "seminar 令人感興趣，使用 interesting。"
+        },
+        {
+          "id": 5,
+          "prompt": "Employees were _____ to hear about the additional benefits.",
+          "options": {
+            "A": "please",
+            "B": "pleased",
+            "C": "pleasing",
+            "D": "pleasure"
+          },
+          "answer": "B",
+          "explanation": "employees 是感受者，使用 pleased。"
+        },
+        {
+          "id": 6,
+          "prompt": "The rapidly _____ company plans to hire another fifty employees.",
+          "options": {
+            "A": "grow",
+            "B": "growing",
+            "C": "grown",
+            "D": "growth"
+          },
+          "answer": "B",
+          "explanation": "company 正在成長，使用 growing。"
+        },
+        {
+          "id": 7,
+          "prompt": "The manager found the sales figures _____.",
+          "options": {
+            "A": "disappoint",
+            "B": "disappointed",
+            "C": "disappointing",
+            "D": "disappointment"
+          },
+          "answer": "C",
+          "explanation": "sales figures 令人失望，使用 disappointing。"
+        },
+        {
+          "id": 8,
+          "prompt": "The _____ customers were offered a full refund.",
+          "options": {
+            "A": "dissatisfy",
+            "B": "dissatisfied",
+            "C": "dissatisfying",
+            "D": "dissatisfaction"
+          },
+          "answer": "B",
+          "explanation": "customers 感到不滿，使用 dissatisfied。"
+        },
+        {
+          "id": 9,
+          "prompt": "The accounting department is reviewing all _____ invoices.",
+          "options": {
+            "A": "outstanding",
+            "B": "outstandingly",
+            "C": "withstand",
+            "D": "stood"
+          },
+          "answer": "A",
+          "explanation": "outstanding invoices 是「未支付的發票」的固定搭配。"
+        },
+        {
+          "id": 10,
+          "prompt": "The company introduced an _____ training program.",
+          "options": {
+            "A": "improve",
+            "B": "improving",
+            "C": "improved",
+            "D": "improvement"
+          },
+          "answer": "C",
+          "explanation": "program 經過改善，使用過去分詞 improved。"
+        },
+        {
+          "id": 11,
+          "prompt": "The announcement contained some _____ information.",
+          "options": {
+            "A": "surprise",
+            "B": "surprised",
+            "C": "surprising",
+            "D": "surprisingly"
+          },
+          "answer": "C",
+          "explanation": "information 令人驚訝，使用 surprising。"
+        },
+        {
+          "id": 12,
+          "prompt": "Several employees seemed _____ about the new policy.",
+          "options": {
+            "A": "confuse",
+            "B": "confusing",
+            "C": "confused",
+            "D": "confusion"
+          },
+          "answer": "C",
+          "explanation": "employees 感到困惑，使用 confused。"
+        }
+      ]
+    },
+    {
+      "id": "day-8-quiz",
+      "title": "Day 8 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The customers were _____ by the unexpected service charge.",
+          "options": {
+            "A": "surprise",
+            "B": "surprising",
+            "C": "surprised",
+            "D": "surprisingly"
+          },
+          "answer": "C",
+          "explanation": "customers 是感受者，使用 surprised。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company announced _____ sales results.",
+          "options": {
+            "A": "encourage",
+            "B": "encouraging",
+            "C": "encouraged",
+            "D": "encouragement"
+          },
+          "answer": "B",
+          "explanation": "sales results 令人受到鼓舞，使用 encouraging。"
+        },
+        {
+          "id": 3,
+          "prompt": "All _____ products should be returned immediately.",
+          "options": {
+            "A": "damage",
+            "B": "damaging",
+            "C": "damaged",
+            "D": "damages"
+          },
+          "answer": "C",
+          "explanation": "products 被損壞，使用 damaged。"
+        },
+        {
+          "id": 4,
+          "prompt": "The presentation was extremely _____.",
+          "options": {
+            "A": "interest",
+            "B": "interested",
+            "C": "interesting",
+            "D": "interestingly"
+          },
+          "answer": "C",
+          "explanation": "presentation 令人感興趣，使用 interesting。"
+        },
+        {
+          "id": 5,
+          "prompt": "Employees appeared _____ about the schedule change.",
+          "options": {
+            "A": "confuse",
+            "B": "confusing",
+            "C": "confused",
+            "D": "confusion"
+          },
+          "answer": "C",
+          "explanation": "employees 感到困惑，使用 confused。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why hasn't the invoice been processed?",
+          "options": {
+            "A": "Accounting is still reviewing it.",
+            "B": "About eight hundred dollars.",
+            "C": "Last Friday."
+          },
+          "answer": "A",
+          "explanation": "Accounting is still reviewing it 說明尚未處理的原因。"
+        },
+        {
+          "id": 7,
+          "prompt": "Who's preparing the financial report?",
+          "options": {
+            "A": "I think Jessica is handling it.",
+            "B": "Twenty pages.",
+            "C": "Tomorrow morning."
+          },
+          "answer": "A",
+          "explanation": "Jessica is handling it 是 Who 問句的合理回答。"
+        },
+        {
+          "id": 8,
+          "prompt": "Would you like me to calculate the expenses?",
+          "options": {
+            "A": "Yes, that would help.",
+            "B": "About $2,000.",
+            "C": "The accounting office."
+          },
+          "answer": "A",
+          "explanation": "That would help 接受對方主動提出的協助。"
+        },
+        {
+          "id": 9,
+          "prompt": "Didn't David submit his reimbursement request?",
+          "options": {
+            "A": "He was still looking for a receipt.",
+            "B": "Approximately $300.",
+            "C": "To his supervisor."
+          },
+          "answer": "A",
+          "explanation": "仍在找收據，表示很可能尚未提交申請。"
+        },
+        {
+          "id": 10,
+          "prompt": "A payment described as **overdue** is:",
+          "options": {
+            "A": "paid early",
+            "B": "not paid by the required date",
+            "C": "unusually expensive",
+            "D": "automatically refunded"
+          },
+          "answer": "B",
+          "explanation": "overdue 表示超過規定日期仍未付款。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "V-ing 偏向造成／進行；V-ed 偏向感受／被動／完成，最後仍以句子的主被動關係為準。",
+  "nextDay": "關係代名詞 who / which / that / whose"
+}

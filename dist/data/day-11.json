@@ -1,0 +1,526 @@
+{
+  "schemaVersion": "1.0",
+  "day": 11,
+  "title": "連接詞 vs. 介系詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": {
+    "min": 90,
+    "max": 90
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 11 教材",
+  "sections": [
+    {
+      "title": "Day 11 學習概覽",
+      "markdown": "今天接續 Day 10 的關係子句，進入 Part 5 極高頻考點：**連接詞 vs. 介系詞**。核心是 `because / because of`、`although / despite`、`while / during`。這類題目不需要先翻譯，只要判斷空格後面是「完整句」還是「名詞」，通常可以在 **10～15 秒內**解決。\n\n目前尚未有前幾天實際作答成績，因此維持 **860～900 分難度**，並混入前面學過的關係詞、分詞與時態。今天建議約 **90 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Production / Manufacturing / Logistics**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| production | 生產 | production schedule |\n| manufacture | 製造 | manufacture products |\n| manufacturer | 製造商 | local manufacturer |\n| factory | 工廠 | manufacturing factory |\n| warehouse | 倉庫 | warehouse facility |\n| inventory | 庫存 | check inventory |\n| stock | 庫存 | in stock |\n| supply | 供應 | supply chain |\n| shortage | 短缺 | supply shortage |\n| demand | 需求 | meet demand |\n| shipment | 貨件 | track a shipment |\n| delivery | 配送 | delivery date |\n| distribute | 配送、分發 | distribute products |\n| distribution | 配送 | distribution center |\n| assembly | 組裝 | assembly line |\n| material | 材料 | raw materials |\n| component | 零件 | electronic components |\n| defect | 缺陷 | product defect |\n| defective | 有缺陷的 | defective product |\n| inspect | 檢查 | inspect equipment |\n| inspection | 檢查 | quality inspection |\n| quality | 品質 | quality control |\n| capacity | 產能、容量 | production capacity |\n| output | 產量 | increase output |\n| delay | 延誤 | production delay |\n| schedule | 時程 | production schedule |\n| operate | 操作、營運 | operate machinery |\n| efficient | 有效率的 | efficient process |\n| efficiently | 有效率地 | operate efficiently |\n| approximately | 大約 | approximately 500 units |\n\n今天優先形成搭配反射：\n\n**supply chain / supply shortage / meet demand / distribution center / raw materials / assembly line / quality control / production capacity / production delay / defective product**\n\n---"
+    },
+    {
+      "title": "② 今日文法｜because vs. because of",
+      "markdown": "比較：\n\n> Production was delayed **because the machine broke down**.\n\n`the machine broke down`\n\n有：\n\nS = the machine  \nV = broke down\n\n所以是完整句。\n\n因此：\n\n> **because + S + V**\n\n---\n\n另一句：\n\n> Production was delayed **because of a mechanical problem**.\n\n`a mechanical problem`\n\n是名詞片語。\n\n所以：\n\n> **because of + N**\n\n直接記：\n\n**because + 句子**\n\n**because of + 名詞**\n\n---\n\n### 仿真例題\n\n> The shipment was delayed _____ severe weather.\n\n(A) because  \n(B) because of  \n(C) although  \n(D) while\n\n空格後：\n\n> severe weather\n\n名詞。\n\n因此：\n\n**because of**\n\n答案 B。\n\n---"
+    },
+    {
+      "title": "③ although vs. despite",
+      "markdown": "同樣方法。\n\n> **Although the product is expensive**, it is selling well.\n\n`the product is expensive`\n\n完整句。\n\n所以：\n\n> **although + S + V**\n\n但：\n\n> **Despite the high price**, the product is selling well.\n\n`the high price`\n\n名詞。\n\n所以：\n\n> **despite + N**\n\n記：\n\n**although + 句子**\n\n**despite + 名詞**\n\n---\n\n注意不要寫：\n\n> despite of ❌\n\n正確：\n\n> despite the delay ✅\n\n或：\n\n> in spite of the delay ✅\n\n---"
+    },
+    {
+      "title": "④ while vs. during",
+      "markdown": "這組 TOEIC 非常喜歡。\n\n> Please turn off your phone **while the presentation is in progress**.\n\n後面：\n\nS + V\n\n所以：\n\n**while + 句子**\n\n但是：\n\n> Please turn off your phone **during the presentation**.\n\npresentation 是名詞。\n\n所以：\n\n**during + 名詞**\n\n直接建立：\n\n> while + S + V\n\n> during + N\n\n---\n\n## 四組一起記\n\n| 後面完整句 | 後面名詞 |\n|---|---|\n| because | because of |\n| although | despite |\n| while | during |\n\n看到這種題，第一步不是翻譯，而是：\n\n> **看空格後面。**\n\n---"
+    },
+    {
+      "title": "⑤ 860+ 混合陷阱",
+      "markdown": "### Q1\n\n> _____ the heavy rain, all deliveries arrived on time.\n\n(A) Although  \n(B) Despite  \n(C) Because  \n(D) While\n\n後面：\n\n> the heavy rain\n\n名詞。\n\n而語意是：\n\n「儘管下大雨」\n\n所以：\n\n**Despite**\n\n---\n\n### Q2\n\n> _____ demand increased unexpectedly, the factory increased production.\n\n(A) Because  \n(B) Because of  \n(C) During  \n(D) Despite\n\n後面：\n\n> demand increased\n\nS + V。\n\n又是原因：\n\n**Because**\n\n---\n\n### Q3\n\n> Employees may use the cafeteria _____ their lunch break.\n\n(A) while  \n(B) because  \n(C) during  \n(D) although\n\n後面：\n\n> their lunch break\n\n名詞。\n\n所以：\n\n**during**\n\n---"
+    },
+    {
+      "title": "⑥ Listening｜Part 2",
+      "markdown": "今天加入更多「推論型回答」。\n\n### Q1\n\n> Why has production been delayed?\n\n(A) One of the machines broke down.  \n(B) About five hundred units.  \n(C) At the main factory.\n\n**答案：A**\n\n---\n\n### Q2\n\n> When will the replacement parts arrive?\n\n(A) The supplier hasn't confirmed the shipping date.  \n(B) In the warehouse.  \n(C) About thirty boxes.\n\n**答案：A**\n\n---\n\n### Q3\n\n> Should we increase production?\n\n(A) How much inventory do we have left?  \n(B) The factory opened last year.  \n(C) On the assembly line.\n\n**答案：A**\n\n這題已經不是直接問答。\n\n要不要增加產量？\n\n先問：\n\n> 現在庫存還有多少？\n\n非常合理。\n\n---\n\n### Q4\n\n> Didn't the shipment arrive yesterday?\n\n(A) Bad weather delayed the truck.  \n(B) At the distribution center.  \n(C) Nearly two hundred units.\n\n**答案：A**\n\n---\n\n### Q5\n\n> Who's inspecting the defective products?\n\n(A) Someone from quality control.  \n(B) Tomorrow morning.  \n(C) About fifteen products.\n\n**答案：A**\n\n---\n\n### Q6\n\n> Why don't we order additional materials?\n\n(A) We already have enough in stock.  \n(B) From our regular supplier.  \n(C) Approximately $2,000.\n\n**答案：A**\n\n注意這題：\n\n`Why don't we...?`\n\n是建議。\n\n回答的意思：\n\n「庫存已經夠了。」\n\n也就是婉拒這個建議。\n\n---"
+    },
+    {
+      "title": "⑦ Reading｜Part 7",
+      "markdown": "今天限時 **3 分鐘**。\n\n> **To:** Distribution Team  \n> **From:** Production Manager  \n> **Subject:** Shipping Delay\n>\n> Due to an unexpected shortage of electronic components, production of Model AX-50 has been temporarily reduced at our Taoyuan facility.\n>\n> Although our supplier expects to deliver additional components by September 14, some customer orders originally scheduled for shipment this week will be delayed.\n>\n> The production team plans to operate an additional assembly line as soon as the components arrive. This should allow us to return to normal production capacity within three days.\n>\n> Customers whose orders are affected by the delay will be contacted directly by the Customer Service Department. They may choose to wait for their original order or select a comparable product that is currently in stock.\n>\n> Please do not provide customers with estimated delivery dates until the revised production schedule has been confirmed.\n\n### Q1\n\nWhy has production been reduced?\n\n(A) Equipment is being inspected  \n(B) Some components are unavailable  \n(C) Customer demand has decreased  \n(D) The factory is being renovated\n\n### Q2\n\nWhen are additional components expected?\n\n(A) September 11  \n(B) September 12  \n(C) September 14  \n(D) September 17\n\n### Q3\n\nWhat will happen after the components arrive?\n\n(A) Another assembly line will operate  \n(B) Prices will be reduced  \n(C) The factory will close temporarily  \n(D) Orders will be canceled\n\n### Q4\n\nWho will contact affected customers?\n\n(A) Suppliers  \n(B) Production workers  \n(C) Customer Service  \n(D) Warehouse employees\n\n### Q5\n\nWhat option will affected customers have?\n\n(A) Receive free shipping  \n(B) Select another available product  \n(C) Cancel all future orders  \n(D) Receive an automatic refund\n\n### Q6\n\nWhy should employees avoid giving estimated delivery dates?\n\n(A) Prices may change  \n(B) Customers have not paid  \n(C) The revised schedule is not confirmed  \n(D) The supplier has canceled delivery\n\n**答案：1B / 2C / 3A / 4C / 5B / 6C**\n\n注意今天文章直接出現：\n\n> **Although our supplier expects to deliver...**, some orders ... will be delayed.\n\nAlthough 後面：\n\n> our supplier expects...\n\n完整 S + V。\n\n---"
+    },
+    {
+      "title": "⑧ Part 5 仿真題｜12 題",
+      "markdown": "限時 **4 分鐘**。\n\n### 1\n\nProduction was delayed _____ a shortage of raw materials.\n\n(A) because  \n(B) because of  \n(C) although  \n(D) while\n\n### 2\n\n_____ the supplier delivered the parts late, production was delayed.\n\n(A) Because  \n(B) Because of  \n(C) Despite  \n(D) During\n\n### 3\n\n_____ the high cost, management approved the purchase.\n\n(A) Although  \n(B) Because  \n(C) Despite  \n(D) While\n\n### 4\n\n_____ the equipment was expensive, the company decided to purchase it.\n\n(A) Despite  \n(B) During  \n(C) Although  \n(D) Because of\n\n### 5\n\nEmployees should wear safety equipment _____ operating machinery.\n\n(A) during  \n(B) while  \n(C) despite  \n(D) because of\n\n### 6\n\nVisitors must wear identification badges _____ their factory tour.\n\n(A) while  \n(B) although  \n(C) during  \n(D) because\n\n### 7\n\nThe factory increased production _____ demand had risen significantly.\n\n(A) because  \n(B) because of  \n(C) despite  \n(D) during\n\n### 8\n\n_____ strong customer demand, the product sold out within two days.\n\n(A) Because  \n(B) Because of  \n(C) Although  \n(D) While\n\n### 9\n\n_____ the shipment arrived late, all orders were delivered by Friday.\n\n(A) Because of  \n(B) Despite  \n(C) Although  \n(D) During\n\n### 10\n\nThe warehouse remained open _____ the renovation.\n\n(A) although  \n(B) because  \n(C) while  \n(D) during\n\n### 11\n\nThe company continued hiring _____ the economic uncertainty.\n\n(A) despite  \n(B) although  \n(C) because  \n(D) while\n\n### 12\n\nPlease remain seated _____ the safety inspection is being conducted.\n\n(A) during  \n(B) because of  \n(C) while  \n(D) despite\n\n**答案：1B / 2A / 3C / 4C / 5B / 6C / 7A / 8B / 9C / 10D / 11A / 12C**\n\n---"
+    },
+    {
+      "title": "⑨ Day 11 小考",
+      "markdown": "今天限時：\n\n**3 分鐘／10 題**\n\n### Q1\n\nThe delivery was postponed _____ severe weather.\n\n(A) because  \n(B) because of  \n(C) although  \n(D) while\n\n### Q2\n\n_____ demand increased, the factory extended its operating hours.\n\n(A) Because  \n(B) Because of  \n(C) Despite  \n(D) During\n\n### Q3\n\n_____ the high price, the new product has sold extremely well.\n\n(A) Although  \n(B) Because  \n(C) Despite  \n(D) While\n\n### Q4\n\n_____ the product is expensive, customer demand remains strong.\n\n(A) Despite  \n(B) During  \n(C) Because of  \n(D) Although\n\n### Q5\n\nEmployees may use their phones _____ their lunch break.\n\n(A) while  \n(B) during  \n(C) although  \n(D) because\n\n### Q6\n\nWhy hasn't the shipment arrived?\n\n(A) Heavy traffic delayed the truck.  \n(B) At the distribution center.  \n(C) Approximately forty boxes.\n\n### Q7\n\nShould we increase production?\n\n(A) How much inventory is left?  \n(B) On the assembly line.  \n(C) Next Wednesday.\n\n### Q8\n\nWho's checking the damaged products?\n\n(A) Someone from quality control.  \n(B) About fifteen units.  \n(C) This afternoon.\n\n### Q9\n\nWhy don't we order more components?\n\n(A) We already have plenty in stock.  \n(B) From our usual supplier.  \n(C) Approximately $500.\n\n### Q10\n\nA **supply shortage** means:\n\n(A) demand has decreased  \n(B) there is not enough of something available  \n(C) production has permanently stopped  \n(D) products have become cheaper\n\n## 答案\n\n**1B / 2A / 3C / 4D / 5B / 6A / 7A / 8A / 9A / 10B**\n\n---"
+    },
+    {
+      "title": "⑩ 今日錯題解析",
+      "markdown": "如果 Q1～Q5 出錯，先不要標記成「單字不熟」。\n\n分類應該是：\n\n**G — Connector / Preposition**\n\n重新做題時只做一件事：\n\n把空格後面的內容框起來。\n\n例如：\n\n> _____ **the high price**\n\n看到名詞。\n\n「儘管」：\n\n→ **despite**\n\n而：\n\n> _____ **the product is expensive**\n\n看到：\n\nS + V。\n\n「儘管」：\n\n→ **although**\n\n同理：\n\n> during **the meeting**\n\n> while **the meeting is taking place**\n\n這應該逐漸做到 **5 秒內判斷**。\n\n---"
+    },
+    {
+      "title": "⑪ 前三天錯題複習",
+      "markdown": "快速反射，不要看前面的教材：\n\n> The hotel _____ we stayed...\n\n**where**\n\n因為 `we stayed` 完整。\n\n> The hotel _____ we booked...\n\n**which**\n\n因為 `we booked _____` 缺受詞。\n\n> The employee _____ application was approved...\n\n**whose**\n\n> Customers were _____ with the service.\n\n**satisfied**\n\n> The results were _____.\n\n**encouraging**\n\n> Management considered _____ another office.\n\n**opening**\n\n如果這六個現在可以直接回答，代表第一週到第二週的知識開始真正累積，而不是每天學完就清空。\n\n---"
+    },
+    {
+      "title": "⑫ 今日作業",
+      "markdown": "今天先複習 30 個單字，尤其把下面十組直接當成一個單位記：\n\n> supply chain  \n> supply shortage  \n> meet demand  \n> track a shipment  \n> distribution center  \n> assembly line  \n> raw materials  \n> quality control  \n> production capacity  \n> production delay\n\n接著完成今天最重要的口頭反射：\n\n> because → **S + V**\n\n> because of → **N**\n\n> although → **S + V**\n\n> despite → **N**\n\n> while → **S + V**\n\n> during → **N**\n\n最後重新完成 Day 11 小考，第二次限制 **2 分 30 秒**，目標 **10/10**。\n\n如果第一次能達到 **9～10/10 且 3 分鐘內完成**，接下來會繼續往 900 分難度增加混合陷阱；如果錯在 Q1～Q5，則後續會持續穿插「完整句 vs. 名詞」辨識題。\n\n今天最重要的解題反射是：\n\n> **看到 because / because of、although / despite、while / during，不要先翻譯；先看後面是完整句還是名詞。**\n\n**Day 12** 將進入另一組 TOEIC Part 5 高頻失分區：**時間與條件連接詞 `when / before / after / until / once / if / unless`，以及「時間／條件副詞子句不用 will」的陷阱。**"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "production",
+      "meaning": "生產",
+      "phrase": "production schedule"
+    },
+    {
+      "id": 2,
+      "word": "manufacture",
+      "meaning": "製造",
+      "phrase": "manufacture products"
+    },
+    {
+      "id": 3,
+      "word": "manufacturer",
+      "meaning": "製造商",
+      "phrase": "local manufacturer"
+    },
+    {
+      "id": 4,
+      "word": "factory",
+      "meaning": "工廠",
+      "phrase": "manufacturing factory"
+    },
+    {
+      "id": 5,
+      "word": "warehouse",
+      "meaning": "倉庫",
+      "phrase": "warehouse facility"
+    },
+    {
+      "id": 6,
+      "word": "inventory",
+      "meaning": "庫存",
+      "phrase": "check inventory"
+    },
+    {
+      "id": 7,
+      "word": "stock",
+      "meaning": "庫存",
+      "phrase": "in stock"
+    },
+    {
+      "id": 8,
+      "word": "supply",
+      "meaning": "供應",
+      "phrase": "supply chain"
+    },
+    {
+      "id": 9,
+      "word": "shortage",
+      "meaning": "短缺",
+      "phrase": "supply shortage"
+    },
+    {
+      "id": 10,
+      "word": "demand",
+      "meaning": "需求",
+      "phrase": "meet demand"
+    },
+    {
+      "id": 11,
+      "word": "shipment",
+      "meaning": "貨件",
+      "phrase": "track a shipment"
+    },
+    {
+      "id": 12,
+      "word": "delivery",
+      "meaning": "配送",
+      "phrase": "delivery date"
+    },
+    {
+      "id": 13,
+      "word": "distribute",
+      "meaning": "配送、分發",
+      "phrase": "distribute products"
+    },
+    {
+      "id": 14,
+      "word": "distribution",
+      "meaning": "配送",
+      "phrase": "distribution center"
+    },
+    {
+      "id": 15,
+      "word": "assembly",
+      "meaning": "組裝",
+      "phrase": "assembly line"
+    },
+    {
+      "id": 16,
+      "word": "material",
+      "meaning": "材料",
+      "phrase": "raw materials"
+    },
+    {
+      "id": 17,
+      "word": "component",
+      "meaning": "零件",
+      "phrase": "electronic components"
+    },
+    {
+      "id": 18,
+      "word": "defect",
+      "meaning": "缺陷",
+      "phrase": "product defect"
+    },
+    {
+      "id": 19,
+      "word": "defective",
+      "meaning": "有缺陷的",
+      "phrase": "defective product"
+    },
+    {
+      "id": 20,
+      "word": "inspect",
+      "meaning": "檢查",
+      "phrase": "inspect equipment"
+    },
+    {
+      "id": 21,
+      "word": "inspection",
+      "meaning": "檢查",
+      "phrase": "quality inspection"
+    },
+    {
+      "id": 22,
+      "word": "quality",
+      "meaning": "品質",
+      "phrase": "quality control"
+    },
+    {
+      "id": 23,
+      "word": "capacity",
+      "meaning": "產能、容量",
+      "phrase": "production capacity"
+    },
+    {
+      "id": 24,
+      "word": "output",
+      "meaning": "產量",
+      "phrase": "increase output"
+    },
+    {
+      "id": 25,
+      "word": "delay",
+      "meaning": "延誤",
+      "phrase": "production delay"
+    },
+    {
+      "id": 26,
+      "word": "schedule",
+      "meaning": "時程",
+      "phrase": "production schedule"
+    },
+    {
+      "id": 27,
+      "word": "operate",
+      "meaning": "操作、營運",
+      "phrase": "operate machinery"
+    },
+    {
+      "id": 28,
+      "word": "efficient",
+      "meaning": "有效率的",
+      "phrase": "efficient process"
+    },
+    {
+      "id": 29,
+      "word": "efficiently",
+      "meaning": "有效率地",
+      "phrase": "operate efficiently"
+    },
+    {
+      "id": 30,
+      "word": "approximately",
+      "meaning": "大約",
+      "phrase": "approximately 500 units"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Production was delayed _____ a shortage of raw materials.",
+          "options": {
+            "A": "because",
+            "B": "because of",
+            "C": "although",
+            "D": "while"
+          },
+          "answer": "B",
+          "explanation": "a shortage of raw materials 是名詞片語，原因使用 because of。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ the supplier delivered the parts late, production was delayed.",
+          "options": {
+            "A": "Because",
+            "B": "Because of",
+            "C": "Despite",
+            "D": "During"
+          },
+          "answer": "A",
+          "explanation": "the supplier delivered the parts late 是完整句，原因使用 Because。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the high cost, management approved the purchase.",
+          "options": {
+            "A": "Although",
+            "B": "Because",
+            "C": "Despite",
+            "D": "While"
+          },
+          "answer": "C",
+          "explanation": "the high cost 是名詞片語，讓步使用 Despite。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the equipment was expensive, the company decided to purchase it.",
+          "options": {
+            "A": "Despite",
+            "B": "During",
+            "C": "Although",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "the equipment was expensive 是完整句，讓步使用 Although。"
+        },
+        {
+          "id": 5,
+          "prompt": "Employees should wear safety equipment _____ operating machinery.",
+          "options": {
+            "A": "during",
+            "B": "while",
+            "C": "despite",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "operating machinery 是省略主詞的分詞結構，此處使用 while。"
+        },
+        {
+          "id": 6,
+          "prompt": "Visitors must wear identification badges _____ their factory tour.",
+          "options": {
+            "A": "while",
+            "B": "although",
+            "C": "during",
+            "D": "because"
+          },
+          "answer": "C",
+          "explanation": "their factory tour 是名詞片語，時間使用 during。"
+        },
+        {
+          "id": 7,
+          "prompt": "The factory increased production _____ demand had risen significantly.",
+          "options": {
+            "A": "because",
+            "B": "because of",
+            "C": "despite",
+            "D": "during"
+          },
+          "answer": "A",
+          "explanation": "demand had risen significantly 是完整句，原因使用 because。"
+        },
+        {
+          "id": 8,
+          "prompt": "_____ strong customer demand, the product sold out within two days.",
+          "options": {
+            "A": "Because",
+            "B": "Because of",
+            "C": "Although",
+            "D": "While"
+          },
+          "answer": "B",
+          "explanation": "strong customer demand 是名詞片語，原因使用 Because of。"
+        },
+        {
+          "id": 9,
+          "prompt": "_____ the shipment arrived late, all orders were delivered by Friday.",
+          "options": {
+            "A": "Because of",
+            "B": "Despite",
+            "C": "Although",
+            "D": "During"
+          },
+          "answer": "C",
+          "explanation": "the shipment arrived late 是完整句，讓步使用 Although。"
+        },
+        {
+          "id": 10,
+          "prompt": "The warehouse remained open _____ the renovation.",
+          "options": {
+            "A": "although",
+            "B": "because",
+            "C": "while",
+            "D": "during"
+          },
+          "answer": "D",
+          "explanation": "the renovation 是名詞片語，時間使用 during。"
+        },
+        {
+          "id": 11,
+          "prompt": "The company continued hiring _____ the economic uncertainty.",
+          "options": {
+            "A": "despite",
+            "B": "although",
+            "C": "because",
+            "D": "while"
+          },
+          "answer": "A",
+          "explanation": "the economic uncertainty 是名詞片語，讓步使用 despite。"
+        },
+        {
+          "id": 12,
+          "prompt": "Please remain seated _____ the safety inspection is being conducted.",
+          "options": {
+            "A": "during",
+            "B": "because of",
+            "C": "while",
+            "D": "despite"
+          },
+          "answer": "C",
+          "explanation": "the safety inspection is being conducted 是完整句，時間使用 while。"
+        }
+      ]
+    },
+    {
+      "id": "day-11-quiz",
+      "title": "Day 11 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The delivery was postponed _____ severe weather.",
+          "options": {
+            "A": "because",
+            "B": "because of",
+            "C": "although",
+            "D": "while"
+          },
+          "answer": "B",
+          "explanation": "severe weather 是名詞片語，原因使用 because of。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ demand increased, the factory extended its operating hours.",
+          "options": {
+            "A": "Because",
+            "B": "Because of",
+            "C": "Despite",
+            "D": "During"
+          },
+          "answer": "A",
+          "explanation": "demand increased 是完整句，原因使用 Because。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the high price, the new product has sold extremely well.",
+          "options": {
+            "A": "Although",
+            "B": "Because",
+            "C": "Despite",
+            "D": "While"
+          },
+          "answer": "C",
+          "explanation": "the high price 是名詞片語，讓步使用 Despite。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the product is expensive, customer demand remains strong.",
+          "options": {
+            "A": "Despite",
+            "B": "During",
+            "C": "Because of",
+            "D": "Although"
+          },
+          "answer": "D",
+          "explanation": "the product is expensive 是完整句，讓步使用 Although。"
+        },
+        {
+          "id": 5,
+          "prompt": "Employees may use their phones _____ their lunch break.",
+          "options": {
+            "A": "while",
+            "B": "during",
+            "C": "although",
+            "D": "because"
+          },
+          "answer": "B",
+          "explanation": "their lunch break 是名詞片語，時間使用 during。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why hasn't the shipment arrived?",
+          "options": {
+            "A": "Heavy traffic delayed the truck.",
+            "B": "At the distribution center.",
+            "C": "Approximately forty boxes."
+          },
+          "answer": "A",
+          "explanation": "Heavy traffic delayed the truck 說明貨件尚未抵達的原因。"
+        },
+        {
+          "id": 7,
+          "prompt": "Should we increase production?",
+          "options": {
+            "A": "How much inventory is left?",
+            "B": "On the assembly line.",
+            "C": "Next Wednesday."
+          },
+          "answer": "A",
+          "explanation": "是否增加產量取決於剩餘庫存，因此先詢問庫存量。"
+        },
+        {
+          "id": 8,
+          "prompt": "Who's checking the damaged products?",
+          "options": {
+            "A": "Someone from quality control.",
+            "B": "About fifteen units.",
+            "C": "This afternoon."
+          },
+          "answer": "A",
+          "explanation": "Someone from quality control 是 Who 問句的合理回答。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why don't we order more components?",
+          "options": {
+            "A": "We already have plenty in stock.",
+            "B": "From our usual supplier.",
+            "C": "Approximately $500."
+          },
+          "answer": "A",
+          "explanation": "庫存已足夠，合理地婉拒訂購更多零件的建議。"
+        },
+        {
+          "id": 10,
+          "prompt": "A **supply shortage** means:",
+          "options": {
+            "A": "demand has decreased",
+            "B": "there is not enough of something available",
+            "C": "production has permanently stopped",
+            "D": "products have become cheaper"
+          },
+          "answer": "B",
+          "explanation": "supply shortage 表示可供使用的數量不足。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "看到 because / because of、although / despite、while / during，先判斷後面是完整句還是名詞。",
+  "nextDay": "時間與條件連接詞，以及時間／條件副詞子句不用 will 的陷阱"
+}

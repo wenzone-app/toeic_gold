@@ -1,0 +1,526 @@
+{
+  "schemaVersion": "1.0",
+  "day": 10,
+  "title": "關係副詞 where / when＋關係代名詞混合判斷",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 90,
+    "max": 110
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 10 教材",
+  "sections": [
+    {
+      "title": "Day 10 學習概覽",
+      "markdown": "今天進入 **關係副詞 `where / when` + 關係代名詞混合判斷**。Day 9 已學會不能只靠「人用 who、物用 which」，今天再進一步：**先判斷後面的子句是否完整**。\n\n由於目前沒有收到 Day 9 的實際作答成績，今天先維持 **860～900 分難度**。今天的重點不是增加題量，而是提升「拆句速度」。\n\n建議訓練時間：**90～110 分鐘**。"
+    },
+    {
+      "title": "① 今日高頻單字 30 個",
+      "markdown": "主題：**Hotels / Events / Conferences**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| venue | 場地 | event venue |\n| banquet | 宴會 | banquet hall |\n| auditorium | 禮堂 | main auditorium |\n| convention | 大型會議 | convention center |\n| seminar | 研討會 | attend a seminar |\n| workshop | 工作坊 | training workshop |\n| registration | 登記 | registration desk |\n| register | 登記 | register for |\n| attendee | 出席者 | conference attendee |\n| participant | 參與者 | workshop participant |\n| accommodate | 容納；住宿 | accommodate 200 guests |\n| accommodation | 住宿 | hotel accommodation |\n| occupancy | 入住率 | hotel occupancy |\n| vacancy | 空房；職缺 | room vacancy |\n| reserve | 預訂 | reserve a room |\n| reservation | 預訂 | confirm a reservation |\n| availability | 可用情況 | check availability |\n| complimentary | 免費招待的 | complimentary breakfast |\n| amenity | 設施 | hotel amenities |\n| reception | 接待；招待會 | reception desk |\n| cater | 承辦餐飲 | cater an event |\n| catering | 餐飲服務 | catering service |\n| capacity | 容量 | seating capacity |\n| admission | 入場 | admission fee |\n| itinerary | 行程 | conference itinerary |\n| schedule | 行程 | event schedule |\n| postpone | 延後 | postpone an event |\n| approximately | 大約 | approximately 300 guests |\n| convenient | 方便的 | convenient location |\n| adjacent | 相鄰的 | adjacent to |\n\n今天優先掌握：\n\n> register **for** a seminar  \n> confirm a reservation  \n> check availability  \n> complimentary breakfast  \n> reception desk  \n> seating capacity  \n> admission fee  \n> adjacent **to**\n\n注意 `complimentary`。\n\n在 TOEIC 飯店情境裡：\n\n> complimentary breakfast\n\n通常不是「稱讚人的早餐」，而是：\n\n**免費早餐。**\n\n---"
+    },
+    {
+      "title": "② 今日文法｜where vs. which",
+      "markdown": "看：\n\n> This is the hotel _____ we stayed last year.\n\n先不要想 hotel 是物，所以 which。\n\n把子句拿出來：\n\n> we stayed _____ last year\n\n`stay` 在這裡需要：\n\n> stay **at the hotel**\n\n因此空格代表：\n\n**at the hotel**\n\n可以使用：\n\n> **where**\n\n完整句：\n\n> This is the hotel **where** we stayed last year.\n\n---\n\n再看：\n\n> This is the hotel _____ we booked last year.\n\n子句：\n\n> we booked _____\n\nbook 缺少：\n\n**受詞**\n\n所以：\n\n> which / that\n\n完整：\n\n> This is the hotel **which** we booked last year.\n\n因此真正差異不是：\n\n> 地方 → where\n\n而是：\n\n> **後面的子句是否缺名詞成分。**\n\n---"
+    },
+    {
+      "title": "③ 最重要判斷法",
+      "markdown": "### 情況 A\n\n> The restaurant _____ we had dinner was excellent.\n\n子句：\n\n> we had dinner\n\n其實已經完整。\n\nS = we  \nV = had  \nO = dinner\n\n沒有缺主詞或受詞。\n\n但是需要表示：\n\n> **在那間餐廳**\n\n所以：\n\n> **where**\n\n---\n\n### 情況 B\n\n> The restaurant _____ serves Italian food is popular.\n\n子句：\n\n> _____ serves Italian food\n\n缺：\n\n**主詞**\n\n所以：\n\n> which / that\n\n不是 where。\n\n答案：\n\n> The restaurant **which** serves Italian food...\n\n---"
+    },
+    {
+      "title": "④ when 的判斷",
+      "markdown": "看：\n\n> Monday is the day _____ the conference begins.\n\n子句：\n\n> the conference begins\n\n已經完整。\n\n需要：\n\n> on that day\n\n所以：\n\n**when**\n\n---\n\n再看：\n\n> The date _____ you selected is unavailable.\n\n子句：\n\n> you selected _____\n\n缺受詞。\n\n因此：\n\n**which / that**\n\n不是 when。\n\n這就是 860+ 很常見的陷阱。\n\n---"
+    },
+    {
+      "title": "⑤ where / when 的本質",
+      "markdown": "可以這樣理解：\n\n> where ≈ at/in which\n\n例如：\n\n> the office **where** I work\n\n≈\n\n> the office **in which** I work\n\n而：\n\n> when ≈ on/in which\n\n例如：\n\n> the day **when** we met\n\n≈\n\n> the day **on which** we met\n\n因此考試看到：\n\n**where / which**\n\n不要看前面的名詞。\n\n先檢查：\n\n> **後面的句子完整嗎？**\n\n完整 → where / when 的可能性提高。\n\n不完整 → who / which / that / whom / whose。\n\n---"
+    },
+    {
+      "title": "⑥ Listening｜Part 2 進階",
+      "markdown": "今天繼續訓練「答案不直接重複問題」。\n\n### Q1\n\n> Where is this year's sales conference being held?\n\n(A) The venue hasn't been announced yet.  \n(B) About three hundred attendees.  \n(C) For two days.\n\n答案：\n\n**A**\n\n---\n\n### Q2\n\n> When should I register for the workshop?\n\n(A) Registration closes on Friday.  \n(B) In the main auditorium.  \n(C) About forty participants.\n\n答案：\n\n**A**\n\n注意它沒有直接說：\n\n> Register on Thursday.\n\n但「星期五截止」提供了你需要的資訊。\n\n---\n\n### Q3\n\n> Haven't you reserved a hotel room?\n\n(A) I'm waiting for the conference discount code.  \n(B) Near the convention center.  \n(C) For three nights.\n\n答案：\n\n**A**\n\n---\n\n### Q4\n\n> Who's catering tomorrow's reception?\n\n(A) I think the hotel arranged it.  \n(B) Around six o'clock.  \n(C) About eighty guests.\n\n答案：\n\n**A**\n\n---\n\n### Q5\n\n> Should we use the larger conference room?\n\n(A) How many people are attending?  \n(B) It's on the fourth floor.  \n(C) The meeting starts at nine.\n\n答案：\n\n**A**\n\n這題很重要。\n\n問題：\n\n> 要不要換大會議室？\n\n最自然的回答可能是：\n\n> 有多少人參加？\n\n因為需要這個資訊才能做決定。\n\n---\n\n### Q6\n\n> Why was the seminar postponed?\n\n(A) The speaker's flight was canceled.  \n(B) In the main auditorium.  \n(C) Until next Thursday.\n\n答案：\n\n**A**\n\n---"
+    },
+    {
+      "title": "⑦ Reading｜Part 7",
+      "markdown": "今天開始增加同義改寫。\n\n限時：\n\n**3 分鐘。**\n\n> **WESTFIELD BUSINESS CONFERENCE**\n>\n> The annual Westfield Business Conference will take place at the Grandview Convention Center on October 16 and 17.\n>\n> Registration begins at 8:00 A.M. each day in the lobby, where attendees will receive identification badges and conference materials.\n>\n> The opening presentation will begin at 9:00 A.M. in the Harrison Auditorium, which has a seating capacity of 450.\n>\n> Participants who registered before September 30 will receive a complimentary lunch on both days. Other attendees may purchase meal tickets at the registration desk for $18.\n>\n> Parking is available in the garage adjacent to the convention center. Conference participants who present their identification badges will receive a 50 percent discount on parking fees.\n>\n> An updated schedule of presentations and workshops is available on the conference website.\n\n### Q1\n\nWhere will attendees receive conference materials?\n\n(A) At the parking garage  \n(B) In the lobby  \n(C) In the auditorium  \n(D) At the hotel\n\n### Q2\n\nWhat happens at 9:00 A.M.?\n\n(A) Registration closes  \n(B) Lunch is served  \n(C) The opening presentation begins  \n(D) Workshops end\n\n### Q3\n\nWho receives free lunch?\n\n(A) All attendees  \n(B) Speakers only  \n(C) Early registrants  \n(D) Hotel guests\n\n### Q4\n\nHow much is a meal ticket?\n\n(A) $9  \n(B) $16  \n(C) $18  \n(D) $30\n\n### Q5\n\nHow can participants receive cheaper parking?\n\n(A) Register online  \n(B) Show their identification badge  \n(C) Arrive before 8:00  \n(D) Purchase a meal ticket\n\n### Q6\n\nThe word **“adjacent”** is closest in meaning to:\n\n(A) expensive  \n(B) underground  \n(C) next to  \n(D) distant\n\n答案：\n\n**1B / 2C / 3C / 4C / 5B / 6C**\n\n注意 Q3。\n\n文章：\n\n> registered before September 30\n\n題目：\n\n> Early registrants\n\n這就是 TOEIC Part 7 非常重要的：\n\n**Paraphrasing 同義改寫。**\n\n---"
+    },
+    {
+      "title": "⑧ Part 5 仿真題｜12 題",
+      "markdown": "限時 **4 分鐘**。\n\n### 1\n\nThe hotel _____ the conference will be held is near the airport.\n\n(A) which  \n(B) where  \n(C) whose  \n(D) whom\n\n### 2\n\nThe conference room _____ we reserved can accommodate 200 people.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### 3\n\nSeptember is the month _____ our annual conference usually takes place.\n\n(A) which  \n(B) whose  \n(C) when  \n(D) whom\n\n### 4\n\nThe date _____ the manager selected is no longer available.\n\n(A) when  \n(B) which  \n(C) where  \n(D) who\n\n### 5\n\nThe restaurant _____ we held the reception has been renovated.\n\n(A) where  \n(B) which  \n(C) whom  \n(D) whose\n\n### 6\n\nThe auditorium _____ seats 500 people is on the second floor.\n\n(A) where  \n(B) when  \n(C) which  \n(D) whom\n\n### 7\n\nThe hotel _____ we stayed during the conference offered complimentary breakfast.\n\n(A) which  \n(B) whose  \n(C) where  \n(D) whom\n\n### 8\n\nThe day _____ employees receive their performance reviews has been changed.\n\n(A) where  \n(B) when  \n(C) whom  \n(D) whose\n\n### 9\n\nThe venue _____ the company selected is easily accessible by train.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### 10\n\nThe office _____ Ms. Wang works is being renovated.\n\n(A) which  \n(B) when  \n(C) where  \n(D) whom\n\n### 11\n\nThe seminar _____ attracted more than 300 participants will be offered again.\n\n(A) where  \n(B) which  \n(C) when  \n(D) whom\n\n### 12\n\nThe year _____ the company opened its first overseas branch was 2018.\n\n(A) where  \n(B) which  \n(C) when  \n(D) whom\n\n答案：\n\n**1B / 2C / 3C / 4B / 5A / 6C / 7C / 8B / 9C / 10C / 11B / 12C**\n\n---"
+    },
+    {
+      "title": "⑨ Day 10 小考",
+      "markdown": "今天限制：\n\n**3 分鐘，10 題。**\n\n### Q1\n\nThe hotel _____ we held the annual meeting has recently been renovated.\n\n(A) which  \n(B) where  \n(C) whom  \n(D) whose\n\n### Q2\n\nThe conference room _____ we booked is unavailable.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### Q3\n\nFriday is the day _____ registration closes.\n\n(A) which  \n(B) whom  \n(C) where  \n(D) when\n\n### Q4\n\nThe date _____ you requested is already fully booked.\n\n(A) when  \n(B) where  \n(C) which  \n(D) who\n\n### Q5\n\nThe auditorium _____ seats 400 guests is on the third floor.\n\n(A) where  \n(B) which  \n(C) when  \n(D) whom\n\n### Q6\n\nWhen should I register for the seminar?\n\n(A) Registration closes tomorrow.  \n(B) In Conference Room A.  \n(C) About fifty participants.\n\n### Q7\n\nShould we reserve the larger room?\n\n(A) How many guests are expected?  \n(B) At the Grand Hotel.  \n(C) The reservation was confirmed.\n\n### Q8\n\nWho's organizing the reception?\n\n(A) The events department is handling it.  \n(B) At six thirty.  \n(C) About one hundred guests.\n\n### Q9\n\nHaven't you booked your accommodation yet?\n\n(A) I'm comparing hotel prices.  \n(B) For four nights.  \n(C) Near the station.\n\n### Q10\n\nA **complimentary** breakfast is:\n\n(A) expensive  \n(B) optional  \n(C) provided free of charge  \n(D) available only to employees\n\n## 答案\n\n**1B / 2C / 3D / 4C / 5B / 6A / 7A / 8A / 9A / 10C**\n\n---"
+    },
+    {
+      "title": "⑩ 今日解析與錯題判斷",
+      "markdown": "Q1：\n\n> we held the annual meeting\n\nS、V、O 都有。\n\n句子完整。\n\n需要：\n\n> 在那間 hotel\n\n所以：\n\n**where**\n\n---\n\nQ2：\n\n> we booked _____\n\n缺 booked 的受詞。\n\n所以：\n\n**which**\n\n---\n\nQ3：\n\n> registration closes\n\n完整句。\n\n需要表示：\n\n> 在那一天\n\n所以：\n\n**when**\n\n---\n\nQ4：\n\n> you requested _____\n\n缺受詞。\n\n所以：\n\n**which**\n\n---\n\nQ5：\n\n> _____ seats 400 guests\n\n缺主詞。\n\n所以：\n\n**which**\n\n今天如果 Q1～Q5 錯超過兩題，標記：\n\n**G — Relative Clause Structure**\n\n不要繼續背：\n\n> 地方 where  \n> 時間 when\n\n真正要重新練的是：\n\n> **關係詞後面的句子完整嗎？**\n\n---"
+    },
+    {
+      "title": "⑪ 前幾日錯題複習",
+      "markdown": "今天做五題「混合反射」。\n\n> Management considered _____ another branch.\n\n**opening**\n\nconsider + V-ing。\n\n---\n\n> We look forward to _____ from you.\n\n**hearing**\n\n介系詞 to + V-ing。\n\n---\n\n> Customers were _____ with the service.\n\n**satisfied**\n\n感受者 → V-ed。\n\n---\n\n> The results were _____.\n\n**encouraging**\n\n造成感受 → V-ing。\n\n---\n\n> The employee _____ application was approved...\n\n**whose**\n\nwhose + noun。\n\n現在應該能在 **3～5 秒內**完成這五題。\n\n---"
+    },
+    {
+      "title": "⑫ 今日作業",
+      "markdown": "今天不需要大量刷題，集中建立「完整／不完整子句」判斷。\n\n看到：\n\n> the hotel _____ we stayed\n\n先問：\n\n> we stayed\n\n完整嗎？\n\n是。\n\n→ **where**\n\n看到：\n\n> the hotel _____ we booked\n\n> we booked _____\n\n不完整。\n\n→ **which**\n\n看到：\n\n> the day _____ the meeting occurred\n\n> the meeting occurred\n\n完整。\n\n→ **when**\n\n看到：\n\n> the date _____ we selected\n\n> we selected _____\n\n不完整。\n\n→ **which**\n\n把這四組各朗讀 **5 次**。\n\n接著複習今天 30 個單字，尤其：\n\n> register for  \n> confirm a reservation  \n> check availability  \n> complimentary breakfast  \n> seating capacity  \n> admission fee  \n> adjacent to\n\n最後睡前重新做今天 10 題小考，第二次限制：\n\n**2 分 30 秒**\n\n目標：\n\n**10/10。**\n\n### Day 10 達標標準\n\n如果第一次：\n\n**9～10 / 10 且 ≤ 3 分鐘** → 已可提高到 900 分題型。\n\n**7～8 / 10** → 維持 860+，增加關係子句混合題。\n\n**≤ 6 / 10** → Day 11 會保留更多關代／關副複習。\n\n今天最重要的一句不是「地點用 where、時間用 when」，而是：\n\n> **關係詞題先遮住空格，檢查後面的子句是否已經完整。**\n\n**Day 11** 將進入 **連接詞 vs. 介系詞：because / because of、although / despite、during / while**。這是 Part 5 非常容易失分、也非常值得建立秒判能力的一組題型。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "venue",
+      "meaning": "場地",
+      "phrase": "event venue"
+    },
+    {
+      "id": 2,
+      "word": "banquet",
+      "meaning": "宴會",
+      "phrase": "banquet hall"
+    },
+    {
+      "id": 3,
+      "word": "auditorium",
+      "meaning": "禮堂",
+      "phrase": "main auditorium"
+    },
+    {
+      "id": 4,
+      "word": "convention",
+      "meaning": "大型會議",
+      "phrase": "convention center"
+    },
+    {
+      "id": 5,
+      "word": "seminar",
+      "meaning": "研討會",
+      "phrase": "attend a seminar"
+    },
+    {
+      "id": 6,
+      "word": "workshop",
+      "meaning": "工作坊",
+      "phrase": "training workshop"
+    },
+    {
+      "id": 7,
+      "word": "registration",
+      "meaning": "登記",
+      "phrase": "registration desk"
+    },
+    {
+      "id": 8,
+      "word": "register",
+      "meaning": "登記",
+      "phrase": "register for"
+    },
+    {
+      "id": 9,
+      "word": "attendee",
+      "meaning": "出席者",
+      "phrase": "conference attendee"
+    },
+    {
+      "id": 10,
+      "word": "participant",
+      "meaning": "參與者",
+      "phrase": "workshop participant"
+    },
+    {
+      "id": 11,
+      "word": "accommodate",
+      "meaning": "容納；住宿",
+      "phrase": "accommodate 200 guests"
+    },
+    {
+      "id": 12,
+      "word": "accommodation",
+      "meaning": "住宿",
+      "phrase": "hotel accommodation"
+    },
+    {
+      "id": 13,
+      "word": "occupancy",
+      "meaning": "入住率",
+      "phrase": "hotel occupancy"
+    },
+    {
+      "id": 14,
+      "word": "vacancy",
+      "meaning": "空房；職缺",
+      "phrase": "room vacancy"
+    },
+    {
+      "id": 15,
+      "word": "reserve",
+      "meaning": "預訂",
+      "phrase": "reserve a room"
+    },
+    {
+      "id": 16,
+      "word": "reservation",
+      "meaning": "預訂",
+      "phrase": "confirm a reservation"
+    },
+    {
+      "id": 17,
+      "word": "availability",
+      "meaning": "可用情況",
+      "phrase": "check availability"
+    },
+    {
+      "id": 18,
+      "word": "complimentary",
+      "meaning": "免費招待的",
+      "phrase": "complimentary breakfast"
+    },
+    {
+      "id": 19,
+      "word": "amenity",
+      "meaning": "設施",
+      "phrase": "hotel amenities"
+    },
+    {
+      "id": 20,
+      "word": "reception",
+      "meaning": "接待；招待會",
+      "phrase": "reception desk"
+    },
+    {
+      "id": 21,
+      "word": "cater",
+      "meaning": "承辦餐飲",
+      "phrase": "cater an event"
+    },
+    {
+      "id": 22,
+      "word": "catering",
+      "meaning": "餐飲服務",
+      "phrase": "catering service"
+    },
+    {
+      "id": 23,
+      "word": "capacity",
+      "meaning": "容量",
+      "phrase": "seating capacity"
+    },
+    {
+      "id": 24,
+      "word": "admission",
+      "meaning": "入場",
+      "phrase": "admission fee"
+    },
+    {
+      "id": 25,
+      "word": "itinerary",
+      "meaning": "行程",
+      "phrase": "conference itinerary"
+    },
+    {
+      "id": 26,
+      "word": "schedule",
+      "meaning": "行程",
+      "phrase": "event schedule"
+    },
+    {
+      "id": 27,
+      "word": "postpone",
+      "meaning": "延後",
+      "phrase": "postpone an event"
+    },
+    {
+      "id": 28,
+      "word": "approximately",
+      "meaning": "大約",
+      "phrase": "approximately 300 guests"
+    },
+    {
+      "id": 29,
+      "word": "convenient",
+      "meaning": "方便的",
+      "phrase": "convenient location"
+    },
+    {
+      "id": 30,
+      "word": "adjacent",
+      "meaning": "相鄰的",
+      "phrase": "adjacent to"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The hotel _____ the conference will be held is near the airport.",
+          "options": {
+            "A": "which",
+            "B": "where",
+            "C": "whose",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "the conference will be held 是完整子句，需要表示地點的 where。"
+        },
+        {
+          "id": 2,
+          "prompt": "The conference room _____ we reserved can accommodate 200 people.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "we reserved 後缺少受詞，使用 which。"
+        },
+        {
+          "id": 3,
+          "prompt": "September is the month _____ our annual conference usually takes place.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "when",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "our annual conference usually takes place 是完整子句，使用表示時間的 when。"
+        },
+        {
+          "id": 4,
+          "prompt": "The date _____ the manager selected is no longer available.",
+          "options": {
+            "A": "when",
+            "B": "which",
+            "C": "where",
+            "D": "who"
+          },
+          "answer": "B",
+          "explanation": "the manager selected 後缺少受詞，使用 which。"
+        },
+        {
+          "id": 5,
+          "prompt": "The restaurant _____ we held the reception has been renovated.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "we held the reception 是完整子句，需要表示地點的 where。"
+        },
+        {
+          "id": 6,
+          "prompt": "The auditorium _____ seats 500 people is on the second floor.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "空格是 seats 的主詞，使用 which。"
+        },
+        {
+          "id": 7,
+          "prompt": "The hotel _____ we stayed during the conference offered complimentary breakfast.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "where",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "we stayed 是完整子句，需要表示地點的 where。"
+        },
+        {
+          "id": 8,
+          "prompt": "The day _____ employees receive their performance reviews has been changed.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "employees receive their performance reviews 是完整子句，使用 when。"
+        },
+        {
+          "id": 9,
+          "prompt": "The venue _____ the company selected is easily accessible by train.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "the company selected 後缺少受詞，使用 which。"
+        },
+        {
+          "id": 10,
+          "prompt": "The office _____ Ms. Wang works is being renovated.",
+          "options": {
+            "A": "which",
+            "B": "when",
+            "C": "where",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "Ms. Wang works 是完整子句，需要表示地點的 where。"
+        },
+        {
+          "id": 11,
+          "prompt": "The seminar _____ attracted more than 300 participants will be offered again.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "when",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "空格是 attracted 的主詞，使用 which。"
+        },
+        {
+          "id": 12,
+          "prompt": "The year _____ the company opened its first overseas branch was 2018.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "when",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "the company opened its first overseas branch 是完整子句，使用 when。"
+        }
+      ]
+    },
+    {
+      "id": "day-10-quiz",
+      "title": "Day 10 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The hotel _____ we held the annual meeting has recently been renovated.",
+          "options": {
+            "A": "which",
+            "B": "where",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "we held the annual meeting 是完整子句，需要表示地點的 where。"
+        },
+        {
+          "id": 2,
+          "prompt": "The conference room _____ we booked is unavailable.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "we booked 後缺少受詞，使用 which。"
+        },
+        {
+          "id": 3,
+          "prompt": "Friday is the day _____ registration closes.",
+          "options": {
+            "A": "which",
+            "B": "whom",
+            "C": "where",
+            "D": "when"
+          },
+          "answer": "D",
+          "explanation": "registration closes 是完整子句，需要表示時間的 when。"
+        },
+        {
+          "id": 4,
+          "prompt": "The date _____ you requested is already fully booked.",
+          "options": {
+            "A": "when",
+            "B": "where",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "you requested 後缺少受詞，使用 which。"
+        },
+        {
+          "id": 5,
+          "prompt": "The auditorium _____ seats 400 guests is on the third floor.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "when",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "空格是 seats 的主詞，使用 which。"
+        },
+        {
+          "id": 6,
+          "prompt": "When should I register for the seminar?",
+          "options": {
+            "A": "Registration closes tomorrow.",
+            "B": "In Conference Room A.",
+            "C": "About fifty participants."
+          },
+          "answer": "A",
+          "explanation": "Registration closes tomorrow 提供了登記期限。"
+        },
+        {
+          "id": 7,
+          "prompt": "Should we reserve the larger room?",
+          "options": {
+            "A": "How many guests are expected?",
+            "B": "At the Grand Hotel.",
+            "C": "The reservation was confirmed."
+          },
+          "answer": "A",
+          "explanation": "房間大小取決於預計人數，因此先詢問來賓人數。"
+        },
+        {
+          "id": 8,
+          "prompt": "Who's organizing the reception?",
+          "options": {
+            "A": "The events department is handling it.",
+            "B": "At six thirty.",
+            "C": "About one hundred guests."
+          },
+          "answer": "A",
+          "explanation": "The events department 是 Who 問句的合理回答。"
+        },
+        {
+          "id": 9,
+          "prompt": "Haven't you booked your accommodation yet?",
+          "options": {
+            "A": "I'm comparing hotel prices.",
+            "B": "For four nights.",
+            "C": "Near the station."
+          },
+          "answer": "A",
+          "explanation": "正在比較飯店價格，表示尚未完成預訂。"
+        },
+        {
+          "id": 10,
+          "prompt": "A **complimentary** breakfast is:",
+          "options": {
+            "A": "expensive",
+            "B": "optional",
+            "C": "provided free of charge",
+            "D": "available only to employees"
+          },
+          "answer": "C",
+          "explanation": "complimentary 在飯店情境中表示免費提供。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "關係詞題先遮住空格，檢查後面的子句是否已經完整。",
+  "nextDay": "連接詞 vs. 介系詞：because / because of、although / despite、during / while"
+}

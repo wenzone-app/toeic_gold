@@ -1,0 +1,792 @@
+{
+  "schemaVersion": "1.0",
+  "day": 5,
+  "title": "主動語態 vs. 被動語態",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": {
+    "min": 90,
+    "max": 110
+  },
+  "level": "860+ 標準難度",
+  "source": "使用者提供的 Day 5 教材",
+  "sections": [
+    {
+      "title": "TOEIC 金色證書 90 天訓練｜Day 5",
+      "markdown": "今天進入 **主動語態 vs. 被動語態**。Day 4 已練過時態，因此今天把「時態 + 語態」合在一起，這正是 TOEIC Part 5 很常見的出題方式。\n\n目前尚未收到前幾天的實際作答紀錄，因此維持 **860+ 標準難度**。今天建議約 **90～110 分鐘**，小考請盡量計時完成。\n\n---"
+    },
+    {
+      "title": "① 今日高頻單字 30 個",
+      "markdown": "今天主題：**Office / Equipment / Maintenance**\n\n| # | 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| 1 | equipment | 設備 | office equipment |\n| 2 | facility | 設施 | manufacturing facility |\n| 3 | device | 裝置 | electronic device |\n| 4 | machinery | 機械 | heavy machinery |\n| 5 | install | 安裝 | install equipment |\n| 6 | installation | 安裝 | installation process |\n| 7 | inspect | 檢查 | inspect equipment |\n| 8 | inspection | 檢查 | safety inspection |\n| 9 | maintain | 維護 | maintain equipment |\n| 10 | maintenance | 維護 | routine maintenance |\n| 11 | repair | 修理 | repair a machine |\n| 12 | replace | 更換 | replace a part |\n| 13 | replacement | 替代品 | replacement part |\n| 14 | operate | 操作 | operate machinery |\n| 15 | operation | 運作 | normal operation |\n| 16 | malfunction | 故障 | equipment malfunction |\n| 17 | damage | 損壞 | damaged equipment |\n| 18 | defective | 有缺陷的 | defective product |\n| 19 | technician | 技術人員 | service technician |\n| 20 | manufacturer | 製造商 | contact the manufacturer |\n| 21 | instruction | 說明 | follow instructions |\n| 22 | procedure | 程序 | safety procedure |\n| 23 | safety | 安全 | safety regulations |\n| 24 | require | 要求 | require maintenance |\n| 25 | permit | 許可 | parking permit |\n| 26 | access | 使用權；進入 | access the building |\n| 27 | temporarily | 暫時地 | temporarily unavailable |\n| 28 | regularly | 定期地 | regularly inspected |\n| 29 | immediately | 立即地 | respond immediately |\n| 30 | properly | 正確地 | function properly |\n\n今天優先記：\n\n**routine maintenance**  \n**safety inspection**  \n**replacement part**  \n**follow instructions**  \n**operate machinery**  \n**temporarily unavailable**  \n**function properly**\n\n注意：\n\n**equipment** 通常是不可數名詞。\n\n> new equipment ✅  \n> some equipment ✅  \n> equipments ❌\n\n---"
+    },
+    {
+      "title": "② 今日文法｜主動 vs. 被動",
+      "markdown": "先看兩句：\n\n> The technician repaired the printer.\n\n技術人員修理印表機。\n\ntechnician 是「做動作的人」。\n\n所以：\n\n**主動語態**\n\n結構：\n\n> S + V + O\n\n---\n\n換成：\n\n> The printer was repaired by the technician.\n\n印表機被技術人員修理。\n\nprinter 是「接受動作的東西」。\n\n所以：\n\n**被動語態**\n\n核心結構：\n\n> **be + past participle（p.p.）**\n\n例如：\n\n> is installed  \n> was repaired  \n> has been replaced  \n> will be inspected\n\n---"
+    },
+    {
+      "title": "③ TOEIC 最重要的判斷方法",
+      "markdown": "看到：\n\n> The equipment _____ every month.\n\n(A) inspects  \n(B) is inspected  \n(C) inspecting  \n(D) has inspect\n\n先問：\n\n**equipment 會去檢查別人嗎？**\n\n不會。\n\nequipment 是：\n\n**被檢查**\n\n所以：\n\n> equipment **is inspected**\n\n答案：\n\n**B**\n\n---\n\n再看：\n\n> The technician _____ the equipment every month.\n\n現在 technician 是執行者。\n\n所以：\n\n> technician **inspects**\n\n這就是：\n\n**主詞能不能執行這個動作？**\n\n能 → 主動\n\n不能／接受動作 → 被動\n\n---"
+    },
+    {
+      "title": "④ 時態 + 被動語態",
+      "markdown": "Day 4 的時態現在開始合併。\n\n### 現在式被動\n\n> The equipment **is inspected** every month.\n\n**is/am/are + p.p.**\n\n---\n\n### 過去式被動\n\n> The equipment **was inspected** yesterday.\n\n**was/were + p.p.**\n\n---\n\n### 現在完成式被動\n\n> The equipment **has been inspected** already.\n\n**has/have been + p.p.**\n\n這個結構非常重要：\n\n> **has been + p.p.**\n\n---\n\n### 未來式被動\n\n> The equipment **will be inspected** tomorrow.\n\n**will be + p.p.**\n\n因此看到：\n\n> The building _____ next week.\n\n如果 building 是「被檢查」：\n\n> **will be inspected**\n\n而不是：\n\n> will inspect\n\n---"
+    },
+    {
+      "title": "⑤ Part 5 語態陷阱",
+      "markdown": "### Example 1\n\n> All employees _____ to wear identification badges.\n\n(A) require  \n(B) are required  \n(C) requiring  \n(D) requirements\n\nemployees 是：\n\n**被要求**\n\n所以：\n\n> are required to\n\n答案：\n\n**B**\n\n這是超高頻搭配：\n\n> **be required to + V**\n\n---\n\n### Example 2\n\n> The new computers _____ yesterday afternoon.\n\n(A) installed  \n(B) were installed  \n(C) installing  \n(D) have install\n\ncomputers 不會自己安裝。\n\n而且：\n\n**yesterday**\n\n因此：\n\n過去式 + 被動\n\n> were installed\n\n答案：\n\n**B**\n\n---\n\n### Example 3\n\n> The maintenance department _____ the elevators regularly.\n\n(A) inspects  \n(B) is inspected  \n(C) inspecting  \n(D) inspection\n\nmaintenance department 是執行者。\n\n所以：\n\n> inspects\n\n答案：\n\n**A**\n\n---"
+    },
+    {
+      "title": "⑥ Listening｜Part 2 高分陷阱",
+      "markdown": "今天繼續間接回答，但提高難度。\n\n### Q1\n\n> Has the air conditioner been repaired yet?\n\n(A) The technician is working on it now.  \n(B) On the second floor.  \n(C) About three years old.\n\n答案：\n\n**A**\n\n沒有回答 Yes / No。\n\n但：\n\n> technician is working on it\n\n代表：\n\n**還在修。**\n\n---\n\n### Q2\n\n> Who installed the new security system?\n\n(A) It was done by an outside company.  \n(B) Near the main entrance.  \n(C) Last weekend.\n\n答案：\n\n**A**\n\nWho → 人／單位。\n\n`an outside company` 就是答案。\n\n---\n\n### Q3\n\n> Why is the elevator unavailable?\n\n(A) It's being inspected.  \n(B) On the fourth floor.  \n(C) About ten people.\n\n答案：\n\n**A**\n\n注意今天的結構：\n\n> **is being inspected**\n\n代表：\n\n**目前正在被檢查**\n\n---\n\n### Q4\n\n> Should I call the repair company?\n\n(A) I've already contacted them.  \n(B) The printer is upstairs.  \n(C) Around fifty dollars.\n\n答案：\n\n**A**\n\nTOEIC 很愛這種：\n\n> Should I...?\n\n回答：\n\n> 已經有人處理了。\n\n---\n\n### Q5\n\n> When will the new equipment be installed?\n\n(A) The technician hasn't confirmed a date.  \n(B) In the storage room.  \n(C) It's quite expensive.\n\n答案：\n\n**A**\n\n又是一個：\n\n**When ≠ 一定出現時間。**\n\n---"
+    },
+    {
+      "title": "⑦ Reading｜Part 7",
+      "markdown": "給自己 **2 分鐘**。\n\n> **NOTICE**\n>\n> **Elevator Maintenance**\n>\n> The elevators in the west wing of the Wellington Office Building will be temporarily unavailable on September 8 from 9:00 A.M. to 1:00 P.M.\n>\n> During this time, the elevators will undergo a scheduled safety inspection. Employees working on floors two through five are asked to use the elevators in the east wing.\n>\n> The inspection is expected to be completed by 1:00 P.M., but employees will be notified by email if additional maintenance is required.\n>\n> We apologize for any inconvenience.\n\n### Q1\n\nWhy will the elevators be unavailable?\n\n(A) They are being replaced  \n(B) A safety inspection will be performed  \n(C) The building will close  \n(D) New elevators are being installed\n\n### Q2\n\nHow long is the inspection expected to last?\n\n(A) Two hours  \n(B) Three hours  \n(C) Four hours  \n(D) Five hours\n\n### Q3\n\nWhat should some employees do?\n\n(A) Work from home  \n(B) Use another set of elevators  \n(C) Leave the building before 9:00  \n(D) Contact the maintenance department\n\n### Q4\n\nHow will employees learn about additional maintenance?\n\n(A) By telephone  \n(B) Through a meeting  \n(C) By email  \n(D) Through a website\n\n答案：\n\n**1B / 2C / 3B / 4C**\n\n注意 Q2。\n\n9:00 → 1:00\n\n不要回文章找完全相同的：\n\n> four hours\n\n你需要自己算：\n\n**4 小時**\n\n這就是 Part 7 很常見的簡單推論。\n\n---"
+    },
+    {
+      "title": "⑧ TOEIC 仿真題｜10 題",
+      "markdown": "今天增加到 10 題。\n\n先自己完成。\n\n### 1\n\nThe office computers _____ regularly to ensure that they function properly.\n\n(A) inspect  \n(B) are inspected  \n(C) inspecting  \n(D) inspection\n\n### 2\n\nA technician _____ the malfunctioning printer yesterday afternoon.\n\n(A) repaired  \n(B) was repaired  \n(C) repairing  \n(D) repairable\n\n### 3\n\nThe new security system _____ next Monday.\n\n(A) installs  \n(B) installed  \n(C) will install  \n(D) will be installed\n\n### 4\n\nAll visitors are _____ to wear identification badges.\n\n(A) require  \n(B) required  \n(C) requiring  \n(D) requirement\n\n### 5\n\nThe elevators _____ since early this morning.\n\n(A) have inspected  \n(B) have been inspected  \n(C) inspect  \n(D) inspection\n\n### 6\n\nThe maintenance staff _____ the air-conditioning system every three months.\n\n(A) checks  \n(B) is checked  \n(C) checking  \n(D) checkable\n\n### 7\n\nSeveral defective products _____ from store shelves last week.\n\n(A) removed  \n(B) were removed  \n(C) removing  \n(D) have remove\n\n### 8\n\nThe manufacturer has _____ the damaged parts.\n\n(A) replace  \n(B) replacement  \n(C) replaced  \n(D) replacing\n\n### 9\n\nThe building _____ thoroughly before it opened to the public.\n\n(A) inspected  \n(B) was inspected  \n(C) inspection  \n(D) inspecting\n\n### 10\n\nEmployees must _____ all safety procedures.\n\n(A) follow  \n(B) followed  \n(C) be followed  \n(D) following\n\n---"
+    },
+    {
+      "title": "⑨ 今日小考｜10 題",
+      "markdown": "今天限制：\n\n**4 分 30 秒。**\n\n### Q1\n\nThe conference room _____ every evening.\n\n(A) cleans  \n(B) is cleaned  \n(C) cleaning  \n(D) cleanly\n\n### Q2\n\nThe technician _____ the equipment yesterday.\n\n(A) inspected  \n(B) was inspected  \n(C) inspection  \n(D) inspectable\n\n### Q3\n\nAll applications must _____ before Friday.\n\n(A) submit  \n(B) be submitted  \n(C) submitted  \n(D) submission\n\n### Q4\n\nThe new software has already _____ on all office computers.\n\n(A) installed  \n(B) installing  \n(C) been installed  \n(D) installation\n\n### Q5\n\nOur maintenance team _____ the heating system regularly.\n\n(A) checks  \n(B) is checked  \n(C) checking  \n(D) has been checked\n\n### Q6\n\nHas the printer been fixed yet?\n\n(A) The technician is still working on it.  \n(B) Beside the copy machine.  \n(C) About $200.\n\n### Q7\n\nWho repaired the elevator?\n\n(A) It took about an hour.  \n(B) A technician from Metro Services.  \n(C) On the third floor.\n\n### Q8\n\nWhy is Conference Room B closed?\n\n(A) It's being cleaned.  \n(B) At two o'clock.  \n(C) About twenty seats.\n\n### Q9\n\nShould we order replacement parts now?\n\n(A) The manager has already ordered them.  \n(B) They're in the storage room.  \n(C) About ten parts.\n\n### Q10\n\nWhen will the equipment be delivered?\n\n(A) The supplier hasn't confirmed it yet.  \n(B) At the loading dock.  \n(C) It's very heavy.\n\n---"
+    },
+    {
+      "title": "⑩ 答案與解析",
+      "markdown": "仿真題：\n\n**1 B / 2 A / 3 D / 4 B / 5 B / 6 A / 7 B / 8 C / 9 B / 10 A**\n\n其中最重要的是第 3 題：\n\n> The new security system _____ next Monday.\n\nsystem 是：\n\n**被安裝**\n\nnext Monday → 未來\n\n所以：\n\n> **will be installed**\n\n---\n\n第 5 題：\n\n> have _____\n\n而 elevators 是接受 inspect 的對象。\n\n因此：\n\n> **have been inspected**\n\n這是：\n\n**現在完成式 + 被動**\n\n---\n\n第 10 題：\n\n> Employees must _____ all safety procedures.\n\nemployees 執行 follow。\n\n所以：\n\n> must **follow**\n\n不能看到 `must` 就以為一定是：\n\n> must be + p.p.\n\n仍然要先判斷：\n\n**誰做動作。**\n\n---\n\n今日小考：\n\n**1 B / 2 A / 3 B / 4 C / 5 A / 6 A / 7 B / 8 A / 9 A / 10 A**\n\n### Q3\n\n> applications must _____\n\napplications 是：\n\n**被提交**\n\nmodal verb 的被動：\n\n> **must be + p.p.**\n\n所以：\n\n> must be submitted\n\n---\n\n### Q4\n\n> has already _____\n\nsoftware 被安裝。\n\n現在完成式被動：\n\n> **has been installed**\n\n---\n\n### Q8\n\n> Why is Conference Room B closed?\n\n> It's being cleaned.\n\n這裡出現今天的新結構：\n\n**be + being + p.p.**\n\n代表：\n\n**現在正在被……**\n\n---"
+    },
+    {
+      "title": "⑪ Day 4 錯題複習",
+      "markdown": "昨天的核心是時態。\n\n今天把時態與語態合併成一張表：\n\n| 時間 | 主動 | 被動 |\n|---|---|---|\n| 現在 | inspects | is inspected |\n| 過去 | inspected | was inspected |\n| 現在完成 | has inspected | has been inspected |\n| 未來 | will inspect | will be inspected |\n\n看到題目：\n\n> The equipment _____ yesterday.\n\n先找到：\n\n**yesterday → 過去**\n\n再判斷：\n\nequipment 是被檢查。\n\n因此：\n\n> **was inspected**\n\n不要反過來。\n\n正確流程：\n\n**時間 → 主動/被動 → 動詞形式**\n\n---"
+    },
+    {
+      "title": "⑫ 今日作業",
+      "markdown": "今天先把 30 個單字複習兩輪，尤其要能直接反應：\n\n> routine maintenance  \n> safety inspection  \n> replacement part  \n> operate machinery  \n> follow instructions  \n> function properly  \n> temporarily unavailable  \n> contact the manufacturer\n\n接著做「主被動口頭轉換」。\n\n看到：\n\n> technician / repair / printer\n\n自己說：\n\n> The technician repaired the printer.\n\n再轉：\n\n> The printer was repaired by the technician.\n\n接著：\n\n> company / install / equipment\n\n說：\n\n> The company installed the equipment.\n\n再轉：\n\n> The equipment was installed by the company.\n\n最後練：\n\n> The technician has repaired the printer.\n\n→\n\n> The printer **has been repaired**.\n\n這一步如果能自然說出來，今天的核心就掌握了。\n\n睡前重新完成今日 **10 題小考**，限制 **4 分鐘**，目標 **9/10 以上**。\n\n如果第一次已經達到 9～10 題，第二次不要只追求正確，而是每一題都能在看到空格後立刻判斷：\n\n> **主動？還是被動？**\n\nDay 5 最重要的公式不是死背 `be + p.p.`，而是：\n\n> **先找誰做動作，再決定主動或被動。**\n\n下一課 **Day 6** 會進入 **不定詞 vs. 動名詞（to V / V-ing）**，包括 TOEIC 高頻的 `plan to`, `agree to`, `avoid -ing`, `consider -ing`, `look forward to -ing` 等陷阱，Part 5 難度也會再提高一級。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "equipment",
+      "meaning": "設備",
+      "phrase": "office equipment"
+    },
+    {
+      "id": 2,
+      "word": "facility",
+      "meaning": "設施",
+      "phrase": "manufacturing facility"
+    },
+    {
+      "id": 3,
+      "word": "device",
+      "meaning": "裝置",
+      "phrase": "electronic device"
+    },
+    {
+      "id": 4,
+      "word": "machinery",
+      "meaning": "機械",
+      "phrase": "heavy machinery"
+    },
+    {
+      "id": 5,
+      "word": "install",
+      "meaning": "安裝",
+      "phrase": "install equipment"
+    },
+    {
+      "id": 6,
+      "word": "installation",
+      "meaning": "安裝",
+      "phrase": "installation process"
+    },
+    {
+      "id": 7,
+      "word": "inspect",
+      "meaning": "檢查",
+      "phrase": "inspect equipment"
+    },
+    {
+      "id": 8,
+      "word": "inspection",
+      "meaning": "檢查",
+      "phrase": "safety inspection"
+    },
+    {
+      "id": 9,
+      "word": "maintain",
+      "meaning": "維護",
+      "phrase": "maintain equipment"
+    },
+    {
+      "id": 10,
+      "word": "maintenance",
+      "meaning": "維護",
+      "phrase": "routine maintenance"
+    },
+    {
+      "id": 11,
+      "word": "repair",
+      "meaning": "修理",
+      "phrase": "repair a machine"
+    },
+    {
+      "id": 12,
+      "word": "replace",
+      "meaning": "更換",
+      "phrase": "replace a part"
+    },
+    {
+      "id": 13,
+      "word": "replacement",
+      "meaning": "替代品",
+      "phrase": "replacement part"
+    },
+    {
+      "id": 14,
+      "word": "operate",
+      "meaning": "操作",
+      "phrase": "operate machinery"
+    },
+    {
+      "id": 15,
+      "word": "operation",
+      "meaning": "運作",
+      "phrase": "normal operation"
+    },
+    {
+      "id": 16,
+      "word": "malfunction",
+      "meaning": "故障",
+      "phrase": "equipment malfunction"
+    },
+    {
+      "id": 17,
+      "word": "damage",
+      "meaning": "損壞",
+      "phrase": "damaged equipment"
+    },
+    {
+      "id": 18,
+      "word": "defective",
+      "meaning": "有缺陷的",
+      "phrase": "defective product"
+    },
+    {
+      "id": 19,
+      "word": "technician",
+      "meaning": "技術人員",
+      "phrase": "service technician"
+    },
+    {
+      "id": 20,
+      "word": "manufacturer",
+      "meaning": "製造商",
+      "phrase": "contact the manufacturer"
+    },
+    {
+      "id": 21,
+      "word": "instruction",
+      "meaning": "說明",
+      "phrase": "follow instructions"
+    },
+    {
+      "id": 22,
+      "word": "procedure",
+      "meaning": "程序",
+      "phrase": "safety procedure"
+    },
+    {
+      "id": 23,
+      "word": "safety",
+      "meaning": "安全",
+      "phrase": "safety regulations"
+    },
+    {
+      "id": 24,
+      "word": "require",
+      "meaning": "要求",
+      "phrase": "require maintenance"
+    },
+    {
+      "id": 25,
+      "word": "permit",
+      "meaning": "許可",
+      "phrase": "parking permit"
+    },
+    {
+      "id": 26,
+      "word": "access",
+      "meaning": "使用權；進入",
+      "phrase": "access the building"
+    },
+    {
+      "id": 27,
+      "word": "temporarily",
+      "meaning": "暫時地",
+      "phrase": "temporarily unavailable"
+    },
+    {
+      "id": 28,
+      "word": "regularly",
+      "meaning": "定期地",
+      "phrase": "regularly inspected"
+    },
+    {
+      "id": 29,
+      "word": "immediately",
+      "meaning": "立即地",
+      "phrase": "respond immediately"
+    },
+    {
+      "id": 30,
+      "word": "properly",
+      "meaning": "正確地",
+      "phrase": "function properly"
+    }
+  ],
+  "vocabularyTheme": "Office / Equipment / Maintenance",
+  "priorityPhrases": [
+    "routine maintenance",
+    "safety inspection",
+    "replacement part",
+    "follow instructions",
+    "operate machinery",
+    "temporarily unavailable",
+    "function properly"
+  ],
+  "vocabularyNotes": [
+    {
+      "word": "equipment",
+      "note": "通常是不可數名詞。",
+      "correctExamples": [
+        "new equipment",
+        "some equipment"
+      ],
+      "incorrectExamples": [
+        "equipments"
+      ]
+    }
+  ],
+  "grammar": {
+    "title": "主動 vs. 被動",
+    "activePattern": "S + V + O",
+    "passivePattern": "be + past participle（p.p.）",
+    "decisionMethod": "主詞能不能執行這個動作？能 → 主動；不能／接受動作 → 被動。",
+    "steps": [
+      "時間",
+      "主動/被動",
+      "動詞形式"
+    ],
+    "tenseForms": [
+      {
+        "tense": "現在",
+        "active": "inspects",
+        "passive": "is inspected",
+        "pattern": "is/am/are + p.p."
+      },
+      {
+        "tense": "過去",
+        "active": "inspected",
+        "passive": "was inspected",
+        "pattern": "was/were + p.p."
+      },
+      {
+        "tense": "現在完成",
+        "active": "has inspected",
+        "passive": "has been inspected",
+        "pattern": "has/have been + p.p."
+      },
+      {
+        "tense": "未來",
+        "active": "will inspect",
+        "passive": "will be inspected",
+        "pattern": "will be + p.p."
+      }
+    ],
+    "additionalPatterns": [
+      {
+        "pattern": "be required to + V",
+        "meaning": "被要求做……"
+      },
+      {
+        "pattern": "must be + p.p.",
+        "meaning": "情態動詞的被動語態"
+      },
+      {
+        "pattern": "be + being + p.p.",
+        "meaning": "現在正在被……"
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "prompt": "All employees _____ to wear identification badges.",
+        "options": {
+          "A": "require",
+          "B": "are required",
+          "C": "requiring",
+          "D": "requirements"
+        },
+        "answer": "B",
+        "explanation": "employees 是：\n\n**被要求**\n\n所以：\n\n> are required to\n\n答案：\n\n**B**\n\n這是超高頻搭配：\n\n> **be required to + V**"
+      },
+      {
+        "id": 2,
+        "prompt": "The new computers _____ yesterday afternoon.",
+        "options": {
+          "A": "installed",
+          "B": "were installed",
+          "C": "installing",
+          "D": "have install"
+        },
+        "answer": "B",
+        "explanation": "computers 不會自己安裝。\n\n而且：\n\n**yesterday**\n\n因此：\n\n過去式 + 被動\n\n> were installed\n\n答案：\n\n**B**"
+      },
+      {
+        "id": 3,
+        "prompt": "The maintenance department _____ the elevators regularly.",
+        "options": {
+          "A": "inspects",
+          "B": "is inspected",
+          "C": "inspecting",
+          "D": "inspection"
+        },
+        "answer": "A",
+        "explanation": "maintenance department 是執行者。\n\n所以：\n\n> inspects\n\n答案：\n\n**A**"
+      }
+    ]
+  },
+  "listening": {
+    "part": 2,
+    "title": "Part 2 高分陷阱",
+    "strategy": "理解間接回答；When 的答案不一定直接出現時間。",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Has the air conditioner been repaired yet?",
+        "options": {
+          "A": "The technician is working on it now.",
+          "B": "On the second floor.",
+          "C": "About three years old."
+        },
+        "answer": "A",
+        "explanation": "沒有回答 Yes / No。\n\n但：\n\n> technician is working on it\n\n代表：\n\n**還在修。**"
+      },
+      {
+        "id": 2,
+        "prompt": "Who installed the new security system?",
+        "options": {
+          "A": "It was done by an outside company.",
+          "B": "Near the main entrance.",
+          "C": "Last weekend."
+        },
+        "answer": "A",
+        "explanation": "Who → 人／單位。\n\n`an outside company` 就是答案。"
+      },
+      {
+        "id": 3,
+        "prompt": "Why is the elevator unavailable?",
+        "options": {
+          "A": "It's being inspected.",
+          "B": "On the fourth floor.",
+          "C": "About ten people."
+        },
+        "answer": "A",
+        "explanation": "注意今天的結構：\n\n> **is being inspected**\n\n代表：\n\n**目前正在被檢查**"
+      },
+      {
+        "id": 4,
+        "prompt": "Should I call the repair company?",
+        "options": {
+          "A": "I've already contacted them.",
+          "B": "The printer is upstairs.",
+          "C": "Around fifty dollars."
+        },
+        "answer": "A",
+        "explanation": "TOEIC 很愛這種：\n\n> Should I...?\n\n回答：\n\n> 已經有人處理了。"
+      },
+      {
+        "id": 5,
+        "prompt": "When will the new equipment be installed?",
+        "options": {
+          "A": "The technician hasn't confirmed a date.",
+          "B": "In the storage room.",
+          "C": "It's quite expensive."
+        },
+        "answer": "A",
+        "explanation": "又是一個：\n\n**When ≠ 一定出現時間。**"
+      }
+    ]
+  },
+  "reading": {
+    "part": 7,
+    "timeLimitSeconds": 120,
+    "passages": [
+      {
+        "id": "elevator-maintenance",
+        "type": "notice",
+        "title": "Elevator Maintenance",
+        "text": "NOTICE\n\nElevator Maintenance\n\nThe elevators in the west wing of the Wellington Office Building will be temporarily unavailable on September 8 from 9:00 A.M. to 1:00 P.M.\n\nDuring this time, the elevators will undergo a scheduled safety inspection. Employees working on floors two through five are asked to use the elevators in the east wing.\n\nThe inspection is expected to be completed by 1:00 P.M., but employees will be notified by email if additional maintenance is required.\n\nWe apologize for any inconvenience.",
+        "questions": [
+          {
+            "id": 1,
+            "prompt": "Why will the elevators be unavailable?",
+            "options": {
+              "A": "They are being replaced",
+              "B": "A safety inspection will be performed",
+              "C": "The building will close",
+              "D": "New elevators are being installed"
+            },
+            "answer": "B",
+            "explanation": null
+          },
+          {
+            "id": 2,
+            "prompt": "How long is the inspection expected to last?",
+            "options": {
+              "A": "Two hours",
+              "B": "Three hours",
+              "C": "Four hours",
+              "D": "Five hours"
+            },
+            "answer": "C",
+            "explanation": "9:00 A.M. → 1:00 P.M. = 4 小時。需要自行計算，不一定能在文章找到 four hours。"
+          },
+          {
+            "id": 3,
+            "prompt": "What should some employees do?",
+            "options": {
+              "A": "Work from home",
+              "B": "Use another set of elevators",
+              "C": "Leave the building before 9:00",
+              "D": "Contact the maintenance department"
+            },
+            "answer": "B",
+            "explanation": null
+          },
+          {
+            "id": 4,
+            "prompt": "How will employees learn about additional maintenance?",
+            "options": {
+              "A": "By telephone",
+              "B": "Through a meeting",
+              "C": "By email",
+              "D": "Through a website"
+            },
+            "answer": "C",
+            "explanation": null
+          }
+        ]
+      }
+    ]
+  },
+  "quizzes": [
+    {
+      "id": "practice",
+      "title": "TOEIC 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The office computers _____ regularly to ensure that they function properly.",
+          "options": {
+            "A": "inspect",
+            "B": "are inspected",
+            "C": "inspecting",
+            "D": "inspection"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 2,
+          "prompt": "A technician _____ the malfunctioning printer yesterday afternoon.",
+          "options": {
+            "A": "repaired",
+            "B": "was repaired",
+            "C": "repairing",
+            "D": "repairable"
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 3,
+          "prompt": "The new security system _____ next Monday.",
+          "options": {
+            "A": "installs",
+            "B": "installed",
+            "C": "will install",
+            "D": "will be installed"
+          },
+          "answer": "D",
+          "explanation": "system 是被安裝；next Monday → 未來，所以 will be installed。"
+        },
+        {
+          "id": 4,
+          "prompt": "All visitors are _____ to wear identification badges.",
+          "options": {
+            "A": "require",
+            "B": "required",
+            "C": "requiring",
+            "D": "requirement"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 5,
+          "prompt": "The elevators _____ since early this morning.",
+          "options": {
+            "A": "have inspected",
+            "B": "have been inspected",
+            "C": "inspect",
+            "D": "inspection"
+          },
+          "answer": "B",
+          "explanation": "elevators 是接受 inspect 的對象；現在完成式 + 被動：have been inspected。"
+        },
+        {
+          "id": 6,
+          "prompt": "The maintenance staff _____ the air-conditioning system every three months.",
+          "options": {
+            "A": "checks",
+            "B": "is checked",
+            "C": "checking",
+            "D": "checkable"
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 7,
+          "prompt": "Several defective products _____ from store shelves last week.",
+          "options": {
+            "A": "removed",
+            "B": "were removed",
+            "C": "removing",
+            "D": "have remove"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 8,
+          "prompt": "The manufacturer has _____ the damaged parts.",
+          "options": {
+            "A": "replace",
+            "B": "replacement",
+            "C": "replaced",
+            "D": "replacing"
+          },
+          "answer": "C",
+          "explanation": null
+        },
+        {
+          "id": 9,
+          "prompt": "The building _____ thoroughly before it opened to the public.",
+          "options": {
+            "A": "inspected",
+            "B": "was inspected",
+            "C": "inspection",
+            "D": "inspecting"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 10,
+          "prompt": "Employees must _____ all safety procedures.",
+          "options": {
+            "A": "follow",
+            "B": "followed",
+            "C": "be followed",
+            "D": "following"
+          },
+          "answer": "A",
+          "explanation": "employees 執行 follow，所以 must follow。不能看到 must 就以為一定是 must be + p.p.，仍然要判斷誰做動作。"
+        }
+      ]
+    },
+    {
+      "id": "daily-quiz",
+      "title": "Day 5 今日小考",
+      "timeLimitSeconds": 270,
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The conference room _____ every evening.",
+          "options": {
+            "A": "cleans",
+            "B": "is cleaned",
+            "C": "cleaning",
+            "D": "cleanly"
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 2,
+          "prompt": "The technician _____ the equipment yesterday.",
+          "options": {
+            "A": "inspected",
+            "B": "was inspected",
+            "C": "inspection",
+            "D": "inspectable"
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 3,
+          "prompt": "All applications must _____ before Friday.",
+          "options": {
+            "A": "submit",
+            "B": "be submitted",
+            "C": "submitted",
+            "D": "submission"
+          },
+          "answer": "B",
+          "explanation": "applications 是被提交；modal verb 的被動：must be + p.p.，所以 must be submitted。"
+        },
+        {
+          "id": 4,
+          "prompt": "The new software has already _____ on all office computers.",
+          "options": {
+            "A": "installed",
+            "B": "installing",
+            "C": "been installed",
+            "D": "installation"
+          },
+          "answer": "C",
+          "explanation": "software 被安裝；現在完成式被動：has been installed。"
+        },
+        {
+          "id": 5,
+          "prompt": "Our maintenance team _____ the heating system regularly.",
+          "options": {
+            "A": "checks",
+            "B": "is checked",
+            "C": "checking",
+            "D": "has been checked"
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 6,
+          "prompt": "Has the printer been fixed yet?",
+          "options": {
+            "A": "The technician is still working on it.",
+            "B": "Beside the copy machine.",
+            "C": "About $200."
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 7,
+          "prompt": "Who repaired the elevator?",
+          "options": {
+            "A": "It took about an hour.",
+            "B": "A technician from Metro Services.",
+            "C": "On the third floor."
+          },
+          "answer": "B",
+          "explanation": null
+        },
+        {
+          "id": 8,
+          "prompt": "Why is Conference Room B closed?",
+          "options": {
+            "A": "It's being cleaned.",
+            "B": "At two o'clock.",
+            "C": "About twenty seats."
+          },
+          "answer": "A",
+          "explanation": "be + being + p.p. 代表現在正在被……：It's being cleaned。"
+        },
+        {
+          "id": 9,
+          "prompt": "Should we order replacement parts now?",
+          "options": {
+            "A": "The manager has already ordered them.",
+            "B": "They're in the storage room.",
+            "C": "About ten parts."
+          },
+          "answer": "A",
+          "explanation": null
+        },
+        {
+          "id": 10,
+          "prompt": "When will the equipment be delivered?",
+          "options": {
+            "A": "The supplier hasn't confirmed it yet.",
+            "B": "At the loading dock.",
+            "C": "It's very heavy."
+          },
+          "answer": "A",
+          "explanation": null
+        }
+      ]
+    }
+  ],
+  "answerReview": {
+    "markdown": "仿真題：\n\n**1 B / 2 A / 3 D / 4 B / 5 B / 6 A / 7 B / 8 C / 9 B / 10 A**\n\n其中最重要的是第 3 題：\n\n> The new security system _____ next Monday.\n\nsystem 是：\n\n**被安裝**\n\nnext Monday → 未來\n\n所以：\n\n> **will be installed**\n\n---\n\n第 5 題：\n\n> have _____\n\n而 elevators 是接受 inspect 的對象。\n\n因此：\n\n> **have been inspected**\n\n這是：\n\n**現在完成式 + 被動**\n\n---\n\n第 10 題：\n\n> Employees must _____ all safety procedures.\n\nemployees 執行 follow。\n\n所以：\n\n> must **follow**\n\n不能看到 `must` 就以為一定是：\n\n> must be + p.p.\n\n仍然要先判斷：\n\n**誰做動作。**\n\n---\n\n今日小考：\n\n**1 B / 2 A / 3 B / 4 C / 5 A / 6 A / 7 B / 8 A / 9 A / 10 A**\n\n### Q3\n\n> applications must _____\n\napplications 是：\n\n**被提交**\n\nmodal verb 的被動：\n\n> **must be + p.p.**\n\n所以：\n\n> must be submitted\n\n---\n\n### Q4\n\n> has already _____\n\nsoftware 被安裝。\n\n現在完成式被動：\n\n> **has been installed**\n\n---\n\n### Q8\n\n> Why is Conference Room B closed?\n\n> It's being cleaned.\n\n這裡出現今天的新結構：\n\n**be + being + p.p.**\n\n代表：\n\n**現在正在被……**\n\n---"
+  },
+  "previousDayReview": {
+    "day": 4,
+    "markdown": "昨天的核心是時態。\n\n今天把時態與語態合併成一張表：\n\n| 時間 | 主動 | 被動 |\n|---|---|---|\n| 現在 | inspects | is inspected |\n| 過去 | inspected | was inspected |\n| 現在完成 | has inspected | has been inspected |\n| 未來 | will inspect | will be inspected |\n\n看到題目：\n\n> The equipment _____ yesterday.\n\n先找到：\n\n**yesterday → 過去**\n\n再判斷：\n\nequipment 是被檢查。\n\n因此：\n\n> **was inspected**\n\n不要反過來。\n\n正確流程：\n\n**時間 → 主動/被動 → 動詞形式**\n\n---"
+  },
+  "homework": {
+    "markdown": "今天先把 30 個單字複習兩輪，尤其要能直接反應：\n\n> routine maintenance  \n> safety inspection  \n> replacement part  \n> operate machinery  \n> follow instructions  \n> function properly  \n> temporarily unavailable  \n> contact the manufacturer\n\n接著做「主被動口頭轉換」。\n\n看到：\n\n> technician / repair / printer\n\n自己說：\n\n> The technician repaired the printer.\n\n再轉：\n\n> The printer was repaired by the technician.\n\n接著：\n\n> company / install / equipment\n\n說：\n\n> The company installed the equipment.\n\n再轉：\n\n> The equipment was installed by the company.\n\n最後練：\n\n> The technician has repaired the printer.\n\n→\n\n> The printer **has been repaired**.\n\n這一步如果能自然說出來，今天的核心就掌握了。\n\n睡前重新完成今日 **10 題小考**，限制 **4 分鐘**，目標 **9/10 以上**。\n\n如果第一次已經達到 9～10 題，第二次不要只追求正確，而是每一題都能在看到空格後立刻判斷：\n\n> **主動？還是被動？**\n\nDay 5 最重要的公式不是死背 `be + p.p.`，而是：\n\n> **先找誰做動作，再決定主動或被動。**\n\n下一課 **Day 6** 會進入 **不定詞 vs. 動名詞（to V / V-ing）**，包括 TOEIC 高頻的 `plan to`, `agree to`, `avoid -ing`, `consider -ing`, `look forward to -ing` 等陷阱，Part 5 難度也會再提高一級。",
+    "vocabularyReviewRounds": 2,
+    "priorityPhrases": [
+      "routine maintenance",
+      "safety inspection",
+      "replacement part",
+      "operate machinery",
+      "follow instructions",
+      "function properly",
+      "temporarily unavailable",
+      "contact the manufacturer"
+    ],
+    "oralConversions": [
+      {
+        "active": "The technician repaired the printer.",
+        "passive": "The printer was repaired by the technician."
+      },
+      {
+        "active": "The company installed the equipment.",
+        "passive": "The equipment was installed by the company."
+      },
+      {
+        "active": "The technician has repaired the printer.",
+        "passive": "The printer has been repaired."
+      }
+    ],
+    "quizRetry": {
+      "timeLimitSeconds": 240,
+      "targetCorrect": 9,
+      "totalQuestions": 10
+    }
+  },
+  "keyTakeaway": "先找誰做動作，再決定主動或被動。",
+  "nextDay": {
+    "day": 6,
+    "title": "不定詞 vs. 動名詞（to V / V-ing）",
+    "topics": [
+      "plan to",
+      "agree to",
+      "avoid -ing",
+      "consider -ing",
+      "look forward to -ing"
+    ]
+  },
+  "rawMarkdown": "# TOEIC 金色證書 90 天訓練｜Day 5\n\n今天進入 **主動語態 vs. 被動語態**。Day 4 已練過時態，因此今天把「時態 + 語態」合在一起，這正是 TOEIC Part 5 很常見的出題方式。\n\n目前尚未收到前幾天的實際作答紀錄，因此維持 **860+ 標準難度**。今天建議約 **90～110 分鐘**，小考請盡量計時完成。\n\n---\n\n## ① 今日高頻單字 30 個\n\n今天主題：**Office / Equipment / Maintenance**\n\n| # | 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| 1 | equipment | 設備 | office equipment |\n| 2 | facility | 設施 | manufacturing facility |\n| 3 | device | 裝置 | electronic device |\n| 4 | machinery | 機械 | heavy machinery |\n| 5 | install | 安裝 | install equipment |\n| 6 | installation | 安裝 | installation process |\n| 7 | inspect | 檢查 | inspect equipment |\n| 8 | inspection | 檢查 | safety inspection |\n| 9 | maintain | 維護 | maintain equipment |\n| 10 | maintenance | 維護 | routine maintenance |\n| 11 | repair | 修理 | repair a machine |\n| 12 | replace | 更換 | replace a part |\n| 13 | replacement | 替代品 | replacement part |\n| 14 | operate | 操作 | operate machinery |\n| 15 | operation | 運作 | normal operation |\n| 16 | malfunction | 故障 | equipment malfunction |\n| 17 | damage | 損壞 | damaged equipment |\n| 18 | defective | 有缺陷的 | defective product |\n| 19 | technician | 技術人員 | service technician |\n| 20 | manufacturer | 製造商 | contact the manufacturer |\n| 21 | instruction | 說明 | follow instructions |\n| 22 | procedure | 程序 | safety procedure |\n| 23 | safety | 安全 | safety regulations |\n| 24 | require | 要求 | require maintenance |\n| 25 | permit | 許可 | parking permit |\n| 26 | access | 使用權；進入 | access the building |\n| 27 | temporarily | 暫時地 | temporarily unavailable |\n| 28 | regularly | 定期地 | regularly inspected |\n| 29 | immediately | 立即地 | respond immediately |\n| 30 | properly | 正確地 | function properly |\n\n今天優先記：\n\n**routine maintenance**  \n**safety inspection**  \n**replacement part**  \n**follow instructions**  \n**operate machinery**  \n**temporarily unavailable**  \n**function properly**\n\n注意：\n\n**equipment** 通常是不可數名詞。\n\n> new equipment ✅  \n> some equipment ✅  \n> equipments ❌\n\n---\n\n# ② 今日文法｜主動 vs. 被動\n\n先看兩句：\n\n> The technician repaired the printer.\n\n技術人員修理印表機。\n\ntechnician 是「做動作的人」。\n\n所以：\n\n**主動語態**\n\n結構：\n\n> S + V + O\n\n---\n\n換成：\n\n> The printer was repaired by the technician.\n\n印表機被技術人員修理。\n\nprinter 是「接受動作的東西」。\n\n所以：\n\n**被動語態**\n\n核心結構：\n\n> **be + past participle（p.p.）**\n\n例如：\n\n> is installed  \n> was repaired  \n> has been replaced  \n> will be inspected\n\n---\n\n# ③ TOEIC 最重要的判斷方法\n\n看到：\n\n> The equipment _____ every month.\n\n(A) inspects  \n(B) is inspected  \n(C) inspecting  \n(D) has inspect\n\n先問：\n\n**equipment 會去檢查別人嗎？**\n\n不會。\n\nequipment 是：\n\n**被檢查**\n\n所以：\n\n> equipment **is inspected**\n\n答案：\n\n**B**\n\n---\n\n再看：\n\n> The technician _____ the equipment every month.\n\n現在 technician 是執行者。\n\n所以：\n\n> technician **inspects**\n\n這就是：\n\n**主詞能不能執行這個動作？**\n\n能 → 主動\n\n不能／接受動作 → 被動\n\n---\n\n# ④ 時態 + 被動語態\n\nDay 4 的時態現在開始合併。\n\n### 現在式被動\n\n> The equipment **is inspected** every month.\n\n**is/am/are + p.p.**\n\n---\n\n### 過去式被動\n\n> The equipment **was inspected** yesterday.\n\n**was/were + p.p.**\n\n---\n\n### 現在完成式被動\n\n> The equipment **has been inspected** already.\n\n**has/have been + p.p.**\n\n這個結構非常重要：\n\n> **has been + p.p.**\n\n---\n\n### 未來式被動\n\n> The equipment **will be inspected** tomorrow.\n\n**will be + p.p.**\n\n因此看到：\n\n> The building _____ next week.\n\n如果 building 是「被檢查」：\n\n> **will be inspected**\n\n而不是：\n\n> will inspect\n\n---\n\n# ⑤ Part 5 語態陷阱\n\n### Example 1\n\n> All employees _____ to wear identification badges.\n\n(A) require  \n(B) are required  \n(C) requiring  \n(D) requirements\n\nemployees 是：\n\n**被要求**\n\n所以：\n\n> are required to\n\n答案：\n\n**B**\n\n這是超高頻搭配：\n\n> **be required to + V**\n\n---\n\n### Example 2\n\n> The new computers _____ yesterday afternoon.\n\n(A) installed  \n(B) were installed  \n(C) installing  \n(D) have install\n\ncomputers 不會自己安裝。\n\n而且：\n\n**yesterday**\n\n因此：\n\n過去式 + 被動\n\n> were installed\n\n答案：\n\n**B**\n\n---\n\n### Example 3\n\n> The maintenance department _____ the elevators regularly.\n\n(A) inspects  \n(B) is inspected  \n(C) inspecting  \n(D) inspection\n\nmaintenance department 是執行者。\n\n所以：\n\n> inspects\n\n答案：\n\n**A**\n\n---\n\n# ⑥ Listening｜Part 2 高分陷阱\n\n今天繼續間接回答，但提高難度。\n\n### Q1\n\n> Has the air conditioner been repaired yet?\n\n(A) The technician is working on it now.  \n(B) On the second floor.  \n(C) About three years old.\n\n答案：\n\n**A**\n\n沒有回答 Yes / No。\n\n但：\n\n> technician is working on it\n\n代表：\n\n**還在修。**\n\n---\n\n### Q2\n\n> Who installed the new security system?\n\n(A) It was done by an outside company.  \n(B) Near the main entrance.  \n(C) Last weekend.\n\n答案：\n\n**A**\n\nWho → 人／單位。\n\n`an outside company` 就是答案。\n\n---\n\n### Q3\n\n> Why is the elevator unavailable?\n\n(A) It's being inspected.  \n(B) On the fourth floor.  \n(C) About ten people.\n\n答案：\n\n**A**\n\n注意今天的結構：\n\n> **is being inspected**\n\n代表：\n\n**目前正在被檢查**\n\n---\n\n### Q4\n\n> Should I call the repair company?\n\n(A) I've already contacted them.  \n(B) The printer is upstairs.  \n(C) Around fifty dollars.\n\n答案：\n\n**A**\n\nTOEIC 很愛這種：\n\n> Should I...?\n\n回答：\n\n> 已經有人處理了。\n\n---\n\n### Q5\n\n> When will the new equipment be installed?\n\n(A) The technician hasn't confirmed a date.  \n(B) In the storage room.  \n(C) It's quite expensive.\n\n答案：\n\n**A**\n\n又是一個：\n\n**When ≠ 一定出現時間。**\n\n---\n\n# ⑦ Reading｜Part 7\n\n給自己 **2 分鐘**。\n\n> **NOTICE**\n>\n> **Elevator Maintenance**\n>\n> The elevators in the west wing of the Wellington Office Building will be temporarily unavailable on September 8 from 9:00 A.M. to 1:00 P.M.\n>\n> During this time, the elevators will undergo a scheduled safety inspection. Employees working on floors two through five are asked to use the elevators in the east wing.\n>\n> The inspection is expected to be completed by 1:00 P.M., but employees will be notified by email if additional maintenance is required.\n>\n> We apologize for any inconvenience.\n\n### Q1\n\nWhy will the elevators be unavailable?\n\n(A) They are being replaced  \n(B) A safety inspection will be performed  \n(C) The building will close  \n(D) New elevators are being installed\n\n### Q2\n\nHow long is the inspection expected to last?\n\n(A) Two hours  \n(B) Three hours  \n(C) Four hours  \n(D) Five hours\n\n### Q3\n\nWhat should some employees do?\n\n(A) Work from home  \n(B) Use another set of elevators  \n(C) Leave the building before 9:00  \n(D) Contact the maintenance department\n\n### Q4\n\nHow will employees learn about additional maintenance?\n\n(A) By telephone  \n(B) Through a meeting  \n(C) By email  \n(D) Through a website\n\n答案：\n\n**1B / 2C / 3B / 4C**\n\n注意 Q2。\n\n9:00 → 1:00\n\n不要回文章找完全相同的：\n\n> four hours\n\n你需要自己算：\n\n**4 小時**\n\n這就是 Part 7 很常見的簡單推論。\n\n---\n\n# ⑧ TOEIC 仿真題｜10 題\n\n今天增加到 10 題。\n\n先自己完成。\n\n### 1\n\nThe office computers _____ regularly to ensure that they function properly.\n\n(A) inspect  \n(B) are inspected  \n(C) inspecting  \n(D) inspection\n\n### 2\n\nA technician _____ the malfunctioning printer yesterday afternoon.\n\n(A) repaired  \n(B) was repaired  \n(C) repairing  \n(D) repairable\n\n### 3\n\nThe new security system _____ next Monday.\n\n(A) installs  \n(B) installed  \n(C) will install  \n(D) will be installed\n\n### 4\n\nAll visitors are _____ to wear identification badges.\n\n(A) require  \n(B) required  \n(C) requiring  \n(D) requirement\n\n### 5\n\nThe elevators _____ since early this morning.\n\n(A) have inspected  \n(B) have been inspected  \n(C) inspect  \n(D) inspection\n\n### 6\n\nThe maintenance staff _____ the air-conditioning system every three months.\n\n(A) checks  \n(B) is checked  \n(C) checking  \n(D) checkable\n\n### 7\n\nSeveral defective products _____ from store shelves last week.\n\n(A) removed  \n(B) were removed  \n(C) removing  \n(D) have remove\n\n### 8\n\nThe manufacturer has _____ the damaged parts.\n\n(A) replace  \n(B) replacement  \n(C) replaced  \n(D) replacing\n\n### 9\n\nThe building _____ thoroughly before it opened to the public.\n\n(A) inspected  \n(B) was inspected  \n(C) inspection  \n(D) inspecting\n\n### 10\n\nEmployees must _____ all safety procedures.\n\n(A) follow  \n(B) followed  \n(C) be followed  \n(D) following\n\n---\n\n# ⑨ 今日小考｜10 題\n\n今天限制：\n\n**4 分 30 秒。**\n\n### Q1\n\nThe conference room _____ every evening.\n\n(A) cleans  \n(B) is cleaned  \n(C) cleaning  \n(D) cleanly\n\n### Q2\n\nThe technician _____ the equipment yesterday.\n\n(A) inspected  \n(B) was inspected  \n(C) inspection  \n(D) inspectable\n\n### Q3\n\nAll applications must _____ before Friday.\n\n(A) submit  \n(B) be submitted  \n(C) submitted  \n(D) submission\n\n### Q4\n\nThe new software has already _____ on all office computers.\n\n(A) installed  \n(B) installing  \n(C) been installed  \n(D) installation\n\n### Q5\n\nOur maintenance team _____ the heating system regularly.\n\n(A) checks  \n(B) is checked  \n(C) checking  \n(D) has been checked\n\n### Q6\n\nHas the printer been fixed yet?\n\n(A) The technician is still working on it.  \n(B) Beside the copy machine.  \n(C) About $200.\n\n### Q7\n\nWho repaired the elevator?\n\n(A) It took about an hour.  \n(B) A technician from Metro Services.  \n(C) On the third floor.\n\n### Q8\n\nWhy is Conference Room B closed?\n\n(A) It's being cleaned.  \n(B) At two o'clock.  \n(C) About twenty seats.\n\n### Q9\n\nShould we order replacement parts now?\n\n(A) The manager has already ordered them.  \n(B) They're in the storage room.  \n(C) About ten parts.\n\n### Q10\n\nWhen will the equipment be delivered?\n\n(A) The supplier hasn't confirmed it yet.  \n(B) At the loading dock.  \n(C) It's very heavy.\n\n---\n\n# ⑩ 答案與解析\n\n仿真題：\n\n**1 B / 2 A / 3 D / 4 B / 5 B / 6 A / 7 B / 8 C / 9 B / 10 A**\n\n其中最重要的是第 3 題：\n\n> The new security system _____ next Monday.\n\nsystem 是：\n\n**被安裝**\n\nnext Monday → 未來\n\n所以：\n\n> **will be installed**\n\n---\n\n第 5 題：\n\n> have _____\n\n而 elevators 是接受 inspect 的對象。\n\n因此：\n\n> **have been inspected**\n\n這是：\n\n**現在完成式 + 被動**\n\n---\n\n第 10 題：\n\n> Employees must _____ all safety procedures.\n\nemployees 執行 follow。\n\n所以：\n\n> must **follow**\n\n不能看到 `must` 就以為一定是：\n\n> must be + p.p.\n\n仍然要先判斷：\n\n**誰做動作。**\n\n---\n\n今日小考：\n\n**1 B / 2 A / 3 B / 4 C / 5 A / 6 A / 7 B / 8 A / 9 A / 10 A**\n\n### Q3\n\n> applications must _____\n\napplications 是：\n\n**被提交**\n\nmodal verb 的被動：\n\n> **must be + p.p.**\n\n所以：\n\n> must be submitted\n\n---\n\n### Q4\n\n> has already _____\n\nsoftware 被安裝。\n\n現在完成式被動：\n\n> **has been installed**\n\n---\n\n### Q8\n\n> Why is Conference Room B closed?\n\n> It's being cleaned.\n\n這裡出現今天的新結構：\n\n**be + being + p.p.**\n\n代表：\n\n**現在正在被……**\n\n---\n\n# ⑪ Day 4 錯題複習\n\n昨天的核心是時態。\n\n今天把時態與語態合併成一張表：\n\n| 時間 | 主動 | 被動 |\n|---|---|---|\n| 現在 | inspects | is inspected |\n| 過去 | inspected | was inspected |\n| 現在完成 | has inspected | has been inspected |\n| 未來 | will inspect | will be inspected |\n\n看到題目：\n\n> The equipment _____ yesterday.\n\n先找到：\n\n**yesterday → 過去**\n\n再判斷：\n\nequipment 是被檢查。\n\n因此：\n\n> **was inspected**\n\n不要反過來。\n\n正確流程：\n\n**時間 → 主動/被動 → 動詞形式**\n\n---\n\n# ⑫ 今日作業\n\n今天先把 30 個單字複習兩輪，尤其要能直接反應：\n\n> routine maintenance  \n> safety inspection  \n> replacement part  \n> operate machinery  \n> follow instructions  \n> function properly  \n> temporarily unavailable  \n> contact the manufacturer\n\n接著做「主被動口頭轉換」。\n\n看到：\n\n> technician / repair / printer\n\n自己說：\n\n> The technician repaired the printer.\n\n再轉：\n\n> The printer was repaired by the technician.\n\n接著：\n\n> company / install / equipment\n\n說：\n\n> The company installed the equipment.\n\n再轉：\n\n> The equipment was installed by the company.\n\n最後練：\n\n> The technician has repaired the printer.\n\n→\n\n> The printer **has been repaired**.\n\n這一步如果能自然說出來，今天的核心就掌握了。\n\n睡前重新完成今日 **10 題小考**，限制 **4 分鐘**，目標 **9/10 以上**。\n\n如果第一次已經達到 9～10 題，第二次不要只追求正確，而是每一題都能在看到空格後立刻判斷：\n\n> **主動？還是被動？**\n\nDay 5 最重要的公式不是死背 `be + p.p.`，而是：\n\n> **先找誰做動作，再決定主動或被動。**\n\n下一課 **Day 6** 會進入 **不定詞 vs. 動名詞（to V / V-ing）**，包括 TOEIC 高頻的 `plan to`, `agree to`, `avoid -ing`, `consider -ing`, `look forward to -ing` 等陷阱，Part 5 難度也會再提高一級。",
+  "editorialNotes": [
+    "原文未提供逐題解析時，explanation 設為 null；完整教材保留在 sections 與 rawMarkdown。"
+  ]
+}
