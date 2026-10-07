@@ -17,6 +17,35 @@ function save(){state.currentDay=currentDay;try{localStorage.setItem('toeic-stud
 function updateProgress(){const completed=new Set(state.completedDays).size;$('#progress').innerHTML=`${completed} <small>/ 90 天</small>`;$('#bar').style.width=`${completed*100/90}%`}
 function inline(text){return esc(text).replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>').replace(/`([^`]+)`/g,'<code>$1</code>')}
 function md(text){let output='',table=false,list=false;for(const line of String(text||'').split('\n')){if(!line.startsWith('|')&&table){output+='</tbody></table>';table=false}if(!/^[-*] /.test(line)&&list){output+='</ul>';list=false}if(/^\|/.test(line)){if(/^\|[\s:|-]+\|$/.test(line))continue;if(!table){output+='<table><tbody>';table=true}output+='<tr>'+line.split('|').slice(1,-1).map(cell=>'<td>'+inline(cell.trim())+'</td>').join('')+'</tr>';continue}if(/^[-*] /.test(line)){if(!list){output+='<ul>';list=true}output+='<li>'+inline(line.slice(2))+'</li>';continue}if(/^#{1,4} /.test(line))output+='<h3>'+inline(line.replace(/^#+ /,''))+'</h3>';else if(line.startsWith('>'))output+='<blockquote>'+inline(line.slice(1).trim())+'</blockquote>';else if(line==='---')output+='<hr>';else if(line.trim())output+='<p>'+inline(line)+'</p>'}return output+(table?'</tbody></table>':'')+(list?'</ul>':'')}
+function bullets(items=[]){return items.map(item=>`- ${item}`).join('\n')}
+function normalizeLesson(data,day){
+  if(Array.isArray(data.sections))return data;
+  if(!data.course||!data.lesson)throw new Error('Unsupported lesson format');
+  const vocabulary=(data.vocabulary||[]).map(item=>({...item,phrase:item.phrase||item.collocation||''}));
+  const vocabularyTable=['| Word | 中文 | TOEIC 搭配 |','|---|---|---|',...vocabulary.map(item=>`| ${item.word} | ${item.meaning} | ${item.phrase} |`)].join('\n');
+  const listening=(data.listening||[]).map(item=>`### ${item.id}｜${item.topic}\n\n技能：${(item.skills||[]).join(' / ')}\n\n> ${item.summary}`).join('\n\n---\n\n');
+  const readingDocuments=(data.reading?.documents||[]).map((document,index)=>`### Document ${index+1}｜${document.type}\n\n${bullets(document.keyFacts)}`).join('\n\n');
+  const errorTags=['| Code | 類型 |','|---|---|',...(data.errorTags||[]).map(tag=>`| ${tag.code} | ${tag.name} |`)].join('\n');
+  const difficulty=Object.entries(data.adaptiveDifficulty||{}).map(([score,next])=>`- **${score} 題正確**：${next}`).join('\n');
+  return {
+    day:data.course.day||day,
+    title:data.lesson.title,
+    courseTitle:data.course.title,
+    minutes:data.course.estimatedMinutes,
+    level:data.course.level,
+    vocabulary,
+    quizzes:[],
+    sections:[
+      {title:'學習目標',markdown:`## Day ${data.course.day}｜${data.lesson.title}\n\n${bullets(data.lesson.objectives)}\n\n建議時間：**${data.course.estimatedMinutes} 分鐘**。`},
+      {title:'今日核心單字',markdown:vocabularyTable},
+      {title:data.grammar?.topic||'Grammar',markdown:`目標速度：**每題 ${data.grammar?.targetSecondsPerQuestion||'-'} 秒**\n\n${bullets(data.grammar?.rules)}`},
+      {title:'Listening｜同義轉換與意圖',markdown:listening||'本日沒有聽力摘要。'},
+      {title:`Reading｜${data.reading?.topic||'閱讀訓練'}`,markdown:`題型：**${data.reading?.type||'reading'}**\n\n${readingDocuments}`},
+      {title:'錯題標記與作業',markdown:`${errorTags}\n\n### 今日複習策略\n\n${bullets(data.homework?.reviewStrategy)}\n\nPart 5：**${data.homework?.part5?.questions||0} 題**，第二次限時 **${data.homework?.part5?.secondAttemptTimeLimitSeconds||0} 秒**。\n\n階段練習目標：**${data.homework?.quiz?.targetCorrect||0} 題正確**。`},
+      {title:'下一步難度',markdown:`${difficulty}\n\n### Day ${data.nextDay?.day||Number(day)+1} 預告\n\n${bullets(data.nextDay?.focus)}`}
+    ]
+  };
+}
 function makeGroups(){if(lesson.day===28&&lesson.sections.length>=21)return day28Groups;return lesson.sections.map((section,index)=>({name:section.title.replace(/^[①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳]\s*/,''),ids:[index]}))}
 function navigate(nextView){if('speechSynthesis'in window)speechSynthesis.cancel();view=nextView;document.querySelectorAll('.nav').forEach(button=>button.classList.toggle('active',button.dataset.view===view));render()}
 
@@ -30,7 +59,7 @@ function renderQuiz(){if(!lesson.quizzes?.length)return '<div class="card">本�
 
 function render(){if(!lesson)return;const titles={lesson:[lesson.title,lesson.courseTitle||lesson.source||`Day ${currentDay} 每日教材`],calendar:['你的 90 天學習旅程','選擇已匯入的日期，開始或繼續學習。'],words:[`Day ${currentDay} 核心單字`,`${lesson.vocabulary?.length||0} 個單字，搭配一起記更牢。`],quiz:[`Day ${currentDay} 階段練習`,'完成作答後提交，立即查看答案與解析。']};$('#page-title').textContent=titles[view][0];$('#page-sub').textContent=titles[view][1];if(view==='lesson')$('#content').innerHTML=renderLesson();else if(view==='calendar')$('#content').innerHTML=renderCalendar();else if(view==='words')$('#content').innerHTML=renderWords();else $('#content').innerHTML=renderQuiz();if(view==='lesson')updateLessonHeader();bind()}
 function speak(text){if(!('speechSynthesis'in window)){alert('此瀏覽器不支援語音朗讀。');return}speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(text);utterance.lang='en-US';utterance.rate=.88;speechSynthesis.speak(utterance)}
-async function loadDay(day,nextView='lesson'){$('#content').innerHTML='<div class="card">正在載入教材…</div>';try{const response=await fetch(`data/day-${day}.json`);if(!response.ok)throw new Error(`HTTP ${response.status}`);lesson=await response.json();currentDay=day;part=0;quizIndex=0;groups=makeGroups();save();navigate(nextView)}catch{$('#content').innerHTML=`<div class="card">Day ${day} 教材載入失敗，請稍後再試。</div>`}}
+async function loadDay(day,nextView='lesson'){$('#content').innerHTML='<div class="card">正在載入教材…</div>';try{const response=await fetch(`data/day-${day}.json`);if(!response.ok)throw new Error(`HTTP ${response.status}`);lesson=normalizeLesson(await response.json(),day);currentDay=day;part=0;quizIndex=0;groups=makeGroups();save();navigate(nextView)}catch(error){console.error(error);$('#content').innerHTML=`<div class="card">Day ${day} 教材載入失敗，請稍後再試。</div>`}}
 
 function bind(){document.querySelectorAll('[data-part]').forEach(button=>button.onclick=()=>{part=Number(button.dataset.part);render()});$('#previous')?.addEventListener('click',()=>{part--;render()});$('#next')?.addEventListener('click',()=>{if(part<groups.length-1)part++;else if(!isCompleted(currentDay)){state.completedDays.push(currentDay);save()}render();window.scrollTo({top:240,behavior:'smooth'})});document.querySelectorAll('[data-open-day]').forEach(button=>button.onclick=()=>loadDay(Number(button.dataset.openDay)));document.querySelectorAll('[data-word]').forEach(button=>button.onclick=()=>speak(lesson.vocabulary[Number(button.dataset.word)].word));document.querySelectorAll('[data-speak]').forEach(button=>button.onclick=()=>{const markdown=lesson.sections[Number(button.dataset.speak)].markdown;const script=markdown.split('聽力稿：')[1]?.split('答案：')[0]||markdown;speak(script.replace(/^>\s?/gm,'').trim())});document.querySelectorAll('[data-stop]').forEach(button=>button.onclick=()=>speechSynthesis.cancel());document.querySelectorAll('[data-quiz]').forEach(button=>button.onclick=()=>{quizIndex=Number(button.dataset.quiz);render()});$('#retry')?.addEventListener('click',render);$('#quiz-form')?.addEventListener('submit',event=>{event.preventDefault();const quiz=lesson.quizzes[quizIndex],formData=new FormData(event.target);let score=0;quiz.questions.forEach(question=>{const answer=formData.get('q'+question.id),correct=answer===question.answer;if(correct)score++;const explanation=question.explanation?`<br>${inline(question.explanation)}`:'';$(`#question-${question.id} .feedback`).innerHTML=`<p class="${correct?'correct':'wrong'}">${correct?'✓ 答對了':`答錯了 · 你的答案 ${esc(answer)}`} · 正確答案 ${question.answer}：${inline(question.options[question.answer])}${explanation}</p>`});if(!state.scores[currentDay])state.scores[currentDay]={};state.scores[currentDay][quizIndex]=score;save();const percentage=score/quiz.questions.length;$('#result').textContent=`${score} / ${quiz.questions.length} · ${percentage>=.9?'掌握得很好！':percentage>=.75?'再複習幾個觀念就更穩了。':'回到教材，釐清錯題的判斷依據。'}`;$('#result').scrollIntoView({behavior:'smooth',block:'center'})})}
 

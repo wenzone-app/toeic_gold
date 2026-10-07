@@ -141,8 +141,8 @@
   },
   {
     "day": 29,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "900+ 同義轉換、Triple Passage 與高速詞性辨識"
   },
   {
     "day": 30,

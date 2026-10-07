@@ -17,8 +17,8 @@ python3 -m http.server 8000 --directory dist
 - dist/index.html：畫面
 - dist/style.css：樣式
 - dist/app.js：學習功能、語音朗讀、計分
-- dist/data/day-28.json：Day 28 教材
-- dist/data/curriculum.json：90 天目錄；目前只有 Day 28 已匯入
+- dist/data/day-N.json：各日教材
+- dist/data/curriculum.json：90 天目錄與各日開放狀態
 
 進度與成績保存在瀏覽器 localStorage，並不跨裝置同步。朗讀使用瀏覽器語音合成。
 
