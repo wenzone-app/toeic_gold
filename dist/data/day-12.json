@@ -1,0 +1,538 @@
+{
+  "schemaVersion": "1.0",
+  "day": 12,
+  "title": "時間與條件連接詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": {
+    "min": 90,
+    "max": 90
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 12 教材",
+  "sections": [
+    {
+      "title": "Day 12 學習概覽",
+      "markdown": "今天進入第二週另一個高頻失分區：**時間與條件連接詞**。主攻 `when / before / after / until / once / if / unless`，以及 TOEIC 很愛考的：\n\n> **未來的時間／條件副詞子句中，不使用 will。**\n\n目前沒有收到前幾日的小考實際成績，因此今天維持 **860～900 分難度**，並持續混入 Day 8～11 的分詞、關係詞與連接詞題型。建議訓練約 **90 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Marketing / Advertising / Sales**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| advertise | 做廣告 | advertise a product |\n| advertisement | 廣告 | online advertisement |\n| advertising | 廣告活動 | advertising campaign |\n| campaign | 宣傳活動 | launch a campaign |\n| promote | 推廣 | promote a product |\n| promotion | 促銷 | special promotion |\n| promotional | 促銷的 | promotional materials |\n| market | 市場 | target market |\n| marketing | 行銷 | marketing strategy |\n| consumer | 消費者 | consumer demand |\n| customer | 顧客 | attract customers |\n| client | 客戶 | potential client |\n| target | 目標 | target audience |\n| audience | 受眾 | target audience |\n| survey | 調查 | conduct a survey |\n| feedback | 意見 | customer feedback |\n| launch | 推出 | product launch |\n| brand | 品牌 | brand awareness |\n| awareness | 認知度 | increase awareness |\n| competitor | 競爭者 | major competitor |\n| competitive | 有競爭力的 | competitive price |\n| demand | 需求 | customer demand |\n| sales | 銷售 | increase sales |\n| revenue | 營收 | generate revenue |\n| discount | 折扣 | offer a discount |\n| coupon | 優惠券 | discount coupon |\n| brochure | 宣傳冊 | product brochure |\n| distribute | 分發 | distribute brochures |\n| attract | 吸引 | attract customers |\n| persuade | 說服 | persuade customers |\n\n今天優先形成：\n\n**advertising campaign**  \n**special promotion**  \n**promotional materials**  \n**target market**  \n**target audience**  \n**conduct a survey**  \n**customer feedback**  \n**brand awareness**  \n**competitive price**  \n**product launch**\n\n---"
+    },
+    {
+      "title": "② 今日文法｜時間副詞子句",
+      "markdown": "看：\n\n> We will contact you **when the order arrives**.\n\n注意：\n\n主句：\n\n> We **will contact** you.\n\n未來式。\n\n但是 when 子句：\n\n> when the order **arrives**\n\n使用：\n\n**現在簡單式**\n\n不是：\n\n> when the order will arrive ❌\n\n這是今天最重要的規則。\n\n當 `when / before / after / until / once` 表達未來時間時：\n\n> **主句可以 will**\n\n但：\n\n> **時間副詞子句使用現在式表未來**\n\n---"
+    },
+    {
+      "title": "③ when",
+      "markdown": "> I will call you when the meeting **ends**.\n\n不是：\n\n> when the meeting will end ❌\n\n因此：\n\n> The manager will review the report when she _____ to the office.\n\n(A) will return  \n(B) returns  \n(C) returned  \n(D) returning\n\n答案：\n\n**B**\n\n---"
+    },
+    {
+      "title": "④ before / after",
+      "markdown": "> Please check the document before you **submit** it.\n\n> We will begin after everyone **arrives**.\n\n即使事情發生在未來：\n\n> after everyone arrives\n\n仍然不用：\n\n> after everyone will arrive ❌\n\n---"
+    },
+    {
+      "title": "⑤ until",
+      "markdown": "`until` = 直到。\n\n> Please wait here until the manager **returns**.\n\n又是：\n\n**現在式表未來。**\n\nTOEIC 高頻：\n\n> The store will remain closed until the renovation **is completed**.\n\n注意這裡又混入 Day 5：\n\nrenovation 是「被完成」。\n\n所以：\n\n> **is completed**\n\n現在式 + 被動。\n\n---"
+    },
+    {
+      "title": "⑥ once",
+      "markdown": "`once` 在 TOEIC 很常表示：\n\n**一旦……**\n\n例如：\n\n> We will ship your order once payment **is received**.\n\n不是：\n\n> once payment will be received ❌\n\npayment 是「被收到」。\n\n所以：\n\n> **is received**\n\n這種題已經同時考：\n\n**時間連接詞 + 主被動**\n\n---"
+    },
+    {
+      "title": "⑦ 條件句｜if",
+      "markdown": "同樣規則：\n\n> If you **submit** the form today, we will process it tomorrow.\n\n不是：\n\n> If you will submit... ❌\n\n標準第一條件句：\n\n> **If + 現在式, will + V**\n\n例如：\n\n> If demand **increases**, the factory will increase production.\n\n---"
+    },
+    {
+      "title": "⑧ unless",
+      "markdown": "`unless` 很重要：\n\n> **unless = if ... not**\n\n例如：\n\n> We will cancel the meeting unless the manager arrives.\n\n等於：\n\n> We will cancel the meeting if the manager does not arrive.\n\n所以：\n\n> unless you contact us\n\n= 如果你沒有聯絡我們。\n\n---\n\n## 超高頻例句\n\n> Your reservation will be canceled unless payment _____ by Friday.\n\n(A) receives  \n(B) will receive  \n(C) is received  \n(D) will be received\n\npayment 是：\n\n**被收到**\n\n又在 unless 子句。\n\n所以：\n\n> **is received**\n\n答案：\n\n**C**\n\n這就是 860～900 分題型：一次考兩個規則。\n\n---"
+    },
+    {
+      "title": "⑨ Listening｜Part 2",
+      "markdown": "今天加入更多「反問／資訊不足」回答。\n\n### Q1\n\n> When will the new advertising campaign begin?\n\n(A) Once the final design is approved.  \n(B) About $30,000.  \n(C) The marketing department.\n\n**答案：A**\n\n---\n\n### Q2\n\n> Should we offer customers a larger discount?\n\n(A) What are our competitors offering?  \n(B) The promotion ends Friday.  \n(C) About two hundred customers.\n\n**答案：A**\n\n要不要打更大折扣？\n\n→ 競爭對手給多少？\n\n合理的決策前置問題。\n\n---\n\n### Q3\n\n> Has the marketing team finished the brochure?\n\n(A) They're waiting for the final photographs.  \n(B) About twelve pages.  \n(C) At the printing company.\n\n**答案：A**\n\n可以推論：\n\n**還沒完成。**\n\n---\n\n### Q4\n\n> Why hasn't the advertisement been published?\n\n(A) The manager hasn't approved it yet.  \n(B) On the company website.  \n(C) About three weeks.\n\n**答案：A**\n\n---\n\n### Q5\n\n> Who's conducting the customer survey?\n\n(A) Didn't Maria volunteer to do it?  \n(B) About five hundred customers.  \n(C) Next Tuesday.\n\n**答案：A**\n\n---\n\n### Q6\n\n> Aren't we launching the product next week?\n\n(A) The launch has been postponed.  \n(B) At the convention center.  \n(C) About twenty products.\n\n**答案：A**\n\n---"
+    },
+    {
+      "title": "⑩ Reading｜Part 7",
+      "markdown": "今天限時：\n\n**3 分鐘。**\n\n> **To:** Sales Team  \n> **From:** Marketing Department  \n> **Subject:** New Product Promotion\n>\n> Our advertising campaign for the new HomePro coffee machine will begin on September 21. The campaign will include online advertisements, promotional videos, and product demonstrations at selected retail stores.\n>\n> Customers who purchase a HomePro machine before October 15 will receive a complimentary package of coffee beans. They will also receive a 20 percent discount on selected accessories if they register their product on our website within seven days of purchase.\n>\n> Before the campaign begins, all sales representatives must complete the online product training program. The program takes approximately 45 minutes and includes information about product features, pricing, and warranty coverage.\n>\n> Promotional materials will be delivered to stores once the final designs are approved. Store managers should contact the Marketing Department if the materials have not arrived by September 18.\n\n### Q1\n\nWhen will the advertising campaign begin?\n\n(A) September 15  \n(B) September 18  \n(C) September 21  \n(D) October 15\n\n### Q2\n\nWhat will customers receive with qualifying purchases?\n\n(A) Free accessories  \n(B) Coffee beans  \n(C) An extended warranty  \n(D) A discount coupon\n\n### Q3\n\nWhat must customers do to receive an accessory discount?\n\n(A) Complete a survey  \n(B) Visit a retail store  \n(C) Register their product  \n(D) Purchase two machines\n\n### Q4\n\nWhat must sales representatives do before the campaign?\n\n(A) Complete training  \n(B) Contact customers  \n(C) Design promotional materials  \n(D) Conduct demonstrations\n\n### Q5\n\nWhen will promotional materials be delivered?\n\n(A) After the campaign ends  \n(B) Once the designs are approved  \n(C) Before training begins  \n(D) After customers register\n\n### Q6\n\nWhy might store managers contact Marketing?\n\n(A) To request training  \n(B) To change prices  \n(C) Promotional materials have not arrived  \n(D) To approve a design\n\n**答案：1C / 2B / 3C / 4A / 5B / 6C**\n\n注意文章：\n\n> Promotional materials will be delivered **once the final designs are approved**.\n\n這就是今天的：\n\n**once + 現在式表未來**\n\n而且：\n\n> designs **are approved**\n\n又是被動。\n\n---"
+    },
+    {
+      "title": "⑪ Part 5 仿真題｜12 題",
+      "markdown": "限時 **4 分鐘**。\n\n### 1\n\nWe will contact you when your order _____.\n\n(A) ships  \n(B) will ship  \n(C) shipped  \n(D) shipping\n\n### 2\n\nThe company will launch the campaign once the final design _____.\n\n(A) approves  \n(B) will approve  \n(C) is approved  \n(D) will be approved\n\n### 3\n\nPlease submit the form before the deadline _____.\n\n(A) passes  \n(B) will pass  \n(C) passing  \n(D) passed\n\n### 4\n\nWe will begin the presentation after everyone _____.\n\n(A) will arrive  \n(B) arrives  \n(C) arriving  \n(D) has arriving\n\n### 5\n\nThe store will remain closed until the renovation _____.\n\n(A) completes  \n(B) will complete  \n(C) is completed  \n(D) will be completed\n\n### 6\n\nIf demand _____, the company will increase production.\n\n(A) increases  \n(B) will increase  \n(C) increasing  \n(D) increased\n\n### 7\n\nYour reservation will be canceled unless payment _____ by Friday.\n\n(A) receives  \n(B) will receive  \n(C) is received  \n(D) will be received\n\n### 8\n\nWe will notify customers once the shipment _____.\n\n(A) arrives  \n(B) will arrive  \n(C) arriving  \n(D) arrive\n\n### 9\n\nIf you _____ any questions, please contact Customer Service.\n\n(A) will have  \n(B) have  \n(C) having  \n(D) had\n\n### 10\n\nEmployees should turn off their computers before they _____ the office.\n\n(A) will leave  \n(B) leaving  \n(C) leave  \n(D) left\n\n### 11\n\nThe discount will remain available until the promotion _____.\n\n(A) ends  \n(B) will end  \n(C) ending  \n(D) ended\n\n### 12\n\nUnless the supplier _____ the parts today, production will be delayed.\n\n(A) delivers  \n(B) will deliver  \n(C) delivering  \n(D) delivered\n\n**答案：1A / 2C / 3A / 4B / 5C / 6A / 7C / 8A / 9B / 10C / 11A / 12A**\n\n---"
+    },
+    {
+      "title": "⑫ Day 12 小考",
+      "markdown": "今天限制：\n\n**3 分鐘／10 題**\n\n先作答，再往下看答案。\n\n### Q1\n\nThe manager will call you when she _____ to the office.\n\n(A) will return  \n(B) returns  \n(C) returning  \n(D) returned\n\n### Q2\n\nThe products will be shipped once payment _____.\n\n(A) receives  \n(B) will receive  \n(C) is received  \n(D) will be received\n\n### Q3\n\nWe will start the meeting after everyone _____.\n\n(A) will arrive  \n(B) arrives  \n(C) arriving  \n(D) arrive\n\n### Q4\n\nIf customer demand _____, production will be increased.\n\n(A) will increase  \n(B) increases  \n(C) increasing  \n(D) increased\n\n### Q5\n\nThe reservation will be canceled unless you _____ us by Friday.\n\n(A) contact  \n(B) will contact  \n(C) contacting  \n(D) contacted\n\n### Q6\n\nWhen will the advertising campaign start?\n\n(A) Once the manager approves the final design.  \n(B) About $20,000.  \n(C) On social media.\n\n### Q7\n\nShould we increase the discount?\n\n(A) What are our competitors offering?  \n(B) About five hundred customers.  \n(C) The brochure is on my desk.\n\n### Q8\n\nHas the brochure been completed?\n\n(A) We're still waiting for the photographs.  \n(B) About ten pages.  \n(C) At the printer's office.\n\n### Q9\n\nWhy hasn't the advertisement been published?\n\n(A) It still needs the director's approval.  \n(B) For approximately two weeks.  \n(C) On several websites.\n\n### Q10\n\nTo **launch a product** means to:\n\n(A) repair it  \n(B) introduce it to the market  \n(C) discontinue it  \n(D) return it to the manufacturer\n\n## 答案\n\n**1B / 2C / 3B / 4B / 5A / 6A / 7A / 8A / 9A / 10B**\n\n---"
+    },
+    {
+      "title": "⑬ 今日解析",
+      "markdown": "今天最重要的是 Q2。\n\n> The products will be shipped once payment _____.\n\n先看到：\n\n> once\n\n未來時間副詞子句：\n\n**不用 will。**\n\n再看：\n\n> payment\n\npayment 不會「收到別人」。\n\n而是：\n\n**payment 被收到**\n\n所以：\n\n> **is received**\n\n答案 C。\n\n這題同時用了：\n\n**時間副詞子句 + 被動語態。**\n\n---\n\nQ4：\n\n> If customer demand _____, production will be increased.\n\nif 子句描述未來條件。\n\n所以：\n\n> **increases**\n\n不是：\n\n> will increase\n\n---\n\nQ5：\n\n> unless you contact us\n\n等於：\n\n> if you do not contact us\n\n因此：\n\n> The reservation will be canceled **if you do not contact us**.\n\n---"
+    },
+    {
+      "title": "⑭ 錯題複習",
+      "markdown": "今天快速回收 Day 9～11。\n\n> The hotel _____ we stayed...\n\n**where**\n\n`we stayed` 完整。\n\n> The hotel _____ we booked...\n\n**which**\n\n`we booked _____` 缺受詞。\n\n> _____ the heavy rain, the event continued.\n\n**Despite**\n\n後面名詞。\n\n> _____ it was raining, the event continued.\n\n**Although**\n\n後面完整句。\n\n> Please remain seated _____ the presentation.\n\n**during**\n\n後面名詞。\n\n> Please remain seated _____ the presentation is in progress.\n\n**while**\n\n後面完整句。\n\n如果這六題現在可以在 **30 秒內全部回答**，第二週的結構辨識進度正常。\n\n---"
+    },
+    {
+      "title": "⑮ 今日作業",
+      "markdown": "今天先複習單字搭配：\n\n> advertising campaign  \n> special promotion  \n> target audience  \n> conduct a survey  \n> customer feedback  \n> brand awareness  \n> competitive price  \n> product launch\n\n接著把今天七個連接詞直接背成一條時間線：\n\n> **before → when → after → until → once**\n\n再加：\n\n> **if → 如果**\n\n> **unless → 如果不**\n\n接著朗讀五次：\n\n> I'll call you when I **arrive**.\n\n> We'll start after everyone **arrives**.\n\n> We'll ship it once payment **is received**.\n\n> If demand **increases**, we'll increase production.\n\n> We'll cancel the order unless you **contact** us.\n\n不要只看，要真正念出來，讓「副詞子句不用 will」變成語感。\n\n最後睡前重新做 Day 12 小考，第二次限制：\n\n**2 分 30 秒**\n\n目標：\n\n**10/10。**\n\n如果今天能達到 **9～10/10 且 ≤3 分鐘**，Day 13 會繼續提高混合題比例；如果 Q1～Q5 錯超過兩題，後續會保留更多「主句 will + 副詞子句現在式」訓練。\n\n今天最重要的一個反射：\n\n> **看到 when / before / after / until / once / if / unless 描述未來，先把副詞子句裡的 will 拿掉。**\n\n**Day 13** 將進入 **比較級、最高級與 `as...as`，以及 `much / far / significantly + comparative` 的 860+ Part 5 陷阱**，並繼續增加 Part 7 的同義改寫與推論題。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "advertise",
+      "meaning": "做廣告",
+      "phrase": "advertise a product"
+    },
+    {
+      "id": 2,
+      "word": "advertisement",
+      "meaning": "廣告",
+      "phrase": "online advertisement"
+    },
+    {
+      "id": 3,
+      "word": "advertising",
+      "meaning": "廣告活動",
+      "phrase": "advertising campaign"
+    },
+    {
+      "id": 4,
+      "word": "campaign",
+      "meaning": "宣傳活動",
+      "phrase": "launch a campaign"
+    },
+    {
+      "id": 5,
+      "word": "promote",
+      "meaning": "推廣",
+      "phrase": "promote a product"
+    },
+    {
+      "id": 6,
+      "word": "promotion",
+      "meaning": "促銷",
+      "phrase": "special promotion"
+    },
+    {
+      "id": 7,
+      "word": "promotional",
+      "meaning": "促銷的",
+      "phrase": "promotional materials"
+    },
+    {
+      "id": 8,
+      "word": "market",
+      "meaning": "市場",
+      "phrase": "target market"
+    },
+    {
+      "id": 9,
+      "word": "marketing",
+      "meaning": "行銷",
+      "phrase": "marketing strategy"
+    },
+    {
+      "id": 10,
+      "word": "consumer",
+      "meaning": "消費者",
+      "phrase": "consumer demand"
+    },
+    {
+      "id": 11,
+      "word": "customer",
+      "meaning": "顧客",
+      "phrase": "attract customers"
+    },
+    {
+      "id": 12,
+      "word": "client",
+      "meaning": "客戶",
+      "phrase": "potential client"
+    },
+    {
+      "id": 13,
+      "word": "target",
+      "meaning": "目標",
+      "phrase": "target audience"
+    },
+    {
+      "id": 14,
+      "word": "audience",
+      "meaning": "受眾",
+      "phrase": "target audience"
+    },
+    {
+      "id": 15,
+      "word": "survey",
+      "meaning": "調查",
+      "phrase": "conduct a survey"
+    },
+    {
+      "id": 16,
+      "word": "feedback",
+      "meaning": "意見",
+      "phrase": "customer feedback"
+    },
+    {
+      "id": 17,
+      "word": "launch",
+      "meaning": "推出",
+      "phrase": "product launch"
+    },
+    {
+      "id": 18,
+      "word": "brand",
+      "meaning": "品牌",
+      "phrase": "brand awareness"
+    },
+    {
+      "id": 19,
+      "word": "awareness",
+      "meaning": "認知度",
+      "phrase": "increase awareness"
+    },
+    {
+      "id": 20,
+      "word": "competitor",
+      "meaning": "競爭者",
+      "phrase": "major competitor"
+    },
+    {
+      "id": 21,
+      "word": "competitive",
+      "meaning": "有競爭力的",
+      "phrase": "competitive price"
+    },
+    {
+      "id": 22,
+      "word": "demand",
+      "meaning": "需求",
+      "phrase": "customer demand"
+    },
+    {
+      "id": 23,
+      "word": "sales",
+      "meaning": "銷售",
+      "phrase": "increase sales"
+    },
+    {
+      "id": 24,
+      "word": "revenue",
+      "meaning": "營收",
+      "phrase": "generate revenue"
+    },
+    {
+      "id": 25,
+      "word": "discount",
+      "meaning": "折扣",
+      "phrase": "offer a discount"
+    },
+    {
+      "id": 26,
+      "word": "coupon",
+      "meaning": "優惠券",
+      "phrase": "discount coupon"
+    },
+    {
+      "id": 27,
+      "word": "brochure",
+      "meaning": "宣傳冊",
+      "phrase": "product brochure"
+    },
+    {
+      "id": 28,
+      "word": "distribute",
+      "meaning": "分發",
+      "phrase": "distribute brochures"
+    },
+    {
+      "id": 29,
+      "word": "attract",
+      "meaning": "吸引",
+      "phrase": "attract customers"
+    },
+    {
+      "id": 30,
+      "word": "persuade",
+      "meaning": "說服",
+      "phrase": "persuade customers"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "We will contact you when your order _____.",
+          "options": {
+            "A": "ships",
+            "B": "will ship",
+            "C": "shipped",
+            "D": "shipping"
+          },
+          "answer": "A",
+          "explanation": "when 引導未來時間副詞子句，使用現在式 ships。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company will launch the campaign once the final design _____.",
+          "options": {
+            "A": "approves",
+            "B": "will approve",
+            "C": "is approved",
+            "D": "will be approved"
+          },
+          "answer": "C",
+          "explanation": "once 子句不用 will，design 被核准，使用 is approved。"
+        },
+        {
+          "id": 3,
+          "prompt": "Please submit the form before the deadline _____.",
+          "options": {
+            "A": "passes",
+            "B": "will pass",
+            "C": "passing",
+            "D": "passed"
+          },
+          "answer": "A",
+          "explanation": "before 引導未來時間副詞子句，使用現在式 passes。"
+        },
+        {
+          "id": 4,
+          "prompt": "We will begin the presentation after everyone _____.",
+          "options": {
+            "A": "will arrive",
+            "B": "arrives",
+            "C": "arriving",
+            "D": "has arriving"
+          },
+          "answer": "B",
+          "explanation": "after 引導未來時間副詞子句，使用現在式 arrives。"
+        },
+        {
+          "id": 5,
+          "prompt": "The store will remain closed until the renovation _____.",
+          "options": {
+            "A": "completes",
+            "B": "will complete",
+            "C": "is completed",
+            "D": "will be completed"
+          },
+          "answer": "C",
+          "explanation": "renovation 被完成，且 until 子句不用 will，使用 is completed。"
+        },
+        {
+          "id": 6,
+          "prompt": "If demand _____, the company will increase production.",
+          "options": {
+            "A": "increases",
+            "B": "will increase",
+            "C": "increasing",
+            "D": "increased"
+          },
+          "answer": "A",
+          "explanation": "if 條件子句使用現在式 increases 表達未來。"
+        },
+        {
+          "id": 7,
+          "prompt": "Your reservation will be canceled unless payment _____ by Friday.",
+          "options": {
+            "A": "receives",
+            "B": "will receive",
+            "C": "is received",
+            "D": "will be received"
+          },
+          "answer": "C",
+          "explanation": "payment 被收到，且 unless 子句不用 will，使用 is received。"
+        },
+        {
+          "id": 8,
+          "prompt": "We will notify customers once the shipment _____.",
+          "options": {
+            "A": "arrives",
+            "B": "will arrive",
+            "C": "arriving",
+            "D": "arrive"
+          },
+          "answer": "A",
+          "explanation": "once 引導未來時間副詞子句，使用現在式 arrives。"
+        },
+        {
+          "id": 9,
+          "prompt": "If you _____ any questions, please contact Customer Service.",
+          "options": {
+            "A": "will have",
+            "B": "have",
+            "C": "having",
+            "D": "had"
+          },
+          "answer": "B",
+          "explanation": "if 條件子句使用現在式 have。"
+        },
+        {
+          "id": 10,
+          "prompt": "Employees should turn off their computers before they _____ the office.",
+          "options": {
+            "A": "will leave",
+            "B": "leaving",
+            "C": "leave",
+            "D": "left"
+          },
+          "answer": "C",
+          "explanation": "before 子句使用現在式 leave。"
+        },
+        {
+          "id": 11,
+          "prompt": "The discount will remain available until the promotion _____.",
+          "options": {
+            "A": "ends",
+            "B": "will end",
+            "C": "ending",
+            "D": "ended"
+          },
+          "answer": "A",
+          "explanation": "until 引導未來時間副詞子句，使用現在式 ends。"
+        },
+        {
+          "id": 12,
+          "prompt": "Unless the supplier _____ the parts today, production will be delayed.",
+          "options": {
+            "A": "delivers",
+            "B": "will deliver",
+            "C": "delivering",
+            "D": "delivered"
+          },
+          "answer": "A",
+          "explanation": "unless 條件子句使用現在式 delivers。"
+        }
+      ]
+    },
+    {
+      "id": "day-12-quiz",
+      "title": "Day 12 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The manager will call you when she _____ to the office.",
+          "options": {
+            "A": "will return",
+            "B": "returns",
+            "C": "returning",
+            "D": "returned"
+          },
+          "answer": "B",
+          "explanation": "when 子句描述未來時仍使用現在式 returns。"
+        },
+        {
+          "id": 2,
+          "prompt": "The products will be shipped once payment _____.",
+          "options": {
+            "A": "receives",
+            "B": "will receive",
+            "C": "is received",
+            "D": "will be received"
+          },
+          "answer": "C",
+          "explanation": "payment 被收到，且 once 子句不用 will，使用 is received。"
+        },
+        {
+          "id": 3,
+          "prompt": "We will start the meeting after everyone _____.",
+          "options": {
+            "A": "will arrive",
+            "B": "arrives",
+            "C": "arriving",
+            "D": "arrive"
+          },
+          "answer": "B",
+          "explanation": "after 子句描述未來時使用現在式 arrives。"
+        },
+        {
+          "id": 4,
+          "prompt": "If customer demand _____, production will be increased.",
+          "options": {
+            "A": "will increase",
+            "B": "increases",
+            "C": "increasing",
+            "D": "increased"
+          },
+          "answer": "B",
+          "explanation": "if 條件子句使用現在式 increases。"
+        },
+        {
+          "id": 5,
+          "prompt": "The reservation will be canceled unless you _____ us by Friday.",
+          "options": {
+            "A": "contact",
+            "B": "will contact",
+            "C": "contacting",
+            "D": "contacted"
+          },
+          "answer": "A",
+          "explanation": "unless 子句使用現在式 contact，等於 if you do not contact us。"
+        },
+        {
+          "id": 6,
+          "prompt": "When will the advertising campaign start?",
+          "options": {
+            "A": "Once the manager approves the final design.",
+            "B": "About $20,000.",
+            "C": "On social media."
+          },
+          "answer": "A",
+          "explanation": "Once the manager approves the final design 回答活動開始的條件與時間。"
+        },
+        {
+          "id": 7,
+          "prompt": "Should we increase the discount?",
+          "options": {
+            "A": "What are our competitors offering?",
+            "B": "About five hundred customers.",
+            "C": "The brochure is on my desk."
+          },
+          "answer": "A",
+          "explanation": "是否增加折扣可先比較競爭對手提供的方案。"
+        },
+        {
+          "id": 8,
+          "prompt": "Has the brochure been completed?",
+          "options": {
+            "A": "We're still waiting for the photographs.",
+            "B": "About ten pages.",
+            "C": "At the printer's office."
+          },
+          "answer": "A",
+          "explanation": "仍在等待照片，表示宣傳冊尚未完成。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why hasn't the advertisement been published?",
+          "options": {
+            "A": "It still needs the director's approval.",
+            "B": "For approximately two weeks.",
+            "C": "On several websites."
+          },
+          "answer": "A",
+          "explanation": "仍需主管核准，說明廣告尚未發布的原因。"
+        },
+        {
+          "id": 10,
+          "prompt": "To **launch a product** means to:",
+          "options": {
+            "A": "repair it",
+            "B": "introduce it to the market",
+            "C": "discontinue it",
+            "D": "return it to the manufacturer"
+          },
+          "answer": "B",
+          "explanation": "launch a product 表示將產品正式推向市場。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "when / before / after / until / once / if / unless 描述未來時，副詞子句使用現在式而不用 will。",
+  "nextDay": "比較級、最高級與 as...as，以及 much / far / significantly + comparative"
+}

@@ -1,0 +1,534 @@
+{
+  "schemaVersion": "1.0",
+  "day": 13,
+  "title": "比較級、最高級與 as ... as",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 90,
+  "durationMinutes": {
+    "min": 90,
+    "max": 90
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 13 教材",
+  "sections": [
+    {
+      "title": "Day 13 學習概覽",
+      "markdown": "今天進入 **比較級、最高級與 `as ... as`**。前面已完成時態、被動、分詞、關係子句、連接詞與條件句，因此今天 Part 5 開始刻意混合舊考點。\n\n目前沒有收到前幾天的實際作答結果，因此維持 **860～900 分難度**。今天建議約 **90 分鐘**；Part 5 開始要求平均 **20 秒左右／題**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Business Performance / Growth / Competition**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| performance | 表現 | improve performance |\n| growth | 成長 | economic growth |\n| expand | 擴張 | expand operations |\n| expansion | 擴張 | business expansion |\n| increase | 增加 | increase revenue |\n| decrease | 減少 | decrease costs |\n| decline | 下降 | sales decline |\n| improve | 改善 | improve efficiency |\n| improvement | 改善 | significant improvement |\n| achieve | 達成 | achieve a goal |\n| target | 目標 | sales target |\n| objective | 目標 | business objective |\n| competitive | 有競爭力的 | competitive price |\n| competitor | 競爭者 | major competitor |\n| advantage | 優勢 | competitive advantage |\n| efficient | 有效率的 | efficient process |\n| efficiency | 效率 | improve efficiency |\n| productivity | 生產力 | increase productivity |\n| profitable | 有利潤的 | profitable business |\n| profitability | 獲利能力 | improve profitability |\n| revenue | 營收 | annual revenue |\n| expense | 費用 | operating expenses |\n| significantly | 顯著地 | increase significantly |\n| considerably | 相當地 | considerably higher |\n| slightly | 稍微地 | slightly lower |\n| approximately | 大約 | approximately 10 percent |\n| exceed | 超過 | exceed expectations |\n| outperform | 表現優於 | outperform competitors |\n| comparable | 可比較的 | comparable product |\n| steadily | 穩定地 | grow steadily |\n\n今天優先記：\n\n**competitive advantage**  \n**improve efficiency**  \n**increase productivity**  \n**operating expenses**  \n**exceed expectations**  \n**outperform competitors**  \n**significant improvement**  \n**grow steadily**\n\n注意：\n\n> sales **increased significantly**\n\n`significantly` 修飾 increased。\n\n但：\n\n> a **significant increase**\n\n需要形容詞 `significant`。\n\n---"
+    },
+    {
+      "title": "② 今日文法｜比較級",
+      "markdown": "基本結構：\n\n> A is **larger than** B.\n\n短形容詞：\n\n> high → higher  \n> low → lower  \n> fast → faster\n\n較長形容詞：\n\n> efficient → more efficient  \n> convenient → more convenient  \n> competitive → more competitive\n\n例如：\n\n> The new system is **more efficient than** the old one.\n\n---"
+    },
+    {
+      "title": "③ TOEIC 高頻陷阱：much / far / significantly",
+      "markdown": "比較級前面可以用：\n\n> **much**  \n> **far**  \n> **significantly**  \n> **considerably**  \n> **slightly**\n\n例如：\n\n> Sales were **significantly higher** this quarter.\n\n> The new machine is **far more efficient**.\n\n> Operating expenses were **slightly lower** than expected.\n\n但是不能：\n\n> very higher ❌\n\n`very` 通常修飾原級：\n\n> very high\n\n比較級要：\n\n> much higher\n\n---"
+    },
+    {
+      "title": "④ 最高級",
+      "markdown": "三個以上比較：\n\n> the highest  \n> the lowest  \n> the largest  \n> the most efficient\n\n例如：\n\n> This was the company's **most profitable** quarter.\n\n注意：\n\n最高級通常有：\n\n> **the**\n\n例如：\n\n> one of **the largest** companies\n\nTOEIC 超高頻：\n\n> **one of the + 最高級 + 複數名詞**\n\n例如：\n\n> one of the **largest manufacturers**\n\n不是：\n\n> one of the largest manufacturer ❌\n\n---"
+    },
+    {
+      "title": "⑤ as ... as",
+      "markdown": "表示：\n\n**和……一樣**\n\n> The new model is **as reliable as** the previous one.\n\n結構：\n\n> **as + 原級 + as**\n\n不是：\n\n> as more reliable as ❌\n\n否定：\n\n> The new model is **not as expensive as** the old one.\n\n= 新款沒有舊款那麼貴。\n\n---"
+    },
+    {
+      "title": "⑥ another 高頻結構",
+      "markdown": "> twice as large as\n\n= 兩倍大。\n\n> three times as expensive as\n\n= 三倍貴。\n\n例如：\n\n> The new warehouse is **twice as large as** the old facility.\n\nTOEIC Part 7 圖表、數字題很常看到。\n\n---"
+    },
+    {
+      "title": "⑦ Part 5 比較級陷阱",
+      "markdown": "### Q1\n\n> The new software is considerably _____ than the previous version.\n\n(A) efficient  \n(B) efficiency  \n(C) more efficient  \n(D) most efficient\n\n看到：\n\n> than\n\n優先想到比較級。\n\n答案：\n\n**C**\n\n---\n\n### Q2\n\n> This has been one of the _____ successful campaigns in company history.\n\n(A) more  \n(B) most  \n(C) much  \n(D) very\n\n看到：\n\n> one of the\n\n直接警覺：\n\n> **one of the most + adjective + plural noun**\n\n答案：\n\n**B**\n\n---\n\n### Q3\n\n> Production costs are not as _____ as they were last year.\n\n(A) high  \n(B) higher  \n(C) highest  \n(D) highly\n\n`as ... as`\n\n中間：\n\n**原級**\n\n答案：\n\n**A**\n\n---"
+    },
+    {
+      "title": "⑧ Listening｜Part 2",
+      "markdown": "今天進入更多「比較／選擇」情境。\n\n### Q1\n\n> Which supplier offers the lower price?\n\n(A) I haven't compared the quotations yet.  \n(B) About five hundred units.  \n(C) The order arrived yesterday.\n\n**答案：A**\n\n---\n\n### Q2\n\n> Isn't the new office larger than the old one?\n\n(A) Yes, but the rent is considerably higher.  \n(B) On the fifth floor.  \n(C) About twenty employees.\n\n**答案：A**\n\n---\n\n### Q3\n\n> Which advertising campaign performed best?\n\n(A) The online campaign generated the most sales.  \n(B) About three weeks ago.  \n(C) The marketing director.\n\n**答案：A**\n\n---\n\n### Q4\n\n> Should we choose the less expensive model?\n\n(A) How does its warranty compare?  \n(B) About $300.  \n(C) At the electronics store.\n\n**答案：A**\n\n這是高分 Part 2 很重要的模式：\n\n> 問「要不要選便宜的？」\n\n回答：\n\n> 「那保固呢？」\n\n沒有直接 Yes / No，但非常自然。\n\n---\n\n### Q5\n\n> Why were sales higher this quarter?\n\n(A) Our new product performed better than expected.  \n(B) Approximately $2 million.  \n(C) In the annual report.\n\n**答案：A**\n\n---\n\n### Q6\n\n> Has productivity improved since we installed the new equipment?\n\n(A) By nearly fifteen percent.  \n(B) About three machines.  \n(C) Last November.\n\n**答案：A**\n\n注意：\n\n`By nearly fifteen percent.`\n\n雖然不是 Yes，但已經表示：\n\n**有，而且提高約 15%。**\n\n---"
+    },
+    {
+      "title": "⑨ Reading｜Part 7",
+      "markdown": "限時 **3 分鐘 30 秒**。\n\n> **QUARTERLY SALES REPORT**\n>\n> Horizon Electronics reported stronger-than-expected results for the third quarter. Total sales increased by 18 percent compared with the same period last year, while operating expenses rose by only 6 percent.\n>\n> The company's newest wireless speaker, the H-200, performed particularly well. Sales of the H-200 were approximately 30 percent higher than those of the company's previous model during its first three months on the market.\n>\n> Online sales also continued to grow steadily and now account for 42 percent of total revenue, compared with 35 percent one year ago.\n>\n> According to Sales Director Maria Chen, the company plans to increase its online advertising budget next quarter because digital campaigns have been considerably more effective than traditional newspaper advertisements.\n>\n> Despite the strong results, the company does not plan to increase product prices this year.\n\n### Q1\n\nHow much did total sales increase?\n\n(A) 6 percent  \n(B) 18 percent  \n(C) 30 percent  \n(D) 42 percent\n\n### Q2\n\nWhat is indicated about operating expenses?\n\n(A) They decreased  \n(B) They increased more than sales  \n(C) They increased by 6 percent  \n(D) They remained unchanged\n\n### Q3\n\nHow did the H-200 perform compared with the previous model?\n\n(A) Its sales were approximately 30 percent higher  \n(B) Its price was 30 percent lower  \n(C) It generated 42 percent of revenue  \n(D) It had lower advertising costs\n\n### Q4\n\nWhat percentage of revenue currently comes from online sales?\n\n(A) 18 percent  \n(B) 30 percent  \n(C) 35 percent  \n(D) 42 percent\n\n### Q5\n\nWhy will the online advertising budget probably increase?\n\n(A) Newspaper advertising has become more expensive  \n(B) Digital advertising has been more effective  \n(C) Product prices will increase  \n(D) Online sales have decreased\n\n### Q6\n\nWhat does the company NOT plan to do?\n\n(A) Increase online advertising  \n(B) Continue digital campaigns  \n(C) Raise product prices  \n(D) Sell the H-200\n\n**答案：1B / 2C / 3A / 4D / 5B / 6C**\n\n注意文章：\n\n> stronger-than-expected\n\n就是：\n\n**比預期更強。**\n\n以及：\n\n> considerably more effective than\n\n`considerably` 強化比較級。\n\n---"
+    },
+    {
+      "title": "⑩ Part 5 仿真題｜12 題",
+      "markdown": "今天限制：\n\n**3 分 30 秒。**\n\n### 1\n\nThe new distribution center is considerably _____ than the previous facility.\n\n(A) large  \n(B) larger  \n(C) largest  \n(D) largely\n\n### 2\n\nThis year's sales figures are _____ higher than last year's.\n\n(A) very  \n(B) much  \n(C) most  \n(D) many\n\n### 3\n\nThe new software is far _____ efficient than the previous version.\n\n(A) more  \n(B) most  \n(C) very  \n(D) much\n\n### 4\n\nThis is one of the _____ successful products the company has launched.\n\n(A) more  \n(B) much  \n(C) most  \n(D) very\n\n### 5\n\nThe new printer is not as _____ as the older model.\n\n(A) expensive  \n(B) more expensive  \n(C) most expensive  \n(D) expensively\n\n### 6\n\nOperating expenses were slightly _____ than management expected.\n\n(A) low  \n(B) lower  \n(C) lowest  \n(D) lowering\n\n### 7\n\nThe company's newest factory is twice as _____ as its original facility.\n\n(A) large  \n(B) larger  \n(C) largest  \n(D) largely\n\n### 8\n\nOf the three proposals, Ms. Chen's was the _____ detailed.\n\n(A) more  \n(B) much  \n(C) most  \n(D) very\n\n### 9\n\nCustomer satisfaction is significantly _____ than it was last year.\n\n(A) high  \n(B) higher  \n(C) highest  \n(D) highly\n\n### 10\n\nThe new delivery service operates _____ than the previous one.\n\n(A) efficient  \n(B) efficiency  \n(C) more efficiently  \n(D) most efficient\n\n### 11\n\nThis branch generated the _____ revenue of all our locations.\n\n(A) high  \n(B) higher  \n(C) highest  \n(D) highly\n\n### 12\n\nThe updated model is just as _____ as the original.\n\n(A) reliability  \n(B) reliable  \n(C) more reliable  \n(D) reliably\n\n**答案：1B / 2B / 3A / 4C / 5A / 6B / 7A / 8C / 9B / 10C / 11C / 12B**\n\n---"
+    },
+    {
+      "title": "⑪ Day 13 小考",
+      "markdown": "今天：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\nThe new office is significantly _____ than our previous location.\n\n(A) large  \n(B) larger  \n(C) largest  \n(D) largely\n\n### Q2\n\nThis is one of the _____ profitable branches in the region.\n\n(A) more  \n(B) most  \n(C) much  \n(D) very\n\n### Q3\n\nThe updated software operates far _____ than the previous version.\n\n(A) efficiently  \n(B) more efficiently  \n(C) most efficiently  \n(D) efficient\n\n### Q4\n\nThe new model is not as _____ as its competitor's product.\n\n(A) expensive  \n(B) more expensive  \n(C) most expensive  \n(D) expensively\n\n### Q5\n\nOur new warehouse is approximately twice as _____ as the old one.\n\n(A) larger  \n(B) largest  \n(C) large  \n(D) largely\n\n### Q6\n\nWhich supplier offers the better price?\n\n(A) I haven't reviewed both quotations yet.  \n(B) About five hundred products.  \n(C) Yesterday afternoon.\n\n### Q7\n\nShould we buy the cheaper equipment?\n\n(A) How does its warranty compare?  \n(B) About $2,000.  \n(C) At the warehouse.\n\n### Q8\n\nWhy was revenue higher this quarter?\n\n(A) Online sales performed particularly well.  \n(B) Approximately $3 million.  \n(C) In the quarterly report.\n\n### Q9\n\nIsn't this office larger than the previous one?\n\n(A) Yes, but it's also more expensive.  \n(B) On the sixth floor.  \n(C) About fifty employees.\n\n### Q10\n\nIf one product **outperforms** another product, it:\n\n(A) costs exactly the same  \n(B) performs better  \n(C) is discontinued  \n(D) is older\n\n## 答案\n\n**1B / 2B / 3B / 4A / 5C / 6A / 7A / 8A / 9A / 10B**\n\n---"
+    },
+    {
+      "title": "⑫ 今日解析",
+      "markdown": "Q1：\n\n> significantly _____ than\n\n`than` → 比較級。\n\n所以：\n\n> significantly **larger than**\n\n---\n\nQ2：\n\n> one of the _____ profitable branches\n\n固定結構：\n\n> **one of the most + adjective + plural noun**\n\n因此：\n\n> one of the most profitable branches\n\n---\n\nQ3：\n\n> operates\n\n要修飾動詞，所以需要：\n\n**副詞**\n\n又有：\n\n> than\n\n因此：\n\n> **more efficiently**\n\n這題一次考：\n\n**詞性 + 比較級**\n\n---\n\nQ4：\n\n> not as _____ as\n\n固定：\n\n> **as + 原級 + as**\n\n所以：\n\n> as expensive as\n\n---\n\nQ5 是今天最值得記住的陷阱：\n\n> twice as _____ as\n\n中間也是：\n\n**原級**\n\n所以：\n\n> twice as **large** as\n\n不是：\n\n> twice as larger as ❌\n\n---"
+    },
+    {
+      "title": "⑬ 錯題複習｜Day 10～12",
+      "markdown": "現在快速完成，不要重新讀教材。\n\n> The hotel _____ we stayed...\n\n**where**\n\n> The hotel _____ we booked...\n\n**which**\n\n> _____ the bad weather, the flight departed.\n\n**Despite**\n\n> _____ the weather was bad, the flight departed.\n\n**Although**\n\n> Please wait until the manager _____.\n\n**returns**\n\n不是 `will return`。\n\n> We will ship the order once payment _____.\n\n**is received**\n\n> If demand _____, production will increase.\n\n**increases**\n\n如果這七題可以在 **40 秒內**完成，表示第二週文法開始建立自動化。\n\n---"
+    },
+    {
+      "title": "⑭ 今日作業",
+      "markdown": "今天先把單字當「搭配」複習：\n\n> competitive advantage  \n> improve efficiency  \n> increase productivity  \n> operating expenses  \n> exceed expectations  \n> outperform competitors  \n> significant improvement  \n> grow steadily\n\n接著朗讀以下六句各 **3 次**：\n\n> The new office is **much larger than** the old one.\n\n> The new system is **far more efficient than** the previous one.\n\n> Sales were **significantly higher than** expected.\n\n> This is **the most profitable** branch.\n\n> The new model is **as reliable as** the old one.\n\n> The new warehouse is **twice as large as** the previous facility.\n\n最後睡前重新做 Day 13 小考，第二次限制：\n\n**2 分鐘。**\n\n目標：\n\n**10/10。**\n\n如果今天第一次達到 **9～10/10 且 ≤2:45**，下一階段會增加 900 分程度的混合 Part 5 題；若 Q1～Q5 錯兩題以上，後續會繼續穿插比較級結構，不延誤整體 90 天進度。\n\n今天只需要牢牢記住四個反射：\n\n> **than → 比較級**\n\n> **much / far / significantly + 比較級**\n\n> **the + 最高級**\n\n> **as + 原級 + as**\n\n**Day 14** 會是第二週週測，將整合 **分詞、關係代名詞、where/when、連接詞/介系詞、時間與條件副詞子句、比較級/最高級**，並加入更接近正式 TOEIC 的 Part 5 + Part 7 混合測驗。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "performance",
+      "meaning": "表現",
+      "phrase": "improve performance"
+    },
+    {
+      "id": 2,
+      "word": "growth",
+      "meaning": "成長",
+      "phrase": "economic growth"
+    },
+    {
+      "id": 3,
+      "word": "expand",
+      "meaning": "擴張",
+      "phrase": "expand operations"
+    },
+    {
+      "id": 4,
+      "word": "expansion",
+      "meaning": "擴張",
+      "phrase": "business expansion"
+    },
+    {
+      "id": 5,
+      "word": "increase",
+      "meaning": "增加",
+      "phrase": "increase revenue"
+    },
+    {
+      "id": 6,
+      "word": "decrease",
+      "meaning": "減少",
+      "phrase": "decrease costs"
+    },
+    {
+      "id": 7,
+      "word": "decline",
+      "meaning": "下降",
+      "phrase": "sales decline"
+    },
+    {
+      "id": 8,
+      "word": "improve",
+      "meaning": "改善",
+      "phrase": "improve efficiency"
+    },
+    {
+      "id": 9,
+      "word": "improvement",
+      "meaning": "改善",
+      "phrase": "significant improvement"
+    },
+    {
+      "id": 10,
+      "word": "achieve",
+      "meaning": "達成",
+      "phrase": "achieve a goal"
+    },
+    {
+      "id": 11,
+      "word": "target",
+      "meaning": "目標",
+      "phrase": "sales target"
+    },
+    {
+      "id": 12,
+      "word": "objective",
+      "meaning": "目標",
+      "phrase": "business objective"
+    },
+    {
+      "id": 13,
+      "word": "competitive",
+      "meaning": "有競爭力的",
+      "phrase": "competitive price"
+    },
+    {
+      "id": 14,
+      "word": "competitor",
+      "meaning": "競爭者",
+      "phrase": "major competitor"
+    },
+    {
+      "id": 15,
+      "word": "advantage",
+      "meaning": "優勢",
+      "phrase": "competitive advantage"
+    },
+    {
+      "id": 16,
+      "word": "efficient",
+      "meaning": "有效率的",
+      "phrase": "efficient process"
+    },
+    {
+      "id": 17,
+      "word": "efficiency",
+      "meaning": "效率",
+      "phrase": "improve efficiency"
+    },
+    {
+      "id": 18,
+      "word": "productivity",
+      "meaning": "生產力",
+      "phrase": "increase productivity"
+    },
+    {
+      "id": 19,
+      "word": "profitable",
+      "meaning": "有利潤的",
+      "phrase": "profitable business"
+    },
+    {
+      "id": 20,
+      "word": "profitability",
+      "meaning": "獲利能力",
+      "phrase": "improve profitability"
+    },
+    {
+      "id": 21,
+      "word": "revenue",
+      "meaning": "營收",
+      "phrase": "annual revenue"
+    },
+    {
+      "id": 22,
+      "word": "expense",
+      "meaning": "費用",
+      "phrase": "operating expenses"
+    },
+    {
+      "id": 23,
+      "word": "significantly",
+      "meaning": "顯著地",
+      "phrase": "increase significantly"
+    },
+    {
+      "id": 24,
+      "word": "considerably",
+      "meaning": "相當地",
+      "phrase": "considerably higher"
+    },
+    {
+      "id": 25,
+      "word": "slightly",
+      "meaning": "稍微地",
+      "phrase": "slightly lower"
+    },
+    {
+      "id": 26,
+      "word": "approximately",
+      "meaning": "大約",
+      "phrase": "approximately 10 percent"
+    },
+    {
+      "id": 27,
+      "word": "exceed",
+      "meaning": "超過",
+      "phrase": "exceed expectations"
+    },
+    {
+      "id": 28,
+      "word": "outperform",
+      "meaning": "表現優於",
+      "phrase": "outperform competitors"
+    },
+    {
+      "id": 29,
+      "word": "comparable",
+      "meaning": "可比較的",
+      "phrase": "comparable product"
+    },
+    {
+      "id": 30,
+      "word": "steadily",
+      "meaning": "穩定地",
+      "phrase": "grow steadily"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The new distribution center is considerably _____ than the previous facility.",
+          "options": {
+            "A": "large",
+            "B": "larger",
+            "C": "largest",
+            "D": "largely"
+          },
+          "answer": "B",
+          "explanation": "considerably 與 than 提示使用比較級 larger。"
+        },
+        {
+          "id": 2,
+          "prompt": "This year's sales figures are _____ higher than last year's.",
+          "options": {
+            "A": "very",
+            "B": "much",
+            "C": "most",
+            "D": "many"
+          },
+          "answer": "B",
+          "explanation": "much 可以強化比較級 higher。"
+        },
+        {
+          "id": 3,
+          "prompt": "The new software is far _____ efficient than the previous version.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "very",
+            "D": "much"
+          },
+          "answer": "A",
+          "explanation": "far more efficient 是強化比較級的正確結構。"
+        },
+        {
+          "id": 4,
+          "prompt": "This is one of the _____ successful products the company has launched.",
+          "options": {
+            "A": "more",
+            "B": "much",
+            "C": "most",
+            "D": "very"
+          },
+          "answer": "C",
+          "explanation": "one of the most + adjective + 複數名詞是固定結構。"
+        },
+        {
+          "id": 5,
+          "prompt": "The new printer is not as _____ as the older model.",
+          "options": {
+            "A": "expensive",
+            "B": "more expensive",
+            "C": "most expensive",
+            "D": "expensively"
+          },
+          "answer": "A",
+          "explanation": "not as + 原級 + as，因此使用 expensive。"
+        },
+        {
+          "id": 6,
+          "prompt": "Operating expenses were slightly _____ than management expected.",
+          "options": {
+            "A": "low",
+            "B": "lower",
+            "C": "lowest",
+            "D": "lowering"
+          },
+          "answer": "B",
+          "explanation": "slightly 與 than 提示使用比較級 lower。"
+        },
+        {
+          "id": 7,
+          "prompt": "The company's newest factory is twice as _____ as its original facility.",
+          "options": {
+            "A": "large",
+            "B": "larger",
+            "C": "largest",
+            "D": "largely"
+          },
+          "answer": "A",
+          "explanation": "twice as + 原級 + as，因此使用 large。"
+        },
+        {
+          "id": 8,
+          "prompt": "Of the three proposals, Ms. Chen's was the _____ detailed.",
+          "options": {
+            "A": "more",
+            "B": "much",
+            "C": "most",
+            "D": "very"
+          },
+          "answer": "C",
+          "explanation": "三個提案中比較，使用最高級 most detailed。"
+        },
+        {
+          "id": 9,
+          "prompt": "Customer satisfaction is significantly _____ than it was last year.",
+          "options": {
+            "A": "high",
+            "B": "higher",
+            "C": "highest",
+            "D": "highly"
+          },
+          "answer": "B",
+          "explanation": "significantly 與 than 提示使用比較級 higher。"
+        },
+        {
+          "id": 10,
+          "prompt": "The new delivery service operates _____ than the previous one.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiency",
+            "C": "more efficiently",
+            "D": "most efficient"
+          },
+          "answer": "C",
+          "explanation": "修飾 operates 需要副詞，且有 than，因此使用 more efficiently。"
+        },
+        {
+          "id": 11,
+          "prompt": "This branch generated the _____ revenue of all our locations.",
+          "options": {
+            "A": "high",
+            "B": "higher",
+            "C": "highest",
+            "D": "highly"
+          },
+          "answer": "C",
+          "explanation": "of all our locations 表示最高級，使用 highest。"
+        },
+        {
+          "id": 12,
+          "prompt": "The updated model is just as _____ as the original.",
+          "options": {
+            "A": "reliability",
+            "B": "reliable",
+            "C": "more reliable",
+            "D": "reliably"
+          },
+          "answer": "B",
+          "explanation": "as + 原級 + as，因此使用形容詞 reliable。"
+        }
+      ]
+    },
+    {
+      "id": "day-13-quiz",
+      "title": "Day 13 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The new office is significantly _____ than our previous location.",
+          "options": {
+            "A": "large",
+            "B": "larger",
+            "C": "largest",
+            "D": "largely"
+          },
+          "answer": "B",
+          "explanation": "significantly 與 than 提示使用比較級 larger。"
+        },
+        {
+          "id": 2,
+          "prompt": "This is one of the _____ profitable branches in the region.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "much",
+            "D": "very"
+          },
+          "answer": "B",
+          "explanation": "one of the most + adjective + 複數名詞是固定結構。"
+        },
+        {
+          "id": 3,
+          "prompt": "The updated software operates far _____ than the previous version.",
+          "options": {
+            "A": "efficiently",
+            "B": "more efficiently",
+            "C": "most efficiently",
+            "D": "efficient"
+          },
+          "answer": "B",
+          "explanation": "修飾 operates 需要副詞，且有 far 與 than，因此使用 more efficiently。"
+        },
+        {
+          "id": 4,
+          "prompt": "The new model is not as _____ as its competitor's product.",
+          "options": {
+            "A": "expensive",
+            "B": "more expensive",
+            "C": "most expensive",
+            "D": "expensively"
+          },
+          "answer": "A",
+          "explanation": "not as + 原級 + as，因此使用 expensive。"
+        },
+        {
+          "id": 5,
+          "prompt": "Our new warehouse is approximately twice as _____ as the old one.",
+          "options": {
+            "A": "larger",
+            "B": "largest",
+            "C": "large",
+            "D": "largely"
+          },
+          "answer": "C",
+          "explanation": "twice as + 原級 + as，因此使用 large。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which supplier offers the better price?",
+          "options": {
+            "A": "I haven't reviewed both quotations yet.",
+            "B": "About five hundred products.",
+            "C": "Yesterday afternoon."
+          },
+          "answer": "A",
+          "explanation": "尚未比較兩份報價，所以還不能判斷哪家供應商價格較好。"
+        },
+        {
+          "id": 7,
+          "prompt": "Should we buy the cheaper equipment?",
+          "options": {
+            "A": "How does its warranty compare?",
+            "B": "About $2,000.",
+            "C": "At the warehouse."
+          },
+          "answer": "A",
+          "explanation": "購買較便宜的設備前，詢問保固如何比較是合理回應。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why was revenue higher this quarter?",
+          "options": {
+            "A": "Online sales performed particularly well.",
+            "B": "Approximately $3 million.",
+            "C": "In the quarterly report."
+          },
+          "answer": "A",
+          "explanation": "Online sales performed particularly well 說明本季營收較高的原因。"
+        },
+        {
+          "id": 9,
+          "prompt": "Isn't this office larger than the previous one?",
+          "options": {
+            "A": "Yes, but it's also more expensive.",
+            "B": "On the sixth floor.",
+            "C": "About fifty employees."
+          },
+          "answer": "A",
+          "explanation": "Yes, but it is also more expensive 是比較辦公室大小的合理回答。"
+        },
+        {
+          "id": 10,
+          "prompt": "If one product **outperforms** another product, it:",
+          "options": {
+            "A": "costs exactly the same",
+            "B": "performs better",
+            "C": "is discontinued",
+            "D": "is older"
+          },
+          "answer": "B",
+          "explanation": "outperform 表示表現優於另一個對象。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "than → 比較級；much / far / significantly + 比較級；the + 最高級；as + 原級 + as。",
+  "nextDay": "第二週週測：整合分詞、關係詞、連接詞、副詞子句與比較級"
+}
