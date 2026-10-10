@@ -1,0 +1,818 @@
+{
+  "schemaVersion": "1.0",
+  "day": 31,
+  "title": "900+ 多條件排除、間接回應與 Triple Passage 跨文件推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 100,
+    "max": 100
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 31 教材",
+  "sections": [
+    {
+      "title": "Day 31 學習概覽",
+      "markdown": "## Day 31｜900+ 多條件排除、間接回應與 Triple Passage 跨文件推論\n\n### 今日目標\n\n- 用主詞核心辨認單複數一致\n- 辨識分詞修飾與詞性干擾\n- 整合場地容量、時段、設備與預算\n- 推論間接回應與下一步\n- 跨三份文件判斷報銷條件與計算\n\n建議時間：**100 分鐘**。"
+    },
+    {
+      "title": "今日核心單字 30 個",
+      "markdown": "| Word | 中文 | TOEIC 搭配 |\n|---|---|---|\n| reimbursement | 費用報銷 | request reimbursement |\n| eligible | 符合資格的 | eligible for reimbursement |\n| allowance | 津貼；補助額 | daily meal allowance |\n| expense | 費用 | travel expenses |\n| receipt | 收據 | submit a receipt |\n| itinerary | 行程表 | travel itinerary |\n| departure | 出發 | departure date |\n| arrival | 抵達 | arrival time |\n| accommodation | 住宿 | arrange accommodation |\n| corporate rate | 企業優惠價 | corporate hotel rate |\n| reservation | 預訂 | confirm a reservation |\n| amend | 修改 | amend a booking |\n| cancel | 取消 | cancel a reservation |\n| capacity | 容納人數 | seating capacity |\n| venue | 活動場地 | conference venue |\n| equipment | 設備 | video equipment |\n| rental | 租賃費 | equipment rental |\n| budget | 預算 | stay within budget |\n| exceed | 超過 | exceed the limit |\n| provisional | 暫定的 | provisional attendee list |\n| attendee | 出席者 | attendee list |\n| correction | 更正 | make corrections |\n| deadline | 期限 | meet the deadline |\n| dispatch | 發送 | dispatch a shipment |\n| tracking number | 追蹤號碼 | send a tracking number |\n| qualify | 符合條件 | qualify for a refund |\n| revised | 修改後的 | revised confirmation |\n| approval | 核准 | obtain approval |\n| additional | 額外的 | additional charge |\n| alternative | 替代方案 | consider an alternative |"
+    },
+    {
+      "title": "Part 5 主詞動詞一致＋分詞與詞性干擾",
+      "markdown": "目標速度：**每題 12 秒**\n\n| Pattern | Example | 說明 |\n|---|---|---|\n| Each of + plural noun + singular verb | Each of the invoices is checked. |  |\n| A number of + plural noun + plural verb | A number of applicants are qualified. |  |\n| The number of + plural noun + singular verb | The number of orders has increased. |  |\n| Subject + of-phrase + verb | The list of suppliers is available. |  |\n| Noun + V-ing = active reduced relative clause | Employees attending the meeting should register. |  |\n| Noun + V-ed = passive reduced relative clause | Documents submitted yesterday were reviewed. |  |\n| as soon as/once + present tense for future reference | We will notify you once the audit is complete. |  |\n\n### 解題順序\n\n- 找真正主詞\n- 判斷主動/被動\n- 確認詞性\n- 最後檢查語意"
+    },
+    {
+      "title": "Listening｜L31-1 Training Venue: Competing Constraints",
+      "markdown": "技能：I / P / INT / N\n\n| venue | capacity | video | available | price |\n|---|---|---|---|---|\n| West Hall | 18 | included | Friday 09:00-12:00 | 260 |\n| Riverside | 30 | $60 rental | Friday 09:00-12:00 | 320 |\n| Harbor | 24 | included | Friday 09:00-12:00 | 450 |\n| Park | 35 | included | Friday 13:00-17:00 | 390 |\n\n聽力稿：\n\nMan: Is West Hall still our best option for Friday's ten-to-noon orientation?\nWoman: I wouldn't count on it. Twenty-two people signed up, and West Hall holds only eighteen. Riverside can seat thirty, but video equipment is an extra sixty dollars on top of the three-hundred-twenty-dollar rental.\nMan: Our trainer is joining online. What about Harbor?\nWoman: It has video, but the fee is four hundred fifty dollars. We have a four-hundred-dollar limit. Riverside is available that morning.\nMan: Then let's go with Riverside. Can you reserve it?\nWoman: Yes. I'll confirm the equipment rental and send you the booking details.\n\n答案：\n\n### Q1\n\nWhy is West Hall unsuitable?\n\n(A) It is too small.  \n(B) It has no video equipment.  \n(C) It is closed on Friday.  \n(D) It exceeds the budget.  \n\n答案：**A**\n\n22 participants exceed West Hall’s capacity of 18.\n\n### Q2\n\nWhich venue will the speakers use?\n\n(A) West Hall  \n(B) Riverside  \n(C) Harbor  \n(D) Park  \n\n答案：**B**\n\nRiverside fits 22 people, is available Friday morning, supports rented video, and costs $320+$60=$380 ≤ $400.\n\n### Q3\n\nWhat does the woman imply by saying “I wouldn’t count on it”?\n\n(A) The venue is unlikely to meet their needs.  \n(B) The event has been canceled.  \n(C) She has already paid the fee.  \n(D) The room has more than enough seats.  \n\n答案：**A**\n\nIndirect response: I wouldn’t count on it = do not rely on that option.\n\n### Q4\n\nWhat will the woman most likely do next?\n\n(A) Request a refund from Harbor.  \n(B) Move the session to the afternoon.  \n(C) Confirm the video rental and send booking details.  \n(D) Invite fewer participants.  \n\n答案：**C**\n\nShe explicitly promises to confirm the equipment rental and send booking details."
+    },
+    {
+      "title": "Listening｜L31-2 Seminar Badges: Deadlines and Next Actions",
+      "markdown": "技能：T / C / N / INT\n\n聽力稿：\n\nMan: We need sixty name badges for Monday's seminar. Can you handle that?\nWoman: Forty-five are in stock. I can print fifteen more by Friday, provided I get the attendee list by two this afternoon.\nMan: Our manager is still checking the spellings.\nWoman: We can use a provisional list now; corrections are accepted until noon tomorrow. After that the printer locks the file.\nMan: Time isn't on our side, is it? I'll ask the manager to send what we have before lunch.\n\n答案：\n\n### Q1\n\nHow many badges are already available?\n\n(A) 15  \n(B) 30  \n(C) 45  \n(D) 60  \n\n答案：**C**\n\nForty-five are in stock; fifteen additional badges need printing.\n\n### Q2\n\nWhen must the initial attendee list be received?\n\n(A) Before noon today  \n(B) By 2 P.M. today  \n(C) By noon tomorrow  \n(D) By Friday  \n\n答案：**B**\n\nThe printer needs the initial list by 2 P.M. this afternoon.\n\n### Q3\n\nWhat does “Time isn’t on our side” suggest?\n\n(A) The schedule is tight.  \n(B) The printer is broken.  \n(C) The seminar has been postponed.  \n(D) The badges are free.  \n\n答案：**A**\n\nThis idiom signals urgency and little remaining time.\n\n### Q4\n\nWhat will the man do next?\n\n(A) Cancel the seminar.  \n(B) Wait for the final list tomorrow.  \n(C) Ask the manager to send a provisional list before lunch.  \n(D) Print the badges himself.  \n\n答案：**C**\n\nHe says he will ask the manager to send what they have before lunch."
+    },
+    {
+      "title": "Listening｜L31-3 Shipping: Deadline and Budget",
+      "markdown": "技能：I / T / N\n\n| service | arrival | fee |\n|---|---|---|\n| Economy | Monday | 9 |\n| Standard | Friday | 18 |\n| Express | Thursday | 28 |\n| Priority | Wednesday | 45 |\n\n聽力稿：\n\nThe sample kit for Friday morning's product demonstration is ready. Our staff need Thursday evening to prepare, so the package must arrive by Thursday. We can spend at most thirty dollars, and there is no reason to pay for earlier delivery. Please choose the least expensive service that meets those conditions. Once the package is dispatched, e-mail the tracking number to the sales team.\n\n答案：\n\n### Q1\n\nWhat is being shipped?\n\n(A) A sample kit  \n(B) Office chairs  \n(C) Signed contracts  \n(D) Name badges  \n\n答案：**A**\n\nThe speaker mentions a sample kit for a product demonstration.\n\n### Q2\n\nWhich shipping service should be selected?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Priority  \n\n答案：**C**\n\nExpress arrives Thursday and costs $28; Priority exceeds the $30 limit, while the other services arrive too late.\n\n### Q3\n\nWhat must happen after dispatch?\n\n(A) The price must be renegotiated.  \n(B) The sales team must receive a tracking number.  \n(C) The product demonstration must be canceled.  \n(D) The shipment must be returned.  \n\n答案：**B**\n\nThe speaker requests an e-mailed tracking number after dispatch."
+    },
+    {
+      "title": "Reading｜Travel Reimbursement: Policy × Itinerary × Finance Update",
+      "markdown": "題型：**triple-passage**　限時：**420 秒**\n\n### Northbridge Travel Reimbursement Policy\n\nEconomy-class airfare is reimbursable if booked at least 14 calendar days before departure. Business-class airfare requires advance written approval. Hotel accommodation is reimbursable up to $160 per night, excluding tax. Meal expenses are reimbursable up to $45 per calendar day; alcoholic beverages are excluded. Taxi fares are reimbursable when a flight arrives or departs after 10 P.M., or when public transportation is unavailable. A receipt is required for any individual expense exceeding $25.\n\n### Elena’s Conference Expense Summary\n\nConference travel: November 18–21. Departure flight: November 18; economy ticket booked November 1. Hotel: three nights, November 18–21, at $175 per night before tax. Airport taxi: November 18, after an 11 P.M. arrival, $38; receipt retained. Meals: November 19, $32; November 20, $49. Both meals contain no alcohol, and receipts are available.\n\n### Finance Team Reply\n\nElena, your airfare meets the advance-booking requirement. The hotel can offer our corporate rate of $150 per night for November 18–21, provided you amend the reservation by November 10; there is no change fee. Because your flight arrives at 11 P.M., the airport taxi is eligible, but please attach its receipt. The $49 meal exceeds the daily cap, so only $45 can be reimbursed for that day. The $32 meal is fully eligible. Please send the revised hotel confirmation after updating the booking.\n\n### 題目與解析\n\n### Q1\n\nWhy does Elena’s airfare qualify for reimbursement?\n\n(A) It was booked at least 14 days before departure.  \n(B) She booked business class.  \n(C) Her employer waived all restrictions.  \n(D) The flight is domestic.  \n\n答案：**A**\n\nNovember 1 to November 18 is 17 days, meeting the 14-day rule.\n\n### Q2\n\nBy how much does the original nightly hotel rate exceed the cap?\n\n(A) $10  \n(B) $15  \n(C) $25  \n(D) $35  \n\n答案：**B**\n\n$175−$160=$15 per night.\n\n### Q3\n\nHow much will the revised three-night hotel stay cost before tax?\n\n(A) $450  \n(B) $480  \n(C) $525  \n(D) $560  \n\n答案：**A**\n\n3×$150=$450.\n\n### Q4\n\nWhy is the airport taxi eligible for reimbursement?\n\n(A) The hotel is far from the airport.  \n(B) The flight arrived after 10 P.M.  \n(C) The fare was below $25.  \n(D) The traveler was accompanied by colleagues.  \n\n答案：**B**\n\nThe policy allows taxi reimbursement for flights arriving or departing after 10 P.M.; the flight arrived at 11 P.M.\n\n### Q5\n\nHow much of the $49 meal is reimbursable?\n\n(A) $0  \n(B) $32  \n(C) $45  \n(D) $49  \n\n答案：**C**\n\nThe daily meal cap is $45.\n\n### Q6\n\nWhy must Elena submit the taxi receipt?\n\n(A) All travel expenses require receipts.  \n(B) The fare exceeded $25.  \n(C) The taxi was booked in advance.  \n(D) The hotel requested it.  \n\n答案：**B**\n\nA receipt is required for an individual expense over $25; the taxi fare was $38.\n\n### Q7\n\nBy what date should Elena change her hotel reservation to get the corporate rate?\n\n(A) November 1  \n(B) November 10  \n(C) November 18  \n(D) November 21  \n\n答案：**B**\n\nThe Finance e-mail specifies November 10.\n\n### Q8\n\nExcluding airfare and taxes, what is the maximum reimbursable total for the revised hotel, taxi, and two meals?\n\n(A) $527  \n(B) $557  \n(C) $565  \n(D) $569  \n\n答案：**C**\n\n$450 hotel + $38 taxi + $32 meal + $45 meal = $565."
+    },
+    {
+      "title": "錯題回收與快速複習",
+      "markdown": "| 題目 | 答案 | 標籤 |\n|---|---|---|\n| _____ the delay, the order arrived on time. | Despite | G |\n| _____ the shipment was delayed, it arrived on time. | Although | G |\n| Keep the receipt _____ you need a refund. | in case | C |\n| I will call as soon as the manager _____. | arrives | G |\n| respond _____ | promptly | POS |\n| technical _____ | expertise | V |\n| look over = ? | review | P |\n| almost out of = ? | running low on | P |\n| no later than Thursday = ? | by Thursday | T |\n| 20 chairs × $165 = ? | $3,300 | CAL |\n| revised invoice → ? | payment processing | SEQ |\n| Neither of the proposals _____ within budget. | is | G |"
+    },
+    {
+      "title": "今日作業",
+      "markdown": "| 作業 | 分鐘 |\n|---|---|\n| 30 個單字各複習兩輪，選 8 個寫商務例句 | 15 |\n| Part 5 15 題第二次限時 3 分鐘 | 10 |\n| Listening 三組使用 TTS 1.0x 與 1.1x 各聽一次；先不看稿 | 20 |\n| 閱讀三份文件，畫出規則、事實、更新與費用上限 | 15 |\n| 重做 12 題小考並記錄錯題標籤與耗時 | 10 |"
+    },
+    {
+      "title": "難度調整與下一課",
+      "markdown": "- **11–12 題正確**：Day 32: 900+ 多文件限制＋間接回應加速，新增更高干擾選項\n- **9–10 題正確**：Day 32: 保持難度，針對錯誤標籤增加 4 題補強\n- **7–8 題正確**：Day 32: 降低每題跨文件條件數，保留進階推論\n- **0–6 題正確**：Day 32: 優先修復主詞動詞一致、時序與條件排除\n\n### Day 32 預告\n\n- Part 3/4 間接回應與說話者意圖\n- Triple Passage 跨文件衝突與例外\n- Part 5 主詞動詞一致進階\n- 限時正確率追蹤"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "reimbursement",
+      "meaning": "費用報銷",
+      "phrase": "request reimbursement"
+    },
+    {
+      "id": 2,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for reimbursement"
+    },
+    {
+      "id": 3,
+      "word": "allowance",
+      "meaning": "津貼；補助額",
+      "phrase": "daily meal allowance"
+    },
+    {
+      "id": 4,
+      "word": "expense",
+      "meaning": "費用",
+      "phrase": "travel expenses"
+    },
+    {
+      "id": 5,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "submit a receipt"
+    },
+    {
+      "id": 6,
+      "word": "itinerary",
+      "meaning": "行程表",
+      "phrase": "travel itinerary"
+    },
+    {
+      "id": 7,
+      "word": "departure",
+      "meaning": "出發",
+      "phrase": "departure date"
+    },
+    {
+      "id": 8,
+      "word": "arrival",
+      "meaning": "抵達",
+      "phrase": "arrival time"
+    },
+    {
+      "id": 9,
+      "word": "accommodation",
+      "meaning": "住宿",
+      "phrase": "arrange accommodation"
+    },
+    {
+      "id": 10,
+      "word": "corporate rate",
+      "meaning": "企業優惠價",
+      "phrase": "corporate hotel rate"
+    },
+    {
+      "id": 11,
+      "word": "reservation",
+      "meaning": "預訂",
+      "phrase": "confirm a reservation"
+    },
+    {
+      "id": 12,
+      "word": "amend",
+      "meaning": "修改",
+      "phrase": "amend a booking"
+    },
+    {
+      "id": 13,
+      "word": "cancel",
+      "meaning": "取消",
+      "phrase": "cancel a reservation"
+    },
+    {
+      "id": 14,
+      "word": "capacity",
+      "meaning": "容納人數",
+      "phrase": "seating capacity"
+    },
+    {
+      "id": 15,
+      "word": "venue",
+      "meaning": "活動場地",
+      "phrase": "conference venue"
+    },
+    {
+      "id": 16,
+      "word": "equipment",
+      "meaning": "設備",
+      "phrase": "video equipment"
+    },
+    {
+      "id": 17,
+      "word": "rental",
+      "meaning": "租賃費",
+      "phrase": "equipment rental"
+    },
+    {
+      "id": 18,
+      "word": "budget",
+      "meaning": "預算",
+      "phrase": "stay within budget"
+    },
+    {
+      "id": 19,
+      "word": "exceed",
+      "meaning": "超過",
+      "phrase": "exceed the limit"
+    },
+    {
+      "id": 20,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional attendee list"
+    },
+    {
+      "id": 21,
+      "word": "attendee",
+      "meaning": "出席者",
+      "phrase": "attendee list"
+    },
+    {
+      "id": 22,
+      "word": "correction",
+      "meaning": "更正",
+      "phrase": "make corrections"
+    },
+    {
+      "id": 23,
+      "word": "deadline",
+      "meaning": "期限",
+      "phrase": "meet the deadline"
+    },
+    {
+      "id": 24,
+      "word": "dispatch",
+      "meaning": "發送",
+      "phrase": "dispatch a shipment"
+    },
+    {
+      "id": 25,
+      "word": "tracking number",
+      "meaning": "追蹤號碼",
+      "phrase": "send a tracking number"
+    },
+    {
+      "id": 26,
+      "word": "qualify",
+      "meaning": "符合條件",
+      "phrase": "qualify for a refund"
+    },
+    {
+      "id": 27,
+      "word": "revised",
+      "meaning": "修改後的",
+      "phrase": "revised confirmation"
+    },
+    {
+      "id": 28,
+      "word": "approval",
+      "meaning": "核准",
+      "phrase": "obtain approval"
+    },
+    {
+      "id": 29,
+      "word": "additional",
+      "meaning": "額外的",
+      "phrase": "additional charge"
+    },
+    {
+      "id": 30,
+      "word": "alternative",
+      "meaning": "替代方案",
+      "phrase": "consider an alternative"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": "P5-31-1",
+          "prompt": "Each of the invoices _____ checked before payment.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "have",
+            "D": "be"
+          },
+          "answer": "A",
+          "explanation": "Each of + plural noun takes a singular verb: is."
+        },
+        {
+          "id": "P5-31-2",
+          "prompt": "A number of applicants _____ qualified for the position.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "be"
+          },
+          "answer": "B",
+          "explanation": "A number of + plural noun takes a plural verb: are."
+        },
+        {
+          "id": "P5-31-3",
+          "prompt": "The number of orders _____ increased since July.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The number of + plural noun is singular: has increased."
+        },
+        {
+          "id": "P5-31-4",
+          "prompt": "Neither the manager nor the assistants _____ available this afternoon.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "be",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "With neither...nor, agreement commonly follows the nearer subject: assistants → are."
+        },
+        {
+          "id": "P5-31-5",
+          "prompt": "The list of approved suppliers _____ on the company portal.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The subject is list (singular), not suppliers."
+        },
+        {
+          "id": "P5-31-6",
+          "prompt": "The equipment _____ yesterday is being tested.",
+          "options": {
+            "A": "deliver",
+            "B": "delivering",
+            "C": "delivered",
+            "D": "delivers"
+          },
+          "answer": "C",
+          "explanation": "Reduced passive relative clause: equipment [that was] delivered yesterday."
+        },
+        {
+          "id": "P5-31-7",
+          "prompt": "The technician responded _____ to the urgent request.",
+          "options": {
+            "A": "prompt",
+            "B": "promptly",
+            "C": "promptness",
+            "D": "prompting"
+          },
+          "answer": "B",
+          "explanation": "An adverb modifies responded."
+        },
+        {
+          "id": "P5-31-8",
+          "prompt": "The _____ estimate includes installation costs.",
+          "options": {
+            "A": "revise",
+            "B": "revised",
+            "C": "revision",
+            "D": "revising"
+          },
+          "answer": "B",
+          "explanation": "Revised is the adjective/participle modifying estimate."
+        },
+        {
+          "id": "P5-31-9",
+          "prompt": "_____ the repair was delayed, it was completed before the deadline.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Because of",
+            "D": "In spite of"
+          },
+          "answer": "B",
+          "explanation": "Although is followed by a full clause; despite/in spite of take noun phrases."
+        },
+        {
+          "id": "P5-31-10",
+          "prompt": "The system will restart once the update _____.",
+          "options": {
+            "A": "finishes",
+            "B": "will finish",
+            "C": "finishing",
+            "D": "finished"
+          },
+          "answer": "A",
+          "explanation": "Future time clauses normally use present simple: once the update finishes."
+        },
+        {
+          "id": "P5-31-11",
+          "prompt": "The shipment was _____ damaged during transport.",
+          "options": {
+            "A": "slight",
+            "B": "slightly",
+            "C": "slightness",
+            "D": "slighter"
+          },
+          "answer": "B",
+          "explanation": "Slightly modifies damaged."
+        },
+        {
+          "id": "P5-31-12",
+          "prompt": "The employee _____ the request must provide identification.",
+          "options": {
+            "A": "submit",
+            "B": "submitted",
+            "C": "submitting",
+            "D": "submission"
+          },
+          "answer": "C",
+          "explanation": "Submitting actively describes the employee who submits the request."
+        },
+        {
+          "id": "P5-31-13",
+          "prompt": "The service is available to customers _____ warranties remain valid.",
+          "options": {
+            "A": "who",
+            "B": "whose",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "Whose is a possessive relative determiner for warranties."
+        },
+        {
+          "id": "P5-31-14",
+          "prompt": "The company requested a _____ explanation of the charges.",
+          "options": {
+            "A": "detail",
+            "B": "detailed",
+            "C": "details",
+            "D": "detailing"
+          },
+          "answer": "B",
+          "explanation": "Detailed modifies the noun explanation."
+        },
+        {
+          "id": "P5-31-15",
+          "prompt": "Neither of the proposals _____ within the approved budget.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "In formal TOEIC-style agreement, neither of is treated as singular here: is."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listening 理解題",
+      "questions": [
+        {
+          "id": "L31-1-1",
+          "prompt": "Why is West Hall unsuitable?",
+          "options": {
+            "A": "It is too small.",
+            "B": "It has no video equipment.",
+            "C": "It is closed on Friday.",
+            "D": "It exceeds the budget."
+          },
+          "answer": "A",
+          "explanation": "22 participants exceed West Hall’s capacity of 18."
+        },
+        {
+          "id": "L31-1-2",
+          "prompt": "Which venue will the speakers use?",
+          "options": {
+            "A": "West Hall",
+            "B": "Riverside",
+            "C": "Harbor",
+            "D": "Park"
+          },
+          "answer": "B",
+          "explanation": "Riverside fits 22 people, is available Friday morning, supports rented video, and costs $320+$60=$380 ≤ $400."
+        },
+        {
+          "id": "L31-1-3",
+          "prompt": "What does the woman imply by saying “I wouldn’t count on it”?",
+          "options": {
+            "A": "The venue is unlikely to meet their needs.",
+            "B": "The event has been canceled.",
+            "C": "She has already paid the fee.",
+            "D": "The room has more than enough seats."
+          },
+          "answer": "A",
+          "explanation": "Indirect response: I wouldn’t count on it = do not rely on that option."
+        },
+        {
+          "id": "L31-1-4",
+          "prompt": "What will the woman most likely do next?",
+          "options": {
+            "A": "Request a refund from Harbor.",
+            "B": "Move the session to the afternoon.",
+            "C": "Confirm the video rental and send booking details.",
+            "D": "Invite fewer participants."
+          },
+          "answer": "C",
+          "explanation": "She explicitly promises to confirm the equipment rental and send booking details."
+        },
+        {
+          "id": "L31-2-1",
+          "prompt": "How many badges are already available?",
+          "options": {
+            "A": "15",
+            "B": "30",
+            "C": "45",
+            "D": "60"
+          },
+          "answer": "C",
+          "explanation": "Forty-five are in stock; fifteen additional badges need printing."
+        },
+        {
+          "id": "L31-2-2",
+          "prompt": "When must the initial attendee list be received?",
+          "options": {
+            "A": "Before noon today",
+            "B": "By 2 P.M. today",
+            "C": "By noon tomorrow",
+            "D": "By Friday"
+          },
+          "answer": "B",
+          "explanation": "The printer needs the initial list by 2 P.M. this afternoon."
+        },
+        {
+          "id": "L31-2-3",
+          "prompt": "What does “Time isn’t on our side” suggest?",
+          "options": {
+            "A": "The schedule is tight.",
+            "B": "The printer is broken.",
+            "C": "The seminar has been postponed.",
+            "D": "The badges are free."
+          },
+          "answer": "A",
+          "explanation": "This idiom signals urgency and little remaining time."
+        },
+        {
+          "id": "L31-2-4",
+          "prompt": "What will the man do next?",
+          "options": {
+            "A": "Cancel the seminar.",
+            "B": "Wait for the final list tomorrow.",
+            "C": "Ask the manager to send a provisional list before lunch.",
+            "D": "Print the badges himself."
+          },
+          "answer": "C",
+          "explanation": "He says he will ask the manager to send what they have before lunch."
+        },
+        {
+          "id": "L31-3-1",
+          "prompt": "What is being shipped?",
+          "options": {
+            "A": "A sample kit",
+            "B": "Office chairs",
+            "C": "Signed contracts",
+            "D": "Name badges"
+          },
+          "answer": "A",
+          "explanation": "The speaker mentions a sample kit for a product demonstration."
+        },
+        {
+          "id": "L31-3-2",
+          "prompt": "Which shipping service should be selected?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Priority"
+          },
+          "answer": "C",
+          "explanation": "Express arrives Thursday and costs $28; Priority exceeds the $30 limit, while the other services arrive too late."
+        },
+        {
+          "id": "L31-3-3",
+          "prompt": "What must happen after dispatch?",
+          "options": {
+            "A": "The price must be renegotiated.",
+            "B": "The sales team must receive a tracking number.",
+            "C": "The product demonstration must be canceled.",
+            "D": "The shipment must be returned."
+          },
+          "answer": "B",
+          "explanation": "The speaker requests an e-mailed tracking number after dispatch."
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Triple Passage 閱讀題",
+      "questions": [
+        {
+          "id": "R31-1",
+          "prompt": "Why does Elena’s airfare qualify for reimbursement?",
+          "options": {
+            "A": "It was booked at least 14 days before departure.",
+            "B": "She booked business class.",
+            "C": "Her employer waived all restrictions.",
+            "D": "The flight is domestic."
+          },
+          "answer": "A",
+          "explanation": "November 1 to November 18 is 17 days, meeting the 14-day rule."
+        },
+        {
+          "id": "R31-2",
+          "prompt": "By how much does the original nightly hotel rate exceed the cap?",
+          "options": {
+            "A": "$10",
+            "B": "$15",
+            "C": "$25",
+            "D": "$35"
+          },
+          "answer": "B",
+          "explanation": "$175−$160=$15 per night."
+        },
+        {
+          "id": "R31-3",
+          "prompt": "How much will the revised three-night hotel stay cost before tax?",
+          "options": {
+            "A": "$450",
+            "B": "$480",
+            "C": "$525",
+            "D": "$560"
+          },
+          "answer": "A",
+          "explanation": "3×$150=$450."
+        },
+        {
+          "id": "R31-4",
+          "prompt": "Why is the airport taxi eligible for reimbursement?",
+          "options": {
+            "A": "The hotel is far from the airport.",
+            "B": "The flight arrived after 10 P.M.",
+            "C": "The fare was below $25.",
+            "D": "The traveler was accompanied by colleagues."
+          },
+          "answer": "B",
+          "explanation": "The policy allows taxi reimbursement for flights arriving or departing after 10 P.M.; the flight arrived at 11 P.M."
+        },
+        {
+          "id": "R31-5",
+          "prompt": "How much of the $49 meal is reimbursable?",
+          "options": {
+            "A": "$0",
+            "B": "$32",
+            "C": "$45",
+            "D": "$49"
+          },
+          "answer": "C",
+          "explanation": "The daily meal cap is $45."
+        },
+        {
+          "id": "R31-6",
+          "prompt": "Why must Elena submit the taxi receipt?",
+          "options": {
+            "A": "All travel expenses require receipts.",
+            "B": "The fare exceeded $25.",
+            "C": "The taxi was booked in advance.",
+            "D": "The hotel requested it."
+          },
+          "answer": "B",
+          "explanation": "A receipt is required for an individual expense over $25; the taxi fare was $38."
+        },
+        {
+          "id": "R31-7",
+          "prompt": "By what date should Elena change her hotel reservation to get the corporate rate?",
+          "options": {
+            "A": "November 1",
+            "B": "November 10",
+            "C": "November 18",
+            "D": "November 21"
+          },
+          "answer": "B",
+          "explanation": "The Finance e-mail specifies November 10."
+        },
+        {
+          "id": "R31-8",
+          "prompt": "Excluding airfare and taxes, what is the maximum reimbursable total for the revised hotel, taxi, and two meals?",
+          "options": {
+            "A": "$527",
+            "B": "$557",
+            "C": "$565",
+            "D": "$569"
+          },
+          "answer": "C",
+          "explanation": "$450 hotel + $38 taxi + $32 meal + $45 meal = $565."
+        }
+      ]
+    },
+    {
+      "id": "day-31-quiz",
+      "title": "Day 31 小考",
+      "questions": [
+        {
+          "id": "Q31-1",
+          "prompt": "Each of the service requests _____ reviewed before approval.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "have",
+            "D": "be"
+          },
+          "answer": "A",
+          "explanation": "Each of takes singular is."
+        },
+        {
+          "id": "Q31-2",
+          "prompt": "The number of applicants _____ increased this month.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The number of is singular; has increased."
+        },
+        {
+          "id": "Q31-3",
+          "prompt": "The technicians _____ the equipment must sign the form.",
+          "options": {
+            "A": "inspect",
+            "B": "inspected",
+            "C": "inspecting",
+            "D": "inspection"
+          },
+          "answer": "C",
+          "explanation": "Technicians who are inspecting → inspecting."
+        },
+        {
+          "id": "Q31-4",
+          "prompt": "We will send the report as soon as the audit _____ complete.",
+          "options": {
+            "A": "will be",
+            "B": "is",
+            "C": "being",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "As soon as + present simple for a future condition: is."
+        },
+        {
+          "id": "Q31-5",
+          "prompt": "Which venue is suitable for the 22-person video orientation within a $400 budget?",
+          "options": {
+            "A": "West Hall",
+            "B": "Riverside",
+            "C": "Harbor",
+            "D": "Park"
+          },
+          "answer": "B",
+          "explanation": "Riverside seats 30, has video for an extra $60, and totals $380."
+        },
+        {
+          "id": "Q31-6",
+          "prompt": "Why does the woman advise against West Hall?",
+          "options": {
+            "A": "It holds only 18 people.",
+            "B": "It costs more than $400.",
+            "C": "It has been closed for renovations.",
+            "D": "It is available only in the afternoon."
+          },
+          "answer": "A",
+          "explanation": "The group has 22 people but the hall seats 18."
+        },
+        {
+          "id": "Q31-7",
+          "prompt": "When must the initial badge attendee list be sent?",
+          "options": {
+            "A": "By noon today",
+            "B": "By 2 P.M. today",
+            "C": "By noon tomorrow",
+            "D": "By Friday"
+          },
+          "answer": "B",
+          "explanation": "Initial list is due by 2 P.M. today; corrections are accepted until noon tomorrow."
+        },
+        {
+          "id": "Q31-8",
+          "prompt": "Which delivery service meets the Thursday deadline and $30 budget?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Priority"
+          },
+          "answer": "C",
+          "explanation": "Express is Thursday/$28; Priority is too expensive."
+        },
+        {
+          "id": "Q31-9",
+          "prompt": "What is the revised nightly corporate hotel rate?",
+          "options": {
+            "A": "$150",
+            "B": "$160",
+            "C": "$175",
+            "D": "$180"
+          },
+          "answer": "A",
+          "explanation": "Finance offers $150/night if amended by November 10."
+        },
+        {
+          "id": "Q31-10",
+          "prompt": "Why is the $38 airport taxi eligible?",
+          "options": {
+            "A": "The hotel requested a taxi.",
+            "B": "The flight arrived after 10 P.M.",
+            "C": "The fare was below $25.",
+            "D": "The trip was three nights."
+          },
+          "answer": "B",
+          "explanation": "11 P.M. arrival meets the late-arrival exception."
+        },
+        {
+          "id": "Q31-11",
+          "prompt": "What is the maximum reimbursable amount for the $49 meal?",
+          "options": {
+            "A": "$0",
+            "B": "$32",
+            "C": "$45",
+            "D": "$49"
+          },
+          "answer": "C",
+          "explanation": "Daily cap is $45."
+        },
+        {
+          "id": "Q31-12",
+          "prompt": "Excluding airfare and taxes, what is the reimbursable total for the revised hotel, taxi and meals?",
+          "options": {
+            "A": "$527",
+            "B": "$557",
+            "C": "$565",
+            "D": "$569"
+          },
+          "answer": "C",
+          "explanation": "3×150 +38+32+45 =565."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "用主詞核心辨認單複數一致",
+  "nextDay": "Part 3/4 間接回應與說話者意圖 / Triple Passage 跨文件衝突與例外 / Part 5 主詞動詞一致進階 / 限時正確率追蹤"
+}

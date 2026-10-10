@@ -1,0 +1,818 @@
+{
+  "schemaVersion": "1.0",
+  "day": 32,
+  "title": "間接回應、跨文件更新例外與 Part 5 進階一致",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 105,
+  "durationMinutes": {
+    "min": 105,
+    "max": 105
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 32 教材",
+  "sections": [
+    {
+      "title": "Day 32 學習概覽",
+      "markdown": "## Day 32｜間接回應、跨文件更新例外與 Part 5 進階一致\n\n### 今日目標\n\n- 辨識主詞動詞一致與倒裝\n- 理解 Listening 間接否定及下一步\n- 整合無障礙、容量、設備、時間及總成本\n- 比較 Triple Passage 原規則與特殊更新\n- 根據小考錯誤標籤調整下一日難度\n\n建議時間：**105 分鐘**。"
+    },
+    {
+      "title": "今日核心單字 30 個",
+      "markdown": "| Word | 中文 | TOEIC 搭配 |\n|---|---|---|\n| subscription | 訂閱 | annual subscription |\n| license | 授權 | software license |\n| renewal | 續約 | automatic renewal |\n| activate | 啟用 | activate an account |\n| access | 存取權限 | grant access |\n| restriction | 限制 | access restriction |\n| compliance | 合規 | regulatory compliance |\n| provision | 條款；規定 | contract provision |\n| amendment | 修正案 | contract amendment |\n| endorse | 支持；核准 | endorse a proposal |\n| authorize | 授權 | authorize a payment |\n| allocate | 分配 | allocate resources |\n| capacity | 容量 | maximum capacity |\n| accessible | 無障礙可使用的 | wheelchair-accessible entrance |\n| projector | 投影機 | projector rental |\n| accommodate | 容納；配合 | accommodate participants |\n| tentative | 暫定的 | tentative reservation |\n| notify | 通知 | notify attendees |\n| maintenance | 維護 | scheduled maintenance |\n| outage | 服務中斷 | service outage |\n| resume | 恢復 | resume operations |\n| submit | 提交 | submit a request |\n| retrieve | 擷取 | retrieve a report |\n| status | 狀態 | status update |\n| deadline | 期限 | registration deadline |\n| transfer | 轉讓；轉移 | transfer a registration |\n| eligible | 符合資格的 | eligible for a refund |\n| supersede | 取代；優先於 | supersede an earlier policy |\n| reimburse | 報銷 | reimburse an expense |\n| alternative | 替代選項 | suitable alternative |"
+    },
+    {
+      "title": "Part 5 進階主詞動詞一致、否定副詞倒裝與假設語氣",
+      "markdown": "目標速度：**每題 14 秒**\n\n| Pattern | Example | 說明 |\n|---|---|---|\n| Head noun + along with / as well as + noun → verb agrees with head noun | The instructor, along with two assistants, is attending. | along with 不改變主詞單複數。 |\n| Neither A nor B / Not only A but also B → proximity agreement | Neither the manager nor the technicians are available. | 動詞通常與靠近的主詞 B 一致。 |\n| Not until / Only after / Rarely at sentence start → auxiliary inversion | Only after the contract was signed did the vendor release the licenses. | 否定或限制性副詞片語置於句首，主句常需助動詞倒裝。 |\n| request / recommend / insist that + subject + base verb (mandative subjunctive) | The manager requested that the proposal be revised. | 正式美式英文常使用原形動詞 be，而非 is/was。 |\n| The number of + plural noun → singular verb; A number of + plural noun → plural verb | The number of participants has increased. A number of participants have registered. | 依照真正的主詞 number 或 participants 判斷。 |\n\n### 解題順序\n\n- 圈出真正主詞\n- 辨認倒裝觸發詞\n- 確認動詞型態\n- 最後檢查語意與時態"
+    },
+    {
+      "title": "Listening｜L32-1 Software Licenses: Indirect Response",
+      "markdown": "技能：IMP / I / N\n\n聽力稿：\n\nMan: Can we activate all forty accounts for Monday's launch?\nWoman: The vendor can release thirty licenses today. The remaining ten won't be available until Tuesday, unless we upgrade to an enterprise plan, which would put us over budget.\nMan: So Monday's launch is off the table?\nWoman: Not necessarily. The pilot only involves twenty-eight employees. Everyone else can join next week.\nMan: Good point. Please activate the pilot accounts. I'll ask IT to send the invitations.\n\n答案：\n\n### Q1\n\nWhat problem do the speakers mention?\n\n(A) Only 30 software licenses are available immediately.  \n(B) The pilot group has been canceled.  \n(C) The software cannot run on Monday.  \n(D) The vendor has increased the price.  \n\n答案：**A**\n\n40 accounts were requested, but only 30 licenses are available now.\n\n### Q2\n\nWhat does the woman imply by saying, “Not necessarily”?\n\n(A) The launch must be delayed.  \n(B) The pilot can still begin on Monday.  \n(C) All 40 users must join immediately.  \n(D) The licenses are free.  \n\n答案：**B**\n\nOnly 28 accounts are required for the pilot, so the available 30 licenses are sufficient.\n\n### Q3\n\nWhat will the man probably ask the IT team to do?\n\n(A) Cancel all invitations.  \n(B) Order new computers.  \n(C) Send invitations to the pilot users.  \n(D) Upgrade to the enterprise plan.  \n\n答案：**C**\n\nHe says he will ask IT to send invitations after the pilot accounts are activated."
+    },
+    {
+      "title": "Listening｜L32-2 Accessible Training Room: Competing Constraints",
+      "markdown": "技能：I / BUD / CAL / N\n\n| room | capacity | wheelchairAccessible | projector | available | basePrice | projectorExtra |\n|---|---|---|---|---|---|---|\n| Atlas | 28 | True | included | Friday 13:00–16:00 | 340 | 0 |\n| Birch | 32 | False | included | Friday 13:00–17:00 | 290 | 0 |\n| Cedar | 40 | True | $70 extra | Friday 13:00–17:00 | 310 | 70 |\n| Delta | 24 | True | included | Friday 13:00–17:00 | 280 | 0 |\n\n聽力稿：\n\nWoman: We need a room for twenty-five people this Friday from one to three. One attendee uses a wheelchair, and we'll need a projector. Our total limit is three hundred fifty dollars.\nMan: Birch has enough seats, but its entrance has stairs. Cedar is accessible, though the projector costs another seventy dollars on top of the three-hundred-ten-dollar rental.\nWoman: And Delta?\nMan: Only twenty-four seats. Atlas has twenty-eight seats, accessible entry, and a projector included for three hundred forty dollars.\nWoman: Then Atlas is our only workable choice. Please hold it and email the revised location to everyone.\n\n答案：\n\n### Q1\n\nWhy is Birch Room unsuitable?\n\n(A) It lacks wheelchair access.  \n(B) It has too few seats.  \n(C) It is unavailable Friday afternoon.  \n(D) Its base rental exceeds the budget.  \n\n答案：**A**\n\nBirch seats 32 but has no wheelchair access.\n\n### Q2\n\nWhich room meets all the requirements?\n\n(A) Atlas  \n(B) Birch  \n(C) Cedar  \n(D) Delta  \n\n答案：**A**\n\nAtlas: 28 seats, accessible, projector included, Friday 1–3, $340 ≤ $350.\n\n### Q3\n\nWhy is Cedar not selected?\n\n(A) It has no projector.  \n(B) It has only 24 seats.  \n(C) The total cost exceeds the budget.  \n(D) It is unavailable on Friday.  \n\n答案：**C**\n\nCedar costs $310 + $70 for a projector = $380, exceeding $350.\n\n### Q4\n\nWhat will the man most likely do next?\n\n(A) Reduce attendance to 24.  \n(B) Make a tentative booking and notify attendees.  \n(C) Change the event to Saturday.  \n(D) Cancel the projector rental.  \n\n答案：**B**\n\nThe woman asks him to hold Atlas and email the revised location."
+    },
+    {
+      "title": "Listening｜L32-3 Customer Portal Maintenance: Updated Information",
+      "markdown": "技能：U / T / E / N\n\n聽力稿：\n\nAttention, customer portal users. Scheduled maintenance will take place this Saturday from eight until eleven in the morning. You may still view reports that you downloaded earlier, but you won't be able to submit new requests. An earlier notice said the portal would reopen at noon; after preliminary testing, our engineers now expect it to be available by eleven. If the work takes longer, we'll post a status update on the support page at ten thirty. Teams with urgent requests should submit them before seven thirty on Saturday morning. Please don't send them by email during the outage, as those messages will not be processed until service resumes.\n\n答案：\n\n### Q1\n\nWhat will users be unable to do during maintenance?\n\n(A) Read previously downloaded reports.  \n(B) Submit new requests.  \n(C) Access their own computers.  \n(D) Contact colleagues by phone.  \n\n答案：**B**\n\nThe portal will block new submissions, though downloaded reports remain readable.\n\n### Q2\n\nWhat has changed from the earlier notice?\n\n(A) Maintenance now begins at 7:30.  \n(B) The portal is expected to reopen at 11 A.M. instead of noon.  \n(C) The support page has been removed.  \n(D) The maintenance has moved to Sunday.  \n\n答案：**B**\n\nThe earlier notice said noon; the updated estimate is 11 A.M.\n\n### Q3\n\nWhat should teams with urgent requests do?\n\n(A) Send them by email during maintenance.  \n(B) Wait until noon.  \n(C) Submit them before 7:30 A.M. Saturday.  \n(D) Use a new registration form.  \n\n答案：**C**\n\nUrgent requests must be submitted before 7:30 A.M.; emails will not be processed during downtime.\n\n### Q4\n\nWhere will any further delay be announced?\n\n(A) On the support page.  \n(B) In a printed newsletter.  \n(C) On the billing invoice.  \n(D) In the employee handbook.  \n\n答案：**A**\n\nA status message will be posted on the support page at 10:30 if the work runs longer."
+    },
+    {
+      "title": "Reading｜SkillBridge Workshops: Policy × Registration × Schedule Change",
+      "markdown": "題型：**triple-passage**　限時：**480 秒**\n\n### SkillBridge Workshop Registration Policy\n\nSkillBridge Professional Workshops — December 12. Standard registration costs $280 per person. The early rate of $230 applies to registrations received by November 6. Each person may attend one workshop. Original schedule: Data Analytics, 9 A.M.–noon; Excel Automation, 9 A.M.–noon; Project Leadership, 1–4 P.M. Under the general cancellation policy, a full refund is available for requests received by December 3, a 50-percent refund for December 4–7, and no refund after December 7. Workshop switches are free if space is available and requested by December 9. Registration transfers to another employee of the same company are allowed through December 10.\n\n### Northstar Consulting Registration Summary\n\nMaya Chen registered for Data Analytics on November 5 and paid $230. She has a client presentation on December 12 from 1 to 3 P.M., so she can attend only a morning workshop. Luis Rivera registered for Project Leadership on November 8 and paid $280. The department reimburses each employee up to $250 in workshop registration fees. Luis is available for afternoon sessions.\n\n### Organizer Update — December 8\n\nDue to an instructor scheduling conflict, Data Analytics has moved to 1–4 P.M. on December 12. Excel Automation will still run from 9 A.M. to noon, and six seats remain available. Project Leadership is unchanged. Participants affected by the Data Analytics change may switch to Excel Automation at no additional cost if they reply by December 9. Alternatively, affected registrants may request a full refund through December 10; this exception overrides the general cancellation policy. We will not change anyone's registration automatically. Please reply with your preferred action.\n\n### 題目與解析\n\n### Q1\n\nHow much did Maya pay for registration?\n\n(A) $230  \n(B) $250  \n(C) $280  \n(D) $300  \n\n答案：**A**\n\nShe registered on November 5, before the November 6 early-rate deadline, and paid $230.\n\n### Q2\n\nHow much of Luis’s registration fee is not covered by his department’s reimbursement?\n\n(A) $0  \n(B) $20  \n(C) $30  \n(D) $50  \n\n答案：**C**\n\nLuis paid $280; the department reimburses up to $250, leaving $30.\n\n### Q3\n\nWhy is the revised Data Analytics time inconvenient for Maya?\n\n(A) She is traveling that morning.  \n(B) She has a client presentation from 1 to 3 P.M.  \n(C) She must attend Project Leadership.  \n(D) She registered after the deadline.  \n\n答案：**B**\n\nThe workshop now runs 1–4 P.M., overlapping Maya’s 1–3 P.M. client presentation.\n\n### Q4\n\nWhich workshop could Maya attend instead without a scheduling conflict?\n\n(A) Project Leadership  \n(B) Data Analytics  \n(C) Excel Automation  \n(D) None of the workshops  \n\n答案：**C**\n\nExcel Automation remains 9 A.M.–noon and has six seats available.\n\n### Q5\n\nBy what date must Maya request the no-fee switch to Excel Automation?\n\n(A) December 3  \n(B) December 7  \n(C) December 9  \n(D) December 12  \n\n答案：**C**\n\nThe update requires affected participants to reply by December 9.\n\n### Q6\n\nIf Maya requests cancellation on December 9 because of the schedule change, what refund can she receive?\n\n(A) No refund  \n(B) A 50-percent refund  \n(C) A full refund  \n(D) A $30 credit  \n\n答案：**C**\n\nThe special update permits a full refund through December 10 for affected Data Analytics registrants, overriding the general rule.\n\n### Q7\n\nWhat happens if Maya does not respond to the organizer?\n\n(A) She is automatically moved to Excel Automation.  \n(B) Her registration remains for Data Analytics at the revised time.  \n(C) She automatically receives a full refund.  \n(D) She is transferred to Project Leadership.  \n\n答案：**B**\n\nThe organizer explicitly says it will not change registrations automatically.\n\n### Q8\n\nWhich workshop keeps its original afternoon schedule?\n\n(A) Data Analytics  \n(B) Excel Automation  \n(C) Project Leadership  \n(D) All workshops  \n\n答案：**C**\n\nProject Leadership remains 1–4 P.M. and is explicitly unchanged."
+    },
+    {
+      "title": "錯題回收與快速複習",
+      "markdown": "| 題目 | 答案 | 標籤 |\n|---|---|---|\n| _____ the poor weather, the seminar continued. | Despite | G |\n| _____ the weather was poor, the seminar continued. | Although | G |\n| The number of participants _____ increased. | has | AGR |\n| A number of participants _____ registered. | have | AGR |\n| Each of the invoices _____ reviewed. | is | AGR |\n| The instructor, as well as the assistants, _____ present. | is | AGR |\n| Keep a copy _____ the original is lost. | in case | C |\n| We will notify you as soon as the results _____ ready. | are | G |\n| look over = ? | review | P |\n| running low on = ? | almost out of | P |\n| no later than Thursday = ? | by Thursday | T |\n| 20 replacement chairs × $165 = ? | $3,300 | CAL |\n| The invoice must be sent _____ payment processing. | before | SEQ |\n| A $320 room plus $60 equipment costs ? | $380 | CAL |\n\n先遮住答案做 90 秒快問快答；將錯誤依 errorTags 登錄並隔日再測。"
+    },
+    {
+      "title": "今日作業",
+      "markdown": "| 作業 | 分鐘 |\n|---|---|\n| 30 字兩輪複習；用 activate, amend, supersede, reimburse, accessible 等任選 8 字造句 | 15 |\n| Part 5 15 題第二輪限時 3 分鐘，標記 AGR / G / POS / C | 10 |\n| Listening 三組先 TTS 1.0x，再 1.1x；先作答再看逐字稿 | 25 |\n| Triple Passage 畫出原規則 → 個人情況 → 例外更新；重算 $280 − $250 | 20 |\n| Day 32 小考第二次限時 3 分 30 秒；記錄每題秒數及錯誤標籤 | 10 |"
+    },
+    {
+      "title": "難度調整與下一課",
+      "markdown": "- **11–12 題正確**：Day 33: 900+ 多重限制與倒裝進階，增加干擾選項密度\n- **9–10 題正確**：Day 33: 維持難度，針對錯題標籤加 5 題補強\n- **7–8 題正確**：Day 33: 保留高分題型但降低跨文件條件數量\n- **0–6 題正確**：Day 33: 主詞動詞一致、時序與更新例外優先回收\n\n### Day 33 預告\n\n- Part 5 inversion and agreement\n- Part 3 indirect responses and implied decisions\n- Part 4 updates and next action\n- Triple Passage exception vs original policy\n- adaptive review by error tag"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "subscription",
+      "meaning": "訂閱",
+      "phrase": "annual subscription"
+    },
+    {
+      "id": 2,
+      "word": "license",
+      "meaning": "授權",
+      "phrase": "software license"
+    },
+    {
+      "id": 3,
+      "word": "renewal",
+      "meaning": "續約",
+      "phrase": "automatic renewal"
+    },
+    {
+      "id": 4,
+      "word": "activate",
+      "meaning": "啟用",
+      "phrase": "activate an account"
+    },
+    {
+      "id": 5,
+      "word": "access",
+      "meaning": "存取權限",
+      "phrase": "grant access"
+    },
+    {
+      "id": 6,
+      "word": "restriction",
+      "meaning": "限制",
+      "phrase": "access restriction"
+    },
+    {
+      "id": 7,
+      "word": "compliance",
+      "meaning": "合規",
+      "phrase": "regulatory compliance"
+    },
+    {
+      "id": 8,
+      "word": "provision",
+      "meaning": "條款；規定",
+      "phrase": "contract provision"
+    },
+    {
+      "id": 9,
+      "word": "amendment",
+      "meaning": "修正案",
+      "phrase": "contract amendment"
+    },
+    {
+      "id": 10,
+      "word": "endorse",
+      "meaning": "支持；核准",
+      "phrase": "endorse a proposal"
+    },
+    {
+      "id": 11,
+      "word": "authorize",
+      "meaning": "授權",
+      "phrase": "authorize a payment"
+    },
+    {
+      "id": 12,
+      "word": "allocate",
+      "meaning": "分配",
+      "phrase": "allocate resources"
+    },
+    {
+      "id": 13,
+      "word": "capacity",
+      "meaning": "容量",
+      "phrase": "maximum capacity"
+    },
+    {
+      "id": 14,
+      "word": "accessible",
+      "meaning": "無障礙可使用的",
+      "phrase": "wheelchair-accessible entrance"
+    },
+    {
+      "id": 15,
+      "word": "projector",
+      "meaning": "投影機",
+      "phrase": "projector rental"
+    },
+    {
+      "id": 16,
+      "word": "accommodate",
+      "meaning": "容納；配合",
+      "phrase": "accommodate participants"
+    },
+    {
+      "id": 17,
+      "word": "tentative",
+      "meaning": "暫定的",
+      "phrase": "tentative reservation"
+    },
+    {
+      "id": 18,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify attendees"
+    },
+    {
+      "id": 19,
+      "word": "maintenance",
+      "meaning": "維護",
+      "phrase": "scheduled maintenance"
+    },
+    {
+      "id": 20,
+      "word": "outage",
+      "meaning": "服務中斷",
+      "phrase": "service outage"
+    },
+    {
+      "id": 21,
+      "word": "resume",
+      "meaning": "恢復",
+      "phrase": "resume operations"
+    },
+    {
+      "id": 22,
+      "word": "submit",
+      "meaning": "提交",
+      "phrase": "submit a request"
+    },
+    {
+      "id": 23,
+      "word": "retrieve",
+      "meaning": "擷取",
+      "phrase": "retrieve a report"
+    },
+    {
+      "id": 24,
+      "word": "status",
+      "meaning": "狀態",
+      "phrase": "status update"
+    },
+    {
+      "id": 25,
+      "word": "deadline",
+      "meaning": "期限",
+      "phrase": "registration deadline"
+    },
+    {
+      "id": 26,
+      "word": "transfer",
+      "meaning": "轉讓；轉移",
+      "phrase": "transfer a registration"
+    },
+    {
+      "id": 27,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for a refund"
+    },
+    {
+      "id": 28,
+      "word": "supersede",
+      "meaning": "取代；優先於",
+      "phrase": "supersede an earlier policy"
+    },
+    {
+      "id": 29,
+      "word": "reimburse",
+      "meaning": "報銷",
+      "phrase": "reimburse an expense"
+    },
+    {
+      "id": 30,
+      "word": "alternative",
+      "meaning": "替代選項",
+      "phrase": "suitable alternative"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": "P32-1",
+          "prompt": "The list of revised prices, along with the payment terms, _____ attached.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "A",
+          "explanation": "The head noun list is singular; along with does not change agreement."
+        },
+        {
+          "id": "P32-2",
+          "prompt": "Neither the coordinator nor the technicians _____ available this afternoon.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "The nearest subject technicians is plural."
+        },
+        {
+          "id": "P32-3",
+          "prompt": "Not only the training materials but also the projector _____ included in the fee.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "The nearest subject projector is singular."
+        },
+        {
+          "id": "P32-4",
+          "prompt": "Only after the contract was signed _____ the supplier release the licenses.",
+          "options": {
+            "A": "did",
+            "B": "does",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "A",
+          "explanation": "Only after at the beginning triggers main-clause auxiliary inversion: did ... release."
+        },
+        {
+          "id": "P32-5",
+          "prompt": "Rarely _____ the team encounter such a complicated request.",
+          "options": {
+            "A": "do",
+            "B": "does",
+            "C": "is",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "Rarely triggers inversion, and team is singular here: does the team encounter."
+        },
+        {
+          "id": "P32-6",
+          "prompt": "The manager requested that the proposal _____ revised before Friday.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "Mandative subjunctive: requested that ... be revised."
+        },
+        {
+          "id": "P32-7",
+          "prompt": "The number of registrations _____ risen since the announcement.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The number is a singular subject, so has risen."
+        },
+        {
+          "id": "P32-8",
+          "prompt": "A number of participants _____ requested schedule changes.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "A number of participants is treated as plural: have requested."
+        },
+        {
+          "id": "P32-9",
+          "prompt": "The revised guidelines will take effect _____ the director approves them.",
+          "options": {
+            "A": "despite",
+            "B": "once",
+            "C": "unless not",
+            "D": "in case of"
+          },
+          "answer": "B",
+          "explanation": "Once + present simple describes the condition for future effect."
+        },
+        {
+          "id": "P32-10",
+          "prompt": "The applications _____ before noon will receive priority.",
+          "options": {
+            "A": "submitting",
+            "B": "submitted",
+            "C": "submit",
+            "D": "submits"
+          },
+          "answer": "B",
+          "explanation": "Applications are submitted (passive), so past participle submitted."
+        },
+        {
+          "id": "P32-11",
+          "prompt": "The instructor, as well as the assistants, _____ attending the session.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "The main subject instructor is singular; as well as is parenthetical."
+        },
+        {
+          "id": "P32-12",
+          "prompt": "Please keep a copy of the invoice _____ the original is misplaced.",
+          "options": {
+            "A": "once",
+            "B": "unless",
+            "C": "in case",
+            "D": "provided that"
+          },
+          "answer": "C",
+          "explanation": "In case signals precaution against a possible future event."
+        },
+        {
+          "id": "P32-13",
+          "prompt": "The company is seeking a _____ qualified analyst.",
+          "options": {
+            "A": "high",
+            "B": "highly",
+            "C": "height",
+            "D": "higher"
+          },
+          "answer": "B",
+          "explanation": "Highly is an adverb modifying qualified."
+        },
+        {
+          "id": "P32-14",
+          "prompt": "All participants must register in advance, _____ they are attending only the online session.",
+          "options": {
+            "A": "even if",
+            "B": "unless",
+            "C": "despite",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "Even if means the rule applies in the stated situation as well."
+        },
+        {
+          "id": "P32-15",
+          "prompt": "The replacement equipment was delivered _____ than expected.",
+          "options": {
+            "A": "early",
+            "B": "earliest",
+            "C": "earlier",
+            "D": "more early"
+          },
+          "answer": "C",
+          "explanation": "Than calls for comparative earlier."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listening 理解題",
+      "questions": [
+        {
+          "id": "L32-1-1",
+          "prompt": "What problem do the speakers mention?",
+          "options": {
+            "A": "Only 30 software licenses are available immediately.",
+            "B": "The pilot group has been canceled.",
+            "C": "The software cannot run on Monday.",
+            "D": "The vendor has increased the price."
+          },
+          "answer": "A",
+          "explanation": "40 accounts were requested, but only 30 licenses are available now."
+        },
+        {
+          "id": "L32-1-2",
+          "prompt": "What does the woman imply by saying, “Not necessarily”?",
+          "options": {
+            "A": "The launch must be delayed.",
+            "B": "The pilot can still begin on Monday.",
+            "C": "All 40 users must join immediately.",
+            "D": "The licenses are free."
+          },
+          "answer": "B",
+          "explanation": "Only 28 accounts are required for the pilot, so the available 30 licenses are sufficient."
+        },
+        {
+          "id": "L32-1-3",
+          "prompt": "What will the man probably ask the IT team to do?",
+          "options": {
+            "A": "Cancel all invitations.",
+            "B": "Order new computers.",
+            "C": "Send invitations to the pilot users.",
+            "D": "Upgrade to the enterprise plan."
+          },
+          "answer": "C",
+          "explanation": "He says he will ask IT to send invitations after the pilot accounts are activated."
+        },
+        {
+          "id": "L32-2-1",
+          "prompt": "Why is Birch Room unsuitable?",
+          "options": {
+            "A": "It lacks wheelchair access.",
+            "B": "It has too few seats.",
+            "C": "It is unavailable Friday afternoon.",
+            "D": "Its base rental exceeds the budget."
+          },
+          "answer": "A",
+          "explanation": "Birch seats 32 but has no wheelchair access."
+        },
+        {
+          "id": "L32-2-2",
+          "prompt": "Which room meets all the requirements?",
+          "options": {
+            "A": "Atlas",
+            "B": "Birch",
+            "C": "Cedar",
+            "D": "Delta"
+          },
+          "answer": "A",
+          "explanation": "Atlas: 28 seats, accessible, projector included, Friday 1–3, $340 ≤ $350."
+        },
+        {
+          "id": "L32-2-3",
+          "prompt": "Why is Cedar not selected?",
+          "options": {
+            "A": "It has no projector.",
+            "B": "It has only 24 seats.",
+            "C": "The total cost exceeds the budget.",
+            "D": "It is unavailable on Friday."
+          },
+          "answer": "C",
+          "explanation": "Cedar costs $310 + $70 for a projector = $380, exceeding $350."
+        },
+        {
+          "id": "L32-2-4",
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Reduce attendance to 24.",
+            "B": "Make a tentative booking and notify attendees.",
+            "C": "Change the event to Saturday.",
+            "D": "Cancel the projector rental."
+          },
+          "answer": "B",
+          "explanation": "The woman asks him to hold Atlas and email the revised location."
+        },
+        {
+          "id": "L32-3-1",
+          "prompt": "What will users be unable to do during maintenance?",
+          "options": {
+            "A": "Read previously downloaded reports.",
+            "B": "Submit new requests.",
+            "C": "Access their own computers.",
+            "D": "Contact colleagues by phone."
+          },
+          "answer": "B",
+          "explanation": "The portal will block new submissions, though downloaded reports remain readable."
+        },
+        {
+          "id": "L32-3-2",
+          "prompt": "What has changed from the earlier notice?",
+          "options": {
+            "A": "Maintenance now begins at 7:30.",
+            "B": "The portal is expected to reopen at 11 A.M. instead of noon.",
+            "C": "The support page has been removed.",
+            "D": "The maintenance has moved to Sunday."
+          },
+          "answer": "B",
+          "explanation": "The earlier notice said noon; the updated estimate is 11 A.M."
+        },
+        {
+          "id": "L32-3-3",
+          "prompt": "What should teams with urgent requests do?",
+          "options": {
+            "A": "Send them by email during maintenance.",
+            "B": "Wait until noon.",
+            "C": "Submit them before 7:30 A.M. Saturday.",
+            "D": "Use a new registration form."
+          },
+          "answer": "C",
+          "explanation": "Urgent requests must be submitted before 7:30 A.M.; emails will not be processed during downtime."
+        },
+        {
+          "id": "L32-3-4",
+          "prompt": "Where will any further delay be announced?",
+          "options": {
+            "A": "On the support page.",
+            "B": "In a printed newsletter.",
+            "C": "On the billing invoice.",
+            "D": "In the employee handbook."
+          },
+          "answer": "A",
+          "explanation": "A status message will be posted on the support page at 10:30 if the work runs longer."
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Triple Passage 閱讀題",
+      "questions": [
+        {
+          "id": "R32-1",
+          "prompt": "How much did Maya pay for registration?",
+          "options": {
+            "A": "$230",
+            "B": "$250",
+            "C": "$280",
+            "D": "$300"
+          },
+          "answer": "A",
+          "explanation": "She registered on November 5, before the November 6 early-rate deadline, and paid $230."
+        },
+        {
+          "id": "R32-2",
+          "prompt": "How much of Luis’s registration fee is not covered by his department’s reimbursement?",
+          "options": {
+            "A": "$0",
+            "B": "$20",
+            "C": "$30",
+            "D": "$50"
+          },
+          "answer": "C",
+          "explanation": "Luis paid $280; the department reimburses up to $250, leaving $30."
+        },
+        {
+          "id": "R32-3",
+          "prompt": "Why is the revised Data Analytics time inconvenient for Maya?",
+          "options": {
+            "A": "She is traveling that morning.",
+            "B": "She has a client presentation from 1 to 3 P.M.",
+            "C": "She must attend Project Leadership.",
+            "D": "She registered after the deadline."
+          },
+          "answer": "B",
+          "explanation": "The workshop now runs 1–4 P.M., overlapping Maya’s 1–3 P.M. client presentation."
+        },
+        {
+          "id": "R32-4",
+          "prompt": "Which workshop could Maya attend instead without a scheduling conflict?",
+          "options": {
+            "A": "Project Leadership",
+            "B": "Data Analytics",
+            "C": "Excel Automation",
+            "D": "None of the workshops"
+          },
+          "answer": "C",
+          "explanation": "Excel Automation remains 9 A.M.–noon and has six seats available."
+        },
+        {
+          "id": "R32-5",
+          "prompt": "By what date must Maya request the no-fee switch to Excel Automation?",
+          "options": {
+            "A": "December 3",
+            "B": "December 7",
+            "C": "December 9",
+            "D": "December 12"
+          },
+          "answer": "C",
+          "explanation": "The update requires affected participants to reply by December 9."
+        },
+        {
+          "id": "R32-6",
+          "prompt": "If Maya requests cancellation on December 9 because of the schedule change, what refund can she receive?",
+          "options": {
+            "A": "No refund",
+            "B": "A 50-percent refund",
+            "C": "A full refund",
+            "D": "A $30 credit"
+          },
+          "answer": "C",
+          "explanation": "The special update permits a full refund through December 10 for affected Data Analytics registrants, overriding the general rule."
+        },
+        {
+          "id": "R32-7",
+          "prompt": "What happens if Maya does not respond to the organizer?",
+          "options": {
+            "A": "She is automatically moved to Excel Automation.",
+            "B": "Her registration remains for Data Analytics at the revised time.",
+            "C": "She automatically receives a full refund.",
+            "D": "She is transferred to Project Leadership."
+          },
+          "answer": "B",
+          "explanation": "The organizer explicitly says it will not change registrations automatically."
+        },
+        {
+          "id": "R32-8",
+          "prompt": "Which workshop keeps its original afternoon schedule?",
+          "options": {
+            "A": "Data Analytics",
+            "B": "Excel Automation",
+            "C": "Project Leadership",
+            "D": "All workshops"
+          },
+          "answer": "C",
+          "explanation": "Project Leadership remains 1–4 P.M. and is explicitly unchanged."
+        }
+      ]
+    },
+    {
+      "id": "day-32-quiz",
+      "title": "Day 32 小考",
+      "questions": [
+        {
+          "id": "Q32-1",
+          "prompt": "The list of approved vendors, together with their contact details, _____ available online.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The head noun list is singular."
+        },
+        {
+          "id": "Q32-2",
+          "prompt": "Not until the revised terms were approved _____ the team place the order.",
+          "options": {
+            "A": "does",
+            "B": "was",
+            "C": "did",
+            "D": "has"
+          },
+          "answer": "C",
+          "explanation": "Not until ... at sentence start requires auxiliary inversion: did ... place."
+        },
+        {
+          "id": "Q32-3",
+          "prompt": "The number of employees attending the workshop _____ increased.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The number is singular: has increased."
+        },
+        {
+          "id": "Q32-4",
+          "prompt": "The director requested that the draft _____ updated immediately.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "Mandative subjunctive after requested that uses be updated."
+        },
+        {
+          "id": "Q32-5",
+          "prompt": "Why can Monday’s software pilot still begin?",
+          "options": {
+            "A": "All 40 licenses are ready.",
+            "B": "Only 28 accounts are needed for the pilot.",
+            "C": "The vendor offered free upgrades.",
+            "D": "The pilot has been postponed."
+          },
+          "answer": "B",
+          "explanation": "Thirty licenses are available and the pilot requires only 28."
+        },
+        {
+          "id": "Q32-6",
+          "prompt": "Which room satisfies the 25-person accessible Friday session within $350?",
+          "options": {
+            "A": "Atlas",
+            "B": "Birch",
+            "C": "Cedar",
+            "D": "Delta"
+          },
+          "answer": "A",
+          "explanation": "Atlas meets capacity, access, projector, time and all-in price constraints."
+        },
+        {
+          "id": "Q32-7",
+          "prompt": "What should teams do with urgent portal requests?",
+          "options": {
+            "A": "Email them during the outage.",
+            "B": "Submit them before 7:30 A.M. Saturday.",
+            "C": "Wait until Saturday afternoon.",
+            "D": "Call the hotel reception."
+          },
+          "answer": "B",
+          "explanation": "The announcement says to submit urgent requests before 7:30 A.M. Saturday."
+        },
+        {
+          "id": "Q32-8",
+          "prompt": "Where will a further maintenance delay be announced?",
+          "options": {
+            "A": "On the support page.",
+            "B": "On the invoice.",
+            "C": "At the front desk.",
+            "D": "In the printed brochure."
+          },
+          "answer": "A",
+          "explanation": "The speaker specifies a support-page status update."
+        },
+        {
+          "id": "Q32-9",
+          "prompt": "What registration fee did Maya pay?",
+          "options": {
+            "A": "$230",
+            "B": "$250",
+            "C": "$280",
+            "D": "$300"
+          },
+          "answer": "A",
+          "explanation": "Maya registered on November 5 at the $230 early rate."
+        },
+        {
+          "id": "Q32-10",
+          "prompt": "Which morning workshop is available as an alternative for Maya?",
+          "options": {
+            "A": "Data Analytics",
+            "B": "Project Leadership",
+            "C": "Excel Automation",
+            "D": "No workshop"
+          },
+          "answer": "C",
+          "explanation": "Excel Automation remains in the morning and has six available seats."
+        },
+        {
+          "id": "Q32-11",
+          "prompt": "How much of Luis’s $280 fee exceeds his $250 reimbursement limit?",
+          "options": {
+            "A": "$20",
+            "B": "$25",
+            "C": "$30",
+            "D": "$50"
+          },
+          "answer": "C",
+          "explanation": "$280 − $250 = $30."
+        },
+        {
+          "id": "Q32-12",
+          "prompt": "What refund can Maya request on December 9 because of the schedule change?",
+          "options": {
+            "A": "None",
+            "B": "50 percent",
+            "C": "Full refund",
+            "D": "A transfer fee credit"
+          },
+          "answer": "C",
+          "explanation": "Affected Data Analytics registrants have a special full-refund window through December 10."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "辨識主詞動詞一致與倒裝",
+  "nextDay": "Part 5 inversion and agreement / Part 3 indirect responses and implied decisions / Part 4 updates and next action / Triple Passage exception vs original policy / adaptive review by error tag"
+}
