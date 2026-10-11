@@ -1,0 +1,294 @@
+.word {
+  min-height: 190px;
+}
+
+.word > span {
+  display: block;
+  min-height: 24px;
+}
+
+.word-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.word-head strong {
+  margin: 0;
+}
+
+.speak-word {
+  border: 0;
+  background: #eef1fc;
+  color: #2c46ba;
+  border-radius: 7px;
+  padding: 7px 9px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.lesson-pager {
+  margin-top: 25px;
+}
+
+.annotated-section,
+.note-card {
+  scroll-margin-top: 24px;
+}
+
+.annotated-section + .annotated-section {
+  border-top: 1px solid #e6e9f1;
+  margin-top: 28px;
+  padding-top: 28px;
+}
+
+.annotation-tools {
+  display: flex;
+  gap: 7px;
+  flex-wrap: wrap;
+  margin: 10px 0 14px;
+}
+
+.icon-action {
+  background: #fff;
+  border: 1px solid #dfe4ef;
+  color: #66718a;
+  border-radius: 999px;
+  padding: 7px 11px;
+  font-size: 13px;
+}
+
+.icon-action:hover,
+.icon-action.has-note {
+  border-color: #8999e8;
+  color: #2945cf;
+  background: #f7f8ff;
+}
+
+.icon-action.active {
+  border-color: #d9a92e;
+  background: #fff8df;
+  color: #8d6500;
+}
+
+.note-editor {
+  display: none;
+  background: #f7f8fc;
+  border: 1px solid #e1e5ef;
+  border-radius: 9px;
+  padding: 14px;
+  margin: 8px 0 18px;
+}
+
+.note-editor.open {
+  display: block;
+}
+
+.note-editor label {
+  display: block;
+  color: #4d5871;
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.note-editor textarea {
+  display: block;
+  width: 100%;
+  min-height: 100px;
+  margin-top: 8px;
+  padding: 11px 12px;
+  border: 1px solid #ccd3e1;
+  border-radius: 7px;
+  background: #fff;
+  color: #18213c;
+  line-height: 1.6;
+  resize: vertical;
+}
+
+.note-editor textarea:focus {
+  outline: 3px solid #ced5ff;
+  border-color: #667ce3;
+}
+
+.note-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 8px;
+  color: #81899a;
+  font-size: 12px;
+}
+
+.text-action {
+  border: 0;
+  background: transparent;
+  color: #ac4449;
+  padding: 5px;
+}
+
+.text-action:disabled {
+  color: #aeb4c0;
+  cursor: default;
+}
+
+.notes-toolbar h2,
+.note-card h2 {
+  margin: 0;
+}
+
+.notes-toolbar .section-head {
+  gap: 20px;
+}
+
+.backup-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.file-action {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.file-action input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+
+.note-filters {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(150px, 1fr));
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.note-filters label {
+  color: #687289;
+  font-size: 13px;
+}
+
+.note-filters select {
+  display: block;
+  width: 100%;
+  margin-top: 7px;
+  padding: 10px;
+  border: 1px solid #d7dce7;
+  border-radius: 7px;
+  background: #fff;
+  color: #28324b;
+}
+
+.notes-list {
+  max-width: 950px;
+}
+
+.note-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.note-card-head h2 {
+  font-size: 19px;
+  margin-top: 6px;
+}
+
+.note-kind {
+  font-size: 12px;
+  letter-spacing: .7px;
+  text-transform: uppercase;
+  color: #3650cf;
+  font-weight: 700;
+}
+
+.note-card > p {
+  color: #69738a;
+}
+
+.empty-notes {
+  text-align: center;
+  padding: 55px 25px;
+}
+
+.empty-notes p {
+  color: #7d8699;
+}
+
+@media (max-width: 800px) {
+  aside {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .nav {
+    padding: 10px 3px;
+    font-size: 12px;
+  }
+
+  .word {
+    min-height: 180px;
+  }
+
+  .speak-word {
+    font-size: 11px;
+    padding: 6px;
+  }
+
+  .notes-toolbar .section-head,
+  .note-card-head {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .note-filters {
+    grid-template-columns: 1fr;
+  }
+
+  .backup-actions .secondary {
+    flex: 1;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .note-editor textarea {
+    min-height: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  .words {
+    grid-template-columns: 1fr;
+  }
+
+  .stats {
+    grid-template-columns: 1fr;
+  }
+
+  .stats > div {
+    border-right: 0;
+    border-bottom: 1px solid #e5e8f0;
+    padding: 12px;
+  }
+
+  .stats > div:last-child {
+    border-bottom: 0;
+  }
+
+  .page-top {
+    align-items: flex-start;
+  }
+
+  .day-badge {
+    margin-left: 10px;
+  }
+
+  .nav {
+    font-size: 11px;
+  }
+}
