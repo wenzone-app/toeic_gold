@@ -1,0 +1,838 @@
+{
+  "schemaVersion": "1.0",
+  "day": 30,
+  "title": "900+ Triple Passage × Part 3/4 高密度同義轉換",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 30 教材",
+  "sections": [
+    {
+      "title": "Day 30 學習概覽",
+      "markdown": "## 900+ Triple Passage × Part 3/4 高密度同義轉換\n\n今天承接 Day 29。你已經進入第五週，因此訓練開始從「找到答案」進一步要求：\n\n> **聽到 A → 辨認選項中的 B**  \n> **看到三份文件 → 找出彼此關係**  \n> **Part 5 → 10 秒左右完成詞性判斷**  \n> **Reading → 分辨原始資訊、限制條件、後續行動**\n\n目前沒有收到 Day 29 的實際作答結果，因此今天先維持 **860～900+**，提高同義改寫密度，但不再增加文章長度。\n\n建議訓練時間：**95～105 分鐘**"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Purchasing / Orders / Shipping**\n\n| Word | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| purchase | 購買 | make a purchase |\n| order | 訂單 | place an order |\n| supplier | 供應商 | contact a supplier |\n| vendor | 廠商 | approved vendor |\n| merchandise | 商品 | damaged merchandise |\n| quantity | 數量 | order quantity |\n| stock | 庫存 | in stock |\n| inventory | 庫存 | check inventory |\n| shortage | 短缺 | supply shortage |\n| replenish | 補充 | replenish inventory |\n| invoice | 發票／請款單 | issue an invoice |\n| receipt | 收據 | keep a receipt |\n| payment | 付款 | process payment |\n| refund | 退款 | request a refund |\n| replacement | 替換品 | replacement item |\n| shipment | 貨件 | track a shipment |\n| delivery | 配送 | delivery date |\n| dispatch | 發送 | dispatch an order |\n| carrier | 承運商 | shipping carrier |\n| warehouse | 倉庫 | distribution warehouse |\n| destination | 目的地 | final destination |\n| estimate | 估算 | delivery estimate |\n| delay | 延誤 | shipping delay |\n| available | 可取得的 | currently available |\n| defective | 有瑕疵的 | defective product |\n| damaged | 損壞的 | damaged package |\n| confirm | 確認 | confirm an order |\n| process | 處理 | process an order |\n| notify | 通知 | notify a customer |\n| distribute | 配送／分發 | distribute products |\n\n今天優先做到不翻譯：\n\n> **place an order**  \n> **approved vendor**  \n> **in stock**  \n> **supply shortage**  \n> **replenish inventory**  \n> **process payment**  \n> **replacement item**  \n> **track a shipment**  \n> **shipping carrier**  \n> **delivery estimate**"
+    },
+    {
+      "title": "② 今日文法｜Part 5 高速詞性辨識 II",
+      "markdown": "昨天建立：\n\n> structure → POS → meaning\n\n今天增加：\n\n> **字尾辨識**\n\n常見名詞：\n\n> `-tion` → application / production  \n> `-ment` → development / payment  \n> `-ness` → effectiveness  \n> `-ity` → availability / productivity\n\n常見形容詞：\n\n> `-ive` → effective  \n> `-al` → financial  \n> `-able` → available  \n> `-ful` → successful\n\n常見副詞：\n\n> `-ly` → carefully / successfully\n\n但要注意：\n\n> friendly  \n> costly  \n> likely\n\n雖然有 `-ly`，通常是 **形容詞**。\n\n所以：\n\n> 字尾只是提示，不是絕對規則。"
+    },
+    {
+      "title": "③ 名詞 vs. 形容詞",
+      "markdown": "> Product _____ has improved.\n\n(A) available  \n(B) availability\n\n`Product _____` 當主詞。\n\n需要名詞：\n\n> **availability**\n\n---\n\n> The product is currently _____.\n\n需要描述 product：\n\n> **available**"
+    },
+    {
+      "title": "④ adjective vs. adverb",
+      "markdown": "> The warehouse operates _____.\n\n需要修飾：\n\n> operates\n\n答案：\n\n> **efficiently**\n\n但是：\n\n> The warehouse is _____.\n\n`is` 後描述 warehouse：\n\n> **efficient**"
+    },
+    {
+      "title": "⑤ Part 5 高頻陷阱：-ed / -ing adjective",
+      "markdown": "> Customers were _____ by the delay.\n\n(A) frustrating  \n(B) frustrated\n\nCustomer 感受到：\n\n> **frustrated**\n\n---\n\n> The delay was _____.\n\n造成挫折：\n\n> **frustrating**\n\n建立：\n\n> something is interesting  \n> someone is interested\n\n> something is disappointing  \n> someone is disappointed"
+    },
+    {
+      "title": "⑥ Listening 高分核心｜Paraphrase Map",
+      "markdown": "今天先建立 10 組：\n\n| 聽到 | 選項可能寫 |\n|---|---|\n| almost out of | running low on |\n| put off | postpone |\n| come in | attend an interview |\n| look over | review |\n| turn down | reject |\n| fill in for | substitute for |\n| pick up | collect |\n| set up | arrange |\n| ahead of schedule | earlier than planned |\n| no later than | by |\n\n這些不能等考場才翻譯。\n\n要形成直接映射。"
+    },
+    {
+      "title": "⑦ Listening Set 1｜Part 3",
+      "markdown": "### Q1\n\nWhat problem are the speakers discussing?\n\n(A) A product is unavailable  \n(B) An invoice is incorrect  \n(C) A delivery address is wrong  \n(D) A payment was rejected\n\n### Q2\n\nWhat does the woman suggest?\n\n(A) Canceling the order  \n(B) Choosing another model  \n(C) Waiting two months  \n(D) Contacting the bank\n\n### Q3\n\nWhat will the man probably do next?\n\n(A) Review an alternative product  \n(B) Request a refund  \n(C) Visit the warehouse  \n(D) Change suppliers\n\n聽力稿：\n\n> **Man:** I just heard from the supplier about the monitors we ordered. The 27-inch model won't be back in stock for another six weeks.\n>\n> **Woman:** That's too long. The new employees start next Monday. What about the 24-inch version?\n>\n> **Man:** They said that's available immediately.\n>\n> **Woman:** Let's look over the specifications. If it's suitable, we can switch the order.\n\n### 答案\n\n**1A / 2B / 3A**\n\n同義：\n\n> won't be back in stock  \n> → unavailable\n\n> look over  \n> → review\n\n> switch the order  \n> → choose an alternative"
+    },
+    {
+      "title": "⑧ Listening Set 2｜Part 3 Intent",
+      "markdown": "### Q4\n\nWhy does the woman call?\n\n(A) To report damaged merchandise  \n(B) To change a delivery address  \n(C) To order more products  \n(D) To request an invoice\n\n### Q5\n\nWhat does the man say about the replacement?\n\n(A) It will cost extra  \n(B) It has already been shipped  \n(C) It will arrive tomorrow  \n(D) It is unavailable\n\n### Q6\n\nWhy does the woman say, “That works for me”?\n\n(A) The proposed solution is acceptable  \n(B) She wants a refund instead  \n(C) She agrees with the product price  \n(D) She has repaired the item herself\n\n聽力稿：\n\n> **Woman:** Hi, I'm calling about a desk chair that arrived this morning. One of the wheels was broken when I opened the box.\n>\n> **Man:** I'm sorry about that. I can send a replacement chair today. There won't be any additional charge, and it should reach you tomorrow afternoon.\n>\n> **Woman:** That works for me. Do you need the damaged chair back?\n>\n> **Man:** Yes. The carrier can collect it when the replacement is delivered.\n\n### 答案\n\n**4A / 5C / 6A**\n\n注意：\n\n> That works for me.\n\n不是：\n\n> 「那個替我工作。」\n\n而是：\n\n> **That solution is acceptable.**"
+    },
+    {
+      "title": "⑨ Listening Set 3｜Part 4",
+      "markdown": "### Delivery Schedule\n\n| Service | Arrival | Price |\n|---|---|---:|\n| Economy | Monday | $6 |\n| Standard | Friday | $11 |\n| Express | Thursday | $19 |\n| Priority | Wednesday | $29 |\n\n### Q7\n\nWhat is being shipped?\n\n(A) Office furniture  \n(B) Product samples  \n(C) Signed contracts  \n(D) Computer equipment\n\n### Q8\n\nWhat requirement is mentioned?\n\n(A) Arrival no later than Thursday  \n(B) Price below $10  \n(C) Wednesday delivery  \n(D) International shipping\n\n### Q9\n\nWhich service should be selected?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Priority\n\n聽力稿：\n\n> The product samples for Friday's client presentation are ready. Please send them this afternoon. We need them at the client's office by Thursday so the sales team has time to prepare. There's no reason to pay for Wednesday delivery, so select the least expensive service that meets the deadline.\n\n### 答案\n\n**7B / 8A / 9C**\n\n符合 Thursday：\n\n> Express $19  \n> Priority $29\n\n要求：\n\n> cheapest\n\n所以：\n\n> **Express**"
+    },
+    {
+      "title": "⑩ Listening 900+｜「合理」不等於答案",
+      "markdown": "上一題：\n\n> Standard = $11\n\n看起來最便宜。\n\n但是：\n\n> Friday\n\n不符合：\n\n> **by Thursday**\n\nPriority：\n\n> Wednesday\n\n符合，但：\n\n> 多花 $10，沒有必要。\n\n因此 TOEIC 高分題常要求：\n\n> **Constraint → eliminate → optimize**\n\n而不是：\n\n> 找到一個看起來合理的選項。"
+    },
+    {
+      "title": "⑪ Reading｜Triple Passage",
+      "markdown": "今天提高一級。\n\n先建立：\n\n> Document 1 = Order  \n> Document 2 = Problem  \n> Document 3 = Resolution\n\n---\n\n## Passage 1｜Purchase Order\n\n> **Harrison Design — Purchase Order #8412**\n>\n> Order Date: November 4\n>\n> 20 ErgoPro Office Chairs — $180 each  \n> 4 Conference Tables — $450 each\n>\n> Requested Delivery: November 12\n>\n> Delivery Location: Harrison Design, 28 Green Street\n>\n> Special Instructions: Please contact office manager Laura Chen before delivery.\n\n---\n\n## Passage 2｜Supplier E-mail\n\n> **To:** Laura Chen  \n> **From:** Metro Office Supply  \n> **Subject:** Purchase Order #8412\n>\n> Thank you for your recent order.\n>\n> Unfortunately, we have experienced an unexpected shortage of ErgoPro chairs. We currently have 12 available and expect another shipment to arrive November 18.\n>\n> The conference tables are in stock and can be delivered as originally requested.\n>\n> Alternatively, we have sufficient quantities of our ComfortPlus chair, which is similar in design and costs $165 per unit.\n>\n> Please let us know how you would like to proceed.\n\n---\n\n## Passage 3｜Laura's Reply\n\n> **To:** Metro Office Supply  \n> **Subject:** Re: Purchase Order #8412\n>\n> Thank you for letting me know.\n>\n> We need all twenty chairs before our new employees begin work on November 16, so waiting until November 18 won't be possible.\n>\n> Please replace the ErgoPro chairs in our order with twenty ComfortPlus chairs.\n>\n> The conference tables can be delivered on November 12 as planned.\n>\n> Please send me a revised invoice reflecting the new chair price before processing the payment.\n>\n> —Laura Chen"
+    },
+    {
+      "title": "⑫ Triple Passage Questions",
+      "markdown": "### Q1\n\nHow many ErgoPro chairs were originally ordered?\n\n(A) 4  \n(B) 12  \n(C) 18  \n(D) 20\n\n### Q2\n\nWhy does Metro Office Supply contact Laura?\n\n(A) The delivery address is incorrect  \n(B) One product is in short supply  \n(C) Payment was rejected  \n(D) The tables were damaged\n\n### Q3\n\nHow many ErgoPro chairs are currently available?\n\n(A) 4  \n(B) 12  \n(C) 16  \n(D) 20\n\n### Q4\n\nWhy can't Laura wait until November 18?\n\n(A) The price will increase  \n(B) Employees need the chairs before then  \n(C) The office will close  \n(D) The tables arrive earlier\n\n### Q5\n\nWhat does Laura decide to do?\n\n(A) Cancel the entire order  \n(B) Order only 12 chairs  \n(C) Substitute another chair model  \n(D) Delay the employee start date\n\n### Q6\n\nHow much will the 20 replacement chairs cost?\n\n(A) $3,000  \n(B) $3,300  \n(C) $3,600  \n(D) $4,500\n\nCalculation:\n\n> 20 × $165 = **$3,300**\n\n答案：\n\n**B**\n\n### Q7\n\nWhat will Metro Office Supply most likely do before processing payment?\n\n(A) Deliver the chairs  \n(B) Contact the employees  \n(C) Send a revised invoice  \n(D) Cancel the tables\n\n### 答案\n\n**1D / 2B / 3B / 4B / 5C / 6B / 7C**"
+    },
+    {
+      "title": "⑬ Triple Passage 900+ 解析",
+      "markdown": "這次三份文件不是單純找字。\n\n原始：\n\n> ErgoPro ×20  \n> $180\n\nProblem：\n\n> only 12 available  \n> rest Nov 18\n\nConstraint：\n\n> employees start Nov 16\n\n所以：\n\n> Nov18 ❌\n\nAlternative：\n\n> ComfortPlus $165  \n> sufficient stock\n\nDecision：\n\n> replace all 20\n\n最後還產生新的動作：\n\n> revised invoice  \n> ↓  \n> payment\n\n因此資訊鏈：\n\n> **Order → Shortage → Constraint → Alternative → Decision → Invoice → Payment**\n\n這就是 Triple Passage 最重要的能力。"
+    },
+    {
+      "title": "⑭ Part 5 仿真題｜15 題",
+      "markdown": "限時：\n\n> **2 分 45 秒**\n\n### 1\nProduct _____ has improved significantly.\n\n(A) available  \n(B) availability  \n(C) availably  \n(D) avail\n\n### 2\nThe product is currently _____.\n\n(A) availability  \n(B) available  \n(C) availably  \n(D) avail\n\n### 3\nThe warehouse operates extremely _____.\n\n(A) efficient  \n(B) efficiency  \n(C) efficiently  \n(D) efficiencies\n\n### 4\nThe new distribution system is highly _____.\n\n(A) efficiency  \n(B) efficiently  \n(C) efficient  \n(D) efficiencies\n\n### 5\nCustomers were _____ by the unexpected delay.\n\n(A) frustrating  \n(B) frustrated  \n(C) frustration  \n(D) frustrate\n\n### 6\nThe unexpected delay was _____.\n\n(A) frustrating  \n(B) frustrated  \n(C) frustration  \n(D) frustrate\n\n### 7\nWe received _____ confirmation of the order.\n\n(A) write  \n(B) written  \n(C) writing  \n(D) writer\n\n### 8\nThe supplier responded _____ to our request.\n\n(A) immediate  \n(B) immediately  \n(C) immediacy  \n(D) more immediate\n\n### 9\nThe company announced the _____ of its warehouse.\n\n(A) expand  \n(B) expansive  \n(C) expansion  \n(D) expansively\n\n### 10\nThe manager was _____ with the results.\n\n(A) satisfaction  \n(B) satisfy  \n(C) satisfied  \n(D) satisfying\n\n### 11\nThe report contains _____ information.\n\n(A) value  \n(B) valuable  \n(C) valuably  \n(D) valuation\n\n### 12\nThe payment was processed _____.\n\n(A) successful  \n(B) success  \n(C) successfully  \n(D) succeed\n\n### 13\nWe apologize for any _____ caused by the delay.\n\n(A) inconvenience  \n(B) inconvenient  \n(C) inconveniently  \n(D) inconvenienced\n\n### 14\nThe revised schedule is _____ acceptable.\n\n(A) complete  \n(B) completion  \n(C) completely  \n(D) completing\n\n### 15\nThe _____ of the new system took two weeks.\n\n(A) install  \n(B) installation  \n(C) installed  \n(D) installing\n\n### 答案\n\n**1B / 2B / 3C / 4C / 5B / 6A / 7B / 8B / 9C / 10C / 11B / 12C / 13A / 14C / 15B**"
+    },
+    {
+      "title": "⑮ Day 30 小考",
+      "markdown": "正式限制：\n\n> **12 題／3 分鐘**\n\n### Q1\nThe _____ of additional inventory should prevent future shortages.\n\n(A) purchase  \n(B) purchased  \n(C) purchasingly  \n(D) purchasable\n\n### Q2\nThe warehouse staff worked _____ to process the orders.\n\n(A) efficient  \n(B) efficiently  \n(C) efficiency  \n(D) efficiencies\n\n### Q3\nCustomers were _____ with the replacement service.\n\n(A) satisfying  \n(B) satisfied  \n(C) satisfaction  \n(D) satisfy\n\n### Q4\nThe shipping delay was particularly _____.\n\n(A) frustration  \n(B) frustrated  \n(C) frustrating  \n(D) frustrate\n\n### Q5\nWhy can't the company wait six weeks for the 27-inch monitors?\n\n(A) They are too expensive  \n(B) New employees start soon  \n(C) The supplier canceled the order  \n(D) The monitors are damaged\n\n### Q6\nWhat does “look over the specifications” mean?\n\n(A) Review the product information  \n(B) Return the product  \n(C) Increase the quantity  \n(D) Contact another supplier\n\n### Q7\nWhat will happen to the damaged chair?\n\n(A) The customer will repair it  \n(B) The carrier will collect it  \n(C) It will remain with the customer  \n(D) It will be sold\n\n### Q8\nWhich delivery service should be selected for the samples?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Priority\n\n### Q9\nWhy can't Laura wait for the November 18 shipment?\n\n(A) Her employees begin work November 16  \n(B) The tables arrive November 12  \n(C) Payment is due November 16  \n(D) The supplier will increase prices\n\n### Q10\nWhich chairs will Laura purchase?\n\n(A) 12 ErgoPro chairs  \n(B) 20 ErgoPro chairs  \n(C) 12 ComfortPlus chairs  \n(D) 20 ComfortPlus chairs\n\n### Q11\nWhat is the total price of the replacement chairs?\n\n(A) $3,000  \n(B) $3,300  \n(C) $3,600  \n(D) $4,500\n\n### Q12\nWhat will most likely happen before payment?\n\n(A) A revised invoice will be sent  \n(B) Employees will be contacted  \n(C) The order will be canceled  \n(D) Another warehouse will be selected\n\n## 答案\n\n**1A / 2B / 3B / 4C / 5B / 6A / 7B / 8C / 9A / 10D / 11B / 12A**"
+    },
+    {
+      "title": "⑯ 小考解析",
+      "markdown": "**Q1**\n\n> The _____ of...\n\n需要：\n\n> noun\n\n`purchase` 可以當名詞：\n\n> the purchase of inventory\n\n---\n\n**Q2**\n\n修飾：\n\n> worked\n\n需要副詞：\n\n> **efficiently**\n\n---\n\n**Q3**\n\nCustomers 感到滿意：\n\n> **satisfied**\n\n服務本身：\n\n> satisfying\n\n---\n\n**Q4**\n\ndelay 是造成感受的事物：\n\n> **frustrating**\n\n---\n\n**Q5**\n\nMonitor：\n\n> unavailable six weeks\n\n但是：\n\n> employees start next Monday\n\n因此時間條件不允許等待。\n\n---\n\n**Q6**\n\n> look over\n\n= **review**\n\n這是典型 TOEIC paraphrase。\n\n---\n\n**Q7**\n\n原文：\n\n> carrier can collect it\n\n所以：\n\n> damaged chair → carrier pickup\n\n---\n\n**Q8**\n\nDeadline：\n\n> Thursday\n\nExpress：\n\n> Thursday / $19\n\nPriority：\n\n> Wednesday / $29\n\n要求最低成本：\n\n> **Express**\n\n---\n\n**Q9**\n\n這是 Timeline：\n\n> employee start Nov16\n\n> ErgoPro restock Nov18\n\n所以：\n\n> 18 > 16 ❌\n\n---\n\n**Q10**\n\nLaura 明確要求：\n\n> replace ErgoPro with **20 ComfortPlus**\n\n---\n\n**Q11**\n\n> $165 × 20\n\n= **$3,300**\n\n---\n\n**Q12**\n\nLaura：\n\n> send revised invoice **before processing payment**\n\n因此：\n\n> invoice → payment"
+    },
+    {
+      "title": "⑰ 錯題複習｜Day 26～29",
+      "markdown": "目標：\n\n> **90 秒**\n\n> _____ the bad weather\n\n**Despite**\n\n> _____ the weather was bad\n\n**Although**\n\n> event continues _____ it rains\n\n**unless**\n\n> enter _____ supervisor approves\n\n**provided that**\n\n> keep receipt _____ needed\n\n**in case**\n\n> contact me _____ you arrive\n\n**as soon as**\n\n> _____ payment arrives\n\n**once**\n\n> significant _____\n\n**improvement**\n\n> respond _____\n\n**promptly**\n\n> completed _____\n\n**successfully**\n\n> technical _____\n\n**expertise**\n\n> employee _____\n\n**performance**\n\n> almost out of\n\n**running low on**\n\n> look over\n\n**review**\n\n> put off\n\n**postpone**\n\n> come in for a job\n\n**attend an interview**\n\n> no later than Thursday\n\n**by Thursday**"
+    },
+    {
+      "title": "⑱ 今日錯題標籤",
+      "markdown": "沿用：\n\n> G — Grammar  \n> V — Vocabulary  \n> L — Listening  \n> P — Paraphrase  \n> I — Information Integration  \n> T — Timeline  \n> E — Exception  \n> U — Update  \n> C — Condition  \n> N — Next Action  \n> POS — Part of Speech  \n> INT — Intent\n\n今天增加：\n\n> **CAL — Calculation**\n\n例如：\n\n> 20 × $165\n\n英文看懂但價格算錯：\n\n> CAL\n\n以及：\n\n> **SEQ — Sequence**\n\n例如：\n\n> revised invoice → payment\n\n如果知道兩件事情，卻弄錯發生順序：\n\n> SEQ"
+    },
+    {
+      "title": "⑲ 今日作業",
+      "markdown": "### Part 5\n\n重新做 15 題。\n\n第二次限制：\n\n> **2 分鐘**\n\n平均：\n\n> **8 秒／題**\n\n目標不是把英文全部翻成中文，而是：\n\n> blank → structure → POS → answer\n\n### Listening\n\n只背資訊骨架：\n\n> **Monitor：27 unavailable 6w → employees next Mon → 24 available → review specs**\n\n> **Chair：broken → replacement tomorrow → acceptable → carrier collects old**\n\n> **Samples：need Thu → cheapest valid → Express**\n\n### Reading\n\n把 Triple Passage 壓縮成：\n\n> PO → 20 ErgoPro / Nov12\n\n> shortage → 12 now / rest Nov18\n\n> employee → Nov16\n\n> alternative → ComfortPlus $165\n\n> decision → 20 ComfortPlus\n\n> 20 × 165 = 3300\n\n> revised invoice → payment\n\n然後重新完成 Day 30 小考。\n\n第二次限制：\n\n> **2 分 30 秒**\n\n目標：\n\n> **12 / 12**"
+    },
+    {
+      "title": "⑳ Day 31 難度調整",
+      "markdown": "如果 Day 30 第一次：\n\n**11～12 / 12**\n\n→ Day 31 進入 **900+ 高密度模式**，Triple Passage 不再只做「Rule → Problem → Resolution」，而會加入兩個都看似合理的條件。\n\n**9～10 / 12**\n\n→ 維持目前 Triple Passage，增加 Paraphrase。\n\n**7～8 / 12**\n\n→ Part 3/4 保留 900 難度，但 Reading 暫不增加資訊量。\n\n**≤6 / 12**\n\n→ Day 31 優先補 POS、P、T，再進入下一階段。\n\n如果：\n\n> Q1～4 錯 → **POS**\n\n> Q5～8 錯 → **P / L / I**\n\n> Q9～12 錯 → **T / I / CAL / SEQ**\n\n**Day 30 核心能力：**\n\n> 不要問「哪個答案看起來合理？」\n\n而要問：\n\n> **「哪個答案同時符合所有條件？」**"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "purchase",
+      "meaning": "購買",
+      "phrase": "make a purchase"
+    },
+    {
+      "id": 2,
+      "word": "order",
+      "meaning": "訂單",
+      "phrase": "place an order"
+    },
+    {
+      "id": 3,
+      "word": "supplier",
+      "meaning": "供應商",
+      "phrase": "contact a supplier"
+    },
+    {
+      "id": 4,
+      "word": "vendor",
+      "meaning": "廠商",
+      "phrase": "approved vendor"
+    },
+    {
+      "id": 5,
+      "word": "merchandise",
+      "meaning": "商品",
+      "phrase": "damaged merchandise"
+    },
+    {
+      "id": 6,
+      "word": "quantity",
+      "meaning": "數量",
+      "phrase": "order quantity"
+    },
+    {
+      "id": 7,
+      "word": "stock",
+      "meaning": "庫存",
+      "phrase": "in stock"
+    },
+    {
+      "id": 8,
+      "word": "inventory",
+      "meaning": "庫存",
+      "phrase": "check inventory"
+    },
+    {
+      "id": 9,
+      "word": "shortage",
+      "meaning": "短缺",
+      "phrase": "supply shortage"
+    },
+    {
+      "id": 10,
+      "word": "replenish",
+      "meaning": "補充",
+      "phrase": "replenish inventory"
+    },
+    {
+      "id": 11,
+      "word": "invoice",
+      "meaning": "發票／請款單",
+      "phrase": "issue an invoice"
+    },
+    {
+      "id": 12,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "keep a receipt"
+    },
+    {
+      "id": 13,
+      "word": "payment",
+      "meaning": "付款",
+      "phrase": "process payment"
+    },
+    {
+      "id": 14,
+      "word": "refund",
+      "meaning": "退款",
+      "phrase": "request a refund"
+    },
+    {
+      "id": 15,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "replacement item"
+    },
+    {
+      "id": 16,
+      "word": "shipment",
+      "meaning": "貨件",
+      "phrase": "track a shipment"
+    },
+    {
+      "id": 17,
+      "word": "delivery",
+      "meaning": "配送",
+      "phrase": "delivery date"
+    },
+    {
+      "id": 18,
+      "word": "dispatch",
+      "meaning": "發送",
+      "phrase": "dispatch an order"
+    },
+    {
+      "id": 19,
+      "word": "carrier",
+      "meaning": "承運商",
+      "phrase": "shipping carrier"
+    },
+    {
+      "id": 20,
+      "word": "warehouse",
+      "meaning": "倉庫",
+      "phrase": "distribution warehouse"
+    },
+    {
+      "id": 21,
+      "word": "destination",
+      "meaning": "目的地",
+      "phrase": "final destination"
+    },
+    {
+      "id": 22,
+      "word": "estimate",
+      "meaning": "估算",
+      "phrase": "delivery estimate"
+    },
+    {
+      "id": 23,
+      "word": "delay",
+      "meaning": "延誤",
+      "phrase": "shipping delay"
+    },
+    {
+      "id": 24,
+      "word": "available",
+      "meaning": "可取得的",
+      "phrase": "currently available"
+    },
+    {
+      "id": 25,
+      "word": "defective",
+      "meaning": "有瑕疵的",
+      "phrase": "defective product"
+    },
+    {
+      "id": 26,
+      "word": "damaged",
+      "meaning": "損壞的",
+      "phrase": "damaged package"
+    },
+    {
+      "id": 27,
+      "word": "confirm",
+      "meaning": "確認",
+      "phrase": "confirm an order"
+    },
+    {
+      "id": 28,
+      "word": "process",
+      "meaning": "處理",
+      "phrase": "process an order"
+    },
+    {
+      "id": 29,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify a customer"
+    },
+    {
+      "id": 30,
+      "word": "distribute",
+      "meaning": "配送／分發",
+      "phrase": "distribute products"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-set-1-part-3-1",
+      "title": "⑦ Listening Set 1｜Part 3",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem are the speakers discussing?",
+          "options": {
+            "A": "A product is unavailable",
+            "B": "An invoice is incorrect",
+            "C": "A delivery address is wrong",
+            "D": "A payment was rejected"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman suggest?",
+          "options": {
+            "A": "Canceling the order",
+            "B": "Choosing another model",
+            "C": "Waiting two months",
+            "D": "Contacting the bank"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man probably do next?",
+          "options": {
+            "A": "Review an alternative product",
+            "B": "Request a refund",
+            "C": "Visit the warehouse",
+            "D": "Change suppliers"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "listening-set-2-part-3-intent-2",
+      "title": "⑧ Listening Set 2｜Part 3 Intent",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why does the woman call?",
+          "options": {
+            "A": "To report damaged merchandise",
+            "B": "To change a delivery address",
+            "C": "To order more products",
+            "D": "To request an invoice"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the man say about the replacement?",
+          "options": {
+            "A": "It will cost extra",
+            "B": "It has already been shipped",
+            "C": "It will arrive tomorrow",
+            "D": "It is unavailable"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the woman say, “That works for me”?",
+          "options": {
+            "A": "The proposed solution is acceptable",
+            "B": "She wants a refund instead",
+            "C": "She agrees with the product price",
+            "D": "She has repaired the item herself"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "listening-set-3-part-4-3",
+      "title": "⑨ Listening Set 3｜Part 4",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is being shipped?",
+          "options": {
+            "A": "Office furniture",
+            "B": "Product samples",
+            "C": "Signed contracts",
+            "D": "Computer equipment"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What requirement is mentioned?",
+          "options": {
+            "A": "Arrival no later than Thursday",
+            "B": "Price below $10",
+            "C": "Wednesday delivery",
+            "D": "International shipping"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which service should be selected?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Priority"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "triple-passage-questions-4",
+      "title": "⑫ Triple Passage Questions",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How many ErgoPro chairs were originally ordered?",
+          "options": {
+            "A": "4",
+            "B": "12",
+            "C": "18",
+            "D": "20"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does Metro Office Supply contact Laura?",
+          "options": {
+            "A": "The delivery address is incorrect",
+            "B": "One product is in short supply",
+            "C": "Payment was rejected",
+            "D": "The tables were damaged"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "How many ErgoPro chairs are currently available?",
+          "options": {
+            "A": "4",
+            "B": "12",
+            "C": "16",
+            "D": "20"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why can't Laura wait until November 18?",
+          "options": {
+            "A": "The price will increase",
+            "B": "Employees need the chairs before then",
+            "C": "The office will close",
+            "D": "The tables arrive earlier"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "What does Laura decide to do?",
+          "options": {
+            "A": "Cancel the entire order",
+            "B": "Order only 12 chairs",
+            "C": "Substitute another chair model",
+            "D": "Delay the employee start date"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "How much will the 20 replacement chairs cost?",
+          "options": {
+            "A": "$3,000",
+            "B": "$3,300",
+            "C": "$3,600",
+            "D": "$4,500"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "What will Metro Office Supply most likely do before processing payment?",
+          "options": {
+            "A": "Deliver the chairs",
+            "B": "Contact the employees",
+            "C": "Send a revised invoice",
+            "D": "Cancel the tables"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-15-5",
+      "title": "⑭ Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Product _____ has improved significantly.",
+          "options": {
+            "A": "available",
+            "B": "availability",
+            "C": "availably",
+            "D": "avail"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "The product is currently _____.",
+          "options": {
+            "A": "availability",
+            "B": "available",
+            "C": "availably",
+            "D": "avail"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "The warehouse operates extremely _____.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiency",
+            "C": "efficiently",
+            "D": "efficiencies"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "The new distribution system is highly _____.",
+          "options": {
+            "A": "efficiency",
+            "B": "efficiently",
+            "C": "efficient",
+            "D": "efficiencies"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "Customers were _____ by the unexpected delay.",
+          "options": {
+            "A": "frustrating",
+            "B": "frustrated",
+            "C": "frustration",
+            "D": "frustrate"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "The unexpected delay was _____.",
+          "options": {
+            "A": "frustrating",
+            "B": "frustrated",
+            "C": "frustration",
+            "D": "frustrate"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "We received _____ confirmation of the order.",
+          "options": {
+            "A": "write",
+            "B": "written",
+            "C": "writing",
+            "D": "writer"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "The supplier responded _____ to our request.",
+          "options": {
+            "A": "immediate",
+            "B": "immediately",
+            "C": "immediacy",
+            "D": "more immediate"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "The company announced the _____ of its warehouse.",
+          "options": {
+            "A": "expand",
+            "B": "expansive",
+            "C": "expansion",
+            "D": "expansively"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 10,
+          "prompt": "The manager was _____ with the results.",
+          "options": {
+            "A": "satisfaction",
+            "B": "satisfy",
+            "C": "satisfied",
+            "D": "satisfying"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 11,
+          "prompt": "The report contains _____ information.",
+          "options": {
+            "A": "value",
+            "B": "valuable",
+            "C": "valuably",
+            "D": "valuation"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "The payment was processed _____.",
+          "options": {
+            "A": "successful",
+            "B": "success",
+            "C": "successfully",
+            "D": "succeed"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 13,
+          "prompt": "We apologize for any _____ caused by the delay.",
+          "options": {
+            "A": "inconvenience",
+            "B": "inconvenient",
+            "C": "inconveniently",
+            "D": "inconvenienced"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 14,
+          "prompt": "The revised schedule is _____ acceptable.",
+          "options": {
+            "A": "complete",
+            "B": "completion",
+            "C": "completely",
+            "D": "completing"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 15,
+          "prompt": "The _____ of the new system took two weeks.",
+          "options": {
+            "A": "install",
+            "B": "installation",
+            "C": "installed",
+            "D": "installing"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "day-30-6",
+      "title": "⑮ Day 30 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The _____ of additional inventory should prevent future shortages.",
+          "options": {
+            "A": "purchase",
+            "B": "purchased",
+            "C": "purchasingly",
+            "D": "purchasable"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "The warehouse staff worked _____ to process the orders.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiently",
+            "C": "efficiency",
+            "D": "efficiencies"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Customers were _____ with the replacement service.",
+          "options": {
+            "A": "satisfying",
+            "B": "satisfied",
+            "C": "satisfaction",
+            "D": "satisfy"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "The shipping delay was particularly _____.",
+          "options": {
+            "A": "frustration",
+            "B": "frustrated",
+            "C": "frustrating",
+            "D": "frustrate"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why can't the company wait six weeks for the 27-inch monitors?",
+          "options": {
+            "A": "They are too expensive",
+            "B": "New employees start soon",
+            "C": "The supplier canceled the order",
+            "D": "The monitors are damaged"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does “look over the specifications” mean?",
+          "options": {
+            "A": "Review the product information",
+            "B": "Return the product",
+            "C": "Increase the quantity",
+            "D": "Contact another supplier"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "What will happen to the damaged chair?",
+          "options": {
+            "A": "The customer will repair it",
+            "B": "The carrier will collect it",
+            "C": "It will remain with the customer",
+            "D": "It will be sold"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which delivery service should be selected for the samples?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Priority"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why can't Laura wait for the November 18 shipment?",
+          "options": {
+            "A": "Her employees begin work November 16",
+            "B": "The tables arrive November 12",
+            "C": "Payment is due November 16",
+            "D": "The supplier will increase prices"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 10,
+          "prompt": "Which chairs will Laura purchase?",
+          "options": {
+            "A": "12 ErgoPro chairs",
+            "B": "20 ErgoPro chairs",
+            "C": "12 ComfortPlus chairs",
+            "D": "20 ComfortPlus chairs"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        },
+        {
+          "id": 11,
+          "prompt": "What is the total price of the replacement chairs?",
+          "options": {
+            "A": "$3,000",
+            "B": "$3,300",
+            "C": "$3,600",
+            "D": "$4,500"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "What will most likely happen before payment?",
+          "options": {
+            "A": "A revised invoice will be sent",
+            "B": "Employees will be contacted",
+            "C": "The order will be canceled",
+            "D": "Another warehouse will be selected"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "高分題不能只選看似合理的答案；必須以同義轉換與跨文件證據確認答案符合所有條件。",
+  "nextDay": "900+ 競爭條件、間接回應與跨文件推論"
+}
