@@ -170,18 +170,22 @@
 
 .note-filters label {
   color: #687289;
-  font-size: 13px;
+  font-size: 16px;
+  font-weight: 650;
 }
 
 .note-filters select {
   display: block;
   width: 100%;
-  margin-top: 7px;
-  padding: 10px;
+  margin-top: 9px;
+  padding: 12px 14px;
   border: 1px solid #d7dce7;
   border-radius: 7px;
   background: #fff;
   color: #28324b;
+  font-size: 16px;
+  font-weight: 500;
+  min-height: 46px;
 }
 
 .notes-list {
