@@ -1,0 +1,834 @@
+{
+  "schemaVersion": "1.0",
+  "day": 34,
+  "title": "否定倒裝、條件式意圖與跨文件折扣門檻",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 110,
+  "durationMinutes": {
+    "min": 105,
+    "max": 115
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 34 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 34 學習概覽",
+      "markdown": "- 辨識 Only when、Under no circumstances 等否定倒裝\n- 掌握 Had it not been for、Were ... to 的假設句\n- 聽懂間接否定、條件核准與更新公告\n- 整合場地限制、折扣門檻與截止日期例外\n- 利用首次答題正確率與錯題標籤調整 Day 35\n\n建議訓練時間：**110 分鐘**。\n\n> 目前沒有 Day 33 的實際作答紀錄，維持 860–900+ 基準難度；內部小考不能直接換算正式 TOEIC 分數。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| contingency | 應變方案 | contingency plan |\n| authorization | 授權、核准 | prior authorization |\n| clearance | 核准、許可 | security clearance |\n| rollout | 逐步推出 | phased rollout |\n| pilot | 試行計畫 | pilot program |\n| restrict | 限制 | restrict access |\n| compliance | 合規 | compliance review |\n| confirm | 確認 | confirm attendance |\n| accessible | 無障礙可使用的 | accessible entrance |\n| accommodate | 容納、配合 | accommodate attendees |\n| projector | 投影機 | projector rental |\n| venue | 活動場地 | reserve a venue |\n| tentative | 暫定的 | tentative booking |\n| quotation | 報價 | request a quotation |\n| surcharge | 附加費 | weekend surcharge |\n| waive | 免除 | waive an administrative fee |\n| threshold | 門檻 | discount threshold |\n| subtotal | 小計 | catering subtotal |\n| catering | 餐飲供應 | catering service |\n| portion | 份量、一份餐點 | meal portion |\n| headcount | 人數 | final headcount |\n| reservation | 預訂 | confirm a reservation |\n| reconcile | 核對 | reconcile the invoice |\n| outage | 服務中斷 | portal outage |\n| supersede | 取代（先前規定） | supersede an earlier notice |\n| deadline | 截止期限 | extended deadline |\n| deposit | 訂金 | nonrefundable deposit |\n| dispatch | 發送、寄出 | dispatch a notice |\n| eligible | 符合資格的 | eligible for a discount |\n| variance | 差異 | budget variance |"
+    },
+    {
+      "title": "② 今日文法｜Only when/after、Under no circumstances、假設倒裝、主詞一致與條件連接詞",
+      "markdown": "主題：**Only when/after、Under no circumstances、假設倒裝、主詞一致與條件連接詞**\n\n### 規則 1\n\n`Only after/when + clause + auxiliary + subject + base verb`\n\n> Only after the figures were verified did the team publish the report.\n\nOnly after/when 引導的限制片語置於句首時，主要子句倒裝；did 後使用原形 publish。\n\n### 規則 2\n\n`Under no circumstances + modal/auxiliary + subject + verb`\n\n> Under no circumstances should staff share their passwords.\n\n否定限制片語放句首，使用助動詞或情態動詞倒裝。\n\n### 規則 3\n\n`Had it not been for + noun, S + would have + past participle`\n\n> Had it not been for the backup system, the meeting would have been canceled.\n\n過去相反假設；表示若當時沒有某項支援，結果本會不同。\n\n### 規則 4\n\n`Were + subject + to + base verb, main clause with would/could`\n\n> Were the shipment to arrive late, we would contact the customer.\n\n省略 if 的正式假設句，表示較不確定的未來情況。\n\n### 規則 5\n\n`Neither A nor B + verb agreeing with nearest subject`\n\n> Neither the director nor the assistants are available.\n\nneither...nor 連接主詞時，通常依靠近動詞的主詞決定單複數。\n\n### 規則 6\n\n`unless / provided that / even if`\n\n> We will confirm the booking provided that the budget is approved.\n\nunless=除非；provided that=只要；even if=即使，需區分必要條件與讓步。\n\n### 解題流程\n1. 先\n2. 定\n3. 位\n4. 真\n5. 正\n6. 主\n7. 詞\n8. ，\n9. 再\n10. 檢\n11. 查\n12. 句\n13. 首\n14. 限\n15. 制\n16. 片\n17. 語\n18. 是\n19. 否\n20. 觸\n21. 發\n22. 助\n23. 動\n24. 詞\n25. 倒\n26. 裝\n27. ；\n28. 條\n29. 件\n30. 句\n31. 辨\n32. 別\n33. 現\n34. 在\n35. /\n36. 過\n37. 去\n38. 假\n39. 設\n40. 。\n\n目標：每題 **15 秒**。"
+    },
+    {
+      "title": "03 Listening｜Portal Rollout and Conditional Approval",
+      "markdown": "先播放 transcript 的 TTS，不看文字作答；提交後才顯示逐字稿與解析。\n\n聽力稿：\n\n> Man: Can we tell the branch managers that the new portal will be available to everyone on Monday?\n> Woman: Installation is finished, but the security team has not approved the access controls. Their review should be complete Friday afternoon. If they sign off, we can start a twenty-person pilot on Monday. The companywide rollout is scheduled for Wednesday.\n> Man: So a full Monday launch is out of the question?\n> Woman: At this stage, yes. The pilot is still possible, provided that we get approval.\n> Man: I will send an updated schedule once the review is finished."
+    },
+    {
+      "title": "04 Listening｜Accessible Training Room Selection",
+      "markdown": "先播放 transcript 的 TTS，不看文字作答；提交後才顯示逐字稿與解析。\n\n聽力稿：\n\n> Woman: We need a training room for thirty-two people on Tuesday from nine until noon. It must have wheelchair access and a projector, and our total limit is five hundred twenty dollars.\n> Man: Beacon is inexpensive, but it has no accessible entrance. Cobalt has one, though the projector adds eighty-five dollars to its four-hundred-sixty-dollar price.\n> Woman: Dune looks promising.\n> Man: It is available only in the afternoon. Aster holds thirty-five, has an accessible entrance, and includes the projector for four hundred ninety-five dollars.\n> Woman: Then please place a tentative booking for Aster and send me the confirmation."
+    },
+    {
+      "title": "05 Listening｜Loaner Laptop Return Desk Update",
+      "markdown": "先播放 transcript 的 TTS，不看文字作答；提交後才顯示逐字稿與解析。\n\n聽力稿：\n\n> Attention, staff using loaner laptops. The East Campus return desk will reopen on Friday at ten in the morning, rather than Thursday at four as stated in the earlier notice.\n> Employees who must return a laptop on Thursday may use the locked collection box outside the IT room until six that evening. Do not put chargers in the box; hand them directly to IT staff on Friday.\n> If you need to extend a loan, submit your request by Wednesday at three in the afternoon. Existing equipment reservations are unaffected.\n> If there is another delay, we will update the IT status page at noon on Thursday."
+    },
+    {
+      "title": "⑥ Reading｜BrightLine Event Catering: Discount Threshold and Outage Exception",
+      "markdown": "限時：**8 分 30 秒**。\n\n### BrightLine Event Services — Venue and Catering Terms\n\n> For the November 20 workshop, Hall A holds up to 40 people and costs $420; its projector is included. Hall B holds up to 28 people and costs $350, with an additional $60 projector charge. Catering costs $22 per ordered meal. Orders of at least 30 meals receive a 10% discount on the catering subtotal only; room rental and the $80 setup fee are not discounted. Discount eligibility depends on the number of meals ordered, not the number of people who attend. Unused meals are nonrefundable. Meal quantities may normally be changed without an administrative fee through November 14. Changes after that date incur a $40 administrative fee.\n\n用途：General prices, discount rules and deadlines\n\n### Oakridge Training — Booking #B214\n\n> On November 10, Oakridge booked Hall A for November 20, with 32 expected attendees, 32 catered meals, and the included projector. The total event budget is $1,150, including setup. On November 13, three attendees canceled, leaving 29 expected participants. The organizer is considering reducing the meal order from 32 to 29, but has not yet confirmed any change.\n\n用途：Initial order and revised attendance\n\n### BrightLine Notice — Portal Outage Exception\n\n> Because our booking portal was unavailable on the afternoon of November 14, Booking #B214 may confirm a revised meal quantity through November 15 without the usual $40 administrative fee. You may order 30 meals even if only 29 people are expected; the 10% catering discount applies because the order contains 30 meals. If you order 29 meals, the discount does not apply. Hall A remains reserved and the $420 room rental and $80 setup fee are unchanged. We will not adjust the meal quantity automatically. Please reply with your final quantity by November 15.\n\n用途：Updated deadline and quantity option\n\n### 計算提示\n- `32 meals: 32×22×0.9 + 420 + 80 = 1133.60`\n- `29 meals: 29×22 + 420 + 80 = 1138.00 (discount lost)`\n- `30 meals: 30×22×0.9 + 420 + 80 = 1094.00`\n- `Savings of 30 meals vs 29 meals = 44.00; 30-meal budget margin = 56.00`\n- `For booking B214, no-fee change deadline extended from Nov 14 to Nov 15; no automatic adjustment.`"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Day 34 小考",
+      "markdown": "正式限時：**5 分鐘**。\n\n### Listening Q34-L1\n\n聽力稿：\n\n> Man: Is the client portal available to all customers?\n> Woman: Not quite. The trial group has access, but the rest must wait until Security approves the final check on Thursday.\n> Man: Then I will update the customer notice after Thursday’s review.\n\n### Listening Q34-L2\n\n聽力稿：\n\n> Announcement: Friday’s shuttle to the conference center will depart at eight fifteen rather than eight forty-five. The pickup location is unchanged. Attendees with mobility needs should email Operations by four on Thursday afternoon.\n\n### Reading Q34-R1\n\n> Training materials cost $36 per copy. Orders of 20 or more copies receive a 15% discount on the materials subtotal only. Delivery is $25 and is not discounted. The department orders 20 copies and has a total budget of $650.\n\n### Reading Q34-R2\n\n> Policy: A workshop cancellation normally incurs a $35 fee. Update: Because the provider rescheduled the November 22 workshop to November 24, affected registrants may cancel without a fee through November 20. Liam registered for November 22 and requested cancellation on November 19."
+    },
+    {
+      "title": "⑨ 複習與錯題分類",
+      "markdown": "回顧前 **[29, 30, 31, 32, 33] 天**，完成 **[{'prompt': 'Hardly _____ the meeting begun when the alarm rang.', 'answer': 'had', 'tag': 'G'}, {'prompt': 'Not only _____ the vendor reduce the price, but it also extended the warranty.', 'answer': 'did', 'tag': 'G'}, {'prompt': 'Should you _____ assistance, contact support.', 'answer': 'require', 'tag': 'G'}, {'prompt': 'Had we known, we _____ changed suppliers.', 'answer': 'would have', 'tag': 'G'}, {'prompt': 'The number of requests _____ decreased.', 'answer': 'has', 'tag': 'AGR'}, {'prompt': 'A number of customers _____ complained.', 'answer': 'have', 'tag': 'AGR'}, {'prompt': 'The director requested that the form _____ revised.', 'answer': 'be', 'tag': 'G'}, {'prompt': 'Not necessarily = ?', 'answer': '不一定；仍有可能', 'tag': 'IMP'}, {'prompt': 'Supersede an earlier policy = ?', 'answer': '取代先前政策', 'tag': 'U'}, {'prompt': '$310 + $70 = ?', 'answer': '$380', 'tag': 'CAL'}, {'prompt': '$280 − $250 = ?', 'answer': '$30', 'tag': 'CAL'}, {'prompt': 'in case 與 provided that 的差別？', 'answer': 'in case=以防；provided that=只要', 'tag': 'C'}] 張**複習卡。\n\n先遮住答案，90 秒回想；將錯誤標籤回填今日錯題記錄。\n\n錯題標籤：\n\n- `G`：Grammar 文法\n- `V`：Vocabulary 字彙\n- `L`：Listening 聽力理解\n- `P`：Paraphrase 同義改寫\n- `I`：Information Integration 資訊整合\n- `T`：Timeline 時間順序\n- `E`：Exception 特殊例外\n- `U`：Updated Information 更新資訊\n- `C`：Condition 條件判斷\n- `N`：Next Action 下一步\n- `POS`：Part of Speech 詞性\n- `INT`：Intent 意圖\n- `CAL`：Calculation 計算\n- `SEQ`：Sequence 步驟順序\n- `AGR`：Subject–Verb Agreement 主詞動詞一致\n- `IMP`：Implication 隱含意圖\n- `BUD`：Budget Constraint 預算限制"
+    },
+    {
+      "title": "⑩ 今日作業",
+      "markdown": "- 複習 30 個單字兩輪，挑選 8 字造句並標註詞性（約 15 分鐘）\n- Part 5 的 15 題重新計時作答，錯題標註 G/AGR/C（約 10 分鐘）\n- 三組 Listening 各聽兩遍：1.0x 和 1.1x，第二遍不看逐字稿（約 25 分鐘）\n- 重算 32、29、30 份餐點的報價，畫出原規則與更新截止日（約 20 分鐘）\n- 正式小考 12 題重做一次，記錄首次/二次正確率與作答秒數（約 10 分鐘）"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "contingency",
+      "meaning": "應變方案",
+      "phrase": "contingency plan"
+    },
+    {
+      "id": 2,
+      "word": "authorization",
+      "meaning": "授權、核准",
+      "phrase": "prior authorization"
+    },
+    {
+      "id": 3,
+      "word": "clearance",
+      "meaning": "核准、許可",
+      "phrase": "security clearance"
+    },
+    {
+      "id": 4,
+      "word": "rollout",
+      "meaning": "逐步推出",
+      "phrase": "phased rollout"
+    },
+    {
+      "id": 5,
+      "word": "pilot",
+      "meaning": "試行計畫",
+      "phrase": "pilot program"
+    },
+    {
+      "id": 6,
+      "word": "restrict",
+      "meaning": "限制",
+      "phrase": "restrict access"
+    },
+    {
+      "id": 7,
+      "word": "compliance",
+      "meaning": "合規",
+      "phrase": "compliance review"
+    },
+    {
+      "id": 8,
+      "word": "confirm",
+      "meaning": "確認",
+      "phrase": "confirm attendance"
+    },
+    {
+      "id": 9,
+      "word": "accessible",
+      "meaning": "無障礙可使用的",
+      "phrase": "accessible entrance"
+    },
+    {
+      "id": 10,
+      "word": "accommodate",
+      "meaning": "容納、配合",
+      "phrase": "accommodate attendees"
+    },
+    {
+      "id": 11,
+      "word": "projector",
+      "meaning": "投影機",
+      "phrase": "projector rental"
+    },
+    {
+      "id": 12,
+      "word": "venue",
+      "meaning": "活動場地",
+      "phrase": "reserve a venue"
+    },
+    {
+      "id": 13,
+      "word": "tentative",
+      "meaning": "暫定的",
+      "phrase": "tentative booking"
+    },
+    {
+      "id": 14,
+      "word": "quotation",
+      "meaning": "報價",
+      "phrase": "request a quotation"
+    },
+    {
+      "id": 15,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "weekend surcharge"
+    },
+    {
+      "id": 16,
+      "word": "waive",
+      "meaning": "免除",
+      "phrase": "waive an administrative fee"
+    },
+    {
+      "id": 17,
+      "word": "threshold",
+      "meaning": "門檻",
+      "phrase": "discount threshold"
+    },
+    {
+      "id": 18,
+      "word": "subtotal",
+      "meaning": "小計",
+      "phrase": "catering subtotal"
+    },
+    {
+      "id": 19,
+      "word": "catering",
+      "meaning": "餐飲供應",
+      "phrase": "catering service"
+    },
+    {
+      "id": 20,
+      "word": "portion",
+      "meaning": "份量、一份餐點",
+      "phrase": "meal portion"
+    },
+    {
+      "id": 21,
+      "word": "headcount",
+      "meaning": "人數",
+      "phrase": "final headcount"
+    },
+    {
+      "id": 22,
+      "word": "reservation",
+      "meaning": "預訂",
+      "phrase": "confirm a reservation"
+    },
+    {
+      "id": 23,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile the invoice"
+    },
+    {
+      "id": 24,
+      "word": "outage",
+      "meaning": "服務中斷",
+      "phrase": "portal outage"
+    },
+    {
+      "id": 25,
+      "word": "supersede",
+      "meaning": "取代（先前規定）",
+      "phrase": "supersede an earlier notice"
+    },
+    {
+      "id": 26,
+      "word": "deadline",
+      "meaning": "截止期限",
+      "phrase": "extended deadline"
+    },
+    {
+      "id": 27,
+      "word": "deposit",
+      "meaning": "訂金",
+      "phrase": "nonrefundable deposit"
+    },
+    {
+      "id": 28,
+      "word": "dispatch",
+      "meaning": "發送、寄出",
+      "phrase": "dispatch a notice"
+    },
+    {
+      "id": 29,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for a discount"
+    },
+    {
+      "id": 30,
+      "word": "variance",
+      "meaning": "差異",
+      "phrase": "budget variance"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Portal Rollout and Conditional Approval",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why can the company not promise a full launch on Monday?",
+          "options": {
+            "A": "The installation has not started.",
+            "B": "Security approval is still pending, and the full rollout is scheduled for Wednesday.",
+            "C": "The pilot needs fifty users.",
+            "D": "The portal was canceled."
+          },
+          "answer": "B",
+          "explanation": "The access controls have not been signed off, and the full rollout is Wednesday."
+        },
+        {
+          "id": 2,
+          "prompt": "What must happen before the Monday pilot can begin?",
+          "options": {
+            "A": "Twenty more licenses must be purchased.",
+            "B": "The Wednesday launch must be canceled.",
+            "C": "The security team must approve the access controls.",
+            "D": "All branches must receive invitations."
+          },
+          "answer": "C",
+          "explanation": "The pilot can start Monday only if Security signs off."
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man do after the security review?",
+          "options": {
+            "A": "Send an updated schedule.",
+            "B": "Remove the access controls.",
+            "C": "Move the pilot to Friday.",
+            "D": "Cancel the branch meetings."
+          },
+          "answer": "A",
+          "explanation": "He says he will send an updated schedule once the review is finished."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Accessible Training Room Selection",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Beacon unsuitable?",
+          "options": {
+            "A": "It lacks an accessible entrance.",
+            "B": "It cannot seat thirty-two people.",
+            "C": "It has no projector.",
+            "D": "It is available only in the afternoon."
+          },
+          "answer": "A",
+          "explanation": "Beacon has enough seats but does not meet the accessibility requirement."
+        },
+        {
+          "id": 2,
+          "prompt": "How much would Cobalt cost with a projector?",
+          "options": {
+            "A": "$460",
+            "B": "$495",
+            "C": "$520",
+            "D": "$545"
+          },
+          "answer": "D",
+          "explanation": "$460 + $85 = $545, which exceeds the $520 budget."
+        },
+        {
+          "id": 3,
+          "prompt": "Which room meets all the stated requirements?",
+          "options": {
+            "A": "Aster",
+            "B": "Beacon",
+            "C": "Cobalt",
+            "D": "Dune"
+          },
+          "answer": "A",
+          "explanation": "Aster meets the capacity, accessibility, projector, morning-time and budget constraints."
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Change the session to the afternoon.",
+            "B": "Reduce attendance.",
+            "C": "Place a tentative booking for Aster.",
+            "D": "Request a higher budget."
+          },
+          "answer": "C",
+          "explanation": "The woman explicitly requests a tentative booking and confirmation."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Loaner Laptop Return Desk Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When will the East Campus return desk reopen?",
+          "options": {
+            "A": "Thursday at 4 P.M.",
+            "B": "Thursday at noon.",
+            "C": "Friday at 10 A.M.",
+            "D": "Friday at 6 P.M."
+          },
+          "answer": "C",
+          "explanation": "The updated reopening time is Friday at 10 A.M.; Thursday 4 P.M. was the earlier notice."
+        },
+        {
+          "id": 2,
+          "prompt": "How can staff return a laptop on Thursday?",
+          "options": {
+            "A": "Leave it at reception.",
+            "B": "Use the locked collection box by 6 P.M.",
+            "C": "Mail it to the vendor.",
+            "D": "Wait until Friday."
+          },
+          "answer": "B",
+          "explanation": "A Thursday return is possible via the collection box until 6 P.M."
+        },
+        {
+          "id": 3,
+          "prompt": "What should employees do with chargers?",
+          "options": {
+            "A": "Put them in the collection box.",
+            "B": "Keep them permanently.",
+            "C": "Send them by mail.",
+            "D": "Hand them to IT staff on Friday."
+          },
+          "answer": "D",
+          "explanation": "The announcement specifically prohibits chargers in the box and asks for direct handoff Friday."
+        },
+        {
+          "id": 4,
+          "prompt": "When is the deadline to request a loan extension?",
+          "options": {
+            "A": "Wednesday at 3 P.M.",
+            "B": "Thursday at noon.",
+            "C": "Thursday at 6 P.M.",
+            "D": "Friday at 10 A.M."
+          },
+          "answer": "A",
+          "explanation": "Loan extensions must be requested by Wednesday at 3 P.M."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "BrightLine Event Catering: Discount Threshold and Outage Exception",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Hall B unsuitable for the revised group of 29 attendees?",
+          "options": {
+            "A": "Its capacity is only 28.",
+            "B": "It has no projector option.",
+            "C": "It costs more than Hall A.",
+            "D": "It is unavailable on November 20."
+          },
+          "answer": "A",
+          "explanation": "Hall B holds 28, which is one seat fewer than the revised 29-person group."
+        },
+        {
+          "id": 2,
+          "prompt": "What is the total cost of the original 32-meal Hall A booking?",
+          "options": {
+            "A": "$1,094.00",
+            "B": "$1,133.60",
+            "C": "$1,138.00",
+            "D": "$1,204.00"
+          },
+          "answer": "B",
+          "explanation": "32×$22=$704; catering after 10% discount=$633.60; plus $420 room and $80 setup = $1,133.60."
+        },
+        {
+          "id": 3,
+          "prompt": "If the order is reduced to 29 meals, what will the total cost be?",
+          "options": {
+            "A": "$1,074.20",
+            "B": "$1,094.00",
+            "C": "$1,138.00",
+            "D": "$1,158.00"
+          },
+          "answer": "C",
+          "explanation": "29×$22=$638; below the 30-meal discount threshold, so $638+$420+$80=$1,138."
+        },
+        {
+          "id": 4,
+          "prompt": "If Oakridge orders 30 meals instead, what is the total cost?",
+          "options": {
+            "A": "$1,094.00",
+            "B": "$1,113.60",
+            "C": "$1,138.00",
+            "D": "$1,160.00"
+          },
+          "answer": "A",
+          "explanation": "30×$22=$660; after 10% discount=$594; plus $420+$80 = $1,094."
+        },
+        {
+          "id": 5,
+          "prompt": "How much cheaper is ordering 30 meals than ordering 29 meals?",
+          "options": {
+            "A": "$4.40",
+            "B": "$22.00",
+            "C": "$40.00",
+            "D": "$44.00"
+          },
+          "answer": "D",
+          "explanation": "$1,138 − $1,094 = $44."
+        },
+        {
+          "id": 6,
+          "prompt": "Why could the total increase when the meal order falls from 32 to 29?",
+          "options": {
+            "A": "The room rental increases.",
+            "B": "The order loses its bulk catering discount.",
+            "C": "The setup fee doubles.",
+            "D": "The supplier adds an extra projector charge."
+          },
+          "answer": "B",
+          "explanation": "The 10% catering discount applies only to orders of at least 30 meals."
+        },
+        {
+          "id": 7,
+          "prompt": "What is the updated deadline for confirming the revised meal quantity without an administrative fee?",
+          "options": {
+            "A": "November 10",
+            "B": "November 13",
+            "C": "November 14",
+            "D": "November 15"
+          },
+          "answer": "D",
+          "explanation": "The outage exception extends this booking’s no-fee change deadline to November 15."
+        },
+        {
+          "id": 8,
+          "prompt": "Which general policy is temporarily overridden for Booking #B214?",
+          "options": {
+            "A": "The $40 fee for meal changes after November 14.",
+            "B": "The $420 Hall A room rate.",
+            "C": "The rule that unused meals are nonrefundable.",
+            "D": "The 30-meal bulk-discount threshold."
+          },
+          "answer": "A",
+          "explanation": "The supplier waives the late-change administration fee through November 15 for this booking only."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Only after the audit was completed _____ the company release its findings.",
+          "options": {
+            "A": "did",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only after 置句首，主句過去式倒裝 did + S + release。"
+        },
+        {
+          "id": 2,
+          "prompt": "Under no circumstances _____ confidential files be sent to personal email accounts.",
+          "options": {
+            "A": "do",
+            "B": "should",
+            "C": "has",
+            "D": "is"
+          },
+          "answer": "B",
+          "explanation": "Under no circumstances + should + S + be sent。"
+        },
+        {
+          "id": 3,
+          "prompt": "Had it not been for the backup server, the service _____ unavailable all morning.",
+          "options": {
+            "A": "will remain",
+            "B": "would remain",
+            "C": "would have remained",
+            "D": "had remained"
+          },
+          "answer": "C",
+          "explanation": "過去相反假設：would have + p.p.。"
+        },
+        {
+          "id": 4,
+          "prompt": "Were the shipment to arrive late, we _____ the customer immediately.",
+          "options": {
+            "A": "would notify",
+            "B": "notified",
+            "C": "had notified",
+            "D": "will have notified"
+          },
+          "answer": "A",
+          "explanation": "Were ... to + V 表示假設，主句用 would + V。"
+        },
+        {
+          "id": 5,
+          "prompt": "Neither the project leader nor the technicians _____ responsible for the installation.",
+          "options": {
+            "A": "is",
+            "B": "has",
+            "C": "are",
+            "D": "be"
+          },
+          "answer": "C",
+          "explanation": "靠近動詞的 technicians 是複數。"
+        },
+        {
+          "id": 6,
+          "prompt": "The report, along with the supporting charts, _____ ready for review.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "真正主詞 report 是單數。"
+        },
+        {
+          "id": 7,
+          "prompt": "The reservation will be confirmed _____ the deposit is received.",
+          "options": {
+            "A": "despite",
+            "B": "provided that",
+            "C": "because of",
+            "D": "even though"
+          },
+          "answer": "B",
+          "explanation": "provided that 表示必要條件。"
+        },
+        {
+          "id": 8,
+          "prompt": "Please keep the printed schedule _____ the network becomes unavailable.",
+          "options": {
+            "A": "in case",
+            "B": "unless",
+            "C": "although",
+            "D": "once"
+          },
+          "answer": "A",
+          "explanation": "in case 表示預防。"
+        },
+        {
+          "id": 9,
+          "prompt": "The documents _____ by the legal department were sent yesterday.",
+          "options": {
+            "A": "reviewing",
+            "B": "reviews",
+            "C": "reviewed",
+            "D": "review"
+          },
+          "answer": "C",
+          "explanation": "documents 與 review 為被動關係，使用過去分詞。"
+        },
+        {
+          "id": 10,
+          "prompt": "The revised proposal was submitted two days _____ the stated deadline.",
+          "options": {
+            "A": "within",
+            "B": "ahead of",
+            "C": "rather than",
+            "D": "in case"
+          },
+          "answer": "B",
+          "explanation": "ahead of the deadline = 提前於截止期限。"
+        },
+        {
+          "id": 11,
+          "prompt": "A number of suppliers _____ offered revised quotations.",
+          "options": {
+            "A": "has",
+            "B": "is",
+            "C": "have",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "A number of + 複數名詞，使用複數動詞 have。"
+        },
+        {
+          "id": 12,
+          "prompt": "The number of unresolved tickets _____ fallen this month.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The number of 作單數主詞。"
+        },
+        {
+          "id": 13,
+          "prompt": "The coordinator requested that all attendees _____ notified immediately.",
+          "options": {
+            "A": "are",
+            "B": "were",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "request that + S + be + p.p.。"
+        },
+        {
+          "id": 14,
+          "prompt": "The new guidelines will take effect _____ the director signs the approval form.",
+          "options": {
+            "A": "as soon as",
+            "B": "despite",
+            "C": "because of",
+            "D": "in spite of"
+          },
+          "answer": "A",
+          "explanation": "as soon as 引導時間子句，未來事件用現在式 signs。"
+        },
+        {
+          "id": 15,
+          "prompt": "Not until the revised invoice arrived _____ Accounting process the payment.",
+          "options": {
+            "A": "has",
+            "B": "did",
+            "C": "was",
+            "D": "does"
+          },
+          "answer": "B",
+          "explanation": "Not until 句首引導過去事件，主句 did + S + 原形 process。"
+        }
+      ]
+    },
+    {
+      "id": "day-34-quiz",
+      "title": "Day 34 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Under no circumstances _____ the report be distributed before approval.",
+          "options": {
+            "A": "should",
+            "B": "does",
+            "C": "has",
+            "D": "is"
+          },
+          "answer": "A",
+          "explanation": "否定限制片語句首倒裝：Under no circumstances should the report be distributed."
+        },
+        {
+          "id": 2,
+          "prompt": "Only when the final figures were confirmed _____ the team publish the results.",
+          "options": {
+            "A": "did",
+            "B": "has",
+            "C": "was",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only when + 子句，主句過去式倒裝 did + S + publish。"
+        },
+        {
+          "id": 3,
+          "prompt": "Had it not been for the backup generator, the presentation _____ canceled.",
+          "options": {
+            "A": "would be",
+            "B": "would have been",
+            "C": "will be",
+            "D": "had been"
+          },
+          "answer": "B",
+          "explanation": "對過去的相反假設使用 would have been。"
+        },
+        {
+          "id": 4,
+          "prompt": "Neither the coordinator nor the assistants _____ responsible for the delay.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "be"
+          },
+          "answer": "B",
+          "explanation": "靠近動詞的 assistants 是複數。"
+        },
+        {
+          "id": 5,
+          "prompt": "Who currently has access to the client portal?",
+          "options": {
+            "A": "All customers.",
+            "B": "Only the trial group.",
+            "C": "Only the Security team.",
+            "D": "No one."
+          },
+          "answer": "B",
+          "explanation": "The trial group has access; other customers must wait."
+        },
+        {
+          "id": 6,
+          "prompt": "What will the man do after Thursday’s review?",
+          "options": {
+            "A": "Cancel the portal.",
+            "B": "Order new computers.",
+            "C": "Update the customer notice.",
+            "D": "Remove Security checks."
+          },
+          "answer": "C",
+          "explanation": "He will update the notice after the review."
+        },
+        {
+          "id": 7,
+          "prompt": "What time will Friday’s shuttle now depart?",
+          "options": {
+            "A": "8:15 A.M.",
+            "B": "8:45 A.M.",
+            "C": "9:15 A.M.",
+            "D": "4 P.M."
+          },
+          "answer": "A",
+          "explanation": "The new time is 8:15, replacing 8:45."
+        },
+        {
+          "id": 8,
+          "prompt": "What should attendees with mobility needs do?",
+          "options": {
+            "A": "Change the pickup location.",
+            "B": "Call the driver on Friday.",
+            "C": "Bring their own shuttle.",
+            "D": "Email Operations by 4 P.M. Thursday."
+          },
+          "answer": "D",
+          "explanation": "The announcement gives this special instruction and deadline."
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost for 20 training-material copies including delivery?",
+          "options": {
+            "A": "$612.00",
+            "B": "$625.00",
+            "C": "$637.00",
+            "D": "$745.00"
+          },
+          "answer": "C",
+          "explanation": "20×$36=$720; less 15% = $612; plus $25 delivery = $637."
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the $650 budget remains after this purchase?",
+          "options": {
+            "A": "$13.00",
+            "B": "$25.00",
+            "C": "$38.00",
+            "D": "$63.00"
+          },
+          "answer": "A",
+          "explanation": "$650−$637=$13."
+        },
+        {
+          "id": 11,
+          "prompt": "Why does Liam qualify for a cancellation-fee exception?",
+          "options": {
+            "A": "He registered late.",
+            "B": "The provider changed the workshop date.",
+            "C": "He paid for two seats.",
+            "D": "He contacted the office after November 20."
+          },
+          "answer": "B",
+          "explanation": "Provider-initiated rescheduling triggers the exception."
+        },
+        {
+          "id": 12,
+          "prompt": "What cancellation fee must Liam pay?",
+          "options": {
+            "A": "$0",
+            "B": "$15",
+            "C": "$20",
+            "D": "$35"
+          },
+          "answer": "A",
+          "explanation": "He is affected and canceled November 19, within the no-fee exception through November 20."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "熟練否定倒裝與條件式意圖，並整合折扣門檻、更新與例外完成跨文件推論。",
+  "nextDay": "Part 5 混合倒裝與條件句／Part 3/4 隱含意圖與最新公告／Triple Passage 折扣門檻、成本與例外／依首次答題成績進行錯題補強"
+}
