@@ -1,0 +1,766 @@
+{
+  "schemaVersion": "1.0",
+  "day": 18,
+  "title": "Part 3 三人對話＋主詞動詞一致",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 95,
+  "durationMinutes": {
+    "min": 90,
+    "max": 100
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 18 教材",
+  "sections": [
+    {
+      "title": "Day 18 學習概覽",
+      "markdown": "今天接續 Day 17，Listening 正式升級到 **Part 3 三人對話 + 多資訊定位**；文法進入很容易「看起來簡單、實際失分」的 **主詞動詞一致**：`either / neither / along with / as well as / there is / there are`。\n\n因目前沒有新的小考作答紀錄，今天維持 **860～900 分難度**。建議訓練 **90～100 分鐘**，其中 Listening 約 30 分鐘、Reading 25 分鐘、文法與單字 25 分鐘、錯題回收 15 分鐘。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Office Facilities / Maintenance / Equipment**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| facility | 設施 | office facilities |\n| maintenance | 維護 | routine maintenance |\n| maintain | 維護 | maintain equipment |\n| repair | 維修 | repair equipment |\n| renovate | 翻修 | renovate an office |\n| renovation | 翻修 | office renovation |\n| equipment | 設備 | office equipment |\n| appliance | 電器 | kitchen appliance |\n| machinery | 機械 | heavy machinery |\n| install | 安裝 | install equipment |\n| installation | 安裝 | installation service |\n| inspect | 檢查 | inspect a building |\n| inspection | 檢查 | safety inspection |\n| replace | 更換 | replace a part |\n| replacement | 替換品 | replacement part |\n| malfunction | 故障 | equipment malfunction |\n| operate | 運作 | operate properly |\n| technician | 技術人員 | repair technician |\n| contractor | 承包商 | construction contractor |\n| entrance | 入口 | main entrance |\n| elevator | 電梯 | take the elevator |\n| staircase | 樓梯 | emergency staircase |\n| lobby | 大廳 | building lobby |\n| parking | 停車 | parking area |\n| access | 進入；使用權 | building access |\n| temporarily | 暫時地 | temporarily unavailable |\n| available | 可使用的 | currently available |\n| relocate | 搬遷 | relocate employees |\n| inconvenience | 不便 | cause inconvenience |\n| schedule | 安排 | maintenance schedule |\n\n今天優先記：\n\n**routine maintenance / office renovation / replacement part / equipment malfunction / safety inspection / repair technician / main entrance / building access / temporarily unavailable / maintenance schedule**\n\n注意：\n\n> equipment\n\n是**不可數名詞**。\n\n所以：\n\n> new equipment ✅\n\n> several pieces of equipment ✅\n\n> equipments ❌\n\n這也回收 Day 16 的可數／不可數概念。\n\n---"
+    },
+    {
+      "title": "② 今日文法｜主詞動詞一致",
+      "markdown": "最基本：\n\n> The employee **works** here.\n\n> The employees **work** here.\n\n但 TOEIC 不會一直考這麼簡單。\n\n它會把真正主詞藏起來。\n\n例如：\n\n> The manager, along with several employees, _____ attending the conference.\n\n(A) are  \n(B) is\n\n真正主詞：\n\n> **The manager**\n\n所以：\n\n> **is**\n\n中間的：\n\n> along with several employees\n\n不改變主詞單複數。\n\n---"
+    },
+    {
+      "title": "③ along with / as well as",
+      "markdown": "看到：\n\n> A **along with** B\n\n動詞跟：\n\n> **A**\n\n例如：\n\n> The director, along with two managers, **is** attending.\n\n不是：\n\n> are attending ❌\n\n同樣：\n\n> A **as well as** B\n\n例如：\n\n> The new policy, as well as several updated procedures, **has** been announced.\n\n真正主詞：\n\n> policy\n\n所以：\n\n> **has**\n\n---"
+    },
+    {
+      "title": "④ either / neither",
+      "markdown": "單獨使用時通常視為單數。\n\n> Either **is** acceptable.\n\n> Neither **has** been approved.\n\n例如：\n\n> Neither of the proposals _____ suitable.\n\n(A) are  \n(B) is\n\nTOEIC 標準考法：\n\n> **is**\n\n---"
+    },
+    {
+      "title": "⑤ either...or / neither...nor",
+      "markdown": "這時不完全一樣。\n\n通常動詞配合：\n\n> **離動詞最近的主詞**\n\n例如：\n\n> Either the manager or the employees **are** attending.\n\n最近：\n\n> employees\n\n所以：\n\n> are\n\n但是：\n\n> Either the employees or the manager **is** attending.\n\n最近：\n\n> manager\n\n所以：\n\n> is\n\n這就是：\n\n**proximity rule 就近一致**\n\n---"
+    },
+    {
+      "title": "⑥ there is / there are",
+      "markdown": "不要看到：\n\n> There\n\n就判斷單複數。\n\n真正主詞在後面。\n\n> There **is** a problem.\n\n> There **are** several problems.\n\n例如：\n\n> There _____ several documents on your desk.\n\n答案：\n\n> **are**\n\n---"
+    },
+    {
+      "title": "⑦ 860+ 混合陷阱",
+      "markdown": "> There _____ a laptop and several documents on the desk.\n\n在正式商務英文與測驗中，通常依最接近動詞的第一個名詞：\n\n> a laptop\n\n因此：\n\n> **There is a laptop...**\n\n但這種結構實際使用上有變異，TOEIC 更常給沒有爭議的：\n\n> There are several documents...\n\n所以解題時優先處理明確題型，不在模糊語法上浪費時間。\n\n---"
+    },
+    {
+      "title": "⑧ Part 3 三人對話策略",
+      "markdown": "三人對話最容易發生的問題：\n\n> **知道內容，但不知道是誰說的。**\n\n從今天開始筆記增加角色：\n\n> M1  \n> M2  \n> W\n\n但不要抄完整句。\n\n例如：\n\n> W → projector broken  \n> M1 → call technician  \n> M2 → Room B has projector\n\n只記：\n\n**角色 + 關鍵資訊**\n\n---"
+    },
+    {
+      "title": "⑨ Listening｜三人對話 1",
+      "markdown": "先讀題。\n\n### Q1\n\nWhat problem are the speakers discussing?\n\n(A) A meeting has been canceled  \n(B) Some equipment is not working  \n(C) A report is incomplete  \n(D) A customer is late\n\n### Q2\n\nWhat does the second man suggest?\n\n(A) Contacting a technician  \n(B) Moving to another room  \n(C) Postponing the presentation  \n(D) Buying new equipment\n\n### Q3\n\nWhat will the woman probably do next?\n\n(A) Reserve another room  \n(B) Cancel the meeting  \n(C) Print a report  \n(D) Call a customer\n\n聽力稿：\n\n> **Woman:** I just tested the projector in Conference Room A, and it isn't turning on. Our presentation starts in forty minutes.\n>\n> **Man 1:** I'll call the maintenance department. Maybe they can send a technician.\n>\n> **Man 2:** That might take a while. Conference Room C has the same type of projector, and I don't think anyone is using that room this morning.\n>\n> **Woman:** Good idea. I'll check the room schedule now.\n\n答案：\n\n**1B / 2B / 3A**\n\n注意 M2 沒直接說：\n\n> Let's move.\n\n他說：\n\n> Room C has the same projector...\n\n真正意圖：\n\n**建議換會議室。**\n\n---"
+    },
+    {
+      "title": "⑩ Listening｜三人對話 2",
+      "markdown": "### Q1\n\nWhere most likely are the speakers?\n\n(A) At a restaurant  \n(B) In an office building  \n(C) At an airport  \n(D) At a factory\n\n### Q2\n\nWhat change does the woman mention?\n\n(A) An elevator will be unavailable  \n(B) The office will close  \n(C) Parking fees will increase  \n(D) Employees will relocate permanently\n\n### Q3\n\nWhat does Man 2 imply?\n\n(A) He plans to work from home  \n(B) Another elevator can be used  \n(C) Maintenance has been canceled  \n(D) The meeting will be postponed\n\n聽力稿：\n\n> **Woman:** Just a reminder—the west elevator will be unavailable tomorrow while the maintenance team replaces some parts.\n>\n> **Man 1:** That's the elevator closest to our department. How long will the work take?\n>\n> **Woman:** They expect to finish by four.\n>\n> **Man 2:** Well, the east elevator is only about a two-minute walk from our offices.\n>\n> **Woman:** Right. I'll include directions to it in the staff notice.\n\n答案：\n\n**1B / 2A / 3B**\n\nM2 的字面意思：\n\n> 東側電梯只多走兩分鐘。\n\n真正意圖：\n\n> **可以改搭東側電梯。**\n\n---"
+    },
+    {
+      "title": "⑪ Listening｜三人對話 3",
+      "markdown": "### Q1\n\nWhat are the speakers preparing for?\n\n(A) A safety inspection  \n(B) A job interview  \n(C) A customer survey  \n(D) A product launch\n\n### Q2\n\nWhat still needs to be done?\n\n(A) Equipment must be purchased  \n(B) A hallway must be cleared  \n(C) Employees must be hired  \n(D) A report must be translated\n\n### Q3\n\nWho will probably handle the task?\n\n(A) The woman  \n(B) Man 1  \n(C) Man 2  \n(D) A customer\n\n聽力稿：\n\n> **Man 1:** The building inspector will be here at ten tomorrow morning. Are we ready?\n>\n> **Woman:** Almost. I've checked the emergency exits and updated all the safety signs.\n>\n> **Man 2:** I noticed several boxes in the hallway near the staircase.\n>\n> **Woman:** Those need to be moved before the inspection.\n>\n> **Man 1:** I'll ask the facilities team to take care of them this afternoon.\n\n答案：\n\n**1A / 2B / 3B**\n\n最後一題要追角色。\n\n真正採取行動的是：\n\n> **Man 1**\n\n因為：\n\n> I'll ask...\n\n---"
+    },
+    {
+      "title": "⑫ Reading｜Part 7",
+      "markdown": "限時：\n\n**3 分 30 秒。**\n\n> **BUILDING MAINTENANCE NOTICE**\n>\n> Routine maintenance of the elevators in the Parkview Office Center will begin on September 21 and continue through September 23.\n>\n> During this period, either the east elevator or the west elevator will remain available at all times. Both elevators will not be taken out of service simultaneously.\n>\n> The west elevator, along with the equipment in its control room, will be inspected on September 21. Maintenance of the east elevator is scheduled for the following day.\n>\n> There are two emergency staircases in the building. Employees may use them if elevator service becomes temporarily crowded.\n>\n> On September 23, technicians will test both elevators before normal service resumes. There may be short periods when neither elevator is available during these tests.\n>\n> Building management apologizes for any inconvenience this work may cause.\n\n### Q1\n\nHow long is the maintenance scheduled to last?\n\n(A) One day  \n(B) Two days  \n(C) Three days  \n(D) One week\n\n### Q2\n\nWhat is indicated about September 21?\n\n(A) Both elevators will be closed  \n(B) The west elevator will be inspected  \n(C) The east elevator will be replaced  \n(D) Normal service will resume\n\n### Q3\n\nWhat can employees use if elevators become crowded?\n\n(A) Another office building  \n(B) Emergency staircases  \n(C) A parking elevator  \n(D) The control room\n\n### Q4\n\nWhat is scheduled for September 23?\n\n(A) Elevator testing  \n(B) Office relocation  \n(C) Safety training  \n(D) Construction\n\n### Q5\n\nWhat might happen during the tests?\n\n(A) Neither elevator may be available briefly  \n(B) Employees must leave the building  \n(C) Both staircases will close  \n(D) Parking will be unavailable\n\n### Q6\n\nIn the sentence “The west elevator, along with the equipment in its control room, **will be inspected**,” what is the main subject?\n\n(A) equipment  \n(B) control room  \n(C) west elevator  \n(D) technicians\n\n### Q7\n\nThe word **“simultaneously”** is closest in meaning to:\n\n(A) carefully  \n(B) separately  \n(C) at the same time  \n(D) unexpectedly\n\n答案：\n\n**1C / 2B / 3B / 4A / 5A / 6C / 7C**\n\nQ6 就是今天文法直接進入閱讀：\n\n> west elevator, along with...\n\n真正主詞：\n\n**west elevator**\n\n---"
+    },
+    {
+      "title": "⑬ Part 5 仿真題｜12 題",
+      "markdown": "限時：\n\n**3 分鐘。**\n\n### 1\n\nThe manager, along with two assistants, _____ attending the conference.\n\n(A) are  \n(B) is  \n(C) have  \n(D) were\n\n### 2\n\nThe new software, as well as several updated applications, _____ available now.\n\n(A) are  \n(B) were  \n(C) is  \n(D) have\n\n### 3\n\nNeither of the proposals _____ been approved.\n\n(A) have  \n(B) are  \n(C) has  \n(D) were\n\n### 4\n\nEither of these meeting rooms _____ suitable for the presentation.\n\n(A) are  \n(B) is  \n(C) have  \n(D) were\n\n### 5\n\nEither the manager or the employees _____ responsible for preparing the room.\n\n(A) is  \n(B) has  \n(C) are  \n(D) was\n\n### 6\n\nEither the employees or the manager _____ responsible for preparing the room.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n### 7\n\nThere _____ several problems with the new equipment.\n\n(A) is  \n(B) are  \n(C) has  \n(D) was\n\n### 8\n\nThere _____ an additional conference room on the third floor.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n### 9\n\nThe director, as well as the department managers, _____ received the report.\n\n(A) have  \n(B) are  \n(C) has  \n(D) were\n\n### 10\n\nNeither the technicians nor the supervisor _____ available this morning.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n### 11\n\nNeither the supervisor nor the technicians _____ available this morning.\n\n(A) is  \n(B) are  \n(C) has  \n(D) was\n\n### 12\n\nThe maintenance schedule, along with several notices, _____ posted near the entrance.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n**答案：1B / 2C / 3C / 4B / 5C / 6C / 7B / 8C / 9C / 10C / 11B / 12C**\n\n---"
+    },
+    {
+      "title": "⑭ Day 18 小考",
+      "markdown": "今天正式：\n\n**10 題／2 分 45 秒。**\n\n### Q1\n\nThe project manager, along with several engineers, _____ attending the inspection.\n\n(A) are  \n(B) is  \n(C) have  \n(D) were\n\n### Q2\n\nNeither of the elevators _____ currently available.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n### Q3\n\nEither the supervisor or the technicians _____ responsible for the repair.\n\n(A) is  \n(B) are  \n(C) has  \n(D) was\n\n### Q4\n\nThere _____ several boxes near the emergency exit.\n\n(A) is  \n(B) has  \n(C) are  \n(D) was\n\n### Q5\n\nThe new equipment, as well as the replacement parts, _____ been inspected.\n\n(A) have  \n(B) has  \n(C) are  \n(D) were\n\n### Q6\n\nIn Dialogue 1, what is wrong?\n\n(A) The projector is not working  \n(B) The meeting room is locked  \n(C) A technician is absent  \n(D) The presentation was canceled\n\n### Q7\n\nWhat does Man 2 in Dialogue 1 suggest?\n\n(A) Buying another projector  \n(B) Using Conference Room C  \n(C) Canceling the presentation  \n(D) Waiting for maintenance\n\n### Q8\n\nWhy will the west elevator be unavailable in Dialogue 2?\n\n(A) The building is closing  \n(B) Parts are being replaced  \n(C) Employees are moving  \n(D) It has been permanently damaged\n\n### Q9\n\nWhat does Man 2 imply in Dialogue 2?\n\n(A) Employees can use the east elevator  \n(B) Employees should work from home  \n(C) Maintenance should be canceled  \n(D) The office should close\n\n### Q10\n\nIn Dialogue 3, what will Man 1 probably do?\n\n(A) Inspect the elevators  \n(B) Update the safety signs  \n(C) Ask the facilities team to move the boxes  \n(D) Cancel the inspection\n\n## 答案\n\n**1B / 2C / 3B / 4C / 5B / 6A / 7B / 8B / 9A / 10C**\n\n---"
+    },
+    {
+      "title": "⑮ 今日解析",
+      "markdown": "Q1：\n\n> The project manager, **along with several engineers**, _____\n\n先把中間插入資訊遮掉：\n\n> The project manager _____ attending.\n\n單數。\n\n所以：\n\n> **is**\n\n---\n\nQ3：\n\n> Either the supervisor or the technicians _____\n\n看最靠近動詞：\n\n> technicians\n\n複數。\n\n所以：\n\n> **are**\n\n反過來：\n\n> Either the technicians or the supervisor **is**\n\n---\n\nQ5：\n\n> The new equipment, as well as the replacement parts, _____ been inspected.\n\n真正主詞：\n\n> equipment\n\n不可數、視為單數。\n\n所以：\n\n> **has been inspected**\n\n這題同時考：\n\n**主詞動詞一致 + equipment 不可數 + 現在完成被動。**\n\n---"
+    },
+    {
+      "title": "⑯ 錯題複習｜Day 14～17",
+      "markdown": "請直接回答：\n\n> The company changed _____ policy.\n\n**its**\n\n> Employees registered _____.\n\n**themselves**\n\n> Some attended; _____ did not.\n\n**others**\n\n> We have very _____ information.\n\n**little**\n\n> We still have _____ time.\n\n**a little**\n\n> Each of the products _____ inspected.\n\n**is**\n\n> _____ who has questions should contact HR.\n\n**Anyone**\n\n> Everyone _____ required to attend.\n\n**is**\n\n> something _____\n\n**important / useful / unusual 等形容詞**\n\n> We didn't notice _____ unusual.\n\n**anything**\n\n目標：\n\n**10 題 ≤ 40 秒。**\n\n---"
+    },
+    {
+      "title": "⑰ 今日作業",
+      "markdown": "單字先集中複習：\n\n> routine maintenance  \n> office renovation  \n> equipment malfunction  \n> replacement part  \n> safety inspection  \n> repair technician  \n> building access  \n> temporarily unavailable  \n> main entrance  \n> maintenance schedule\n\n文法則只背三條核心：\n\n> **A along with / as well as B → 動詞跟 A**\n\n> **either A or B / neither A nor B → 動詞通常跟最近的主詞**\n\n> **there is/are → 看後面的真正主詞**\n\nListening 作業把三段對話壓成：\n\n> **D1：W projector broken → M1 technician → M2 Room C → W check schedule**\n\n> **D2：W west elevator maintenance → M1 asks duration → M2 east elevator → W notice**\n\n> **D3：inspection → W exits/signs done → M2 boxes → M1 facilities team**\n\n今天特別要求保留 **W / M1 / M2**，因為三人對話最大的風險不是沒聽懂，而是把「誰提出建議、誰採取行動」記錯。\n\n最後重新完成 Day 18 小考，第二次限制 **2 分 15 秒**，目標 **10/10**。\n\n如果今天達到 **9～10/10**，下一階段會把 Listening 提升到更接近 900 分的「三人對話 + 同義改寫 + 多步推論」；若 Q6～Q10 錯兩題以上，則下一天會繼續保留角色追蹤訓練。\n\n**Day 18 核心：三人對話不要試圖記完整內容，只記「誰 → 問題／資訊／行動」。**\n\nDay 19 將進入 **Part 3 圖表資訊整合**，開始訓練「聽到對話中的條件，再到表格中定位答案」；文法則進入 **動名詞與不定詞進階：remember / stop / try 等動詞在 V-ing 與 to V 下的語意差異**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "facility",
+      "meaning": "設施",
+      "phrase": "office facilities"
+    },
+    {
+      "id": 2,
+      "word": "maintenance",
+      "meaning": "維護",
+      "phrase": "routine maintenance"
+    },
+    {
+      "id": 3,
+      "word": "maintain",
+      "meaning": "維護",
+      "phrase": "maintain equipment"
+    },
+    {
+      "id": 4,
+      "word": "repair",
+      "meaning": "維修",
+      "phrase": "repair equipment"
+    },
+    {
+      "id": 5,
+      "word": "renovate",
+      "meaning": "翻修",
+      "phrase": "renovate an office"
+    },
+    {
+      "id": 6,
+      "word": "renovation",
+      "meaning": "翻修",
+      "phrase": "office renovation"
+    },
+    {
+      "id": 7,
+      "word": "equipment",
+      "meaning": "設備",
+      "phrase": "office equipment"
+    },
+    {
+      "id": 8,
+      "word": "appliance",
+      "meaning": "電器",
+      "phrase": "kitchen appliance"
+    },
+    {
+      "id": 9,
+      "word": "machinery",
+      "meaning": "機械",
+      "phrase": "heavy machinery"
+    },
+    {
+      "id": 10,
+      "word": "install",
+      "meaning": "安裝",
+      "phrase": "install equipment"
+    },
+    {
+      "id": 11,
+      "word": "installation",
+      "meaning": "安裝",
+      "phrase": "installation service"
+    },
+    {
+      "id": 12,
+      "word": "inspect",
+      "meaning": "檢查",
+      "phrase": "inspect a building"
+    },
+    {
+      "id": 13,
+      "word": "inspection",
+      "meaning": "檢查",
+      "phrase": "safety inspection"
+    },
+    {
+      "id": 14,
+      "word": "replace",
+      "meaning": "更換",
+      "phrase": "replace a part"
+    },
+    {
+      "id": 15,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "replacement part"
+    },
+    {
+      "id": 16,
+      "word": "malfunction",
+      "meaning": "故障",
+      "phrase": "equipment malfunction"
+    },
+    {
+      "id": 17,
+      "word": "operate",
+      "meaning": "運作",
+      "phrase": "operate properly"
+    },
+    {
+      "id": 18,
+      "word": "technician",
+      "meaning": "技術人員",
+      "phrase": "repair technician"
+    },
+    {
+      "id": 19,
+      "word": "contractor",
+      "meaning": "承包商",
+      "phrase": "construction contractor"
+    },
+    {
+      "id": 20,
+      "word": "entrance",
+      "meaning": "入口",
+      "phrase": "main entrance"
+    },
+    {
+      "id": 21,
+      "word": "elevator",
+      "meaning": "電梯",
+      "phrase": "take the elevator"
+    },
+    {
+      "id": 22,
+      "word": "staircase",
+      "meaning": "樓梯",
+      "phrase": "emergency staircase"
+    },
+    {
+      "id": 23,
+      "word": "lobby",
+      "meaning": "大廳",
+      "phrase": "building lobby"
+    },
+    {
+      "id": 24,
+      "word": "parking",
+      "meaning": "停車",
+      "phrase": "parking area"
+    },
+    {
+      "id": 25,
+      "word": "access",
+      "meaning": "進入；使用權",
+      "phrase": "building access"
+    },
+    {
+      "id": 26,
+      "word": "temporarily",
+      "meaning": "暫時地",
+      "phrase": "temporarily unavailable"
+    },
+    {
+      "id": 27,
+      "word": "available",
+      "meaning": "可使用的",
+      "phrase": "currently available"
+    },
+    {
+      "id": 28,
+      "word": "relocate",
+      "meaning": "搬遷",
+      "phrase": "relocate employees"
+    },
+    {
+      "id": 29,
+      "word": "inconvenience",
+      "meaning": "不便",
+      "phrase": "cause inconvenience"
+    },
+    {
+      "id": 30,
+      "word": "schedule",
+      "meaning": "安排",
+      "phrase": "maintenance schedule"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "三人對話 1",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem are the speakers discussing?",
+          "options": {
+            "A": "A meeting has been canceled",
+            "B": "Some equipment is not working",
+            "C": "A report is incomplete",
+            "D": "A customer is late"
+          },
+          "answer": "B",
+          "explanation": "投影機無法啟動，是對話中的問題。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the second man suggest?",
+          "options": {
+            "A": "Contacting a technician",
+            "B": "Moving to another room",
+            "C": "Postponing the presentation",
+            "D": "Buying new equipment"
+          },
+          "answer": "B",
+          "explanation": "Man 2 提到 Room C 有相同投影機，暗示換房間。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman probably do next?",
+          "options": {
+            "A": "Reserve another room",
+            "B": "Cancel the meeting",
+            "C": "Print a report",
+            "D": "Call a customer"
+          },
+          "answer": "A",
+          "explanation": "woman 說會立刻查看 Room C 的使用時程。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "三人對話 2",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where most likely are the speakers?",
+          "options": {
+            "A": "At a restaurant",
+            "B": "In an office building",
+            "C": "At an airport",
+            "D": "At a factory"
+          },
+          "answer": "B",
+          "explanation": "電梯與部門辦公室等線索顯示在辦公大樓。"
+        },
+        {
+          "id": 2,
+          "prompt": "What change does the woman mention?",
+          "options": {
+            "A": "An elevator will be unavailable",
+            "B": "The office will close",
+            "C": "Parking fees will increase",
+            "D": "Employees will relocate permanently"
+          },
+          "answer": "A",
+          "explanation": "woman 說 west elevator 明天維修，暫停使用。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does Man 2 imply?",
+          "options": {
+            "A": "He plans to work from home",
+            "B": "Another elevator can be used",
+            "C": "Maintenance has been canceled",
+            "D": "The meeting will be postponed"
+          },
+          "answer": "B",
+          "explanation": "Man 2 提到 east elevator 很近，暗示可改搭東側電梯。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "三人對話 3",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers preparing for?",
+          "options": {
+            "A": "A safety inspection",
+            "B": "A job interview",
+            "C": "A customer survey",
+            "D": "A product launch"
+          },
+          "answer": "A",
+          "explanation": "building inspector 與 safety signs 顯示正在準備安全檢查。"
+        },
+        {
+          "id": 2,
+          "prompt": "What still needs to be done?",
+          "options": {
+            "A": "Equipment must be purchased",
+            "B": "A hallway must be cleared",
+            "C": "Employees must be hired",
+            "D": "A report must be translated"
+          },
+          "answer": "B",
+          "explanation": "走廊樓梯附近的箱子仍需移走。"
+        },
+        {
+          "id": 3,
+          "prompt": "Who will probably handle the task?",
+          "options": {
+            "A": "The woman",
+            "B": "Man 1",
+            "C": "Man 2",
+            "D": "A customer"
+          },
+          "answer": "B",
+          "explanation": "Man 1 說會請 facilities team 處理，因此由他安排任務。"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Part 7 閱讀",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How long is the maintenance scheduled to last?",
+          "options": {
+            "A": "One day",
+            "B": "Two days",
+            "C": "Three days",
+            "D": "One week"
+          },
+          "answer": "C",
+          "explanation": "維護從 9 月 21 日到 23 日，共三天。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is indicated about September 21?",
+          "options": {
+            "A": "Both elevators will be closed",
+            "B": "The west elevator will be inspected",
+            "C": "The east elevator will be replaced",
+            "D": "Normal service will resume"
+          },
+          "answer": "B",
+          "explanation": "9 月 21 日檢查 west elevator。"
+        },
+        {
+          "id": 3,
+          "prompt": "What can employees use if elevators become crowded?",
+          "options": {
+            "A": "Another office building",
+            "B": "Emergency staircases",
+            "C": "A parking elevator",
+            "D": "The control room"
+          },
+          "answer": "B",
+          "explanation": "電梯擁擠時可使用 emergency staircases。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is scheduled for September 23?",
+          "options": {
+            "A": "Elevator testing",
+            "B": "Office relocation",
+            "C": "Safety training",
+            "D": "Construction"
+          },
+          "answer": "A",
+          "explanation": "9 月 23 日安排兩部電梯測試。"
+        },
+        {
+          "id": 5,
+          "prompt": "What might happen during the tests?",
+          "options": {
+            "A": "Neither elevator may be available briefly",
+            "B": "Employees must leave the building",
+            "C": "Both staircases will close",
+            "D": "Parking will be unavailable"
+          },
+          "answer": "A",
+          "explanation": "測試期間可能短暫兩部電梯皆不可用。"
+        },
+        {
+          "id": 6,
+          "prompt": "In the sentence “The west elevator, along with the equipment in its control room, **will be inspected**,” what is the main subject?",
+          "options": {
+            "A": "equipment",
+            "B": "control room",
+            "C": "west elevator",
+            "D": "technicians"
+          },
+          "answer": "C",
+          "explanation": "along with 不改變主詞，主詞是 west elevator。"
+        },
+        {
+          "id": 7,
+          "prompt": "The word **“simultaneously”** is closest in meaning to:",
+          "options": {
+            "A": "carefully",
+            "B": "separately",
+            "C": "at the same time",
+            "D": "unexpectedly"
+          },
+          "answer": "C",
+          "explanation": "simultaneously 表示同時。"
+        }
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The manager, along with two assistants, _____ attending the conference.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "主詞 manager 為單數，along with 不改變一致，使用 is。"
+        },
+        {
+          "id": 2,
+          "prompt": "The new software, as well as several updated applications, _____ available now.",
+          "options": {
+            "A": "are",
+            "B": "were",
+            "C": "is",
+            "D": "have"
+          },
+          "answer": "C",
+          "explanation": "主詞 software 為單數，as well as 不改變一致，使用 is。"
+        },
+        {
+          "id": 3,
+          "prompt": "Neither of the proposals _____ been approved.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Neither of 作單數主詞，使用 has。"
+        },
+        {
+          "id": 4,
+          "prompt": "Either of these meeting rooms _____ suitable for the presentation.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "Either of 作單數主詞，使用 is。"
+        },
+        {
+          "id": 5,
+          "prompt": "Either the manager or the employees _____ responsible for preparing the room.",
+          "options": {
+            "A": "is",
+            "B": "has",
+            "C": "are",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "就近主詞 employees 為複數，使用 are。"
+        },
+        {
+          "id": 6,
+          "prompt": "Either the employees or the manager _____ responsible for preparing the room.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "就近主詞 manager 為單數，使用 is。"
+        },
+        {
+          "id": 7,
+          "prompt": "There _____ several problems with the new equipment.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "真正主詞 several problems 為複數，使用 are。"
+        },
+        {
+          "id": 8,
+          "prompt": "There _____ an additional conference room on the third floor.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "真正主詞 an additional room 為單數，使用 is。"
+        },
+        {
+          "id": 9,
+          "prompt": "The director, as well as the department managers, _____ received the report.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "主詞 director 為單數，使用 has。"
+        },
+        {
+          "id": 10,
+          "prompt": "Neither the technicians nor the supervisor _____ available this morning.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "就近主詞 supervisor 為單數，使用 is。"
+        },
+        {
+          "id": 11,
+          "prompt": "Neither the supervisor nor the technicians _____ available this morning.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "就近主詞 technicians 為複數，使用 are。"
+        },
+        {
+          "id": 12,
+          "prompt": "The maintenance schedule, along with several notices, _____ posted near the entrance.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "主詞 schedule 為單數，along with 不改變一致，使用 is。"
+        }
+      ]
+    },
+    {
+      "id": "day-18-quiz",
+      "title": "Day 18 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The project manager, along with several engineers, _____ attending the inspection.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "主詞 project manager 為單數，使用 is。"
+        },
+        {
+          "id": 2,
+          "prompt": "Neither of the elevators _____ currently available.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Neither of 作單數主詞，使用 is。"
+        },
+        {
+          "id": 3,
+          "prompt": "Either the supervisor or the technicians _____ responsible for the repair.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "就近主詞 technicians 為複數，使用 are。"
+        },
+        {
+          "id": 4,
+          "prompt": "There _____ several boxes near the emergency exit.",
+          "options": {
+            "A": "is",
+            "B": "has",
+            "C": "are",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "真正主詞 several boxes 為複數，使用 are。"
+        },
+        {
+          "id": 5,
+          "prompt": "The new equipment, as well as the replacement parts, _____ been inspected.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "主詞 equipment 為不可數單數，使用 has been inspected。"
+        },
+        {
+          "id": 6,
+          "prompt": "In Dialogue 1, what is wrong?",
+          "options": {
+            "A": "The projector is not working",
+            "B": "The meeting room is locked",
+            "C": "A technician is absent",
+            "D": "The presentation was canceled"
+          },
+          "answer": "A",
+          "explanation": "Dialogue 1 的 projector 無法運作。"
+        },
+        {
+          "id": 7,
+          "prompt": "What does Man 2 in Dialogue 1 suggest?",
+          "options": {
+            "A": "Buying another projector",
+            "B": "Using Conference Room C",
+            "C": "Canceling the presentation",
+            "D": "Waiting for maintenance"
+          },
+          "answer": "B",
+          "explanation": "Man 2 建議使用 Conference Room C。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why will the west elevator be unavailable in Dialogue 2?",
+          "options": {
+            "A": "The building is closing",
+            "B": "Parts are being replaced",
+            "C": "Employees are moving",
+            "D": "It has been permanently damaged"
+          },
+          "answer": "B",
+          "explanation": "west elevator 因更換零件而停用。"
+        },
+        {
+          "id": 9,
+          "prompt": "What does Man 2 imply in Dialogue 2?",
+          "options": {
+            "A": "Employees can use the east elevator",
+            "B": "Employees should work from home",
+            "C": "Maintenance should be canceled",
+            "D": "The office should close"
+          },
+          "answer": "A",
+          "explanation": "Man 2 暗示可改用 east elevator。"
+        },
+        {
+          "id": 10,
+          "prompt": "In Dialogue 3, what will Man 1 probably do?",
+          "options": {
+            "A": "Inspect the elevators",
+            "B": "Update the safety signs",
+            "C": "Ask the facilities team to move the boxes",
+            "D": "Cancel the inspection"
+          },
+          "answer": "C",
+          "explanation": "Man 1 將請 facilities team 移走箱子。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "三人對話只記誰提出問題、資訊與行動，並追蹤 W／M1／M2。",
+  "nextDay": "Part 3 圖表資訊整合＋動名詞與不定詞進階"
+}

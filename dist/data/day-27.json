@@ -1,0 +1,844 @@
+{
+  "schemaVersion": "1.0",
+  "day": 27,
+  "title": "900+ 圖表、意圖、下一步與例外混合推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 95,
+  "durationMinutes": {
+    "min": 90,
+    "max": 100
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 27 教材",
+  "sections": [
+    {
+      "title": "Day 27 學習概覽",
+      "markdown": "今天進入第四週的 **900+ 混合推論階段**。前幾天已練過圖表、多條件篩選、時序、例外與 Updated Information；今天把它們合併，要求你一次處理：\n\n> **Listening：條件 → 圖表 → 意圖 → 下一步**  \n> **Reading：原規則 → 更新資訊 → 例外 → 推論**\n\n文法則進入條件副詞進階：**unless / once / as soon as / provided that / in case**。\n\n目前沒有新的 Day 26 作答紀錄，因此不直接提高文章長度，而是提高「資訊整合層數」。今天建議 **90～100 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Contracts / Projects / Deadlines**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| contract | 合約 | sign a contract |\n| agreement | 協議 | reach an agreement |\n| proposal | 提案 | submit a proposal |\n| negotiate | 協商 | negotiate terms |\n| term | 條款 | contract terms |\n| condition | 條件 | meet a condition |\n| requirement | 要求 | meet requirements |\n| approve | 核准 | approve a request |\n| authorization | 授權 | obtain authorization |\n| deadline | 截止期限 | meet a deadline |\n| extend | 延長 | extend the deadline |\n| complete | 完成 | complete a project |\n| launch | 推出 | launch a product |\n| implement | 實施 | implement a plan |\n| phase | 階段 | project phase |\n| progress | 進度 | monitor progress |\n| milestone | 里程碑 | project milestone |\n| delay | 延誤 | avoid delays |\n| revise | 修改 | revise a proposal |\n| modification | 修改 | contract modification |\n| submit | 提交 | submit documents |\n| finalize | 定案 | finalize an agreement |\n| estimate | 估算 | cost estimate |\n| quote | 報價 | request a quote |\n| bid | 投標 | submit a bid |\n| contractor | 承包商 | construction contractor |\n| eligible | 符合資格 | eligible for |\n| comply | 遵守 | comply with |\n| obligation | 義務 | contractual obligation |\n| renew | 續約 | renew a contract |\n\n今天先把這 10 組練到看到就懂：\n\n> **sign a contract**  \n> **negotiate terms**  \n> **meet requirements**  \n> **obtain authorization**  \n> **meet a deadline**  \n> **project milestone**  \n> **monitor progress**  \n> **finalize an agreement**  \n> **comply with regulations**  \n> **renew a contract**"
+    },
+    {
+      "title": "② 今日文法｜unless",
+      "markdown": "`unless`：\n\n> **除非／如果不**\n\n可以理解為：\n\n> if ... not\n\n例如：\n\n> The event will continue **unless it rains**.\n\n≈\n\n> The event will continue **if it does not rain**.\n\n注意不要再加 not：\n\n> unless it doesn't rain ❌\n\n這通常會造成雙重否定。"
+    },
+    {
+      "title": "③ provided that",
+      "markdown": "意思：\n\n> **只要／前提是**\n\n例如：\n\n> Employees may work remotely **provided that their managers approve**.\n\n邏輯：\n\n> manager approval = 必要條件"
+    },
+    {
+      "title": "④ once",
+      "markdown": "`once` 在條件／時間副詞子句中：\n\n> **一旦……**\n\n例如：\n\n> We will process the payment **once we receive the invoice**.\n\n順序：\n\n> receive invoice  \n> ↓  \n> process payment\n\n所以 `once` 很常出現在 TOEIC 流程題。"
+    },
+    {
+      "title": "⑤ as soon as",
+      "markdown": "意思：\n\n> **一……就……**\n\n> Please contact me **as soon as you receive the package**.\n\n順序：\n\n> package arrives  \n> ↓ immediately  \n> contact me\n\n`once` 和 `as soon as` 很接近，但：\n\n> **as soon as**\n\n更強調「立即」。"
+    },
+    {
+      "title": "⑥ in case",
+      "markdown": "這個最容易跟 `if` 搞混。\n\n> Take an umbrella **in case it rains**.\n\n意思不是：\n\n> 下雨之後再帶傘。\n\n而是：\n\n> **預防可能下雨，所以現在先帶傘。**\n\n核心：\n\n> **in case = 預防某件事可能發生**"
+    },
+    {
+      "title": "⑦ if vs. in case",
+      "markdown": "比較：\n\n> Call me **if** there is a problem.\n\n= 問題真的發生 → 打給我。\n\n> Take my number **in case** there is a problem.\n\n= 現在先留電話 → 預防未來有問題。\n\n這個差異非常重要。"
+    },
+    {
+      "title": "⑧ 未來事件中的現在式",
+      "markdown": "高頻陷阱：\n\n> I will call you as soon as I _____ the results.\n\n(A) will receive  \n(B) receive\n\n答案：\n\n**B**\n\n時間／條件副詞子句談未來時，通常使用現在式：\n\n> when I receive  \n> once we finish  \n> as soon as she arrives  \n> if the manager approves  \n> unless something changes\n\n主句才用：\n\n> will"
+    },
+    {
+      "title": "⑨ Listening｜900+ 圖表＋意圖＋下一步",
+      "markdown": "### Project Meeting Rooms\n\n| Room | Capacity | Equipment | Available |\n|---|---:|---|---|\n| Cedar | 10 | Screen | 9–12 |\n| Maple | 16 | Screen + Video | 9–1 |\n| Pine | 24 | Screen + Video | 1–5 |\n| Oak | 30 | Screen | 9–5 |\n\n### Q1\n\nWhy is the speaker calling?\n\n(A) To reserve a meeting room  \n(B) To cancel a conference  \n(C) To purchase video equipment  \n(D) To change a hotel reservation\n\n### Q2\n\nLook at the table. Which room will most likely be selected?\n\n(A) Cedar  \n(B) Maple  \n(C) Pine  \n(D) Oak\n\n### Q3\n\nWhy does the speaker say, “There's no reason to book anything larger”?\n\n(A) The company wants to minimize unnecessary cost or space  \n(B) More employees will attend later  \n(C) Large rooms lack screens  \n(D) The meeting has been shortened\n\n聽力稿：\n\n> Hi, I'm arranging Thursday's project review for fourteen employees. The meeting will run from ten until noon, and one of our contractors will join us by video. I see that several rooms are available, but there's no reason to book anything larger than necessary. Please reserve the smallest room that meets all of those requirements and send me the confirmation.\n\n### 答案\n\n**1A / 2B / 3A**\n\n條件：\n\n> 14 people  \n> 10–12  \n> video\n\nMaple：\n\n> 16 + video + 9–1\n\n符合，而且是最小符合者。\n\n下一步也有：\n\n> **send confirmation**\n\n這就是今天開始要求的第四層資訊。"
+    },
+    {
+      "title": "⑩ Listening｜意圖＋下一步",
+      "markdown": "### Q1\n\nWhy is the speaker calling?\n\n(A) To discuss a contract  \n(B) To order office furniture  \n(C) To apply for a job  \n(D) To cancel a trip\n\n### Q2\n\nWhat problem does the speaker mention?\n\n(A) The price has increased  \n(B) A deadline cannot be met  \n(C) A document was lost  \n(D) Payment was rejected\n\n### Q3\n\nWhat does the speaker want the listener to do?\n\n(A) Cancel the project  \n(B) Approve a revised schedule  \n(C) Hire another contractor  \n(D) Request a refund\n\n聽力稿：\n\n聽力稿：\n\n> Hello, Ms. Wang. This is Peter from Kingston Construction. I'm calling about the renovation project. Because one of our material suppliers experienced an unexpected shipping delay, we won't be able to complete the work by October 8 as originally planned. We can finish everything by October 11 instead. I've emailed you a revised project schedule. Please review it and let me know whether the new completion date is acceptable.\n\n答案：\n\n**1A / 2B / 3B**\n\n注意同義：\n\n> let me know whether the new completion date is acceptable\n\n≈\n\n> **approve a revised schedule**"
+    },
+    {
+      "title": "⑪ Listening｜圖表＋推論",
+      "markdown": "### Delivery Options\n\n| Service | Arrival | Fee |\n|---|---|---:|\n| Economy | Friday | $8 |\n| Standard | Thursday | $13 |\n| Express | Wednesday | $22 |\n| Priority | Tuesday | $35 |\n\n### Q1\n\nWhat is the speaker discussing?\n\n(A) Shipping an item  \n(B) Reserving a hotel  \n(C) Purchasing equipment  \n(D) Scheduling training\n\n### Q2\n\nWhat requirement does the speaker mention?\n\n(A) The package must arrive before Friday  \n(B) The fee must be below $20  \n(C) Tuesday delivery is required  \n(D) Economy shipping must be used\n\n### Q3\n\nWhich service should be selected?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Priority\n\n聽力稿：\n\n> We need to send the signed contract to our partner this afternoon. They need to receive the original document no later than Thursday. There's no benefit in paying for delivery earlier than necessary, so please choose the least expensive option that guarantees arrival by then.\n\n答案：\n\n**1A / 2A / 3B**\n\n符合 Thursday 或更早：\n\n> Standard $13  \n> Express $22  \n> Priority $35\n\n要求：\n\n> least expensive\n\n因此：\n\n**Standard**"
+    },
+    {
+      "title": "⑫ Reading｜Double Passage：規則＋更新＋例外",
+      "markdown": "限時 **5 分鐘**。\n\n### Passage 1 — Registration Policy\n\n> **Professional Development Conference**\n>\n> Early registration ends October 5. Participants who register by that date pay a discounted fee of $240.\n>\n> Beginning October 6, the standard registration fee is $300.\n>\n> Registration cancellations received by October 10 qualify for a full refund. Cancellations received from October 11 through October 15 qualify for a 50-percent refund.\n>\n> No refunds are normally available after October 15.\n>\n> Participants may transfer their registration to another employee from the same organization at no additional charge, provided that the request is submitted before the conference begins on October 20.\n\n### Passage 2 — Update from Organizer\n\n> **To:** Registered Participants  \n> **Subject:** Conference Schedule Update\n>\n> Due to maintenance work at the original venue, the Professional Development Conference has been moved from October 20 to October 22.\n>\n> All existing registrations will automatically remain valid for the new date.\n>\n> Participants who cannot attend because of the date change may request a full refund through October 18, regardless of the cancellation dates stated in the original registration policy.\n>\n> Registration transfers to another employee will also be accepted through October 21.\n>\n> We apologize for the inconvenience.\n\n### Q1\n\nWhat was the early registration fee?\n\n(A) $200  \n(B) $240  \n(C) $300  \n(D) $350\n\n### Q2\n\nUnder the original policy, what refund is available for a cancellation on October 13?\n\n(A) None  \n(B) 25 percent  \n(C) 50 percent  \n(D) Full refund\n\n### Q3\n\nWhen will the conference now take place?\n\n(A) October 18  \n(B) October 20  \n(C) October 21  \n(D) October 22\n\n### Q4\n\nWhat happens to existing registrations?\n\n(A) They are canceled  \n(B) They remain valid  \n(C) Participants must register again  \n(D) They become transferable only\n\n### Q5\n\nA participant cannot attend because of the new date and cancels October 17. What can the participant receive?\n\n(A) No refund  \n(B) 50-percent refund  \n(C) Full refund  \n(D) Conference credit only\n\n### Q6\n\nWhy is the answer to Q5 different from the original policy?\n\n(A) The participant registered early  \n(B) An updated exception overrides the original cancellation rule  \n(C) The conference fee decreased  \n(D) October 17 is a holiday\n\n### Q7\n\nUntil when may a registration transfer now be requested?\n\n(A) October 15  \n(B) October 18  \n(C) October 20  \n(D) October 21\n\n### 答案\n\n**1B / 2C / 3D / 4B / 5C / 6B / 7D**"
+    },
+    {
+      "title": "⑬ Reading 核心解析",
+      "markdown": "今天最重要的是 Q5。\n\n原規則：\n\n> after Oct 15 → normally no refund\n\n如果只看到這裡：\n\n> Oct 17 → no refund\n\n但是 Update 說：\n\n> cannot attend **because of date change**  \n> → full refund through Oct 18\n\n因此：\n\n> Oct 17 + affected by date change  \n> → **full refund**\n\n這題同時用了：\n\n> **Timeline + Update + Exception**\n\n可以寫成：\n\n> Original: >15 = no refund\n\n> Update: date-change issue + ≤18 = full refund\n\n> User: date-change issue + 17\n\n> → full refund\n\n這就是 900+ Reading 的推理方式。"
+    },
+    {
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "markdown": "限時 **3 分鐘**。\n\n### 1\n\nThe event will be held outdoors _____ severe weather is expected.\n\n(A) provided that  \n(B) unless  \n(C) once  \n(D) in case\n\n### 2\n\nEmployees may work remotely _____ their supervisors approve the arrangement.\n\n(A) unless  \n(B) provided that  \n(C) in case  \n(D) once\n\n### 3\n\nWe will issue the refund _____ we receive the returned product.\n\n(A) once  \n(B) unless  \n(C) in case  \n(D) despite\n\n### 4\n\nPlease contact me _____ you receive the revised contract.\n\n(A) as soon as  \n(B) despite  \n(C) whereas  \n(D) because of\n\n### 5\n\nKeep a copy of the receipt _____ you need to return the product.\n\n(A) unless  \n(B) provided that  \n(C) in case  \n(D) once\n\n### 6\n\nWe will notify all employees as soon as the schedule _____ finalized.\n\n(A) will be  \n(B) is  \n(C) was  \n(D) being\n\n### 7\n\nThe company will begin production once the equipment _____.\n\n(A) arrives  \n(B) will arrive  \n(C) arriving  \n(D) arrived\n\n### 8\n\nThe reservation will remain active _____ you cancel it.\n\n(A) provided that  \n(B) once  \n(C) unless  \n(D) in case\n\n### 9\n\nYou may receive reimbursement _____ you submit the original receipt.\n\n(A) provided that  \n(B) unless  \n(C) once not  \n(D) despite\n\n### 10\n\nTake the manager's phone number _____ you need assistance during the event.\n\n(A) once  \n(B) in case  \n(C) unless  \n(D) whereas\n\n### 11\n\nI'll send the report as soon as I _____ reviewing it.\n\n(A) will finish  \n(B) finish  \n(C) finished  \n(D) finishing\n\n### 12\n\n_____ the contract is signed, work can begin.\n\n(A) Once  \n(B) Despite  \n(C) Unless not  \n(D) In spite of\n\n**答案：1B / 2B / 3A / 4A / 5C / 6B / 7A / 8C / 9A / 10B / 11B / 12A**"
+    },
+    {
+      "title": "⑮ Day 27 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 30 秒**\n\n### Q1\n\nWe will begin processing your application _____ all required documents are received.\n\n(A) once  \n(B) unless  \n(C) in case  \n(D) despite\n\n### Q2\n\nThe event will continue _____ the weather becomes dangerous.\n\n(A) provided that  \n(B) once  \n(C) unless  \n(D) in case\n\n### Q3\n\nBring the confirmation email _____ there is a problem with your reservation.\n\n(A) unless  \n(B) once  \n(C) in case  \n(D) provided that\n\n### Q4\n\nEmployees may enter the laboratory _____ they wear the required safety equipment.\n\n(A) unless  \n(B) provided that  \n(C) in case  \n(D) despite\n\n### Q5\n\nI will notify you as soon as the manager _____ a decision.\n\n(A) will make  \n(B) makes  \n(C) making  \n(D) made\n\n### Q6\n\nWhich meeting room should be selected for the 14-person video meeting?\n\n(A) Cedar  \n(B) Maple  \n(C) Pine  \n(D) Oak\n\n### Q7\n\nWhat does Peter want Ms. Wang to do?\n\n(A) Cancel the renovation  \n(B) Approve the revised completion date  \n(C) Contact the supplier  \n(D) Pay an additional fee\n\n### Q8\n\nWhich delivery service should be used for the contract?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Priority\n\n### Q9\n\nA participant affected by the conference date change cancels on October 17. What refund is available?\n\n(A) None  \n(B) 50 percent  \n(C) Full refund  \n(D) $240 only\n\n### Q10\n\nUntil what date are registration transfers accepted under the updated policy?\n\n(A) October 15  \n(B) October 18  \n(C) October 20  \n(D) October 21\n\n## 答案\n\n**1A / 2C / 3C / 4B / 5B / 6B / 7B / 8B / 9C / 10D**"
+    },
+    {
+      "title": "⑯ 小考重點解析",
+      "markdown": "**Q1：once**\n\n流程：\n\n> documents received  \n> ↓  \n> process application\n\n所以：\n\n> once\n\n---\n\n**Q2：unless**\n\n意思：\n\n> 活動會繼續，**除非**天氣變危險。\n\n---\n\n**Q3：in case**\n\n現在先帶：\n\n> confirmation email\n\n是為了預防：\n\n> reservation problem\n\n所以：\n\n> **in case**\n\n---\n\n**Q4：provided that**\n\n進入實驗室的條件：\n\n> safety equipment\n\n所以：\n\n> **provided that**\n\n---\n\n**Q5**\n\n這是今天最重要的文法陷阱：\n\n> as soon as the manager _____\n\n即使是在講未來：\n\n> **makes**\n\n不是：\n\n> will make\n\n完整：\n\n> I **will notify** you as soon as the manager **makes** a decision."
+    },
+    {
+      "title": "⑰ 錯題複習｜Day 22～26",
+      "markdown": "目標 **70 秒內**完成。\n\n> office _____ she works\n\n**where**\n\n> office _____ we rented\n\n**which / that**\n\n> _____ completes the task\n\n**whoever**\n\n> _____ option\n\n**whichever**\n\n> _____ information\n\n**whatever**\n\n> We know _____ sales increased.\n\n**that**\n\n> We know _____ the customer ordered.\n\n**what**\n\n> determine _____ delivery is possible\n\n**whether**\n\n> employees _____ here\n\n**working**\n\n> products _____ here\n\n**manufactured**\n\n> applications _____ yesterday\n\n**received**\n\n> much _____ than\n\n**better**\n\n> one of the _____ popular products\n\n**most**\n\n> not _____ expensive as\n\n**as**\n\n> _____ the weather was poor\n\n**Although**\n\n> _____ the poor weather\n\n**Despite**\n\n> sales rose, _____ profits declined\n\n**whereas / while**"
+    },
+    {
+      "title": "⑱ 今日錯題分類",
+      "markdown": "目前你的錯題分類已經擴展成：\n\n| 標記 | 問題 |\n|---|---|\n| G | Grammar |\n| V | Vocabulary |\n| L | Listening |\n| P | Paraphrase |\n| I | Information Integration |\n| T | Timeline |\n| E | Exception |\n| U | Updated Information |\n\n今天再加入：\n\n**C — Condition**\n\n代表：\n\n> **條件邏輯判斷錯誤**\n\n例如：\n\n> provided that\n\n理解成：\n\n> 除非\n\n或：\n\n> in case\n\n理解成：\n\n> 發生之後\n\n都屬於 C。\n\n之後看到錯題不要只記：\n\n> 「Q3 錯。」\n\n而要記：\n\n> **Q3 — C：in case = precaution**\n\n這樣後面的課程才能真正針對弱點調整。"
+    },
+    {
+      "title": "⑲ 今日 900+ 快速挑戰",
+      "markdown": "不要回頭看。\n\n### 1\n\nTake an umbrella _____ it rains.\n\n(A) unless  \n(B) in case  \n(C) once  \n(D) provided that\n\n### 2\n\nI'll call you _____ I arrive.\n\n(A) despite  \n(B) unless  \n(C) as soon as  \n(D) in case\n\n### 3\n\nYou may receive a refund _____ you provide the receipt.\n\n(A) unless  \n(B) provided that  \n(C) in case  \n(D) whereas\n\n### 4\n\nThe store will remain open _____ conditions become unsafe.\n\n(A) unless  \n(B) once  \n(C) provided that  \n(D) in case\n\n### 5\n\nOnce the manager _____ the proposal, we will begin.\n\n(A) will approve  \n(B) approves  \n(C) approved  \n(D) approving\n\n**答案：1B / 2C / 3B / 4A / 5B**\n\n目標：\n\n> **5/5 ≤ 45 秒**"
+    },
+    {
+      "title": "⑳ 今日作業與後續難度調整",
+      "markdown": "今天單字優先複習：\n\n> negotiate terms  \n> meet requirements  \n> obtain authorization  \n> meet a deadline  \n> project milestone  \n> monitor progress  \n> finalize an agreement  \n> cost estimate  \n> comply with  \n> renew a contract\n\n文法建立五個反射：\n\n> **unless = if not**\n\n> **provided that = only if / 條件成立才可以**\n\n> **once = 一旦**\n\n> **as soon as = 一……立即……**\n\n> **in case = 現在先做，預防未來可能發生**\n\n另外把這句記熟：\n\n> **I will call you as soon as I receive the results.**\n\n不是：\n\n> as soon as I will receive ❌\n\nListening 只留下：\n\n> **Room：14 + video + 10–12 + smallest → Maple**\n\n> **Project：Oct 8 impossible → Oct 11 → review revised schedule**\n\n> **Contract：≤Thursday + cheapest → Standard**\n\nReading 只畫：\n\n> Original conference = Oct 20  \n> → Updated = Oct 22\n\n> Original > Oct15 = no refund  \n> → Update affected participant ≤ Oct18 = full refund\n\n> Original transfer before Oct20  \n> → Update through Oct21\n\n今天最後重新做 Day 27 小考一次，限制 **2 分鐘**，目標 **10/10**。\n\n難度判定採：\n\n**10/10 且 ≤2:30** → Day 28 升至 **900+ 高密度模式**。\n\n**8～9/10** → 維持目前難度，但增加同義改寫。\n\n**6～7/10** → 保留 900 題型，但降低資訊量並加強弱項。\n\n**≤5/10** → Day 28 先進行第四週核心回收，不急著增加新題型。\n\n如果主要錯在 Q1～Q5，代表 **Condition Grammar** 需要補強；Q6～Q8 錯，代表 **Listening 多條件整合**需要補強；Q9～Q10 錯，代表目前最值得加強的是 **Timeline + Update + Exception**。\n\n**Day 27 核心：900 分不是單純知道每句英文的意思，而是能同時判斷「條件是什麼、哪個資訊最新、是否存在例外，以及這些資訊合併後會產生什麼結果」。**\n\nDay 28 將作為 **第四週總複習＋階段模考**：整合 Day 22～27 的 Part 4 圖表、數字、意圖、下一步，以及 Double Passage 的 Timeline / Update / Exception，並用一組限時測驗判斷第五週是否正式進入 **900+ 難度**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "contract",
+      "meaning": "合約",
+      "phrase": "sign a contract"
+    },
+    {
+      "id": 2,
+      "word": "agreement",
+      "meaning": "協議",
+      "phrase": "reach an agreement"
+    },
+    {
+      "id": 3,
+      "word": "proposal",
+      "meaning": "提案",
+      "phrase": "submit a proposal"
+    },
+    {
+      "id": 4,
+      "word": "negotiate",
+      "meaning": "協商",
+      "phrase": "negotiate terms"
+    },
+    {
+      "id": 5,
+      "word": "term",
+      "meaning": "條款",
+      "phrase": "contract terms"
+    },
+    {
+      "id": 6,
+      "word": "condition",
+      "meaning": "條件",
+      "phrase": "meet a condition"
+    },
+    {
+      "id": 7,
+      "word": "requirement",
+      "meaning": "要求",
+      "phrase": "meet requirements"
+    },
+    {
+      "id": 8,
+      "word": "approve",
+      "meaning": "核准",
+      "phrase": "approve a request"
+    },
+    {
+      "id": 9,
+      "word": "authorization",
+      "meaning": "授權",
+      "phrase": "obtain authorization"
+    },
+    {
+      "id": 10,
+      "word": "deadline",
+      "meaning": "截止期限",
+      "phrase": "meet a deadline"
+    },
+    {
+      "id": 11,
+      "word": "extend",
+      "meaning": "延長",
+      "phrase": "extend the deadline"
+    },
+    {
+      "id": 12,
+      "word": "complete",
+      "meaning": "完成",
+      "phrase": "complete a project"
+    },
+    {
+      "id": 13,
+      "word": "launch",
+      "meaning": "推出",
+      "phrase": "launch a product"
+    },
+    {
+      "id": 14,
+      "word": "implement",
+      "meaning": "實施",
+      "phrase": "implement a plan"
+    },
+    {
+      "id": 15,
+      "word": "phase",
+      "meaning": "階段",
+      "phrase": "project phase"
+    },
+    {
+      "id": 16,
+      "word": "progress",
+      "meaning": "進度",
+      "phrase": "monitor progress"
+    },
+    {
+      "id": 17,
+      "word": "milestone",
+      "meaning": "里程碑",
+      "phrase": "project milestone"
+    },
+    {
+      "id": 18,
+      "word": "delay",
+      "meaning": "延誤",
+      "phrase": "avoid delays"
+    },
+    {
+      "id": 19,
+      "word": "revise",
+      "meaning": "修改",
+      "phrase": "revise a proposal"
+    },
+    {
+      "id": 20,
+      "word": "modification",
+      "meaning": "修改",
+      "phrase": "contract modification"
+    },
+    {
+      "id": 21,
+      "word": "submit",
+      "meaning": "提交",
+      "phrase": "submit documents"
+    },
+    {
+      "id": 22,
+      "word": "finalize",
+      "meaning": "定案",
+      "phrase": "finalize an agreement"
+    },
+    {
+      "id": 23,
+      "word": "estimate",
+      "meaning": "估算",
+      "phrase": "cost estimate"
+    },
+    {
+      "id": 24,
+      "word": "quote",
+      "meaning": "報價",
+      "phrase": "request a quote"
+    },
+    {
+      "id": 25,
+      "word": "bid",
+      "meaning": "投標",
+      "phrase": "submit a bid"
+    },
+    {
+      "id": 26,
+      "word": "contractor",
+      "meaning": "承包商",
+      "phrase": "construction contractor"
+    },
+    {
+      "id": 27,
+      "word": "eligible",
+      "meaning": "符合資格",
+      "phrase": "eligible for"
+    },
+    {
+      "id": 28,
+      "word": "comply",
+      "meaning": "遵守",
+      "phrase": "comply with"
+    },
+    {
+      "id": 29,
+      "word": "obligation",
+      "meaning": "義務",
+      "phrase": "contractual obligation"
+    },
+    {
+      "id": 30,
+      "word": "renew",
+      "meaning": "續約",
+      "phrase": "renew a contract"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-900-1",
+      "title": "⑨ Listening｜900+ 圖表＋意圖＋下一步",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To reserve a meeting room",
+            "B": "To cancel a conference",
+            "C": "To purchase video equipment",
+            "D": "To change a hotel reservation"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the table. Which room will most likely be selected?",
+          "options": {
+            "A": "Cedar",
+            "B": "Maple",
+            "C": "Pine",
+            "D": "Oak"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the speaker say, “There's no reason to book anything larger”?",
+          "options": {
+            "A": "The company wants to minimize unnecessary cost or space",
+            "B": "More employees will attend later",
+            "C": "Large rooms lack screens",
+            "D": "The meeting has been shortened"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "⑩ Listening｜意圖＋下一步",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To discuss a contract",
+            "B": "To order office furniture",
+            "C": "To apply for a job",
+            "D": "To cancel a trip"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does the speaker mention?",
+          "options": {
+            "A": "The price has increased",
+            "B": "A deadline cannot be met",
+            "C": "A document was lost",
+            "D": "Payment was rejected"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker want the listener to do?",
+          "options": {
+            "A": "Cancel the project",
+            "B": "Approve a revised schedule",
+            "C": "Hire another contractor",
+            "D": "Request a refund"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "⑪ Listening｜圖表＋推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the speaker discussing?",
+          "options": {
+            "A": "Shipping an item",
+            "B": "Reserving a hotel",
+            "C": "Purchasing equipment",
+            "D": "Scheduling training"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What requirement does the speaker mention?",
+          "options": {
+            "A": "The package must arrive before Friday",
+            "B": "The fee must be below $20",
+            "C": "Tuesday delivery is required",
+            "D": "Economy shipping must be used"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which service should be selected?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Priority"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "reading-double-passage-4",
+      "title": "⑫ Reading｜Double Passage：規則＋更新＋例外",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What was the early registration fee?",
+          "options": {
+            "A": "$200",
+            "B": "$240",
+            "C": "$300",
+            "D": "$350"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "Under the original policy, what refund is available for a cancellation on October 13?",
+          "options": {
+            "A": "None",
+            "B": "25 percent",
+            "C": "50 percent",
+            "D": "Full refund"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "When will the conference now take place?",
+          "options": {
+            "A": "October 18",
+            "B": "October 20",
+            "C": "October 21",
+            "D": "October 22"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        },
+        {
+          "id": 4,
+          "prompt": "What happens to existing registrations?",
+          "options": {
+            "A": "They are canceled",
+            "B": "They remain valid",
+            "C": "Participants must register again",
+            "D": "They become transferable only"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "A participant cannot attend because of the new date and cancels October 17. What can the participant receive?",
+          "options": {
+            "A": "No refund",
+            "B": "50-percent refund",
+            "C": "Full refund",
+            "D": "Conference credit only"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why is the answer to Q5 different from the original policy?",
+          "options": {
+            "A": "The participant registered early",
+            "B": "An updated exception overrides the original cancellation rule",
+            "C": "The conference fee decreased",
+            "D": "October 17 is a holiday"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "Until when may a registration transfer now be requested?",
+          "options": {
+            "A": "October 15",
+            "B": "October 18",
+            "C": "October 20",
+            "D": "October 21"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The event will be held outdoors _____ severe weather is expected.",
+          "options": {
+            "A": "provided that",
+            "B": "unless",
+            "C": "once",
+            "D": "in case"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "Employees may work remotely _____ their supervisors approve the arrangement.",
+          "options": {
+            "A": "unless",
+            "B": "provided that",
+            "C": "in case",
+            "D": "once"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "We will issue the refund _____ we receive the returned product.",
+          "options": {
+            "A": "once",
+            "B": "unless",
+            "C": "in case",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 4,
+          "prompt": "Please contact me _____ you receive the revised contract.",
+          "options": {
+            "A": "as soon as",
+            "B": "despite",
+            "C": "whereas",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 5,
+          "prompt": "Keep a copy of the receipt _____ you need to return the product.",
+          "options": {
+            "A": "unless",
+            "B": "provided that",
+            "C": "in case",
+            "D": "once"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "We will notify all employees as soon as the schedule _____ finalized.",
+          "options": {
+            "A": "will be",
+            "B": "is",
+            "C": "was",
+            "D": "being"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "The company will begin production once the equipment _____.",
+          "options": {
+            "A": "arrives",
+            "B": "will arrive",
+            "C": "arriving",
+            "D": "arrived"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 8,
+          "prompt": "The reservation will remain active _____ you cancel it.",
+          "options": {
+            "A": "provided that",
+            "B": "once",
+            "C": "unless",
+            "D": "in case"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "You may receive reimbursement _____ you submit the original receipt.",
+          "options": {
+            "A": "provided that",
+            "B": "unless",
+            "C": "once not",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 10,
+          "prompt": "Take the manager's phone number _____ you need assistance during the event.",
+          "options": {
+            "A": "once",
+            "B": "in case",
+            "C": "unless",
+            "D": "whereas"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 11,
+          "prompt": "I'll send the report as soon as I _____ reviewing it.",
+          "options": {
+            "A": "will finish",
+            "B": "finish",
+            "C": "finished",
+            "D": "finishing"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ the contract is signed, work can begin.",
+          "options": {
+            "A": "Once",
+            "B": "Despite",
+            "C": "Unless not",
+            "D": "In spite of"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "day-27-6",
+      "title": "⑮ Day 27 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "We will begin processing your application _____ all required documents are received.",
+          "options": {
+            "A": "once",
+            "B": "unless",
+            "C": "in case",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "The event will continue _____ the weather becomes dangerous.",
+          "options": {
+            "A": "provided that",
+            "B": "once",
+            "C": "unless",
+            "D": "in case"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Bring the confirmation email _____ there is a problem with your reservation.",
+          "options": {
+            "A": "unless",
+            "B": "once",
+            "C": "in case",
+            "D": "provided that"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "Employees may enter the laboratory _____ they wear the required safety equipment.",
+          "options": {
+            "A": "unless",
+            "B": "provided that",
+            "C": "in case",
+            "D": "despite"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "I will notify you as soon as the manager _____ a decision.",
+          "options": {
+            "A": "will make",
+            "B": "makes",
+            "C": "making",
+            "D": "made"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which meeting room should be selected for the 14-person video meeting?",
+          "options": {
+            "A": "Cedar",
+            "B": "Maple",
+            "C": "Pine",
+            "D": "Oak"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "What does Peter want Ms. Wang to do?",
+          "options": {
+            "A": "Cancel the renovation",
+            "B": "Approve the revised completion date",
+            "C": "Contact the supplier",
+            "D": "Pay an additional fee"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which delivery service should be used for the contract?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Priority"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "A participant affected by the conference date change cancels on October 17. What refund is available?",
+          "options": {
+            "A": "None",
+            "B": "50 percent",
+            "C": "Full refund",
+            "D": "$240 only"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 10,
+          "prompt": "Until what date are registration transfers accepted under the updated policy?",
+          "options": {
+            "A": "October 15",
+            "B": "October 18",
+            "C": "October 20",
+            "D": "October 21"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        }
+      ]
+    },
+    {
+      "id": "900-7",
+      "title": "⑲ 今日 900+ 快速挑戰",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Take an umbrella _____ it rains.",
+          "options": {
+            "A": "unless",
+            "B": "in case",
+            "C": "once",
+            "D": "provided that"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "I'll call you _____ I arrive.",
+          "options": {
+            "A": "despite",
+            "B": "unless",
+            "C": "as soon as",
+            "D": "in case"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "You may receive a refund _____ you provide the receipt.",
+          "options": {
+            "A": "unless",
+            "B": "provided that",
+            "C": "in case",
+            "D": "whereas"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "The store will remain open _____ conditions become unsafe.",
+          "options": {
+            "A": "unless",
+            "B": "once",
+            "C": "provided that",
+            "D": "in case"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 5,
+          "prompt": "Once the manager _____ the proposal, we will begin.",
+          "options": {
+            "A": "will approve",
+            "B": "approves",
+            "C": "approved",
+            "D": "approving"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "Listening 串連條件、圖表、意圖與下一步；Reading 串連原規則、更新資訊、例外與推論。",
+  "nextDay": "第四週週測與資訊整合總複習"
+}

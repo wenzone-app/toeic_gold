@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "day": 26,
+  "title": "Part 4 多條件圖表＋Double Passage 修改資訊追蹤",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 26 教材",
+  "sections": [
+    {
+      "title": "Day 26 學習概覽",
+      "markdown": "今天承接 Day 25，開始把難度推向 **900 分題型**。主軸是 **Part 4 多條件圖表＋說話者意圖**、Reading **Double Passage 修改／取消／重新安排資訊追蹤**；文法則進入高頻但非常容易混淆的：\n\n> **although / even though / while / whereas / despite / in spite of**\n\n由於目前沒有 Day 25 的實際作答紀錄，今天先維持 **860～900 分**，但推論題與同義改寫比昨天再增加一些。建議約 **95～105 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Meetings / Scheduling / Business Events**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| schedule | 安排 | schedule a meeting |\n| reschedule | 重新安排 | reschedule an appointment |\n| postpone | 延後 | postpone a conference |\n| cancel | 取消 | cancel a reservation |\n| arrange | 安排 | arrange a meeting |\n| confirm | 確認 | confirm attendance |\n| appointment | 預約 | make an appointment |\n| availability | 可用時間 | check availability |\n| conflict | 時間衝突 | scheduling conflict |\n| agenda | 議程 | meeting agenda |\n| participant | 參與者 | conference participant |\n| attendee | 出席者 | event attendee |\n| venue | 場地 | event venue |\n| conference | 會議 | annual conference |\n| seminar | 研討會 | training seminar |\n| workshop | 工作坊 | attend a workshop |\n| session | 場次 | afternoon session |\n| presentation | 簡報 | give a presentation |\n| deadline | 截止日期 | meet a deadline |\n| extend | 延長 | extend a deadline |\n| duration | 持續時間 | meeting duration |\n| approximately | 大約 | approximately two hours |\n| available | 有空的 | available on Friday |\n| convenient | 方便的 | convenient time |\n| overlap | 重疊 | schedules overlap |\n| accommodate | 配合 | accommodate a request |\n| notify | 通知 | notify participants |\n| revise | 修改 | revised schedule |\n| tentative | 暫定的 | tentative date |\n| promptly | 迅速地 | respond promptly |\n\n今天優先熟悉：\n\n> **scheduling conflict**  \n> **check availability**  \n> **confirm attendance**  \n> **meeting agenda**  \n> **afternoon session**  \n> **meet a deadline**  \n> **extend a deadline**  \n> **revised schedule**  \n> **tentative date**  \n> **accommodate a request**"
+    },
+    {
+      "title": "② 今日文法｜although / even though",
+      "markdown": "兩者都是：\n\n> **雖然／儘管**\n\n後面必須接：\n\n> **S + V**\n\n例如：\n\n> **Although the shipment was delayed**, it arrived before Friday.\n\n結構：\n\n> although + 子句\n\n`even though` 語氣通常更強：\n\n> **Even though the price was high**, the product sold well."
+    },
+    {
+      "title": "③ despite / in spite of",
+      "markdown": "意思也接近：\n\n> 儘管\n\n但是後面通常接：\n\n> **名詞 / 名詞片語 / V-ing**\n\n例如：\n\n> **Despite the delay**, the shipment arrived Friday.\n\n> **In spite of the bad weather**, the event continued.\n\n不能：\n\n> despite the shipment was delayed ❌\n\n因為：\n\n> the shipment was delayed\n\n是完整子句。"
+    },
+    {
+      "title": "④ although vs. despite",
+      "markdown": "這是 Part 5 超高頻秒殺題。\n\n### A\n\n> _____ the weather was poor, the event continued.\n\n後面：\n\n> the weather was poor\n\n完整 S + V。\n\n答案：\n\n> **Although**\n\n### B\n\n> _____ the poor weather, the event continued.\n\n後面：\n\n> the poor weather\n\n名詞片語。\n\n答案：\n\n> **Despite**\n\n所以不要只背中文。\n\n看到空格後先判斷：\n\n> **句子還是名詞？**"
+    },
+    {
+      "title": "⑤ while",
+      "markdown": "`while` 有兩個重要意思。\n\n### 時間\n\n> Please wait **while I check your reservation**.\n\n= 當我確認預約時。\n\n### 對比\n\n> Online sales increased, **while store sales declined**.\n\n= 網路銷售增加，**而**實體店銷售下降。\n\nTOEIC 很常考第二種。"
+    },
+    {
+      "title": "⑥ whereas",
+      "markdown": "`whereas` 幾乎專門表示：\n\n> **然而／相較之下**\n\n例如：\n\n> Model A costs $300, **whereas** Model B costs $450.\n\n兩件事情形成對比。\n\n後面也是：\n\n> S + V"
+    },
+    {
+      "title": "⑦ 六個連接詞快速分類",
+      "markdown": "| 表達 | 後面 |\n|---|---|\n| although | S + V |\n| even though | S + V |\n| while | S + V |\n| whereas | S + V |\n| despite | 名詞 / V-ing |\n| in spite of | 名詞 / V-ing |\n\n考場先看：\n\n> **空格後面的結構**\n\n再看語意。"
+    },
+    {
+      "title": "⑧ Part 5 進階陷阱",
+      "markdown": "> _____ being more expensive, Model B is our best-selling product.\n\n(A) Although  \n(B) Despite  \n(C) Whereas  \n(D) Even though\n\n後面：\n\n> being more expensive\n\n不是完整 S + V。\n\n所以：\n\n**B**\n\n---\n\n> _____ Model B is more expensive, it remains our best-selling product.\n\n後面：\n\n> Model B is...\n\n完整句。\n\n所以：\n\n**Although / Even though**"
+    },
+    {
+      "title": "⑨ Listening｜Part 4 多條件圖表",
+      "markdown": "### Meeting Rooms\n\n| Room | Capacity | Equipment | Available |\n|---|---:|---|---|\n| A | 8 | Screen | 9–12 |\n| B | 12 | Screen + Video | 1–5 |\n| C | 20 | Screen + Video | 9–3 |\n| D | 30 | Screen | 2–5 |\n\n### Q1\n\nWhy is the speaker calling?\n\n(A) To cancel a meeting  \n(B) To reserve a meeting room  \n(C) To repair equipment  \n(D) To invite an employee\n\n### Q2\n\nWhat does the speaker need?\n\n(A) Space for 15 people and video equipment  \n(B) Space for 30 people  \n(C) A room available after 3 P.M.  \n(D) A room without a screen\n\n### Q3\n\nWhich room should be reserved?\n\n(A) Room A  \n(B) Room B  \n(C) Room C  \n(D) Room D\n\n聽力稿：\n\n> Hi, I'm organizing a training session for fifteen employees next Tuesday. We'll need to show several training videos, and the session is scheduled from ten in the morning until noon. Could you reserve the smallest room that can accommodate us and has the equipment we need?\n\n答案：\n\n**1B / 2A / 3C**\n\n條件：\n\n> 15 people  \n> video  \n> 10–12\n\nRoom C：\n\n> 20 + video + 9–3\n\n全部符合。"
+    },
+    {
+      "title": "⑩ Listening｜Part 4 意圖推論",
+      "markdown": "### Q1\n\nWhy is the speaker calling?\n\n(A) To change an appointment  \n(B) To order equipment  \n(C) To apply for a position  \n(D) To complain about an invoice\n\n### Q2\n\nWhy is Tuesday inconvenient?\n\n(A) The speaker will be traveling  \n(B) A client meeting was scheduled  \n(C) The office will be closed  \n(D) The manager is unavailable\n\n### Q3\n\nWhy does the speaker say, “Wednesday would actually be even better”?\n\n(A) She wants to cancel completely  \n(B) Wednesday is more convenient than the proposed alternative  \n(C) Wednesday is a holiday  \n(D) She needs a longer appointment\n\n聽力稿：\n\n> Hello, this is Julia Park. I'm scheduled to meet Mr. Chen at two o'clock Tuesday, but a client meeting has just been added to my calendar. I noticed in your earlier message that Wednesday afternoon was also available. Wednesday would actually be even better for me, so please move the appointment if that time is still open.\n\n答案：\n\n**1A / 2B / 3B**\n\n`even better`：\n\n不是單純「很好」。\n\n而是：\n\n> **比原本選項更適合。**"
+    },
+    {
+      "title": "⑪ Listening｜Part 4 圖表＋推論",
+      "markdown": "### Workshop Schedule\n\n| Workshop | Time | Fee |\n|---|---|---:|\n| Excel | 9:00–11:00 | $90 |\n| Presentation | 10:00–12:00 | $110 |\n| Data Analysis | 1:00–4:00 | $160 |\n| Leadership | 2:00–5:00 | $180 |\n\n### Q1\n\nWhat is the speaker discussing?\n\n(A) Employee training  \n(B) Customer refunds  \n(C) Travel expenses  \n(D) Product prices\n\n### Q2\n\nWhat restriction does the speaker mention?\n\n(A) She cannot attend in the morning  \n(B) Her training budget is $170  \n(C) She needs a one-hour course  \n(D) She cannot use Excel\n\n### Q3\n\nWhich workshop will she most likely attend?\n\n(A) Excel  \n(B) Presentation  \n(C) Data Analysis  \n(D) Leadership\n\n聽力稿：\n\n> My supervisor approved up to $170 for professional training this month. Since I have client appointments throughout the morning, I'll need an afternoon session. I'd especially like to improve my ability to interpret sales figures and customer trends. Please register me for whichever course best meets those requirements.\n\n答案：\n\n**1A / 2B / 3C**\n\n條件：\n\n> afternoon  \n> ≤ $170  \n> sales figures / trends\n\n→ Data Analysis $160.\n\nLeadership 是下午，但：\n\n> $180 ❌"
+    },
+    {
+      "title": "⑫ Reading｜Double Passage：修改資訊追蹤",
+      "markdown": "限時：\n\n**5 分鐘。**\n\n### Passage 1 — Original Schedule\n\n> **Regional Sales Meeting — September 29**\n>\n> 9:00 — Opening Remarks  \n> 9:30 — Quarterly Sales Review  \n> 10:30 — Coffee Break  \n> 11:00 — Marketing Strategy Presentation  \n> 12:00 — Lunch  \n> 1:30 — Product Demonstration  \n> 3:00 — Regional Planning Session\n>\n> The meeting will take place in Conference Room 4 at the Weston Business Center.\n\n### Passage 2 — Updated E-mail\n\n> **To:** Meeting Participants  \n> **Subject:** Changes to September 29 Meeting\n>\n> Due to a scheduling conflict, two changes have been made to Tuesday's regional sales meeting.\n>\n> First, the Marketing Strategy Presentation will now take place immediately after lunch. The Product Demonstration will follow it at 2:30 P.M.\n>\n> In addition, Conference Room 4 is undergoing maintenance, so the entire meeting has been moved to Conference Room 7.\n>\n> All morning sessions, including the Quarterly Sales Review, will take place at their originally scheduled times.\n>\n> Please use the revised agenda attached to this message.\n>\n> —Karen\n\n### Q1\n\nWhat was originally scheduled for 11 A.M.?\n\n(A) Quarterly Sales Review  \n(B) Marketing Strategy Presentation  \n(C) Product Demonstration  \n(D) Regional Planning Session\n\n### Q2\n\nWhat has caused one of the changes?\n\n(A) A customer complaint  \n(B) A scheduling conflict  \n(C) A speaker resigned  \n(D) A transportation delay\n\n### Q3\n\nWhen will the Marketing Strategy Presentation now occur?\n\n(A) 10:30  \n(B) 11:00  \n(C) Immediately after lunch  \n(D) 2:30\n\n### Q4\n\nWhat will take place at 2:30?\n\n(A) Lunch  \n(B) Marketing Strategy Presentation  \n(C) Product Demonstration  \n(D) Quarterly Sales Review\n\n### Q5\n\nWhere will the meeting be held?\n\n(A) Conference Room 4  \n(B) Conference Room 7  \n(C) The cafeteria  \n(D) Another building\n\n### Q6\n\nWhich session is explicitly unchanged?\n\n(A) Marketing Strategy Presentation  \n(B) Product Demonstration  \n(C) Quarterly Sales Review  \n(D) Afternoon Planning\n\n### Q7\n\nWhat should participants rely on for the most current information?\n\n(A) The original announcement  \n(B) The revised agenda  \n(C) Last quarter's schedule  \n(D) The building directory\n\n**答案：1B / 2B / 3C / 4C / 5B / 6C / 7B**"
+    },
+    {
+      "title": "⑬ Reading 高分技巧｜Original vs Updated",
+      "markdown": "這類題最大的陷阱：\n\n> **舊資訊仍然出現在文章裡。**\n\n所以建立：\n\n> O = Original  \n> U = Updated\n\n今天可以寫：\n\n> O: Marketing 11  \n> U: Marketing after lunch\n\n> O: Demo 1:30  \n> U: Demo 2:30\n\n> O: Room 4  \n> U: Room 7\n\nMorning：\n\n> unchanged\n\n看到：\n\n> now / revised / instead / moved / rescheduled / updated\n\n新的資訊優先。"
+    },
+    {
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "markdown": "限時 **3 分鐘**。\n\n### 1\n\n_____ the weather was poor, the event attracted many visitors.\n\n(A) Despite  \n(B) Although  \n(C) In spite of  \n(D) Because of\n\n### 2\n\n_____ the poor weather, the event attracted many visitors.\n\n(A) Although  \n(B) Whereas  \n(C) Despite  \n(D) While\n\n### 3\n\nOnline sales increased, _____ store sales declined.\n\n(A) despite  \n(B) whereas  \n(C) in spite of  \n(D) because of\n\n### 4\n\n_____ being more expensive, the new model is selling well.\n\n(A) Although  \n(B) Even though  \n(C) Despite  \n(D) Whereas\n\n### 5\n\n_____ the new model is more expensive, it is selling well.\n\n(A) Despite  \n(B) In spite of  \n(C) Although  \n(D) Because of\n\n### 6\n\nPlease wait _____ I check the reservation.\n\n(A) despite  \n(B) while  \n(C) in spite of  \n(D) because of\n\n### 7\n\nThe downtown branch is very busy, _____ the suburban branch receives fewer customers.\n\n(A) whereas  \n(B) despite  \n(C) in spite of  \n(D) because of\n\n### 8\n\n_____ the delay, the shipment arrived before the deadline.\n\n(A) Although  \n(B) Even though  \n(C) Despite  \n(D) Whereas\n\n### 9\n\n_____ the shipment was delayed, it arrived before the deadline.\n\n(A) Despite  \n(B) Although  \n(C) In spite of  \n(D) Because of\n\n### 10\n\nThe first proposal focuses on reducing costs, _____ the second emphasizes increasing sales.\n\n(A) despite  \n(B) whereas  \n(C) in spite of  \n(D) because of\n\n### 11\n\n_____ having limited experience, Ms. Lin performed extremely well.\n\n(A) Despite  \n(B) Although  \n(C) Whereas  \n(D) Even though\n\n### 12\n\n_____ Ms. Lin had limited experience, she performed extremely well.\n\n(A) Despite  \n(B) In spite of  \n(C) Although  \n(D) Because of\n\n**答案：1B / 2C / 3B / 4C / 5C / 6B / 7A / 8C / 9B / 10B / 11A / 12C**"
+    },
+    {
+      "title": "⑮ Day 26 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\n_____ the high cost, the company decided to purchase the equipment.\n\n(A) Although  \n(B) Despite  \n(C) Whereas  \n(D) While\n\n### Q2\n\n_____ the equipment was expensive, the company decided to purchase it.\n\n(A) Despite  \n(B) In spite of  \n(C) Although  \n(D) Because of\n\n### Q3\n\nSales increased in Asia, _____ they declined slightly in Europe.\n\n(A) despite  \n(B) whereas  \n(C) in spite of  \n(D) because of\n\n### Q4\n\n_____ working from home, Ms. Wu remained available to customers.\n\n(A) Although  \n(B) Despite  \n(C) Whereas  \n(D) Even though\n\n### Q5\n\nPlease remain here _____ I check whether the manager is available.\n\n(A) despite  \n(B) whereas  \n(C) while  \n(D) in spite of\n\n### Q6\n\nWhich meeting room should be reserved for the 15-person training session?\n\n(A) A  \n(B) B  \n(C) C  \n(D) D\n\n### Q7\n\nWhy does Julia prefer Wednesday?\n\n(A) It is more convenient for her  \n(B) The office is closed Tuesday  \n(C) Her client requested Wednesday  \n(D) Mr. Chen canceled Tuesday\n\n### Q8\n\nWhich workshop should the employee attend?\n\n(A) Excel  \n(B) Presentation  \n(C) Data Analysis  \n(D) Leadership\n\n### Q9\n\nWhere will the regional sales meeting now be held?\n\n(A) Conference Room 4  \n(B) Conference Room 7  \n(C) The cafeteria  \n(D) The training center\n\n### Q10\n\nWhat will occur at 2:30 P.M.?\n\n(A) Marketing Strategy Presentation  \n(B) Product Demonstration  \n(C) Quarterly Sales Review  \n(D) Lunch\n\n## 答案\n\n**1B / 2C / 3B / 4B / 5C / 6C / 7A / 8C / 9B / 10B**"
+    },
+    {
+      "title": "⑯ 小考解析",
+      "markdown": "Q1：\n\n後面：\n\n> the high cost\n\n是名詞片語。\n\n所以：\n\n> **Despite**\n\n---\n\nQ2：\n\n後面：\n\n> the equipment was expensive\n\n完整：\n\n> S + V\n\n所以：\n\n> **Although**\n\n---\n\nQ3：\n\nAsia：\n\n> increased\n\nEurope：\n\n> declined\n\n形成對比。\n\n所以：\n\n> **whereas**\n\n---\n\nQ4：\n\n後面：\n\n> working\n\nV-ing。\n\n因此：\n\n> **Despite working...**\n\n不是：\n\n> Although working ❌\n\n在 TOEIC 標準結構題中優先選 `despite`。\n\n---\n\nQ5：\n\n這裡不是對比。\n\n意思：\n\n> 當我確認主管是否有空時，請在這裡等。\n\n所以：\n\n> **while**"
+    },
+    {
+      "title": "⑰ 錯題回收｜Day 21～25",
+      "markdown": "目標 **60 秒內**：\n\n> employees may enter _____ they have ID\n\n**provided that**\n\n> event continues _____ it rains\n\n**unless**\n\n> office _____ she works\n\n**where**\n\n> office _____ we rented\n\n**which / that**\n\n> _____ completes the task\n\n**whoever**\n\n> _____ option\n\n**whichever**\n\n> _____ information\n\n**whatever**\n\n> We know _____ sales increased.\n\n**that**\n\n> We know _____ the customer ordered.\n\n**what**\n\n> determine _____ delivery is possible\n\n**whether**\n\n> employees _____ here\n\n**working**\n\n> products _____ here\n\n**manufactured**\n\n> applications _____ yesterday\n\n**received**\n\n> much _____\n\n**better**\n\n> one of the _____ successful campaigns\n\n**most**\n\n> not _____ expensive as\n\n**as**\n\n> two options → which is _____?\n\n**better**"
+    },
+    {
+      "title": "⑱ 今日錯題分類",
+      "markdown": "今天繼續使用：\n\n**G — Grammar**\n\n`although / despite` 選錯。\n\n**L — Listening**\n\n沒有聽懂語音條件。\n\n**I — Information Integration**\n\n條件都聽懂但查錯表格。\n\n**P — Paraphrase**\n\n例如：\n\n> interpret sales figures\n\n沒有連到：\n\n> Data Analysis。\n\n**T — Timeline**\n\n新舊時間判斷錯。\n\n**E — Exception**\n\n忽略規則例外。\n\n今天新增：\n\n**U — Update**\n\n代表：\n\n> **沒有使用最新資訊。**\n\n例如：\n\n看到原始：\n\n> Room 4\n\n就選 Room 4，\n\n卻忽略 Email：\n\n> moved to Room 7\n\n就是：\n\n**U 錯誤。**"
+    },
+    {
+      "title": "⑲ 今日作業",
+      "markdown": "今天單字優先掌握：\n\n> scheduling conflict  \n> check availability  \n> confirm attendance  \n> meeting agenda  \n> afternoon session  \n> meet a deadline  \n> extend a deadline  \n> revised schedule  \n> tentative date  \n> accommodate a request\n\n文法只要建立這個超重要反射：\n\n> **although / even though / while / whereas + S + V**\n\n> **despite / in spite of + noun / V-ing**\n\n不要先翻中文，先看結構。\n\nListening 將三段壓成：\n\n> **Room：15 + video + 10–12 → C**\n\n> **Julia：Tue client conflict → Wed even better → reschedule**\n\n> **Training：afternoon + ≤170 + sales data → Data Analysis**\n\nReading 建立：\n\n> **Original → Updated**\n\n時間線：\n\n> Marketing 11:00  \n> → after lunch\n\n> Demo 1:30  \n> → 2:30\n\n地點：\n\n> Room 4  \n> → Room 7\n\n不變：\n\n> Morning sessions\n\n重新完成 Double Passage，第二次限制：\n\n**4 分鐘。**\n\n最後重新完成 Day 26 小考：\n\n**2 分鐘 15 秒**\n\n目標：\n\n**10/10**\n\n若今天能穩定達到 **9～10/10**，Day 27 會正式提高至 **900+ 混合推論模式**；若 Q1～Q5 錯兩題以上，後續優先回收「連接詞 vs 介系詞」；若 Q6～Q8 錯，增加多條件圖表題；若 Q9～Q10 錯，增加 `Original → Updated` 資訊追蹤題。\n\n**Day 26 最重要的兩個反射：**\n\n> **文法：先看空格後是「句子」還是「名詞」，再決定 although 或 despite。**\n\n> **Reading：新資訊永遠覆蓋舊資訊；看到 `now / revised / moved / instead / updated` 要立刻更新你的答案。**\n\nDay 27 將進入 **900+ 混合推論**：Part 4「圖表＋意圖＋下一步」三層整合、Double Passage「舊資訊／更新／例外」混合；文法進入高頻的 **條件副詞 `unless / once / as soon as / provided that / in case` 進階辨析**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "schedule",
+      "meaning": "安排",
+      "phrase": "schedule a meeting"
+    },
+    {
+      "id": 2,
+      "word": "reschedule",
+      "meaning": "重新安排",
+      "phrase": "reschedule an appointment"
+    },
+    {
+      "id": 3,
+      "word": "postpone",
+      "meaning": "延後",
+      "phrase": "postpone a conference"
+    },
+    {
+      "id": 4,
+      "word": "cancel",
+      "meaning": "取消",
+      "phrase": "cancel a reservation"
+    },
+    {
+      "id": 5,
+      "word": "arrange",
+      "meaning": "安排",
+      "phrase": "arrange a meeting"
+    },
+    {
+      "id": 6,
+      "word": "confirm",
+      "meaning": "確認",
+      "phrase": "confirm attendance"
+    },
+    {
+      "id": 7,
+      "word": "appointment",
+      "meaning": "預約",
+      "phrase": "make an appointment"
+    },
+    {
+      "id": 8,
+      "word": "availability",
+      "meaning": "可用時間",
+      "phrase": "check availability"
+    },
+    {
+      "id": 9,
+      "word": "conflict",
+      "meaning": "時間衝突",
+      "phrase": "scheduling conflict"
+    },
+    {
+      "id": 10,
+      "word": "agenda",
+      "meaning": "議程",
+      "phrase": "meeting agenda"
+    },
+    {
+      "id": 11,
+      "word": "participant",
+      "meaning": "參與者",
+      "phrase": "conference participant"
+    },
+    {
+      "id": 12,
+      "word": "attendee",
+      "meaning": "出席者",
+      "phrase": "event attendee"
+    },
+    {
+      "id": 13,
+      "word": "venue",
+      "meaning": "場地",
+      "phrase": "event venue"
+    },
+    {
+      "id": 14,
+      "word": "conference",
+      "meaning": "會議",
+      "phrase": "annual conference"
+    },
+    {
+      "id": 15,
+      "word": "seminar",
+      "meaning": "研討會",
+      "phrase": "training seminar"
+    },
+    {
+      "id": 16,
+      "word": "workshop",
+      "meaning": "工作坊",
+      "phrase": "attend a workshop"
+    },
+    {
+      "id": 17,
+      "word": "session",
+      "meaning": "場次",
+      "phrase": "afternoon session"
+    },
+    {
+      "id": 18,
+      "word": "presentation",
+      "meaning": "簡報",
+      "phrase": "give a presentation"
+    },
+    {
+      "id": 19,
+      "word": "deadline",
+      "meaning": "截止日期",
+      "phrase": "meet a deadline"
+    },
+    {
+      "id": 20,
+      "word": "extend",
+      "meaning": "延長",
+      "phrase": "extend a deadline"
+    },
+    {
+      "id": 21,
+      "word": "duration",
+      "meaning": "持續時間",
+      "phrase": "meeting duration"
+    },
+    {
+      "id": 22,
+      "word": "approximately",
+      "meaning": "大約",
+      "phrase": "approximately two hours"
+    },
+    {
+      "id": 23,
+      "word": "available",
+      "meaning": "有空的",
+      "phrase": "available on Friday"
+    },
+    {
+      "id": 24,
+      "word": "convenient",
+      "meaning": "方便的",
+      "phrase": "convenient time"
+    },
+    {
+      "id": 25,
+      "word": "overlap",
+      "meaning": "重疊",
+      "phrase": "schedules overlap"
+    },
+    {
+      "id": 26,
+      "word": "accommodate",
+      "meaning": "配合",
+      "phrase": "accommodate a request"
+    },
+    {
+      "id": 27,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify participants"
+    },
+    {
+      "id": 28,
+      "word": "revise",
+      "meaning": "修改",
+      "phrase": "revised schedule"
+    },
+    {
+      "id": 29,
+      "word": "tentative",
+      "meaning": "暫定的",
+      "phrase": "tentative date"
+    },
+    {
+      "id": 30,
+      "word": "promptly",
+      "meaning": "迅速地",
+      "phrase": "respond promptly"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-part-4-1",
+      "title": "⑨ Listening｜Part 4 多條件圖表",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To cancel a meeting",
+            "B": "To reserve a meeting room",
+            "C": "To repair equipment",
+            "D": "To invite an employee"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the speaker need?",
+          "options": {
+            "A": "Space for 15 people and video equipment",
+            "B": "Space for 30 people",
+            "C": "A room available after 3 P.M.",
+            "D": "A room without a screen"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which room should be reserved?",
+          "options": {
+            "A": "Room A",
+            "B": "Room B",
+            "C": "Room C",
+            "D": "Room D"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-2",
+      "title": "⑩ Listening｜Part 4 意圖推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To change an appointment",
+            "B": "To order equipment",
+            "C": "To apply for a position",
+            "D": "To complain about an invoice"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is Tuesday inconvenient?",
+          "options": {
+            "A": "The speaker will be traveling",
+            "B": "A client meeting was scheduled",
+            "C": "The office will be closed",
+            "D": "The manager is unavailable"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the speaker say, “Wednesday would actually be even better”?",
+          "options": {
+            "A": "She wants to cancel completely",
+            "B": "Wednesday is more convenient than the proposed alternative",
+            "C": "Wednesday is a holiday",
+            "D": "She needs a longer appointment"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-3",
+      "title": "⑪ Listening｜Part 4 圖表＋推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the speaker discussing?",
+          "options": {
+            "A": "Employee training",
+            "B": "Customer refunds",
+            "C": "Travel expenses",
+            "D": "Product prices"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What restriction does the speaker mention?",
+          "options": {
+            "A": "She cannot attend in the morning",
+            "B": "Her training budget is $170",
+            "C": "She needs a one-hour course",
+            "D": "She cannot use Excel"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which workshop will she most likely attend?",
+          "options": {
+            "A": "Excel",
+            "B": "Presentation",
+            "C": "Data Analysis",
+            "D": "Leadership"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "reading-double-passage-4",
+      "title": "⑫ Reading｜Double Passage：修改資訊追蹤",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What was originally scheduled for 11 A.M.?",
+          "options": {
+            "A": "Quarterly Sales Review",
+            "B": "Marketing Strategy Presentation",
+            "C": "Product Demonstration",
+            "D": "Regional Planning Session"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What has caused one of the changes?",
+          "options": {
+            "A": "A customer complaint",
+            "B": "A scheduling conflict",
+            "C": "A speaker resigned",
+            "D": "A transportation delay"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "When will the Marketing Strategy Presentation now occur?",
+          "options": {
+            "A": "10:30",
+            "B": "11:00",
+            "C": "Immediately after lunch",
+            "D": "2:30"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will take place at 2:30?",
+          "options": {
+            "A": "Lunch",
+            "B": "Marketing Strategy Presentation",
+            "C": "Product Demonstration",
+            "D": "Quarterly Sales Review"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "Where will the meeting be held?",
+          "options": {
+            "A": "Conference Room 4",
+            "B": "Conference Room 7",
+            "C": "The cafeteria",
+            "D": "Another building"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which session is explicitly unchanged?",
+          "options": {
+            "A": "Marketing Strategy Presentation",
+            "B": "Product Demonstration",
+            "C": "Quarterly Sales Review",
+            "D": "Afternoon Planning"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "What should participants rely on for the most current information?",
+          "options": {
+            "A": "The original announcement",
+            "B": "The revised agenda",
+            "C": "Last quarter's schedule",
+            "D": "The building directory"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ the weather was poor, the event attracted many visitors.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "In spite of",
+            "D": "Because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ the poor weather, the event attracted many visitors.",
+          "options": {
+            "A": "Although",
+            "B": "Whereas",
+            "C": "Despite",
+            "D": "While"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Online sales increased, _____ store sales declined.",
+          "options": {
+            "A": "despite",
+            "B": "whereas",
+            "C": "in spite of",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ being more expensive, the new model is selling well.",
+          "options": {
+            "A": "Although",
+            "B": "Even though",
+            "C": "Despite",
+            "D": "Whereas"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ the new model is more expensive, it is selling well.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Although",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "Please wait _____ I check the reservation.",
+          "options": {
+            "A": "despite",
+            "B": "while",
+            "C": "in spite of",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "The downtown branch is very busy, _____ the suburban branch receives fewer customers.",
+          "options": {
+            "A": "whereas",
+            "B": "despite",
+            "C": "in spite of",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 8,
+          "prompt": "_____ the delay, the shipment arrived before the deadline.",
+          "options": {
+            "A": "Although",
+            "B": "Even though",
+            "C": "Despite",
+            "D": "Whereas"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "_____ the shipment was delayed, it arrived before the deadline.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "In spite of",
+            "D": "Because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "The first proposal focuses on reducing costs, _____ the second emphasizes increasing sales.",
+          "options": {
+            "A": "despite",
+            "B": "whereas",
+            "C": "in spite of",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 11,
+          "prompt": "_____ having limited experience, Ms. Lin performed extremely well.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Whereas",
+            "D": "Even though"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ Ms. Lin had limited experience, she performed extremely well.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Although",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "day-26-6",
+      "title": "⑮ Day 26 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ the high cost, the company decided to purchase the equipment.",
+          "options": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "Whereas",
+            "D": "While"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ the equipment was expensive, the company decided to purchase it.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Although",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Sales increased in Asia, _____ they declined slightly in Europe.",
+          "options": {
+            "A": "despite",
+            "B": "whereas",
+            "C": "in spite of",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ working from home, Ms. Wu remained available to customers.",
+          "options": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "Whereas",
+            "D": "Even though"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "Please remain here _____ I check whether the manager is available.",
+          "options": {
+            "A": "despite",
+            "B": "whereas",
+            "C": "while",
+            "D": "in spite of"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which meeting room should be reserved for the 15-person training session?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "Why does Julia prefer Wednesday?",
+          "options": {
+            "A": "It is more convenient for her",
+            "B": "The office is closed Tuesday",
+            "C": "Her client requested Wednesday",
+            "D": "Mr. Chen canceled Tuesday"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which workshop should the employee attend?",
+          "options": {
+            "A": "Excel",
+            "B": "Presentation",
+            "C": "Data Analysis",
+            "D": "Leadership"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "Where will the regional sales meeting now be held?",
+          "options": {
+            "A": "Conference Room 4",
+            "B": "Conference Room 7",
+            "C": "The cafeteria",
+            "D": "The training center"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "What will occur at 2:30 P.M.?",
+          "options": {
+            "A": "Marketing Strategy Presentation",
+            "B": "Product Demonstration",
+            "C": "Quarterly Sales Review",
+            "D": "Lunch"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "多條件圖表依序篩選，閱讀則分清原始資訊與更新資訊，追蹤取消與重新安排。",
+  "nextDay": "900+ 圖表、意圖、下一步與例外混合推論"
+}

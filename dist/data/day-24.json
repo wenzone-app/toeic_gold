@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "day": 24,
+  "title": "Part 4 圖表整合＋Double Passage 時序推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 24 教材",
+  "sections": [
+    {
+      "title": "Day 24 學習概覽",
+      "markdown": "今天接續 Day 23，進入第四週的高分整合訓練。主軸是 **Part 4 圖表整合進階：價目表／時刻表**，Reading 練習 **Double Passage 時序推論**；文法則進入 TOEIC Part 5 很常見的 **現在分詞 V-ing、過去分詞 V-ed 與分詞構句**。\n\n目前沒有新的 Day 23 實際作答成績，因此今天維持 **860～900 分難度**，不直接升級到極難模式。今天會刻意加入更多「聽到條件 → 查表 → 推論」題型。建議訓練約 **95～105 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Shipping / Orders / Logistics**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| shipment | 貨件 | track a shipment |\n| delivery | 配送 | scheduled delivery |\n| dispatch | 派送、發貨 | dispatch an order |\n| warehouse | 倉庫 | distribution warehouse |\n| inventory | 庫存 | inventory level |\n| stock | 庫存 | out of stock |\n| supplier | 供應商 | contact a supplier |\n| distributor | 經銷商 | authorized distributor |\n| carrier | 運輸業者 | shipping carrier |\n| package | 包裹 | damaged package |\n| parcel | 包裹 | deliver a parcel |\n| container | 貨櫃 | shipping container |\n| destination | 目的地 | final destination |\n| route | 路線 | delivery route |\n| tracking | 追蹤 | tracking number |\n| confirmation | 確認 | order confirmation |\n| estimate | 估計 | delivery estimate |\n| delay | 延誤 | shipping delay |\n| damaged | 損壞的 | damaged goods |\n| missing | 遺失的 | missing item |\n| replacement | 替換品 | replacement item |\n| return | 退貨 | return policy |\n| refund | 退款 | issue a refund |\n| process | 處理 | process an order |\n| fulfill | 履行、完成 | fulfill an order |\n| receive | 收到 | receive a shipment |\n| available | 有貨的 | currently available |\n| overnight | 隔夜 | overnight delivery |\n| standard | 標準的 | standard shipping |\n| express | 快速的 | express delivery |\n\n今天優先熟悉：\n\n> **track a shipment**  \n> **scheduled delivery**  \n> **out of stock**  \n> **shipping carrier**  \n> **tracking number**  \n> **delivery estimate**  \n> **shipping delay**  \n> **replacement item**  \n> **fulfill an order**  \n> **express delivery**\n\n注意：\n\n> **shipment**\n\n通常指「一批被運送的貨」。\n\n> **delivery**\n\n更強調「配送／交付」這個行為或結果。"
+    },
+    {
+      "title": "② 今日文法｜V-ing 與 V-ed",
+      "markdown": "先看：\n\n> The presentation was **interesting**.\n\n> The employees were **interested**.\n\n核心規則：\n\n**V-ing → 造成某種感受**\n\n**V-ed → 感受到某種感受**\n\n所以：\n\n> a confusing instruction\n\n= 令人困惑的指示\n\n> a confused customer\n\n= 感到困惑的顧客"
+    },
+    {
+      "title": "③ TOEIC 高頻分詞形容詞",
+      "markdown": "| V-ing | V-ed |\n|---|---|\n| interesting | interested |\n| exciting | excited |\n| confusing | confused |\n| disappointing | disappointed |\n| satisfying | satisfied |\n| surprising | surprised |\n| encouraging | encouraged |\n| concerning | concerned |\n| pleasing | pleased |\n\n例如：\n\n> Customers were _____ with the service.\n\n(A) satisfying  \n(B) satisfied\n\n答案：\n\n**B**\n\n顧客「感到滿意」。"
+    },
+    {
+      "title": "④ 分詞修飾名詞",
+      "markdown": "這時不能只用「人 ed／物 ing」的簡化規則。\n\n例如：\n\n> the employees **working** in Taipei\n\n意思：\n\n> 在台北工作的員工\n\n`employees` 是人，但使用 `working`。\n\n因為：\n\n> employees **are working**\n\n是主動關係。\n\n---\n\n比較：\n\n> products **manufactured** in Taiwan\n\n= 在台灣製造的產品\n\n因為：\n\n> products **are manufactured**\n\n是被動關係。\n\n所以真正規則：\n\n> **V-ing → 主動／進行**\n\n> **V-ed → 被動／完成**"
+    },
+    {
+      "title": "⑤ 秒判技巧",
+      "markdown": "> Customers _____ for assistance should go to Counter 5.\n\ncustomer 主動：\n\n> customers **request assistance**\n\n所以：\n\n> **requesting**\n\n完整：\n\n> Customers **requesting** assistance...\n\n---\n\n> Applications _____ after Friday will not be considered.\n\napplication 被提交：\n\n> applications **are received**\n\n所以：\n\n> **received**\n\n完整：\n\n> Applications **received** after Friday..."
+    },
+    {
+      "title": "⑥ 分詞構句",
+      "markdown": "例如：\n\n> _____ the report, Ms. Chen noticed an error.\n\n(A) Reviewing  \n(B) Reviewed\n\n真正意思：\n\n> While Ms. Chen was reviewing the report...\n\n主詞：\n\n> Ms. Chen\n\n她主動 review。\n\n所以：\n\n> **Reviewing**\n\n---\n\n但：\n\n> _____ by the unexpected delay, the manager contacted the carrier.\n\n經理「受到延誤影響」。\n\n因此：\n\n> **Concerned**\n\n完整概念：\n\n> Because the manager was concerned..."
+    },
+    {
+      "title": "⑦ Part 5 高分判斷流程",
+      "markdown": "看到：\n\n> _____ + 名詞\n\n不要立刻：\n\n> ing = 形容詞\n\n而是問：\n\n**這個名詞是做動作，還是被做？**\n\n例如：\n\n> the company _____ the products\n\ncompany 做：\n\n> distributing\n\n而：\n\n> products _____ by the company\n\nproducts 被 distribution：\n\n> distributed\n\n這個「主動／被動」判斷比死背重要。"
+    },
+    {
+      "title": "⑧ Listening｜Part 4 圖表整合策略",
+      "markdown": "今天加入價目表。\n\n### Shipping Rates\n\n| Service | Delivery | Price |\n|---|---:|---:|\n| Economy | 5–7 days | $8 |\n| Standard | 3–4 days | $12 |\n| Express | 2 days | $18 |\n| Overnight | Next day | $28 |\n\n如果 Listening 說：\n\n> We need the package there by Thursday, but overnight shipping is more than we want to spend.\n\n而今天是：\n\n> Monday\n\n條件：\n\n> Thursday 前到  \n> 不選 Overnight\n\n因此：\n\n> Express → Wednesday\n\n不是看到最快就選最快。\n\n**圖表題本質是條件篩選。**"
+    },
+    {
+      "title": "⑨ Listening｜Part 4 + 價目表",
+      "markdown": "使用上面的 Shipping Rates。\n\n### Q1\n\nWhy is the speaker calling?\n\n(A) To cancel an order  \n(B) To discuss shipping options  \n(C) To request a refund  \n(D) To report damaged goods\n\n### Q2\n\nWhat requirement does the speaker mention?\n\n(A) The package must arrive by Thursday  \n(B) The package weighs less than one kilogram  \n(C) The customer needs insurance  \n(D) The order must arrive tomorrow\n\n### Q3\n\nLook at the table. Which service will probably be selected?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Overnight\n\n聽力稿：\n\n> Hi, this is Melissa from the Sales Department. I'm calling about the product samples we're sending to our client. Today is Monday, and the client needs them no later than Thursday morning. We don't need next-day delivery, so I'd rather not pay the highest shipping rate. Please choose the least expensive service that will get the package there in time.\n\n答案：\n\n**1B / 2A / 3C**\n\n判斷：\n\nEconomy：\n\n> 5–7 days ❌\n\nStandard：\n\n> 3–4 days，有可能 Thursday 或 Friday，無法保證 Thursday morning ❌\n\nExpress：\n\n> 2 days → Wednesday ✅\n\nOvernight：\n\n> 可以，但不是最便宜 ❌\n\n所以：\n\n> **Express**"
+    },
+    {
+      "title": "⑩ Listening｜Part 4 + 行程表",
+      "markdown": "### Conference Schedule\n\n| Time | Session |\n|---|---|\n| 9:00 | Opening Remarks |\n| 9:30 | Marketing Trends |\n| 10:30 | Coffee Break |\n| 11:00 | Digital Advertising |\n| 12:00 | Lunch |\n| 1:30 | Customer Analytics |\n\n### Q1\n\nWho most likely is the speaker?\n\n(A) A conference organizer  \n(B) A hotel customer  \n(C) A factory worker  \n(D) A travel agent\n\n### Q2\n\nWhat change is announced?\n\n(A) Lunch has been canceled  \n(B) One presentation will start later  \n(C) The conference will end early  \n(D) A speaker has been replaced\n\n### Q3\n\nLook at the table. Which session is affected?\n\n(A) Marketing Trends  \n(B) Coffee Break  \n(C) Digital Advertising  \n(D) Customer Analytics\n\n聽力稿：\n\n> Good morning, everyone. Before we begin, there's one small change to today's conference schedule. The speaker for the presentation immediately following the coffee break has been delayed by traffic. That session will begin fifteen minutes later than planned. The rest of today's schedule remains unchanged.\n\n答案：\n\n**1A / 2B / 3C**\n\n關鍵：\n\n> immediately following the coffee break\n\n表格：\n\n> Coffee Break 10:30  \n> ↓  \n> Digital Advertising 11:00\n\n所以：\n\n**C**\n\n這就是同義定位，不會直接念：\n\n> Digital Advertising."
+    },
+    {
+      "title": "⑪ Listening｜Part 4 數字干擾",
+      "markdown": "### Q1\n\nWhat is the purpose of the talk?\n\n(A) To report delivery performance  \n(B) To announce new employees  \n(C) To advertise shipping services  \n(D) To explain a refund policy\n\n### Q2\n\nWhat percentage of orders arrived on time last month?\n\n(A) 82 percent  \n(B) 88 percent  \n(C) 92 percent  \n(D) 96 percent\n\n### Q3\n\nWhat will the company do?\n\n(A) Change shipping carriers  \n(B) Reduce warehouse staff  \n(C) Close a distribution center  \n(D) Increase delivery prices\n\n聽力稿：\n\n> Last month, 92 percent of customer orders arrived by their scheduled delivery date. That's an improvement from 88 percent in the previous month, but it's still below our annual target of 96 percent. Most delays involved shipments handled by our current regional carrier. For that reason, we'll begin working with a different carrier next month.\n\n答案：\n\n**1A / 2C / 3A**\n\n四個資訊：\n\n> previous = 88  \n> last month = 92  \n> target = 96  \n> action = new carrier\n\n數字一定要綁定名稱。"
+    },
+    {
+      "title": "⑫ Reading｜Double Passage 時序推論",
+      "markdown": "今天限制：\n\n**5 分鐘。**\n\n### Passage 1 — Shipping Notice\n\n> **Shipping Update — September 18**\n>\n> Due to scheduled maintenance at our central distribution center, orders placed after 3 P.M. on September 20 will not be dispatched until September 22.\n>\n> Orders placed before the cutoff will be processed normally.\n>\n> Express and overnight shipping services will remain available, but delivery estimates will begin from the date an order is dispatched rather than the date it is placed.\n>\n> Normal processing will resume on September 22 at 8 A.M.\n>\n> Customers who need assistance may contact Customer Service.\n\n### Passage 2 — Customer E-mail\n\n> **To:** Customer Service  \n> **Subject:** Order #48127\n>\n> Hello,\n>\n> I placed an order at approximately 4:30 P.M. on September 20 and selected two-day express delivery because I need the products for a meeting on September 23.\n>\n> My order confirmation currently shows an estimated arrival date of September 22. However, I just saw the maintenance notice on your website and am wondering whether that date is still accurate.\n>\n> If the package cannot arrive before my meeting, please let me know whether overnight delivery is still an option.\n>\n> Thank you,  \n> Eric Lin\n\n### Q1\n\nWhy will some orders be delayed?\n\n(A) Severe weather  \n(B) Distribution-center maintenance  \n(C) Inventory shortages  \n(D) A carrier strike\n\n### Q2\n\nWhich orders will be affected?\n\n(A) All September orders  \n(B) Orders placed before September 20  \n(C) Orders placed after 3 P.M. on September 20  \n(D) Overnight orders only\n\n### Q3\n\nWhen will affected orders be dispatched?\n\n(A) September 20  \n(B) September 21  \n(C) September 22  \n(D) September 23\n\n### Q4\n\nWhen did Eric place his order?\n\n(A) Before the cutoff  \n(B) After the cutoff  \n(C) September 22  \n(D) September 23\n\n### Q5\n\nWhy is Eric concerned about the displayed arrival date?\n\n(A) His order is out of stock  \n(B) The delivery estimate may not reflect the delayed dispatch  \n(C) His meeting was rescheduled  \n(D) He selected standard shipping\n\n### Q6\n\nBased on the notice, if Eric keeps two-day express delivery, when would the order most likely arrive?\n\n(A) September 20  \n(B) September 22  \n(C) September 23  \n(D) September 24\n\n### Q7\n\nWhy does Eric ask about overnight delivery?\n\n(A) He wants a cheaper service  \n(B) He needs the products before his September 23 meeting  \n(C) His order was damaged  \n(D) The company canceled express shipping\n\n答案：\n\n**1B / 2C / 3C / 4B / 5B / 6D / 7B**"
+    },
+    {
+      "title": "⑬ Reading 關鍵解析",
+      "markdown": "Q6 是今天最重要的一題。\n\nEric：\n\n> order placed Sep 20, 4:30 P.M.\n\n公告：\n\n> after 3 P.M. Sep 20  \n> → dispatch Sep 22\n\nEric 選：\n\n> two-day express\n\n而公告特別說：\n\n> delivery estimate starts from **dispatch date**\n\n所以：\n\n> Sep 22 + 2 days = **Sep 24**\n\n答案：\n\n> **D**\n\n這就是時序推論。\n\n你不能看到 Email 裡：\n\n> estimated arrival September 22\n\n就直接選 22。\n\n那是舊資訊，而且 Eric 正是在懷疑它。"
+    },
+    {
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "markdown": "限時 **3 分鐘**。\n\n### 1\n\nCustomers _____ for assistance should contact the front desk.\n\n(A) request  \n(B) requesting  \n(C) requested  \n(D) requests\n\n### 2\n\nApplications _____ after the deadline will not be considered.\n\n(A) receiving  \n(B) received  \n(C) receive  \n(D) receives\n\n### 3\n\nThe company is looking for candidates _____ in international sales.\n\n(A) experience  \n(B) experienced  \n(C) experiencing  \n(D) experiences\n\n### 4\n\nEmployees were _____ by the announcement.\n\n(A) surprising  \n(B) surprised  \n(C) surprise  \n(D) surprisingly\n\n### 5\n\nThe instructions were somewhat _____.\n\n(A) confused  \n(B) confusing  \n(C) confuse  \n(D) confusion\n\n### 6\n\n_____ the monthly report, Ms. Lin noticed several errors.\n\n(A) Reviewing  \n(B) Reviewed  \n(C) Review  \n(D) Reviews\n\n### 7\n\n_____ about the shipping delay, the manager contacted the carrier.\n\n(A) Concerning  \n(B) Concerned  \n(C) Concern  \n(D) Concerns\n\n### 8\n\nProducts _____ at our Taipei facility are shipped throughout Asia.\n\n(A) manufacturing  \n(B) manufactured  \n(C) manufacture  \n(D) manufactures\n\n### 9\n\nEmployees _____ in the new branch will receive additional training.\n\n(A) working  \n(B) worked  \n(C) works  \n(D) work\n\n### 10\n\nThe customer was _____ with the replacement product.\n\n(A) satisfying  \n(B) satisfied  \n(C) satisfaction  \n(D) satisfy\n\n### 11\n\nThe advertisement _____ on our website contains updated prices.\n\n(A) posting  \n(B) posted  \n(C) posts  \n(D) post\n\n### 12\n\n_____ the client's request, the sales representative prepared a revised estimate.\n\n(A) Receiving  \n(B) Received  \n(C) Receives  \n(D) Receive\n\n**答案：1B / 2B / 3B / 4B / 5B / 6A / 7B / 8B / 9A / 10B / 11B / 12A**"
+    },
+    {
+      "title": "⑮ Day 24 小考",
+      "markdown": "正式：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\nCustomers _____ to return a product must present the original receipt.\n\n(A) wishing  \n(B) wished  \n(C) wishes  \n(D) wish\n\n### Q2\n\nThe documents _____ yesterday are now being reviewed.\n\n(A) submitting  \n(B) submitted  \n(C) submit  \n(D) submits\n\n### Q3\n\nThe employees were _____ by the unexpected schedule change.\n\n(A) confusing  \n(B) confused  \n(C) confusion  \n(D) confuse\n\n### Q4\n\n_____ the invoice, Ms. Wu discovered an incorrect charge.\n\n(A) Reviewing  \n(B) Reviewed  \n(C) Review  \n(D) Reviews\n\n### Q5\n\nProducts _____ by this company are sold internationally.\n\n(A) manufacturing  \n(B) manufactured  \n(C) manufactures  \n(D) manufacture\n\n### Q6\n\nWhich shipping service should Melissa choose?\n\n(A) Economy  \n(B) Standard  \n(C) Express  \n(D) Overnight\n\n### Q7\n\nWhich conference session will begin late?\n\n(A) Marketing Trends  \n(B) Coffee Break  \n(C) Digital Advertising  \n(D) Customer Analytics\n\n### Q8\n\nWhat percentage of orders arrived on time last month?\n\n(A) 88 percent  \n(B) 92 percent  \n(C) 96 percent  \n(D) 98 percent\n\n### Q9\n\nWhen will Eric's order be dispatched?\n\n(A) September 20  \n(B) September 21  \n(C) September 22  \n(D) September 23\n\n### Q10\n\nIf Eric keeps two-day express delivery, when will the package most likely arrive?\n\n(A) September 22  \n(B) September 23  \n(C) September 24  \n(D) September 25\n\n## 答案\n\n**1A / 2B / 3B / 4A / 5B / 6C / 7C / 8B / 9C / 10C**"
+    },
+    {
+      "title": "⑯ 小考解析",
+      "markdown": "Q1：\n\n> Customers _____ to return...\n\nCustomers 主動：\n\n> customers wish to return\n\n所以縮成：\n\n> customers **wishing** to return\n\n答案：\n\n**A**\n\n---\n\nQ2：\n\n> documents _____ yesterday\n\ndocuments 是：\n\n> documents **were submitted**\n\n被提交。\n\n所以：\n\n> **submitted**\n\n---\n\nQ3：\n\n員工是感受到困惑的一方：\n\n> employees were **confused**\n\n造成困惑的是：\n\n> a **confusing** schedule change\n\n---\n\nQ4：\n\n完整概念：\n\n> While Ms. Wu was reviewing the invoice...\n\n主詞 Ms. Wu 主動 review。\n\n所以：\n\n> **Reviewing**\n\n---\n\nQ5：\n\nproducts 被公司製造：\n\n> products **manufactured** by...\n\n因此：\n\n> **V-ed**\n\n---\n\nQ6：\n\n條件：\n\n> Monday  \n> arrive no later than Thursday morning  \n> cheapest reliable option\n\nExpress：\n\n> two days\n\n符合。\n\n---\n\nQ7：\n\n> immediately following the coffee break\n\n表格：\n\n> 10:30 Coffee Break  \n> 11:00 Digital Advertising\n\n答案：\n\n**Digital Advertising**\n\n---\n\nQ8：\n\n不要被：\n\n> previous month 88%\n\n或：\n\n> target 96%\n\n干擾。\n\n題目問：\n\n> **last month**\n\n答案：\n\n> **92%**\n\n---\n\nQ10：\n\n這題必須跨篇＋計算：\n\n> Sep 20 4:30 order  \n> → after cutoff  \n> → Sep 22 dispatch  \n> → two-day delivery  \n> → Sep 24\n\n答案：\n\n**September 24**"
+    },
+    {
+      "title": "⑰ 錯題複習｜Day 19～23",
+      "markdown": "目標 **60 秒內**：\n\n> remember _____ the report\n\n**to submit**\n\n> remember _____ her\n\n**meeting**\n\n> try _____ the computer\n\n**restarting**\n\n> try _____ the supplier\n\n**to contact**\n\n> unless\n\n**if not**\n\n> provided that\n\n**只要／前提是**\n\n> office _____ she works\n\n**where**\n\n> office _____ we rented\n\n**which / that**\n\n> _____ completes the task\n\n**whoever**\n\n> _____ option\n\n**whichever**\n\n> _____ information\n\n**whatever**\n\n> We know _____ sales increased.\n\n**that**\n\n> We know _____ the customer ordered.\n\n**what**\n\n> determine _____ the supplier can deliver\n\n**whether**\n\n> Do you know where the meeting _____?\n\n**is**\n\n不是：\n\n> where is the meeting\n\n因為這裡是名詞子句。"
+    },
+    {
+      "title": "⑱ 今日錯題分類",
+      "markdown": "今天如果錯題，請用以下方式判斷。\n\n**Q1～Q5 錯：G — Grammar**\n\n尤其確認：\n\n> 主動 → V-ing\n\n> 被動 → V-ed\n\n如果 Q6～Q8 錯：\n\n**L / I**\n\n若英文沒聽懂：\n\n> L — Listening\n\n若聽懂條件卻查錯表格／數字：\n\n> I — Information Integration\n\n如果 Q9～Q10 錯：\n\n優先標：\n\n> **T — Timeline**\n\n今天開始新增這個非常實用的閱讀錯誤分類：\n\n**T = Timeline / 時序推論**\n\n因為第四週之後：\n\n> order date  \n> dispatch date  \n> delivery date  \n> deadline  \n> effective date\n\n會大量同時出現。"
+    },
+    {
+      "title": "⑲ 今日作業",
+      "markdown": "今天單字只要求完全熟悉：\n\n> track a shipment  \n> scheduled delivery  \n> out of stock  \n> shipping carrier  \n> tracking number  \n> delivery estimate  \n> shipping delay  \n> replacement item  \n> fulfill an order  \n> express delivery\n\n文法建立一個核心判斷：\n\n> **名詞做動作 → V-ing**\n\n> **名詞被做 → V-ed**\n\n例如：\n\n> employees **working** here\n\n> products **manufactured** here\n\n> customers **requesting** assistance\n\n> applications **received** today\n\n不要再只背：\n\n> 人用 ed、東西用 ing\n\n因為：\n\n> employees **working**\n\n就會直接打破這個錯誤規則。\n\nListening 今天重新做三題圖表／數字題，只留下：\n\n> **Shipping：Mon → Thu → cheapest → Express**\n\n> **Conference：coffee break → next session → Digital Advertising**\n\n> **Delivery：88 previous → 92 last month → 96 target → new carrier**\n\nReading 再做一次 Double Passage，第二次限制：\n\n**4 分鐘。**\n\n只畫時間線：\n\n> Sep 20 3PM cutoff  \n> ↓  \n> Eric 4:30 PM  \n> ↓  \n> Sep 22 dispatch  \n> ↓  \n> +2 days  \n> ↓  \n> Sep 24 arrival\n\n最後重新完成 Day 24 小考，限制：\n\n**2 分鐘 15 秒**\n\n目標：\n\n**10/10**\n\n若今天能達到 **9～10/10**，下一階段將增加 Part 4 的「圖表 + 意圖推論」混合題，Reading 也會開始加入更容易混淆的時間資訊；若 Q1～Q5 錯兩題以上，則先加強 V-ing/V-ed 主被動判斷；若 Q6～Q10 錯兩題以上，則優先強化「條件 → 表格 → 時間線」資訊整合。\n\n**Day 24 最重要的兩個反射：**\n\n> **Grammar：先問誰做動作／誰被做，再決定 V-ing 或 V-ed。**\n\n> **資訊題：日期與數字永遠要綁定事件，不要單獨記數字。**\n\nDay 25 將進入 **Part 4 圖表＋意圖推論混合、Double Passage 條件／例外規則推論**；文法則進入 TOEIC 高頻的 **比較級、最高級與倍數／程度比較**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "shipment",
+      "meaning": "貨件",
+      "phrase": "track a shipment"
+    },
+    {
+      "id": 2,
+      "word": "delivery",
+      "meaning": "配送",
+      "phrase": "scheduled delivery"
+    },
+    {
+      "id": 3,
+      "word": "dispatch",
+      "meaning": "派送、發貨",
+      "phrase": "dispatch an order"
+    },
+    {
+      "id": 4,
+      "word": "warehouse",
+      "meaning": "倉庫",
+      "phrase": "distribution warehouse"
+    },
+    {
+      "id": 5,
+      "word": "inventory",
+      "meaning": "庫存",
+      "phrase": "inventory level"
+    },
+    {
+      "id": 6,
+      "word": "stock",
+      "meaning": "庫存",
+      "phrase": "out of stock"
+    },
+    {
+      "id": 7,
+      "word": "supplier",
+      "meaning": "供應商",
+      "phrase": "contact a supplier"
+    },
+    {
+      "id": 8,
+      "word": "distributor",
+      "meaning": "經銷商",
+      "phrase": "authorized distributor"
+    },
+    {
+      "id": 9,
+      "word": "carrier",
+      "meaning": "運輸業者",
+      "phrase": "shipping carrier"
+    },
+    {
+      "id": 10,
+      "word": "package",
+      "meaning": "包裹",
+      "phrase": "damaged package"
+    },
+    {
+      "id": 11,
+      "word": "parcel",
+      "meaning": "包裹",
+      "phrase": "deliver a parcel"
+    },
+    {
+      "id": 12,
+      "word": "container",
+      "meaning": "貨櫃",
+      "phrase": "shipping container"
+    },
+    {
+      "id": 13,
+      "word": "destination",
+      "meaning": "目的地",
+      "phrase": "final destination"
+    },
+    {
+      "id": 14,
+      "word": "route",
+      "meaning": "路線",
+      "phrase": "delivery route"
+    },
+    {
+      "id": 15,
+      "word": "tracking",
+      "meaning": "追蹤",
+      "phrase": "tracking number"
+    },
+    {
+      "id": 16,
+      "word": "confirmation",
+      "meaning": "確認",
+      "phrase": "order confirmation"
+    },
+    {
+      "id": 17,
+      "word": "estimate",
+      "meaning": "估計",
+      "phrase": "delivery estimate"
+    },
+    {
+      "id": 18,
+      "word": "delay",
+      "meaning": "延誤",
+      "phrase": "shipping delay"
+    },
+    {
+      "id": 19,
+      "word": "damaged",
+      "meaning": "損壞的",
+      "phrase": "damaged goods"
+    },
+    {
+      "id": 20,
+      "word": "missing",
+      "meaning": "遺失的",
+      "phrase": "missing item"
+    },
+    {
+      "id": 21,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "replacement item"
+    },
+    {
+      "id": 22,
+      "word": "return",
+      "meaning": "退貨",
+      "phrase": "return policy"
+    },
+    {
+      "id": 23,
+      "word": "refund",
+      "meaning": "退款",
+      "phrase": "issue a refund"
+    },
+    {
+      "id": 24,
+      "word": "process",
+      "meaning": "處理",
+      "phrase": "process an order"
+    },
+    {
+      "id": 25,
+      "word": "fulfill",
+      "meaning": "履行、完成",
+      "phrase": "fulfill an order"
+    },
+    {
+      "id": 26,
+      "word": "receive",
+      "meaning": "收到",
+      "phrase": "receive a shipment"
+    },
+    {
+      "id": 27,
+      "word": "available",
+      "meaning": "有貨的",
+      "phrase": "currently available"
+    },
+    {
+      "id": 28,
+      "word": "overnight",
+      "meaning": "隔夜",
+      "phrase": "overnight delivery"
+    },
+    {
+      "id": 29,
+      "word": "standard",
+      "meaning": "標準的",
+      "phrase": "standard shipping"
+    },
+    {
+      "id": 30,
+      "word": "express",
+      "meaning": "快速的",
+      "phrase": "express delivery"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-part-4-1",
+      "title": "⑨ Listening｜Part 4 + 價目表",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To cancel an order",
+            "B": "To discuss shipping options",
+            "C": "To request a refund",
+            "D": "To report damaged goods"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What requirement does the speaker mention?",
+          "options": {
+            "A": "The package must arrive by Thursday",
+            "B": "The package weighs less than one kilogram",
+            "C": "The customer needs insurance",
+            "D": "The order must arrive tomorrow"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the table. Which service will probably be selected?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Overnight"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-2",
+      "title": "⑩ Listening｜Part 4 + 行程表",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the speaker?",
+          "options": {
+            "A": "A conference organizer",
+            "B": "A hotel customer",
+            "C": "A factory worker",
+            "D": "A travel agent"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What change is announced?",
+          "options": {
+            "A": "Lunch has been canceled",
+            "B": "One presentation will start later",
+            "C": "The conference will end early",
+            "D": "A speaker has been replaced"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the table. Which session is affected?",
+          "options": {
+            "A": "Marketing Trends",
+            "B": "Coffee Break",
+            "C": "Digital Advertising",
+            "D": "Customer Analytics"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-3",
+      "title": "⑪ Listening｜Part 4 數字干擾",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the talk?",
+          "options": {
+            "A": "To report delivery performance",
+            "B": "To announce new employees",
+            "C": "To advertise shipping services",
+            "D": "To explain a refund policy"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What percentage of orders arrived on time last month?",
+          "options": {
+            "A": "82 percent",
+            "B": "88 percent",
+            "C": "92 percent",
+            "D": "96 percent"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the company do?",
+          "options": {
+            "A": "Change shipping carriers",
+            "B": "Reduce warehouse staff",
+            "C": "Close a distribution center",
+            "D": "Increase delivery prices"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "reading-double-passage-4",
+      "title": "⑫ Reading｜Double Passage 時序推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why will some orders be delayed?",
+          "options": {
+            "A": "Severe weather",
+            "B": "Distribution-center maintenance",
+            "C": "Inventory shortages",
+            "D": "A carrier strike"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which orders will be affected?",
+          "options": {
+            "A": "All September orders",
+            "B": "Orders placed before September 20",
+            "C": "Orders placed after 3 P.M. on September 20",
+            "D": "Overnight orders only"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "When will affected orders be dispatched?",
+          "options": {
+            "A": "September 20",
+            "B": "September 21",
+            "C": "September 22",
+            "D": "September 23"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "When did Eric place his order?",
+          "options": {
+            "A": "Before the cutoff",
+            "B": "After the cutoff",
+            "C": "September 22",
+            "D": "September 23"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why is Eric concerned about the displayed arrival date?",
+          "options": {
+            "A": "His order is out of stock",
+            "B": "The delivery estimate may not reflect the delayed dispatch",
+            "C": "His meeting was rescheduled",
+            "D": "He selected standard shipping"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "Based on the notice, if Eric keeps two-day express delivery, when would the order most likely arrive?",
+          "options": {
+            "A": "September 20",
+            "B": "September 22",
+            "C": "September 23",
+            "D": "September 24"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        },
+        {
+          "id": 7,
+          "prompt": "Why does Eric ask about overnight delivery?",
+          "options": {
+            "A": "He wants a cheaper service",
+            "B": "He needs the products before his September 23 meeting",
+            "C": "His order was damaged",
+            "D": "The company canceled express shipping"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Customers _____ for assistance should contact the front desk.",
+          "options": {
+            "A": "request",
+            "B": "requesting",
+            "C": "requested",
+            "D": "requests"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "Applications _____ after the deadline will not be considered.",
+          "options": {
+            "A": "receiving",
+            "B": "received",
+            "C": "receive",
+            "D": "receives"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "The company is looking for candidates _____ in international sales.",
+          "options": {
+            "A": "experience",
+            "B": "experienced",
+            "C": "experiencing",
+            "D": "experiences"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "Employees were _____ by the announcement.",
+          "options": {
+            "A": "surprising",
+            "B": "surprised",
+            "C": "surprise",
+            "D": "surprisingly"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "The instructions were somewhat _____.",
+          "options": {
+            "A": "confused",
+            "B": "confusing",
+            "C": "confuse",
+            "D": "confusion"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ the monthly report, Ms. Lin noticed several errors.",
+          "options": {
+            "A": "Reviewing",
+            "B": "Reviewed",
+            "C": "Review",
+            "D": "Reviews"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ about the shipping delay, the manager contacted the carrier.",
+          "options": {
+            "A": "Concerning",
+            "B": "Concerned",
+            "C": "Concern",
+            "D": "Concerns"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Products _____ at our Taipei facility are shipped throughout Asia.",
+          "options": {
+            "A": "manufacturing",
+            "B": "manufactured",
+            "C": "manufacture",
+            "D": "manufactures"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "Employees _____ in the new branch will receive additional training.",
+          "options": {
+            "A": "working",
+            "B": "worked",
+            "C": "works",
+            "D": "work"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 10,
+          "prompt": "The customer was _____ with the replacement product.",
+          "options": {
+            "A": "satisfying",
+            "B": "satisfied",
+            "C": "satisfaction",
+            "D": "satisfy"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 11,
+          "prompt": "The advertisement _____ on our website contains updated prices.",
+          "options": {
+            "A": "posting",
+            "B": "posted",
+            "C": "posts",
+            "D": "post"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ the client's request, the sales representative prepared a revised estimate.",
+          "options": {
+            "A": "Receiving",
+            "B": "Received",
+            "C": "Receives",
+            "D": "Receive"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "day-24-6",
+      "title": "⑮ Day 24 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Customers _____ to return a product must present the original receipt.",
+          "options": {
+            "A": "wishing",
+            "B": "wished",
+            "C": "wishes",
+            "D": "wish"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "The documents _____ yesterday are now being reviewed.",
+          "options": {
+            "A": "submitting",
+            "B": "submitted",
+            "C": "submit",
+            "D": "submits"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "The employees were _____ by the unexpected schedule change.",
+          "options": {
+            "A": "confusing",
+            "B": "confused",
+            "C": "confusion",
+            "D": "confuse"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the invoice, Ms. Wu discovered an incorrect charge.",
+          "options": {
+            "A": "Reviewing",
+            "B": "Reviewed",
+            "C": "Review",
+            "D": "Reviews"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 5,
+          "prompt": "Products _____ by this company are sold internationally.",
+          "options": {
+            "A": "manufacturing",
+            "B": "manufactured",
+            "C": "manufactures",
+            "D": "manufacture"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which shipping service should Melissa choose?",
+          "options": {
+            "A": "Economy",
+            "B": "Standard",
+            "C": "Express",
+            "D": "Overnight"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "Which conference session will begin late?",
+          "options": {
+            "A": "Marketing Trends",
+            "B": "Coffee Break",
+            "C": "Digital Advertising",
+            "D": "Customer Analytics"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 8,
+          "prompt": "What percentage of orders arrived on time last month?",
+          "options": {
+            "A": "88 percent",
+            "B": "92 percent",
+            "C": "96 percent",
+            "D": "98 percent"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "When will Eric's order be dispatched?",
+          "options": {
+            "A": "September 20",
+            "B": "September 21",
+            "C": "September 22",
+            "D": "September 23"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 10,
+          "prompt": "If Eric keeps two-day express delivery, when will the package most likely arrive?",
+          "options": {
+            "A": "September 22",
+            "B": "September 23",
+            "C": "September 24",
+            "D": "September 25"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "先依動作的主被動選擇 V-ing 或 V-ed；日期與數字則必須綁定事件形成時間線。",
+  "nextDay": "Part 4 圖表與意圖推論＋條件／例外規則推論"
+}

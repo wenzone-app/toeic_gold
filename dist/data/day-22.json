@@ -1,0 +1,778 @@
+{
+  "schemaVersion": "1.0",
+  "day": 22,
+  "title": "Part 4 意圖推論＋Double Passage 入門",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 22 教材",
+  "sections": [
+    {
+      "title": "Day 22 學習概覽",
+      "markdown": "第四週開始。前三週已完成 Part 5 核心文法、Part 3 對話／三人對話／圖表整合，以及 Part 4 公告與留言。今天開始往 **900 分資訊處理模式**移動。\n\n今日重點是 **Part 4 廣告／語音訊息／導覽型獨白的意圖推論**，Reading 首次加入 **Double Passage 雙篇閱讀**。文法則進入 TOEIC 高頻的 **關係副詞與複合關係詞 `where / when / why / whoever / whatever / whichever`**。\n\n目前尚未取得 Day 21 的實際作答結果，因此今天先維持 **860～900 分難度**，但加入少量 900+ 題型。建議約 **100 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Retail / Shopping / Services**\n\n| 單字 | 中文 | 高頻搭配 |\n|---|---|---|\n| merchandise | 商品 | store merchandise |\n| retailer | 零售商 | major retailer |\n| purchase | 購買 | make a purchase |\n| inventory | 庫存 | check inventory |\n| stock | 庫存 | in stock |\n| unavailable | 無法取得 | temporarily unavailable |\n| restock | 補貨 | restock an item |\n| supplier | 供應商 | local supplier |\n| receipt | 收據 | original receipt |\n| transaction | 交易 | online transaction |\n| checkout | 結帳 | checkout counter |\n| cashier | 收銀員 | cashier station |\n| aisle | 走道 | grocery aisle |\n| display | 展示 | product display |\n| branch | 分店 | local branch |\n| location | 地點／分店 | convenient location |\n| complimentary | 免費的 | complimentary service |\n| discount | 折扣 | receive a discount |\n| redeem | 兌換 | redeem a coupon |\n| coupon | 優惠券 | discount coupon |\n| valid | 有效的 | valid through Friday |\n| expire | 到期 | coupon expires |\n| membership | 會員資格 | membership program |\n| loyalty | 忠誠度 | loyalty program |\n| subscribe | 訂閱 | subscribe to |\n| delivery | 配送 | free delivery |\n| pickup | 取貨 | in-store pickup |\n| guarantee | 保證 | satisfaction guarantee |\n| available | 可取得的 | available online |\n| selection | 選擇、品項 | wide selection |\n\n今日優先形成：\n\n> **check inventory**  \n> **in stock**  \n> **make a purchase**  \n> **original receipt**  \n> **online transaction**  \n> **redeem a coupon**  \n> **valid through Friday**  \n> **loyalty program**  \n> **in-store pickup**  \n> **wide selection**\n\n特別注意：\n\n> The coupon is **valid through Friday**.\n\n通常表示：\n\n**星期五當天仍然有效。**"
+    },
+    {
+      "title": "② 今日文法｜where",
+      "markdown": "前面學過：\n\n> The hotel **where** we stayed...\n\n今天提升到判斷完整度。\n\n### A\n\n> This is the office _____ Ms. Chen works.\n\n`Ms. Chen works` 已經是完整句。\n\n所以：\n\n> **where**\n\n### B\n\n> This is the office _____ the company rented.\n\n`the company rented _____`\n\n缺受詞。\n\n所以：\n\n> **which / that**\n\n核心仍然不是：\n\n> 地點 → where\n\n而是：\n\n> **後面的子句是否完整？**"
+    },
+    {
+      "title": "③ when",
+      "markdown": "> July is the month **when** sales usually increase.\n\n後面：\n\n> sales usually increase\n\n完整。\n\n因此 `when` 提供時間關係。\n\n但：\n\n> I remember the day **that** we selected.\n\n`we selected _____`\n\n缺受詞，因此不是單純看到 day 就選 `when`。"
+    },
+    {
+      "title": "④ why",
+      "markdown": "高頻結構：\n\n> the reason **why**\n\n例如：\n\n> We don't know the reason **why** the shipment was delayed.\n\n但商務英文也常：\n\n> the reason **that**\n\n正式 TOEIC 解題時依句子結構與選項判斷。"
+    },
+    {
+      "title": "⑤ whoever",
+      "markdown": "> **whoever = anyone who**\n\n例如：\n\n> Whoever finishes the report should send it to Ms. Lin.\n\n意思：\n\n> **任何完成報告的人**\n\n注意：\n\n`whoever` 本身可以當子句主詞。"
+    },
+    {
+      "title": "⑥ whatever",
+      "markdown": "> **whatever = anything that**\n\n例如：\n\n> Please choose whatever works best.\n\n= 選擇任何最適合的方法。\n\n另一個高頻：\n\n> Whatever you decide, please notify me.\n\n= 無論你做什麼決定。"
+    },
+    {
+      "title": "⑦ whichever",
+      "markdown": "`whichever` 通常是在：\n\n**有限選項中任選一個。**\n\n例如桌上有三份表格：\n\n> Please use **whichever form** is appropriate.\n\n比較：\n\n> whatever\n\n範圍比較開放。\n\n> whichever\n\n通常是已有幾個選項。"
+    },
+    {
+      "title": "⑧ whoever / whatever / whichever 秒判",
+      "markdown": "> _____ completes the inspection should sign the form.\n\n需要「人」：\n\n**Whoever**\n\n> Choose _____ option is most convenient.\n\n已有 options：\n\n**whichever**\n\n> Please do _____ is necessary.\n\n事情：\n\n**whatever**"
+    },
+    {
+      "title": "⑨ Part 4 今日策略｜不要只聽內容，要判斷目的",
+      "markdown": "例如：\n\n> Visit our store this weekend and receive 20 percent off...\n\n題目：\n\n> What is the purpose of the talk?\n\n不要回答：\n\n「告訴你商店資訊。」\n\n真正目的：\n\n> **促使顧客去購物。**\n\nPart 4 900 分題常問：\n\n> Why does the speaker say, “...”?\n\n你要判斷：\n\n**說這句話的功能。**"
+    },
+    {
+      "title": "⑩ Listening｜Part 4 廣告",
+      "markdown": "先讀題。\n\n### Q1\n\nWhat is being advertised?\n\n(A) A restaurant  \n(B) A furniture store  \n(C) A hotel  \n(D) A delivery company\n\n### Q2\n\nWhat special offer is mentioned?\n\n(A) Free furniture  \n(B) Free delivery  \n(C) A membership upgrade  \n(D) Extended store hours\n\n### Q3\n\nWhy does the speaker say, “There's no need to wait”?\n\n(A) The store opens early  \n(B) Many products are currently available  \n(C) Customers can make reservations  \n(D) Employees work quickly\n\n聽力稿：\n\n> Looking for new furniture for your home or office? Visit Benson Interiors this weekend. We're offering discounts of up to 25 percent on selected desks, chairs, and storage units. And customers who spend more than $500 will receive free delivery within the city. Most sale items are already in stock, so there's no need to wait weeks for your order. Visit us on Green Street or browse our selection online.\n\n答案：\n\n**1B / 2B / 3B**\n\nQ3 是意圖題。\n\n> There's no need to wait.\n\n原因來自：\n\n> **already in stock**\n\n不是單純翻譯句子。"
+    },
+    {
+      "title": "⑪ Listening｜Part 4 語音留言",
+      "markdown": "### Q1\n\nWhy is the speaker calling?\n\n(A) To confirm a delivery  \n(B) To request payment  \n(C) To apply for a job  \n(D) To cancel an order\n\n### Q2\n\nWhat has changed?\n\n(A) The delivery date  \n(B) The product price  \n(C) The customer's address  \n(D) The payment method\n\n### Q3\n\nWhat should the listener do?\n\n(A) Visit a store  \n(B) Call if the new arrangement is inconvenient  \n(C) Make another purchase  \n(D) Submit a receipt\n\n聽力稿：\n\n> Hello, Ms. Wu. This is Alan from Morris Office Supply calling about your furniture order. Your desks were originally scheduled for delivery Wednesday afternoon, but our driver will now be in your area Thursday morning instead. We've moved your delivery to Thursday between nine and eleven. If that time isn't convenient, please call us before five today and we'll arrange another time.\n\n答案：\n\n**1A / 2A / 3B**\n\n注意：\n\n> If that time isn't convenient...\n\n通常代表：\n\n**聽眾需要採取行動的條件。**"
+    },
+    {
+      "title": "⑫ Listening｜Part 4 導覽",
+      "markdown": "### Q1\n\nWhere most likely are the listeners?\n\n(A) At a museum  \n(B) At a factory  \n(C) At an airport  \n(D) At a hotel\n\n### Q2\n\nWhat will visitors see next?\n\n(A) A manufacturing area  \n(B) A restaurant  \n(C) An employee office  \n(D) A parking facility\n\n### Q3\n\nWhy does the speaker say, “Please keep your badges visible”?\n\n(A) Visitors may receive discounts  \n(B) Employees need to identify authorized visitors  \n(C) The badges contain a map  \n(D) Visitors will return the badges soon\n\n聽力稿：\n\n> Welcome to the Northstar Electronics facility. Before we begin the tour, please keep your visitor badges visible at all times. Employees need to be able to identify authorized visitors in production areas. We'll start by visiting the assembly line on the first floor, where you'll see how our newest tablets are manufactured. After that, we'll continue to the product-testing laboratory upstairs.\n\n答案：\n\n**1B / 2A / 3B**\n\n這類題：\n\n> Why does the speaker say...?\n\n不要只翻譯：\n\n> 把識別證露出來。\n\n真正原因：\n\n> **讓員工辨識授權訪客。**"
+    },
+    {
+      "title": "⑬ Listening｜Part 4 高分訊號",
+      "markdown": "今天建立以下轉換：\n\n> **in stock**  \n→ immediately available\n\n> **at no charge**  \n→ free\n\n> **has been moved to Thursday**  \n→ rescheduled\n\n> **if that isn't convenient**  \n→ listener may request another arrangement\n\n> **keep your badge visible**  \n→ identification/security requirement\n\n> **browse our selection**  \n→ look at available products\n\n看到答案不會完全重複原句，是正常的。"
+    },
+    {
+      "title": "⑭ Reading｜Double Passage",
+      "markdown": "今天第一次正式加入雙篇。\n\n限時：\n\n**5 分鐘。**\n\n### Passage 1 — Advertisement\n\n> **WILSON OFFICE FURNITURE**\n>\n> September Special\n>\n> Save 20 percent on all office chairs purchased between September 21 and September 30.\n>\n> Members of the Wilson Rewards program will receive an additional 5 percent discount.\n>\n> Customers who spend at least $400 qualify for complimentary delivery within 20 kilometers of any Wilson store.\n>\n> Most products shown on our website are available for immediate pickup. However, customers should contact their local branch to confirm inventory before visiting.\n>\n> Discounted products may be returned within 14 days provided that customers present the original receipt.\n\n### Passage 2 — E-mail\n\n> **To:** Wilson Customer Service  \n> **From:** Daniel Huang  \n> **Subject:** Office Chair Purchase\n>\n> Hello,\n>\n> I plan to purchase four Model R8 office chairs from your Zhongshan branch this Saturday. According to your website, each chair normally costs $120.\n>\n> I am a Wilson Rewards member, so I would like to confirm whether both advertised discounts will apply to my purchase.\n>\n> I would also prefer to pick up the chairs myself rather than have them delivered. Could you please confirm that the Zhongshan branch currently has at least four R8 chairs available?\n>\n> Thank you,  \n> Daniel Huang\n\n### Q1\n\nWhat product is discounted?\n\n(A) Desks  \n(B) Office chairs  \n(C) Storage units  \n(D) Lamps\n\n### Q2\n\nWhat additional benefit do Rewards members receive?\n\n(A) Free membership  \n(B) Another 5 percent discount  \n(C) A 30-day return period  \n(D) Free installation\n\n### Q3\n\nWhy should customers contact a local branch?\n\n(A) To confirm inventory  \n(B) To obtain a receipt  \n(C) To join the rewards program  \n(D) To arrange payment\n\n### Q4\n\nHow many chairs does Daniel want?\n\n(A) Two  \n(B) Three  \n(C) Four  \n(D) Five\n\n### Q5\n\nWhy does Daniel mention being a Rewards member?\n\n(A) He wants to determine his total discount  \n(B) He lost his membership card  \n(C) He wants free delivery  \n(D) He wants to return a product\n\n### Q6\n\nWhat does Daniel want Customer Service to verify?\n\n(A) Whether the store opens Saturday  \n(B) Whether four chairs are in stock  \n(C) Whether delivery is free  \n(D) Whether the chair price increased\n\n### Q7\n\nWhat can be inferred about Daniel?\n\n(A) He wants delivery  \n(B) He plans to shop after September 30  \n(C) He intends to collect the products himself  \n(D) He is not a member\n\n**答案：1B / 2B / 3A / 4C / 5A / 6B / 7C**"
+    },
+    {
+      "title": "⑮ Double Passage 解題法",
+      "markdown": "不要：\n\n> Passage 1 全翻譯 → Passage 2 全翻譯 → 做題\n\n改成：\n\n**① 快速辨識文件類型**\n\nP1：\n\n> promotion\n\nP2：\n\n> customer inquiry\n\n**② 看題目要找哪篇**\n\nQ1～3：\n\n主要 P1。\n\nQ4：\n\nP2。\n\nQ5～7：\n\n需要 P1 + P2 整合。\n\n例如 Daniel 問：\n\n> whether both advertised discounts apply\n\n你要回到廣告：\n\n> 20% office chair discount  \n> Rewards additional 5%\n\n因此才能理解他為什麼提會員身份。\n\n這就是雙篇的核心：\n\n> **Cross-reference 跨文章比對**"
+    },
+    {
+      "title": "⑯ Part 5 仿真題｜12 題",
+      "markdown": "限制：\n\n**3 分鐘。**\n\n### 1\n\nThe office _____ Ms. Lin works is located downtown.\n\n(A) which  \n(B) where  \n(C) whom  \n(D) whose\n\n### 2\n\nThe office _____ the company rented has recently been renovated.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### 3\n\nSeptember is the month _____ our annual conference is usually held.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### 4\n\nWe have not determined the reason _____ the shipment was delayed.\n\n(A) why  \n(B) whom  \n(C) where  \n(D) whose\n\n### 5\n\n_____ completes the training should submit the certificate to HR.\n\n(A) Whatever  \n(B) Whoever  \n(C) Whichever  \n(D) Whenever\n\n### 6\n\nPlease select _____ option is most convenient for you.\n\n(A) whoever  \n(B) whatever  \n(C) whichever  \n(D) wherever\n\n### 7\n\nThe manager will approve _____ is necessary to complete the project.\n\n(A) whoever  \n(B) whatever  \n(C) whichever person  \n(D) whenever\n\n### 8\n\nCustomers may visit _____ branch is closest to their home.\n\n(A) whoever  \n(B) whatever  \n(C) whichever  \n(D) whenever\n\n### 9\n\nThe day _____ the new store opens has not yet been announced.\n\n(A) where  \n(B) when  \n(C) whom  \n(D) whose\n\n### 10\n\nThe warehouse _____ we store the products is near the airport.\n\n(A) which  \n(B) where  \n(C) whom  \n(D) whose\n\n### 11\n\nThe warehouse _____ the company purchased last year is being expanded.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### 12\n\n_____ has the original receipt may return the product within 14 days.\n\n(A) Whatever  \n(B) Whoever  \n(C) Whichever  \n(D) Wherever\n\n**答案：1B / 2C / 3B / 4A / 5B / 6C / 7B / 8C / 9B / 10B / 11C / 12B**"
+    },
+    {
+      "title": "⑰ Day 22 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 45 秒。**\n\n### Q1\n\nThe hotel _____ the conference will be held is near the station.\n\n(A) which  \n(B) where  \n(C) whom  \n(D) whose\n\n### Q2\n\nThe hotel _____ our company booked offers complimentary breakfast.\n\n(A) where  \n(B) when  \n(C) which  \n(D) who\n\n### Q3\n\n_____ completes the customer survey will receive a discount coupon.\n\n(A) Whatever  \n(B) Whoever  \n(C) Whichever  \n(D) Whenever\n\n### Q4\n\nPlease choose _____ delivery option works best for you.\n\n(A) whoever  \n(B) whichever  \n(C) whenever  \n(D) wherever\n\n### Q5\n\nWe will provide _____ information you need.\n\n(A) whoever  \n(B) whatever  \n(C) whichever person  \n(D) whenever\n\n### Q6\n\nIn the furniture advertisement, why don't customers need to wait long?\n\n(A) Delivery trucks operate every day  \n(B) Most sale products are already in stock  \n(C) The store has additional employees  \n(D) Customers assemble furniture themselves\n\n### Q7\n\nWhat changed in the office-supply message?\n\n(A) The delivery date  \n(B) The order price  \n(C) The products ordered  \n(D) The customer's address\n\n### Q8\n\nWhy should factory visitors keep their badges visible?\n\n(A) To receive discounts  \n(B) To identify authorized visitors  \n(C) To enter the restaurant  \n(D) To record attendance\n\n### Q9\n\nIn the Double Passage, why does Daniel mention his membership?\n\n(A) To request delivery  \n(B) To determine whether he receives an extra discount  \n(C) To extend the return period  \n(D) To reserve parking\n\n### Q10\n\nWhat does Daniel plan to do with the chairs?\n\n(A) Have them delivered  \n(B) Return them immediately  \n(C) Pick them up himself  \n(D) Send them to another branch\n\n## 答案\n\n**1B / 2C / 3B / 4B / 5B / 6B / 7A / 8B / 9B / 10C**"
+    },
+    {
+      "title": "⑱ 今日解析",
+      "markdown": "Q1：\n\n> hotel _____ the conference will be held\n\n後面：\n\n> the conference will be held\n\n已完整。\n\n需要提供地點：\n\n> **where**\n\n---\n\nQ2：\n\n> hotel _____ our company booked\n\n後面：\n\n> our company booked _____\n\n缺受詞。\n\n因此：\n\n> **which**\n\n這再次證明不能使用：\n\n> 地點 = where\n\n這種簡化規則。\n\n---\n\nQ3：\n\n> _____ completes...\n\n需要：\n\n> 任何完成的人\n\n所以：\n\n> **Whoever**\n\n= anyone who。\n\n---\n\nQ4：\n\n> delivery option\n\n已經存在有限的配送方案。\n\n因此：\n\n> **whichever option**\n\n---\n\nQ5：\n\n> information\n\n不是人，也不是特定有限選項。\n\n> whatever information you need\n\n= 任何你需要的資訊。"
+    },
+    {
+      "title": "⑲ 錯題回收｜Day 17～21",
+      "markdown": "請直接回答，目標 **50 秒內**：\n\n> Everyone _____ required.\n\n**is**\n\n> something _____\n\n**important**\n\n> We didn't find _____ wrong.\n\n**anything**\n\n> manager, along with employees, _____ attending\n\n**is**\n\n> Either the manager or employees _____ responsible.\n\n**are**\n\n> There _____ several problems.\n\n**are**\n\n> remember _____ the report\n\n**to submit**\n\n> remember _____ her\n\n**meeting**\n\n> stop _____ the machine\n\n**using**\n\n> stop _____ coffee\n\n**to get**\n\n> try _____ the computer\n\n**restarting**\n\n> try _____ the customer\n\n**to contact**\n\n> provided that\n\n**只要／前提是**\n\n> unless\n\n**if not**"
+    },
+    {
+      "title": "⑳ 今日作業",
+      "markdown": "單字今天只要求真正掌握這十組：\n\n> check inventory  \n> in stock  \n> original receipt  \n> online transaction  \n> redeem a coupon  \n> valid through Friday  \n> loyalty program  \n> in-store pickup  \n> complimentary delivery  \n> wide selection\n\n文法做成三個判斷：\n\n> **where / when → 後面通常是完整子句**\n\n> **which / that → 在關係子句中可能補缺少的主詞或受詞**\n\n> **whoever / whatever / whichever → 人／事情／有限選項**\n\nListening 將三段壓成：\n\n> **Ad：furniture → 25% → $500 free delivery → in stock**\n\n> **Message：Wednesday → Thursday 9–11 → call if inconvenient**\n\n> **Tour：factory → badge → assembly line → lab**\n\nReading 則重新做 Double Passage，但第二次限制：\n\n**4 分鐘。**\n\n不要全文重新翻譯，直接練：\n\n> **題目 → 定位文章 → 找證據 → 跨篇比對**\n\n最後重新完成 Day 22 小考，第二次限制：\n\n**2 分鐘 15 秒**\n\n目標：\n\n**10/10。**\n\n如果今天能穩定達到 **9～10/10**，下一階段會提高 Double Passage 的跨篇推論比例；如果 Q9～Q10 這類跨文章題失分，後續優先增加 `Cross-reference` 訓練，而不是單純增加文章長度。\n\n今天最重要的新能力是：\n\n> **單篇閱讀問「答案在哪裡」；雙篇閱讀還要多問一層：「這個資訊需要跟另一篇的哪個資訊連起來？」**\n\nDay 23 將繼續第四週，進入 **Part 4 廣播／新聞與數字資訊定位 + Double Passage 進階跨篇推論**，文法則處理 TOEIC 高頻的 **名詞子句 `that / whether / if / what`**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "merchandise",
+      "meaning": "商品",
+      "phrase": "store merchandise"
+    },
+    {
+      "id": 2,
+      "word": "retailer",
+      "meaning": "零售商",
+      "phrase": "major retailer"
+    },
+    {
+      "id": 3,
+      "word": "purchase",
+      "meaning": "購買",
+      "phrase": "make a purchase"
+    },
+    {
+      "id": 4,
+      "word": "inventory",
+      "meaning": "庫存",
+      "phrase": "check inventory"
+    },
+    {
+      "id": 5,
+      "word": "stock",
+      "meaning": "庫存",
+      "phrase": "in stock"
+    },
+    {
+      "id": 6,
+      "word": "unavailable",
+      "meaning": "無法取得",
+      "phrase": "temporarily unavailable"
+    },
+    {
+      "id": 7,
+      "word": "restock",
+      "meaning": "補貨",
+      "phrase": "restock an item"
+    },
+    {
+      "id": 8,
+      "word": "supplier",
+      "meaning": "供應商",
+      "phrase": "local supplier"
+    },
+    {
+      "id": 9,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "original receipt"
+    },
+    {
+      "id": 10,
+      "word": "transaction",
+      "meaning": "交易",
+      "phrase": "online transaction"
+    },
+    {
+      "id": 11,
+      "word": "checkout",
+      "meaning": "結帳",
+      "phrase": "checkout counter"
+    },
+    {
+      "id": 12,
+      "word": "cashier",
+      "meaning": "收銀員",
+      "phrase": "cashier station"
+    },
+    {
+      "id": 13,
+      "word": "aisle",
+      "meaning": "走道",
+      "phrase": "grocery aisle"
+    },
+    {
+      "id": 14,
+      "word": "display",
+      "meaning": "展示",
+      "phrase": "product display"
+    },
+    {
+      "id": 15,
+      "word": "branch",
+      "meaning": "分店",
+      "phrase": "local branch"
+    },
+    {
+      "id": 16,
+      "word": "location",
+      "meaning": "地點／分店",
+      "phrase": "convenient location"
+    },
+    {
+      "id": 17,
+      "word": "complimentary",
+      "meaning": "免費的",
+      "phrase": "complimentary service"
+    },
+    {
+      "id": 18,
+      "word": "discount",
+      "meaning": "折扣",
+      "phrase": "receive a discount"
+    },
+    {
+      "id": 19,
+      "word": "redeem",
+      "meaning": "兌換",
+      "phrase": "redeem a coupon"
+    },
+    {
+      "id": 20,
+      "word": "coupon",
+      "meaning": "優惠券",
+      "phrase": "discount coupon"
+    },
+    {
+      "id": 21,
+      "word": "valid",
+      "meaning": "有效的",
+      "phrase": "valid through Friday"
+    },
+    {
+      "id": 22,
+      "word": "expire",
+      "meaning": "到期",
+      "phrase": "coupon expires"
+    },
+    {
+      "id": 23,
+      "word": "membership",
+      "meaning": "會員資格",
+      "phrase": "membership program"
+    },
+    {
+      "id": 24,
+      "word": "loyalty",
+      "meaning": "忠誠度",
+      "phrase": "loyalty program"
+    },
+    {
+      "id": 25,
+      "word": "subscribe",
+      "meaning": "訂閱",
+      "phrase": "subscribe to"
+    },
+    {
+      "id": 26,
+      "word": "delivery",
+      "meaning": "配送",
+      "phrase": "free delivery"
+    },
+    {
+      "id": 27,
+      "word": "pickup",
+      "meaning": "取貨",
+      "phrase": "in-store pickup"
+    },
+    {
+      "id": 28,
+      "word": "guarantee",
+      "meaning": "保證",
+      "phrase": "satisfaction guarantee"
+    },
+    {
+      "id": 29,
+      "word": "available",
+      "meaning": "可取得的",
+      "phrase": "available online"
+    },
+    {
+      "id": 30,
+      "word": "selection",
+      "meaning": "選擇、品項",
+      "phrase": "wide selection"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-part-4-1",
+      "title": "⑩ Listening｜Part 4 廣告",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is being advertised?",
+          "options": {
+            "A": "A restaurant",
+            "B": "A furniture store",
+            "C": "A hotel",
+            "D": "A delivery company"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What special offer is mentioned?",
+          "options": {
+            "A": "Free furniture",
+            "B": "Free delivery",
+            "C": "A membership upgrade",
+            "D": "Extended store hours"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the speaker say, “There's no need to wait”?",
+          "options": {
+            "A": "The store opens early",
+            "B": "Many products are currently available",
+            "C": "Customers can make reservations",
+            "D": "Employees work quickly"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-2",
+      "title": "⑪ Listening｜Part 4 語音留言",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To confirm a delivery",
+            "B": "To request payment",
+            "C": "To apply for a job",
+            "D": "To cancel an order"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What has changed?",
+          "options": {
+            "A": "The delivery date",
+            "B": "The product price",
+            "C": "The customer's address",
+            "D": "The payment method"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should the listener do?",
+          "options": {
+            "A": "Visit a store",
+            "B": "Call if the new arrangement is inconvenient",
+            "C": "Make another purchase",
+            "D": "Submit a receipt"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-3",
+      "title": "⑫ Listening｜Part 4 導覽",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where most likely are the listeners?",
+          "options": {
+            "A": "At a museum",
+            "B": "At a factory",
+            "C": "At an airport",
+            "D": "At a hotel"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What will visitors see next?",
+          "options": {
+            "A": "A manufacturing area",
+            "B": "A restaurant",
+            "C": "An employee office",
+            "D": "A parking facility"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the speaker say, “Please keep your badges visible”?",
+          "options": {
+            "A": "Visitors may receive discounts",
+            "B": "Employees need to identify authorized visitors",
+            "C": "The badges contain a map",
+            "D": "Visitors will return the badges soon"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "reading-double-passage-4",
+      "title": "⑭ Reading｜Double Passage",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What product is discounted?",
+          "options": {
+            "A": "Desks",
+            "B": "Office chairs",
+            "C": "Storage units",
+            "D": "Lamps"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What additional benefit do Rewards members receive?",
+          "options": {
+            "A": "Free membership",
+            "B": "Another 5 percent discount",
+            "C": "A 30-day return period",
+            "D": "Free installation"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why should customers contact a local branch?",
+          "options": {
+            "A": "To confirm inventory",
+            "B": "To obtain a receipt",
+            "C": "To join the rewards program",
+            "D": "To arrange payment"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 4,
+          "prompt": "How many chairs does Daniel want?",
+          "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why does Daniel mention being a Rewards member?",
+          "options": {
+            "A": "He wants to determine his total discount",
+            "B": "He lost his membership card",
+            "C": "He wants free delivery",
+            "D": "He wants to return a product"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does Daniel want Customer Service to verify?",
+          "options": {
+            "A": "Whether the store opens Saturday",
+            "B": "Whether four chairs are in stock",
+            "C": "Whether delivery is free",
+            "D": "Whether the chair price increased"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "What can be inferred about Daniel?",
+          "options": {
+            "A": "He wants delivery",
+            "B": "He plans to shop after September 30",
+            "C": "He intends to collect the products himself",
+            "D": "He is not a member"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑯ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The office _____ Ms. Lin works is located downtown.",
+          "options": {
+            "A": "which",
+            "B": "where",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "The office _____ the company rented has recently been renovated.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "September is the month _____ our annual conference is usually held.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "We have not determined the reason _____ the shipment was delayed.",
+          "options": {
+            "A": "why",
+            "B": "whom",
+            "C": "where",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ completes the training should submit the certificate to HR.",
+          "options": {
+            "A": "Whatever",
+            "B": "Whoever",
+            "C": "Whichever",
+            "D": "Whenever"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "Please select _____ option is most convenient for you.",
+          "options": {
+            "A": "whoever",
+            "B": "whatever",
+            "C": "whichever",
+            "D": "wherever"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "The manager will approve _____ is necessary to complete the project.",
+          "options": {
+            "A": "whoever",
+            "B": "whatever",
+            "C": "whichever person",
+            "D": "whenever"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Customers may visit _____ branch is closest to their home.",
+          "options": {
+            "A": "whoever",
+            "B": "whatever",
+            "C": "whichever",
+            "D": "whenever"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "The day _____ the new store opens has not yet been announced.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "The warehouse _____ we store the products is near the airport.",
+          "options": {
+            "A": "which",
+            "B": "where",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 11,
+          "prompt": "The warehouse _____ the company purchased last year is being expanded.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ has the original receipt may return the product within 14 days.",
+          "options": {
+            "A": "Whatever",
+            "B": "Whoever",
+            "C": "Whichever",
+            "D": "Wherever"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "day-22-6",
+      "title": "⑰ Day 22 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The hotel _____ the conference will be held is near the station.",
+          "options": {
+            "A": "which",
+            "B": "where",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "The hotel _____ our company booked offers complimentary breakfast.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ completes the customer survey will receive a discount coupon.",
+          "options": {
+            "A": "Whatever",
+            "B": "Whoever",
+            "C": "Whichever",
+            "D": "Whenever"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "Please choose _____ delivery option works best for you.",
+          "options": {
+            "A": "whoever",
+            "B": "whichever",
+            "C": "whenever",
+            "D": "wherever"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "We will provide _____ information you need.",
+          "options": {
+            "A": "whoever",
+            "B": "whatever",
+            "C": "whichever person",
+            "D": "whenever"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "In the furniture advertisement, why don't customers need to wait long?",
+          "options": {
+            "A": "Delivery trucks operate every day",
+            "B": "Most sale products are already in stock",
+            "C": "The store has additional employees",
+            "D": "Customers assemble furniture themselves"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "What changed in the office-supply message?",
+          "options": {
+            "A": "The delivery date",
+            "B": "The order price",
+            "C": "The products ordered",
+            "D": "The customer's address"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why should factory visitors keep their badges visible?",
+          "options": {
+            "A": "To receive discounts",
+            "B": "To identify authorized visitors",
+            "C": "To enter the restaurant",
+            "D": "To record attendance"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "In the Double Passage, why does Daniel mention his membership?",
+          "options": {
+            "A": "To request delivery",
+            "B": "To determine whether he receives an extra discount",
+            "C": "To extend the return period",
+            "D": "To reserve parking"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "What does Daniel plan to do with the chairs?",
+          "options": {
+            "A": "Have them delivered",
+            "B": "Return them immediately",
+            "C": "Pick them up himself",
+            "D": "Send them to another branch"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "Part 4 不只聽內容，也要判斷廣告、留言與導覽的目的；雙篇閱讀需跨文章連結證據。",
+  "nextDay": "Part 4 數字資訊定位＋Double Passage 跨篇推論"
+}

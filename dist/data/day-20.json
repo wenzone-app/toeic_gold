@@ -1,0 +1,770 @@
+{
+  "schemaVersion": "1.0",
+  "day": 20,
+  "title": "Part 4 簡短獨白＋條件表達進階",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 20 教材",
+  "sections": [
+    {
+      "title": "Day 20 學習概覽",
+      "markdown": "今天正式進入 **Part 4 簡短獨白**。前面的 Part 3 是「多人對話」，Part 4 則只有一個人連續說話，因此最大的挑戰變成：**沒有另一個人的問答幫你切段，你必須自己辨認主題、問題、原因與下一步。**\n\n文法主題進入條件表達進階：**`if / unless / provided that / as long as`**。目前沒有收到 Day 19 的實際作答紀錄，因此維持 **860～900 分難度**；今天開始增加「同義改寫」比例。\n\n建議訓練約 **95～105 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Announcements / Events / Public Information**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| announcement | 公告 | make an announcement |\n| notify | 通知 | notify customers |\n| notice | 通知、公告 | advance notice |\n| inform | 告知 | inform employees |\n| remind | 提醒 | remind someone to |\n| event | 活動 | special event |\n| ceremony | 典禮 | awards ceremony |\n| exhibition | 展覽 | art exhibition |\n| conference | 研討會 | annual conference |\n| seminar | 研討會 | training seminar |\n| admission | 入場 | admission fee |\n| registration | 登記 | registration desk |\n| attendee | 出席者 | conference attendee |\n| venue | 場地 | event venue |\n| entrance | 入口 | main entrance |\n| relocate | 移至 | relocate an event |\n| temporary | 暫時的 | temporary closure |\n| closure | 關閉 | road closure |\n| scheduled | 預定的 | scheduled maintenance |\n| available | 可用的 | seats available |\n| capacity | 容量 | seating capacity |\n| prohibit | 禁止 | strictly prohibited |\n| permit | 允許 | permit visitors to |\n| require | 要求 | require identification |\n| instruction | 指示 | follow instructions |\n| proceed | 前往、繼續 | proceed to Gate 5 |\n| delay | 延誤 | unexpected delay |\n| resume | 恢復 | resume service |\n| approximately | 大約 | approximately one hour |\n| immediately | 立即 | effective immediately |\n\n優先記：\n\n> make an announcement  \n> advance notice  \n> annual conference  \n> admission fee  \n> registration desk  \n> event venue  \n> temporary closure  \n> scheduled maintenance  \n> seating capacity  \n> resume service\n\n注意：\n\n> **effective immediately**\n\n= 立即生效。\n\n商務公告非常常見。"
+    },
+    {
+      "title": "② 今日文法｜if",
+      "markdown": "最基本的未來條件：\n\n> If you **register** today, you **will receive** a discount.\n\n前面已學過：\n\n> if 子句描述未來 → 通常不用 will。\n\n所以：\n\n> If you will register ❌\n\n> If you register ✅"
+    },
+    {
+      "title": "③ unless",
+      "markdown": "> unless = **if ... not**\n\n例如：\n\n> Your reservation will be canceled unless you confirm it.\n\n等於：\n\n> Your reservation will be canceled if you do not confirm it.\n\n注意不要再加否定：\n\n> unless you don't confirm ❌\n\n這樣通常會變成雙重否定邏輯。"
+    },
+    {
+      "title": "④ provided that",
+      "markdown": "`provided that` 在商務英文很常見：\n\n> **只要／前提是**\n\n例如：\n\n> Employees may work remotely **provided that** their managers approve.\n\n意思：\n\n> 員工可以遠端工作，**前提是主管批准**。\n\n結構：\n\n> provided that + S + V\n\n它比 `if` 稍正式。"
+    },
+    {
+      "title": "⑤ as long as",
+      "markdown": "條件語意：\n\n> **只要……就……**\n\n例如：\n\n> You may use the conference room **as long as** it is available.\n\n注意 `as long as` 還可以表示：\n\n> 和……一樣長\n\n但 TOEIC 會根據語境判斷。\n\n例如：\n\n> You can stay as long as you need.\n\n這裡比較接近「只要你有需要／想待多久都可以」。"
+    },
+    {
+      "title": "⑥ unless vs. provided that",
+      "markdown": "比較：\n\n> You may enter **provided that** you show identification.\n\n= 只要出示證件，就可以進入。\n\n而：\n\n> You may not enter **unless** you show identification.\n\n= 除非出示證件，否則不能進入。\n\n實際條件接近，但句子方向不同。"
+    },
+    {
+      "title": "⑦ 900 分混合題",
+      "markdown": "> Employees may use the parking area _____ they display a valid permit.\n\n(A) unless  \n(B) provided that  \n(C) despite  \n(D) during\n\n後面：\n\n> they display...\n\n完整句。\n\n語意：\n\n「只要出示有效許可證。」\n\n答案：\n\n**B**\n\n---\n\n> The event will proceed as scheduled _____ severe weather occurs.\n\n(A) unless  \n(B) because of  \n(C) provided that  \n(D) during\n\n意思：\n\n「除非發生惡劣天氣。」\n\n答案：\n\n**A**"
+    },
+    {
+      "title": "⑧ Part 4 解題策略",
+      "markdown": "Part 4 不要逐字聽。\n\n先判斷這是哪一種獨白：\n\n> announcement  \n> telephone message  \n> advertisement  \n> news report  \n> recorded information  \n> introduction  \n> tour guide\n\n然後抓四個東西：\n\n> **WHO — 誰在說？**\n\n> **WHY — 為什麼說？**\n\n> **CHANGE — 有什麼變更／問題？**\n\n> **NEXT — 聽眾接下來要做什麼？**\n\n這四個資訊幾乎可以覆蓋大量 Part 4 題目。"
+    },
+    {
+      "title": "⑨ Listening｜Part 4 公告",
+      "markdown": "先讀題。\n\n### Q1\n\nWhere most likely is the announcement being made?\n\n(A) At an airport  \n(B) At a hotel  \n(C) At a factory  \n(D) At a restaurant\n\n### Q2\n\nWhy has the departure been delayed?\n\n(A) A passenger is missing  \n(B) The weather is poor  \n(C) The aircraft requires maintenance  \n(D) The crew arrived late\n\n### Q3\n\nWhat are passengers asked to do?\n\n(A) Proceed to another terminal  \n(B) Collect their luggage  \n(C) Remain near the gate  \n(D) Contact the airline\n\n聽力稿：\n\n> Attention, passengers traveling on Flight 628 to Osaka. Your flight, originally scheduled to depart at 6:45 P.M., has been delayed because of severe weather near Osaka Airport. We currently expect boarding to begin at approximately 7:30. Please remain near Gate 16 and listen for further announcements. We apologize for the inconvenience.\n\n答案：\n\n**1A / 2B / 3C**\n\n筆記只需要：\n\n> Flight 628 → weather → 7:30 → stay Gate 16"
+    },
+    {
+      "title": "⑩ Listening｜Part 4 電話留言",
+      "markdown": "### Q1\n\nWhy is the speaker calling?\n\n(A) To change an appointment  \n(B) To apply for a position  \n(C) To complain about a product  \n(D) To order equipment\n\n### Q2\n\nWhy is the original appointment inconvenient?\n\n(A) The speaker has a client meeting  \n(B) The office will be closed  \n(C) Transportation is unavailable  \n(D) The speaker will be on vacation\n\n### Q3\n\nWhat does the speaker request?\n\n(A) A refund  \n(B) A morning appointment  \n(C) A different location  \n(D) A written report\n\n聽力稿：\n\n> Hi, this is Michael Wang calling for Dr. Chen. I have an appointment scheduled for Thursday at three o'clock, but I've just been asked to attend a client meeting that afternoon. Would it be possible to move my appointment to Thursday morning? I'm available anytime before eleven thirty. Please call me back when you have a chance. Thank you.\n\n答案：\n\n**1A / 2A / 3B**\n\n注意：\n\n> anytime before 11:30\n\n不是答案本身。\n\n題目問的是：\n\n> request?\n\n答案是更高層次的：\n\n**morning appointment**\n\n這就是同義概括。"
+    },
+    {
+      "title": "⑪ Listening｜Part 4 公司公告",
+      "markdown": "### Q1\n\nWhat is the purpose of the announcement?\n\n(A) To introduce a new employee  \n(B) To explain a temporary closure  \n(C) To advertise a restaurant  \n(D) To announce a promotion\n\n### Q2\n\nWhy will the cafeteria be unavailable?\n\n(A) New employees are being trained  \n(B) Equipment is being replaced  \n(C) The building is being inspected  \n(D) A private event is being held\n\n### Q3\n\nWhat are employees encouraged to do?\n\n(A) Bring identification  \n(B) Work from home  \n(C) Use nearby restaurants  \n(D) Contact Human Resources\n\n聽力稿：\n\n> This is a reminder that the employee cafeteria will be closed this Friday while new kitchen equipment is being installed. Vending machines on the second floor will remain available, but employees may also want to visit one of the restaurants across from the main entrance. Normal cafeteria service will resume Monday morning. Thank you for your understanding.\n\n答案：\n\n**1B / 2B / 3C**\n\n注意：\n\n> may also want to...\n\n在 Part 4 常表示：\n\n**建議。**"
+    },
+    {
+      "title": "⑫ Part 4｜語意訊號",
+      "markdown": "開始建立以下反射：\n\n> **Please remember to...**\n\n→ 聽眾要做什麼\n\n> **Due to / because of...**\n\n→ 原因\n\n> **Instead...**\n\n→ 替代方案\n\n> **Beginning Monday...**\n\n→ 生效時間\n\n> **Unfortunately...**\n\n→ 問題\n\n> **We are pleased to announce...**\n\n→ 好消息／新資訊\n\n> **We apologize...**\n\n→ 通常前面有延誤或不便\n\n> **For more information...**\n\n→ 聯絡方式"
+    },
+    {
+      "title": "⑬ Reading｜Part 7",
+      "markdown": "限時 **3 分 30 秒**。\n\n> **NOTICE TO BUILDING TENANTS**\n>\n> Beginning Monday, September 21, the underground parking area at the Madison Business Center will undergo maintenance.\n>\n> The parking area will remain open during the work, but approximately 30 spaces will be temporarily unavailable each day. Tenants may continue to park in the facility as long as they display a valid parking permit.\n>\n> Employees are encouraged to arrive earlier than usual because fewer spaces will be available. Additional parking is available at the Green Street Garage, located two blocks east of the building.\n>\n> Maintenance is expected to be completed by Friday afternoon, provided that no unexpected equipment problems occur.\n>\n> Tenants who normally park on Level B2 should follow the temporary signs posted near the entrance. Please contact Building Management if you have questions.\n\n### Q1\n\nWhat will begin on September 21?\n\n(A) Construction of a new garage  \n(B) Parking-area maintenance  \n(C) Office relocation  \n(D) Employee training\n\n### Q2\n\nHow many spaces will be unavailable each day?\n\n(A) 10  \n(B) 21  \n(C) Approximately 30  \n(D) All spaces\n\n### Q3\n\nUnder what condition may tenants continue using the parking facility?\n\n(A) They arrive before 8 A.M.  \n(B) They display a valid permit  \n(C) They pay an additional fee  \n(D) They work on Level B2\n\n### Q4\n\nWhy should employees arrive earlier?\n\n(A) The building will open earlier  \n(B) Fewer parking spaces will be available  \n(C) The entrance is relocating  \n(D) Public transportation is delayed\n\n### Q5\n\nWhen is maintenance expected to finish?\n\n(A) Monday morning  \n(B) Wednesday afternoon  \n(C) Friday afternoon  \n(D) Saturday\n\n### Q6\n\nWhat could affect the completion date?\n\n(A) Employee attendance  \n(B) Unexpected equipment problems  \n(C) Parking permit sales  \n(D) Weather only\n\n### Q7\n\nThe phrase **“provided that”** is closest in meaning to:\n\n(A) because  \n(B) although  \n(C) on the condition that  \n(D) despite\n\n答案：\n\n**1B / 2C / 3B / 4B / 5C / 6B / 7C**"
+    },
+    {
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "markdown": "限時：\n\n**3 分鐘**\n\n### 1\n\nEmployees may use the parking garage _____ they display a valid permit.\n\n(A) unless  \n(B) provided that  \n(C) despite  \n(D) during\n\n### 2\n\nThe event will continue outdoors _____ it begins to rain heavily.\n\n(A) unless  \n(B) because of  \n(C) provided that  \n(D) during\n\n### 3\n\nYou may attend the workshop _____ you register before Friday.\n\n(A) as long as  \n(B) despite  \n(C) during  \n(D) because of\n\n### 4\n\nYour reservation will be canceled _____ you confirm it by tomorrow.\n\n(A) provided that  \n(B) as long as  \n(C) unless  \n(D) because\n\n### 5\n\n_____ you have any questions, please contact Customer Service.\n\n(A) During  \n(B) If  \n(C) Despite  \n(D) Because of\n\n### 6\n\nEmployees may work remotely _____ their supervisors approve the arrangement.\n\n(A) provided that  \n(B) unless  \n(C) despite  \n(D) during\n\n### 7\n\nThe shipment will arrive tomorrow _____ there are no further transportation delays.\n\n(A) unless  \n(B) despite  \n(C) as long as  \n(D) during\n\n### 8\n\nThe conference will be held in Room 5 _____ the number of participants exceeds 100.\n\n(A) provided that  \n(B) unless  \n(C) because of  \n(D) during\n\n### 9\n\n_____ payment is received today, the order will not be shipped.\n\n(A) If  \n(B) As long as  \n(C) Unless  \n(D) Provided that\n\n### 10\n\nVisitors may enter the facility _____ they present identification.\n\n(A) as long as  \n(B) despite  \n(C) because of  \n(D) during\n\n### 11\n\nThe outdoor ceremony will proceed as planned _____ severe weather occurs.\n\n(A) provided that  \n(B) unless  \n(C) as long as  \n(D) because\n\n### 12\n\n_____ the customer requests otherwise, the package will be delivered to the address on file.\n\n(A) Unless  \n(B) During  \n(C) Because of  \n(D) Despite\n\n**答案：1B / 2A / 3A / 4C / 5B / 6A / 7C / 8B / 9C / 10A / 11B / 12A**"
+    },
+    {
+      "title": "⑮ Day 20 小考",
+      "markdown": "正式：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\nEmployees may enter the building after hours _____ they have an access card.\n\n(A) unless  \n(B) provided that  \n(C) despite  \n(D) during\n\n### Q2\n\nThe meeting will begin at nine _____ the manager requests a delay.\n\n(A) unless  \n(B) as long as  \n(C) provided that  \n(D) because of\n\n### Q3\n\nYou can receive a full refund _____ the product is returned within 30 days.\n\n(A) despite  \n(B) during  \n(C) as long as  \n(D) unless\n\n### Q4\n\nThe reservation will be canceled _____ payment is received by Friday.\n\n(A) if  \n(B) provided that  \n(C) unless  \n(D) as long as\n\n### Q5\n\n_____ you need additional assistance, please contact the front desk.\n\n(A) Despite  \n(B) During  \n(C) If  \n(D) Because of\n\n### Q6\n\nWhy is Flight 628 delayed?\n\n(A) Severe weather  \n(B) Mechanical problems  \n(C) A missing passenger  \n(D) A late crew\n\n### Q7\n\nWhat should Flight 628 passengers do?\n\n(A) Collect their baggage  \n(B) Stay near Gate 16  \n(C) Go to another terminal  \n(D) Rebook their flights\n\n### Q8\n\nWhy does Michael want to change his appointment?\n\n(A) He will be traveling  \n(B) He has a client meeting  \n(C) The doctor's office is closed  \n(D) His flight is delayed\n\n### Q9\n\nWhy will the cafeteria be closed?\n\n(A) New equipment is being installed  \n(B) Employees are receiving training  \n(C) The building is being renovated  \n(D) A conference is being held\n\n### Q10\n\nWhat are employees encouraged to do while the cafeteria is closed?\n\n(A) Work from home  \n(B) Use nearby restaurants  \n(C) Bring identification  \n(D) Contact management\n\n## 答案\n\n**1B / 2A / 3C / 4C / 5C / 6A / 7B / 8B / 9A / 10B**"
+    },
+    {
+      "title": "⑯ 今日解析",
+      "markdown": "Q1：\n\n> Employees may enter... _____ they have an access card.\n\n意思：\n\n「只要有門禁卡就可以。」\n\n所以：\n\n> **provided that**\n\n---\n\nQ2：\n\n> meeting will begin at nine _____ manager requests a delay\n\n正常九點開始。\n\n唯一例外：\n\n> 經理要求延後。\n\n所以：\n\n> **unless**\n\n---\n\nQ3：\n\n> full refund _____ returned within 30 days\n\n只要符合「30 天內退回」條件：\n\n> **as long as**\n\n---\n\nQ4：\n\n> canceled _____ payment is received\n\n如果付款收到，就不應該取消。\n\n所以不是 `if`。\n\n真正意思：\n\n> 如果付款**沒有**在星期五前收到，就取消。\n\n因此：\n\n> **unless payment is received**\n\n這種題一定要檢查整句邏輯，不只看文法。"
+    },
+    {
+      "title": "⑰ 錯題回收｜Day 16～19",
+      "markdown": "請在 **50 秒內**完成：\n\n> We have very _____ information.\n\n**little**\n\n> We still have _____ time.\n\n**a little**\n\n> Each of the products _____ inspected.\n\n**is**\n\n> Everyone _____ required.\n\n**is**\n\n> something _____\n\n**important**\n\n> The manager, along with two employees, _____ attending.\n\n**is**\n\n> Either the manager or the employees _____ responsible.\n\n**are**\n\n> Please remember _____ the report.\n\n**to submit**\n\n> I remember _____ her before.\n\n**meeting**\n\n> Stop _____ the machine.\n\n**using**\n\n> Stop _____ some coffee.\n\n**to get**\n\n> Try _____ the computer.\n\n**restarting**\n\n> I tried _____ the supplier, but nobody answered.\n\n**to contact**\n\n> We regret _____ you that...\n\n**to inform**"
+    },
+    {
+      "title": "⑱ 今日作業",
+      "markdown": "今天單字優先複習：\n\n> make an announcement  \n> advance notice  \n> admission fee  \n> registration desk  \n> event venue  \n> temporary closure  \n> scheduled maintenance  \n> seating capacity  \n> resume service  \n> effective immediately\n\n文法只需要真正掌握四句：\n\n> **If you register, you will receive a discount.**\n\n> **You may enter provided that you show identification.**\n\n> **You can stay as long as you need.**\n\n> **The event will continue unless it rains.**\n\n把 `unless` 自動轉換成：\n\n> **if ... not**\n\nListening 則把今天三段 Part 4 壓縮成：\n\n> **Airport：Flight 628 → weather → 7:30 → stay Gate 16**\n\n> **Message：Thursday 3 → client meeting → Thursday morning**\n\n> **Office：cafeteria Friday closed → equipment → restaurants → Monday resume**\n\n每段最多記 **4 個資訊點**。\n\n這是 Part 4 很重要的限制：如果整段都抄，你會在寫上一句時漏掉下一句。\n\n最後重新完成 Day 20 小考，第二次限制：\n\n**2 分鐘。**\n\n目標：\n\n**10/10。**\n\n目前仍沒有你的實際作答資料，因此暫時不直接升到 900+ 極難模式。若你在自行作答時已能穩定做到 **9～10/10 且 Listening 能在一次閱讀後完成**，接下來可直接使用進階標準：增加同義改寫、意圖題與圖表題；若低於 **8/10**，則優先回收 `unless` 邏輯與 Part 4 的「目的／原因／下一步」定位。\n\n**Day 20 最重要的轉換：Part 4 不要追著每一句跑。先辨認「這是什麼公告」，再抓 Purpose → Change/Problem → Reason → Action。**\n\nDay 21 將是**第三週週測**：整合 Part 3 三人對話、意圖推論、圖表題、Part 4 公告／留言，以及 Day 15～20 的代名詞、數量詞、主詞動詞一致、動名詞／不定詞與條件句，正式檢查目前是否可以進入下一階段的 **900 分訓練強度**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "announcement",
+      "meaning": "公告",
+      "phrase": "make an announcement"
+    },
+    {
+      "id": 2,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify customers"
+    },
+    {
+      "id": 3,
+      "word": "notice",
+      "meaning": "通知、公告",
+      "phrase": "advance notice"
+    },
+    {
+      "id": 4,
+      "word": "inform",
+      "meaning": "告知",
+      "phrase": "inform employees"
+    },
+    {
+      "id": 5,
+      "word": "remind",
+      "meaning": "提醒",
+      "phrase": "remind someone to"
+    },
+    {
+      "id": 6,
+      "word": "event",
+      "meaning": "活動",
+      "phrase": "special event"
+    },
+    {
+      "id": 7,
+      "word": "ceremony",
+      "meaning": "典禮",
+      "phrase": "awards ceremony"
+    },
+    {
+      "id": 8,
+      "word": "exhibition",
+      "meaning": "展覽",
+      "phrase": "art exhibition"
+    },
+    {
+      "id": 9,
+      "word": "conference",
+      "meaning": "研討會",
+      "phrase": "annual conference"
+    },
+    {
+      "id": 10,
+      "word": "seminar",
+      "meaning": "研討會",
+      "phrase": "training seminar"
+    },
+    {
+      "id": 11,
+      "word": "admission",
+      "meaning": "入場",
+      "phrase": "admission fee"
+    },
+    {
+      "id": 12,
+      "word": "registration",
+      "meaning": "登記",
+      "phrase": "registration desk"
+    },
+    {
+      "id": 13,
+      "word": "attendee",
+      "meaning": "出席者",
+      "phrase": "conference attendee"
+    },
+    {
+      "id": 14,
+      "word": "venue",
+      "meaning": "場地",
+      "phrase": "event venue"
+    },
+    {
+      "id": 15,
+      "word": "entrance",
+      "meaning": "入口",
+      "phrase": "main entrance"
+    },
+    {
+      "id": 16,
+      "word": "relocate",
+      "meaning": "移至",
+      "phrase": "relocate an event"
+    },
+    {
+      "id": 17,
+      "word": "temporary",
+      "meaning": "暫時的",
+      "phrase": "temporary closure"
+    },
+    {
+      "id": 18,
+      "word": "closure",
+      "meaning": "關閉",
+      "phrase": "road closure"
+    },
+    {
+      "id": 19,
+      "word": "scheduled",
+      "meaning": "預定的",
+      "phrase": "scheduled maintenance"
+    },
+    {
+      "id": 20,
+      "word": "available",
+      "meaning": "可用的",
+      "phrase": "seats available"
+    },
+    {
+      "id": 21,
+      "word": "capacity",
+      "meaning": "容量",
+      "phrase": "seating capacity"
+    },
+    {
+      "id": 22,
+      "word": "prohibit",
+      "meaning": "禁止",
+      "phrase": "strictly prohibited"
+    },
+    {
+      "id": 23,
+      "word": "permit",
+      "meaning": "允許",
+      "phrase": "permit visitors to"
+    },
+    {
+      "id": 24,
+      "word": "require",
+      "meaning": "要求",
+      "phrase": "require identification"
+    },
+    {
+      "id": 25,
+      "word": "instruction",
+      "meaning": "指示",
+      "phrase": "follow instructions"
+    },
+    {
+      "id": 26,
+      "word": "proceed",
+      "meaning": "前往、繼續",
+      "phrase": "proceed to Gate 5"
+    },
+    {
+      "id": 27,
+      "word": "delay",
+      "meaning": "延誤",
+      "phrase": "unexpected delay"
+    },
+    {
+      "id": 28,
+      "word": "resume",
+      "meaning": "恢復",
+      "phrase": "resume service"
+    },
+    {
+      "id": 29,
+      "word": "approximately",
+      "meaning": "大約",
+      "phrase": "approximately one hour"
+    },
+    {
+      "id": 30,
+      "word": "immediately",
+      "meaning": "立即",
+      "phrase": "effective immediately"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-part-4-1",
+      "title": "⑨ Listening｜Part 4 公告",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where most likely is the announcement being made?",
+          "options": {
+            "A": "At an airport",
+            "B": "At a hotel",
+            "C": "At a factory",
+            "D": "At a restaurant"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why has the departure been delayed?",
+          "options": {
+            "A": "A passenger is missing",
+            "B": "The weather is poor",
+            "C": "The aircraft requires maintenance",
+            "D": "The crew arrived late"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are passengers asked to do?",
+          "options": {
+            "A": "Proceed to another terminal",
+            "B": "Collect their luggage",
+            "C": "Remain near the gate",
+            "D": "Contact the airline"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-2",
+      "title": "⑩ Listening｜Part 4 電話留言",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To change an appointment",
+            "B": "To apply for a position",
+            "C": "To complain about a product",
+            "D": "To order equipment"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is the original appointment inconvenient?",
+          "options": {
+            "A": "The speaker has a client meeting",
+            "B": "The office will be closed",
+            "C": "Transportation is unavailable",
+            "D": "The speaker will be on vacation"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker request?",
+          "options": {
+            "A": "A refund",
+            "B": "A morning appointment",
+            "C": "A different location",
+            "D": "A written report"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-3",
+      "title": "⑪ Listening｜Part 4 公司公告",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the announcement?",
+          "options": {
+            "A": "To introduce a new employee",
+            "B": "To explain a temporary closure",
+            "C": "To advertise a restaurant",
+            "D": "To announce a promotion"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why will the cafeteria be unavailable?",
+          "options": {
+            "A": "New employees are being trained",
+            "B": "Equipment is being replaced",
+            "C": "The building is being inspected",
+            "D": "A private event is being held"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are employees encouraged to do?",
+          "options": {
+            "A": "Bring identification",
+            "B": "Work from home",
+            "C": "Use nearby restaurants",
+            "D": "Contact Human Resources"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "reading-part-7-4",
+      "title": "⑬ Reading｜Part 7",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What will begin on September 21?",
+          "options": {
+            "A": "Construction of a new garage",
+            "B": "Parking-area maintenance",
+            "C": "Office relocation",
+            "D": "Employee training"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "How many spaces will be unavailable each day?",
+          "options": {
+            "A": "10",
+            "B": "21",
+            "C": "Approximately 30",
+            "D": "All spaces"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Under what condition may tenants continue using the parking facility?",
+          "options": {
+            "A": "They arrive before 8 A.M.",
+            "B": "They display a valid permit",
+            "C": "They pay an additional fee",
+            "D": "They work on Level B2"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why should employees arrive earlier?",
+          "options": {
+            "A": "The building will open earlier",
+            "B": "Fewer parking spaces will be available",
+            "C": "The entrance is relocating",
+            "D": "Public transportation is delayed"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "When is maintenance expected to finish?",
+          "options": {
+            "A": "Monday morning",
+            "B": "Wednesday afternoon",
+            "C": "Friday afternoon",
+            "D": "Saturday"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "What could affect the completion date?",
+          "options": {
+            "A": "Employee attendance",
+            "B": "Unexpected equipment problems",
+            "C": "Parking permit sales",
+            "D": "Weather only"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "The phrase **“provided that”** is closest in meaning to:",
+          "options": {
+            "A": "because",
+            "B": "although",
+            "C": "on the condition that",
+            "D": "despite"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Employees may use the parking garage _____ they display a valid permit.",
+          "options": {
+            "A": "unless",
+            "B": "provided that",
+            "C": "despite",
+            "D": "during"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "The event will continue outdoors _____ it begins to rain heavily.",
+          "options": {
+            "A": "unless",
+            "B": "because of",
+            "C": "provided that",
+            "D": "during"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "You may attend the workshop _____ you register before Friday.",
+          "options": {
+            "A": "as long as",
+            "B": "despite",
+            "C": "during",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 4,
+          "prompt": "Your reservation will be canceled _____ you confirm it by tomorrow.",
+          "options": {
+            "A": "provided that",
+            "B": "as long as",
+            "C": "unless",
+            "D": "because"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ you have any questions, please contact Customer Service.",
+          "options": {
+            "A": "During",
+            "B": "If",
+            "C": "Despite",
+            "D": "Because of"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "Employees may work remotely _____ their supervisors approve the arrangement.",
+          "options": {
+            "A": "provided that",
+            "B": "unless",
+            "C": "despite",
+            "D": "during"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "The shipment will arrive tomorrow _____ there are no further transportation delays.",
+          "options": {
+            "A": "unless",
+            "B": "despite",
+            "C": "as long as",
+            "D": "during"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 8,
+          "prompt": "The conference will be held in Room 5 _____ the number of participants exceeds 100.",
+          "options": {
+            "A": "provided that",
+            "B": "unless",
+            "C": "because of",
+            "D": "during"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "_____ payment is received today, the order will not be shipped.",
+          "options": {
+            "A": "If",
+            "B": "As long as",
+            "C": "Unless",
+            "D": "Provided that"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 10,
+          "prompt": "Visitors may enter the facility _____ they present identification.",
+          "options": {
+            "A": "as long as",
+            "B": "despite",
+            "C": "because of",
+            "D": "during"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 11,
+          "prompt": "The outdoor ceremony will proceed as planned _____ severe weather occurs.",
+          "options": {
+            "A": "provided that",
+            "B": "unless",
+            "C": "as long as",
+            "D": "because"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ the customer requests otherwise, the package will be delivered to the address on file.",
+          "options": {
+            "A": "Unless",
+            "B": "During",
+            "C": "Because of",
+            "D": "Despite"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "day-20-6",
+      "title": "⑮ Day 20 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Employees may enter the building after hours _____ they have an access card.",
+          "options": {
+            "A": "unless",
+            "B": "provided that",
+            "C": "despite",
+            "D": "during"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "The meeting will begin at nine _____ the manager requests a delay.",
+          "options": {
+            "A": "unless",
+            "B": "as long as",
+            "C": "provided that",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "You can receive a full refund _____ the product is returned within 30 days.",
+          "options": {
+            "A": "despite",
+            "B": "during",
+            "C": "as long as",
+            "D": "unless"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "The reservation will be canceled _____ payment is received by Friday.",
+          "options": {
+            "A": "if",
+            "B": "provided that",
+            "C": "unless",
+            "D": "as long as"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ you need additional assistance, please contact the front desk.",
+          "options": {
+            "A": "Despite",
+            "B": "During",
+            "C": "If",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why is Flight 628 delayed?",
+          "options": {
+            "A": "Severe weather",
+            "B": "Mechanical problems",
+            "C": "A missing passenger",
+            "D": "A late crew"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "What should Flight 628 passengers do?",
+          "options": {
+            "A": "Collect their baggage",
+            "B": "Stay near Gate 16",
+            "C": "Go to another terminal",
+            "D": "Rebook their flights"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why does Michael want to change his appointment?",
+          "options": {
+            "A": "He will be traveling",
+            "B": "He has a client meeting",
+            "C": "The doctor's office is closed",
+            "D": "His flight is delayed"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why will the cafeteria be closed?",
+          "options": {
+            "A": "New equipment is being installed",
+            "B": "Employees are receiving training",
+            "C": "The building is being renovated",
+            "D": "A conference is being held"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 10,
+          "prompt": "What are employees encouraged to do while the cafeteria is closed?",
+          "options": {
+            "A": "Work from home",
+            "B": "Use nearby restaurants",
+            "C": "Bring identification",
+            "D": "Contact management"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "Part 4 先辨認獨白類型，再依序抓目的、變更或問題、原因與聽眾行動。",
+  "nextDay": "第三週週測"
+}

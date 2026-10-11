@@ -1,0 +1,762 @@
+{
+  "schemaVersion": "1.0",
+  "day": 17,
+  "title": "Part 3 意圖／暗示推論＋不定代名詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 95,
+  "durationMinutes": {
+    "min": 90,
+    "max": 100
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 17 教材",
+  "sections": [
+    {
+      "title": "Day 17 學習概覽",
+      "markdown": "今天接續 Day 16，進入第三週第二階段：**Part 3 意圖／暗示推論**，文法主題是 **不定代名詞 `someone / anyone / everyone / no one / something / anything / nothing`**。\n\n目前沒有收到 Day 16 的實際答題結果，因此維持 **860～900 分難度**。今天開始刻意減少 Listening 的原字重現，訓練你從語境判斷「說話者真正想表達什麼」。建議訓練 **90～100 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Recruitment / Human Resources / Training**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| applicant | 申請者 | job applicant |\n| candidate | 候選人 | qualified candidate |\n| recruit | 招募 | recruit employees |\n| recruitment | 招募 | recruitment process |\n| vacancy | 職缺 | fill a vacancy |\n| position | 職位 | apply for a position |\n| qualification | 資格 | meet the qualifications |\n| qualified | 合格的 | highly qualified |\n| experience | 經驗 | work experience |\n| requirement | 要求 | job requirement |\n| résumé | 履歷 | submit a résumé |\n| interview | 面試 | conduct an interview |\n| hire | 雇用 | hire an employee |\n| employment | 就業 | employment opportunity |\n| orientation | 新人說明 | employee orientation |\n| training | 訓練 | training program |\n| participate | 參加 | participate in training |\n| supervisor | 主管 | immediate supervisor |\n| colleague | 同事 | former colleague |\n| department | 部門 | Human Resources department |\n| promotion | 升遷 | receive a promotion |\n| transfer | 調職 | request a transfer |\n| resign | 辭職 | resign from a position |\n| retirement | 退休 | retirement plan |\n| benefit | 福利 | employee benefits |\n| salary | 薪資 | annual salary |\n| evaluate | 評估 | evaluate performance |\n| performance | 表現 | performance review |\n| reference | 推薦人／證明 | professional reference |\n| eligible | 符合資格的 | eligible for promotion |\n\n今天優先形成：\n\n**qualified candidate / fill a vacancy / apply for a position / meet the qualifications / conduct an interview / work experience / employee orientation / receive a promotion / performance review / professional reference**\n\n---"
+    },
+    {
+      "title": "② 今日文法｜someone / anyone",
+      "markdown": "`someone` 通常表示：\n\n> **某人**\n\n常見於肯定句：\n\n> Someone left a message for you.\n\n`anyone` 常見於疑問、否定與條件句：\n\n> Did anyone call?\n\n> I didn't see anyone.\n\n> If anyone has questions, please contact me.\n\n但這不是絕對規則。\n\n例如：\n\n> Would anyone like some coffee?\n\n仍然可以使用 `anyone`。\n\nTOEIC 最重要的是理解語意，而不是死背「肯定 some、否定 any」。\n\n---"
+    },
+    {
+      "title": "③ everyone / no one",
+      "markdown": "> Everyone **is** required to attend.\n\n注意：\n\n`everyone` 雖然代表很多人，文法上視為：\n\n**單數。**\n\n所以：\n\n> Everyone are ❌\n\n> Everyone is ✅\n\n同樣：\n\n> Someone **has** called.\n\n> No one **knows** the answer.\n\n---"
+    },
+    {
+      "title": "④ something / anything / nothing",
+      "markdown": "與人的邏輯類似：\n\n> I have **something** to tell you.\n\n> Do you need **anything**?\n\n> We don't need **anything** else.\n\n> **Nothing** has changed.\n\n注意：\n\n`nothing` 本身已經是否定。\n\n所以標準英文不要寫：\n\n> We don't need nothing. ❌\n\n應該：\n\n> We don't need anything.\n\n或：\n\n> We need nothing.\n\n---"
+    },
+    {
+      "title": "⑤ 不定代名詞 + 形容詞",
+      "markdown": "這是 TOEIC 很值得記的語序。\n\n中文會說：\n\n「重要的事情」\n\n英文：\n\n> **something important**\n\n不是：\n\n> important something ❌\n\n同樣：\n\n> something useful  \n> anything unusual  \n> nothing serious  \n> someone qualified\n\n形容詞放在不定代名詞：\n\n> **後面**\n\n---"
+    },
+    {
+      "title": "⑥ everyone vs. every one",
+      "markdown": "不要混淆。\n\n> **everyone**\n\n= everybody，所有人。\n\n而：\n\n> **every one of the products**\n\n= 每一個產品。\n\n例如：\n\n> Everyone **is** invited.\n\n> Every one of the machines **was** inspected.\n\n兩者都通常搭配單數動詞，但意思不同。\n\n---"
+    },
+    {
+      "title": "⑦ Part 3 今日核心｜意圖推論",
+      "markdown": "正式 TOEIC 常出現：\n\n> What does the man imply when he says, “...” ?\n\n這不是問：\n\n「這句話字面翻譯是什麼？」\n\n而是：\n\n> **他為什麼在這個情境講這句？**\n\n例如：\n\nA：\n\n> Can you finish the report today?\n\nB：\n\n> I have three client meetings this afternoon.\n\n字面：\n\n> 我下午有三場客戶會議。\n\n真正暗示：\n\n> **今天可能無法完成報告。**\n\n這就是今天的核心能力。\n\n---"
+    },
+    {
+      "title": "⑧ Listening｜Part 3 對話一",
+      "markdown": "先看題目。\n\n### Q1\n\nWhat are the speakers discussing?\n\n(A) A job interview  \n(B) A customer complaint  \n(C) A hotel reservation  \n(D) A product shipment\n\n### Q2\n\nWhat problem does the woman mention?\n\n(A) A candidate canceled  \n(B) A meeting room is occupied  \n(C) A résumé is missing  \n(D) A manager is absent\n\n### Q3\n\nWhat does the man imply when he says, “Room 4B should be free after two”?\n\n(A) He wants to cancel the interviews  \n(B) Another room may be available later  \n(C) He will leave work at two  \n(D) The candidates are late\n\n聽力稿：\n\n> **Woman:** We have three candidate interviews this afternoon, but Conference Room 2 is being used for a training session.\n>\n> **Man:** What time is the first interview?\n>\n> **Woman:** Two thirty. I checked Room 3A, but it's reserved all afternoon.\n>\n> **Man:** Room 4B should be free after two. I'll confirm it with reception.\n\n答案：\n\n**1A / 2B / 3B**\n\nQ3 不要只翻譯：\n\n> 4B 兩點後應該有空。\n\n真正意圖：\n\n> **建議改用 Room 4B。**\n\n---"
+    },
+    {
+      "title": "⑨ Listening｜Part 3 對話二",
+      "markdown": "### Q1\n\nWho most likely is the woman?\n\n(A) A job applicant  \n(B) A customer  \n(C) A hotel employee  \n(D) A delivery driver\n\n### Q2\n\nWhy is she calling?\n\n(A) To reschedule an interview  \n(B) To request a salary increase  \n(C) To submit an expense report  \n(D) To cancel an order\n\n### Q3\n\nWhat does the man imply when he says, “Thursday afternoon is still open”?\n\n(A) No interviews will be held Thursday  \n(B) The interview can probably be moved  \n(C) The company has filled the position  \n(D) The office will close Thursday\n\n聽力稿：\n\n> **Woman:** Hello, I'm scheduled to interview for the marketing position Wednesday morning. Unfortunately, my flight has been changed, and I won't arrive until Wednesday afternoon.\n>\n> **Man:** Let me check the interview schedule. Thursday afternoon is still open.\n>\n> **Woman:** That would work perfectly. Thank you.\n\n答案：\n\n**1A / 2A / 3B**\n\n這就是高頻模式：\n\n> is still open\n\n在行程語境：\n\n> **還有空檔**\n\n不一定是「門還開著」。\n\n---"
+    },
+    {
+      "title": "⑩ Listening｜Part 3 對話三",
+      "markdown": "### Q1\n\nWhat are the speakers discussing?\n\n(A) Employee training  \n(B) Office equipment  \n(C) Advertising costs  \n(D) Customer refunds\n\n### Q2\n\nWhat problem does the man mention?\n\n(A) He missed registration  \n(B) The training course is full  \n(C) He lost a document  \n(D) His supervisor is unavailable\n\n### Q3\n\nWhat does the woman mean when she says, “There's another session next Tuesday”?\n\n(A) The employee can attend on another date  \n(B) Tuesday's session has been canceled  \n(C) Training is no longer required  \n(D) Registration is unnecessary\n\n聽力稿：\n\n> **Man:** I tried to register for Friday's safety training, but the system says there are no seats available.\n>\n> **Woman:** Yes, that session filled up yesterday.\n>\n> **Man:** I need to complete the training before the end of the month.\n>\n> **Woman:** There's another session next Tuesday, and I believe it still has several openings.\n\n答案：\n\n**1A / 2B / 3A**\n\nListening 筆記只需要：\n\n> training → Friday full → Tuesday available\n\n---"
+    },
+    {
+      "title": "⑪ Reading｜Part 7",
+      "markdown": "今天限時 **3 分 30 秒**。\n\n> **To:** All Department Managers  \n> **From:** Human Resources  \n> **Subject:** Supervisor Training Program\n>\n> Everyone who was recently promoted to a supervisory position is required to complete the company's new management training program.\n>\n> The program consists of three online courses and one in-person workshop. Participants may complete the online courses at any time before October 20. However, everyone must attend the workshop scheduled for October 23.\n>\n> Anyone who is unable to attend the workshop should contact Human Resources as soon as possible. Another workshop may be arranged in November if enough employees request one.\n>\n> Before attending the workshop, participants should complete all three online courses. Each course takes approximately 45 minutes.\n>\n> Additional information about the program is available on the employee portal. If you notice anything incorrect in your registration information, please notify Human Resources immediately.\n\n### Q1\n\nWho is required to complete the program?\n\n(A) All employees  \n(B) Recently promoted supervisors  \n(C) Job applicants  \n(D) Customers\n\n### Q2\n\nHow many online courses are included?\n\n(A) One  \n(B) Two  \n(C) Three  \n(D) Four\n\n### Q3\n\nWhen is the in-person workshop scheduled?\n\n(A) October 20  \n(B) October 23  \n(C) November 3  \n(D) November 20\n\n### Q4\n\nWhat should someone do if unable to attend?\n\n(A) Contact Human Resources  \n(B) Resign from the program  \n(C) Contact a customer  \n(D) Repeat the online courses\n\n### Q5\n\nUnder what condition might another workshop be offered?\n\n(A) If the first workshop is canceled  \n(B) If enough employees request it  \n(C) If managers approve a new budget  \n(D) If the online courses are delayed\n\n### Q6\n\nWhat should participants do before attending the workshop?\n\n(A) Complete three online courses  \n(B) Submit a résumé  \n(C) Conduct an interview  \n(D) Request a promotion\n\n### Q7\n\nThe word **“anything”** in the final paragraph refers to:\n\n(A) any thing or detail  \n(B) every employee  \n(C) a specific manager  \n(D) no information\n\n**答案：1B / 2C / 3B / 4A / 5B / 6A / 7A**\n\n注意：\n\n> **Anyone who is unable...**\n\n`Anyone` 是單數，所以：\n\n> anyone **is**\n\n不是 `are`。\n\n---"
+    },
+    {
+      "title": "⑫ Part 5 仿真題｜12 題",
+      "markdown": "限制：\n\n**3 分 15 秒。**\n\n### 1\n\n_____ who has questions about the policy should contact Human Resources.\n\n(A) Anyone  \n(B) Anything  \n(C) Nothing  \n(D) Something\n\n### 2\n\n_____ is required to complete the annual safety training.\n\n(A) Everyone  \n(B) Anything  \n(C) Something  \n(D) No\n\n### 3\n\nWe didn't notice _____ unusual during the inspection.\n\n(A) something  \n(B) anything  \n(C) nothing  \n(D) someone\n\n### 4\n\nThere is _____ important that we need to discuss.\n\n(A) anyone  \n(B) nothing  \n(C) someone  \n(D) something\n\n### 5\n\nThe company is looking for _____ with experience in digital marketing.\n\n(A) something  \n(B) anything  \n(C) someone  \n(D) nothing\n\n### 6\n\n_____ has changed since yesterday's meeting.\n\n(A) No one  \n(B) Nothing  \n(C) Anyone  \n(D) Someone\n\n### 7\n\nIf _____ needs assistance, please let me know.\n\n(A) anything  \n(B) anyone  \n(C) nothing  \n(D) something\n\n### 8\n\nDid _____ contact the supplier this morning?\n\n(A) anyone  \n(B) someone  \n(C) nothing  \n(D) anything\n\n### 9\n\nWe need to hire someone _____ to manage the new department.\n\n(A) qualification  \n(B) qualifying  \n(C) qualified  \n(D) qualifies\n\n### 10\n\nThere isn't _____ available in the larger conference room today.\n\n(A) something  \n(B) anything  \n(C) nothing  \n(D) someone\n\n### 11\n\nEveryone on the project team _____ expected to attend.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n### 12\n\nSomething _____ happened to the printer this morning.\n\n(A) unusual  \n(B) unusually  \n(C) unusualness  \n(D) more unusually\n\n**答案：1A / 2A / 3B / 4D / 5C / 6B / 7B / 8A / 9C / 10B / 11C / 12A**\n\nQ9：\n\n> someone **qualified**\n\n不定代名詞後面放形容詞。\n\nQ12：\n\n> something **unusual**\n\n同樣規則。\n\n---"
+    },
+    {
+      "title": "⑬ Day 17 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\n_____ who wants to participate should register by Friday.\n\n(A) Anything  \n(B) Anyone  \n(C) Nothing  \n(D) Something\n\n### Q2\n\nWe didn't find _____ wrong with the equipment.\n\n(A) something  \n(B) nothing  \n(C) anything  \n(D) someone\n\n### Q3\n\nThe company needs someone _____ in international sales.\n\n(A) experience  \n(B) experienced  \n(C) experiencing  \n(D) experiences\n\n### Q4\n\nEveryone in the department _____ required to attend.\n\n(A) are  \n(B) have  \n(C) is  \n(D) were\n\n### Q5\n\nThere is _____ important in the manager's email.\n\n(A) something  \n(B) anyone  \n(C) someone  \n(D) anything\n\n### Q6\n\nIn Dialogue 1, why can't the woman use Conference Room 2?\n\n(A) It is being renovated  \n(B) A training session is taking place there  \n(C) An interview is taking place there  \n(D) It is too small\n\n### Q7\n\nWhat does the man in Dialogue 1 suggest?\n\n(A) Canceling the interviews  \n(B) Using Room 4B  \n(C) Moving the training  \n(D) Interviewing candidates online\n\n### Q8\n\nWhy does the woman in Dialogue 2 need to change her interview?\n\n(A) Her flight schedule changed  \n(B) She accepted another job  \n(C) She is attending training  \n(D) She forgot the interview\n\n### Q9\n\nWhat does “Thursday afternoon is still open” imply?\n\n(A) The office closes Thursday  \n(B) Another interview time is available  \n(C) Thursday's interview is canceled  \n(D) The position has been filled\n\n### Q10\n\nWhy can't the man in Dialogue 3 attend Friday's training?\n\n(A) He has a meeting  \n(B) Registration has not opened  \n(C) The session is already full  \n(D) His manager canceled it\n\n## 答案\n\n**1B / 2C / 3B / 4C / 5A / 6B / 7B / 8A / 9B / 10C**\n\n---"
+    },
+    {
+      "title": "⑭ 今日解析",
+      "markdown": "Q2：\n\n> didn't find _____\n\n句子本身已有否定：\n\n> didn't\n\n所以使用：\n\n> **anything**\n\n不要：\n\n> didn't find nothing ❌\n\n---\n\nQ3：\n\n> someone _____\n\n需要修飾 someone。\n\n不定代名詞後：\n\n> **形容詞**\n\n所以：\n\n> someone **experienced**\n\n---\n\nQ4：\n\n> Everyone ... _____ required\n\n`everyone` 文法上：\n\n**單數**\n\n所以：\n\n> **is required**\n\n---\n\nQ9 是今天 Listening 最重要的一題。\n\n> Thursday afternoon is still open.\n\n不能只翻成：\n\n「星期四下午仍然是開的。」\n\n根據上下文：\n\n> interview schedule\n\n因此：\n\n> open = **available**\n\n真正意思：\n\n> **星期四下午還有可安排面試的時段。**\n\n這就是 TOEIC 860+ 很重要的「語境義」。\n\n---"
+    },
+    {
+      "title": "⑮ 錯題回收｜Day 13～16",
+      "markdown": "請快速回答：\n\n> The new system is much _____ than the old one.\n\n**more efficient**\n\n> twice as _____ as\n\n**large**\n\n> The company changed _____ policy.\n\n**its**\n\n> Employees registered _____.\n\n**themselves**\n\n> We need _____ meeting.\n\n**another**\n\n> Some employees attended; _____ stayed home.\n\n**others**\n\n> We have very _____ information.\n\n**little**\n\n> We still have _____ time, so let's review.\n\n**a little**\n\n> Each of the products _____ inspected.\n\n**is**\n\n> _____ employee must attend.\n\n**Every**\n\n目標：\n\n**10 題 ≤ 40 秒。**\n\n---"
+    },
+    {
+      "title": "⑯ 今日作業",
+      "markdown": "今天先複習十組 HR 搭配：\n\n> qualified candidate  \n> fill a vacancy  \n> apply for a position  \n> meet the qualifications  \n> conduct an interview  \n> work experience  \n> employee orientation  \n> receive a promotion  \n> performance review  \n> professional reference\n\n文法則直接形成四個反射：\n\n> someone → 某人\n\n> anyone → 任何人／有人\n\n> everyone → 所有人，但 **單數動詞**\n\n> no one → 沒有人，而且 **單數動詞**\n\n以及：\n\n> something **important**\n\n> anything **unusual**\n\n> someone **qualified**\n\n記住形容詞放在不定代名詞**後面**。\n\nListening 作業不要重新逐字翻譯三段對話，只寫：\n\n> **D1：interviews → room unavailable → Room 4B**\n\n> **D2：interview → flight changed → Thursday**\n\n> **D3：training → Friday full → Tuesday**\n\n接著每段自己回答：\n\n> **Problem?**\n\n> **Solution?**\n\n> **Next action?**\n\n最後重新完成 Day 17 小考，第二次限制 **2 分鐘 15 秒**，目標 **10/10**。\n\n如果今天達到 **9～10/10**，後續 Listening 可以繼續提高到 900 分難度；若 Q6～Q10 錯兩題以上，接下來會增加「字面意思 vs. 說話者真正意圖」的對照訓練。\n\n今天最重要的能力不是背 `someone`，而是 Listening 的這個轉變：\n\n> **不要只問「他說了什麼？」；開始問「他為什麼要說這句話？」**\n\nDay 18 將進入 **Part 3 三人對話 + 圖表資訊整合入門**，文法則處理高頻的 **主詞動詞一致：either/neither、along with、as well as、there is/are**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "applicant",
+      "meaning": "申請者",
+      "phrase": "job applicant"
+    },
+    {
+      "id": 2,
+      "word": "candidate",
+      "meaning": "候選人",
+      "phrase": "qualified candidate"
+    },
+    {
+      "id": 3,
+      "word": "recruit",
+      "meaning": "招募",
+      "phrase": "recruit employees"
+    },
+    {
+      "id": 4,
+      "word": "recruitment",
+      "meaning": "招募",
+      "phrase": "recruitment process"
+    },
+    {
+      "id": 5,
+      "word": "vacancy",
+      "meaning": "職缺",
+      "phrase": "fill a vacancy"
+    },
+    {
+      "id": 6,
+      "word": "position",
+      "meaning": "職位",
+      "phrase": "apply for a position"
+    },
+    {
+      "id": 7,
+      "word": "qualification",
+      "meaning": "資格",
+      "phrase": "meet the qualifications"
+    },
+    {
+      "id": 8,
+      "word": "qualified",
+      "meaning": "合格的",
+      "phrase": "highly qualified"
+    },
+    {
+      "id": 9,
+      "word": "experience",
+      "meaning": "經驗",
+      "phrase": "work experience"
+    },
+    {
+      "id": 10,
+      "word": "requirement",
+      "meaning": "要求",
+      "phrase": "job requirement"
+    },
+    {
+      "id": 11,
+      "word": "résumé",
+      "meaning": "履歷",
+      "phrase": "submit a résumé"
+    },
+    {
+      "id": 12,
+      "word": "interview",
+      "meaning": "面試",
+      "phrase": "conduct an interview"
+    },
+    {
+      "id": 13,
+      "word": "hire",
+      "meaning": "雇用",
+      "phrase": "hire an employee"
+    },
+    {
+      "id": 14,
+      "word": "employment",
+      "meaning": "就業",
+      "phrase": "employment opportunity"
+    },
+    {
+      "id": 15,
+      "word": "orientation",
+      "meaning": "新人說明",
+      "phrase": "employee orientation"
+    },
+    {
+      "id": 16,
+      "word": "training",
+      "meaning": "訓練",
+      "phrase": "training program"
+    },
+    {
+      "id": 17,
+      "word": "participate",
+      "meaning": "參加",
+      "phrase": "participate in training"
+    },
+    {
+      "id": 18,
+      "word": "supervisor",
+      "meaning": "主管",
+      "phrase": "immediate supervisor"
+    },
+    {
+      "id": 19,
+      "word": "colleague",
+      "meaning": "同事",
+      "phrase": "former colleague"
+    },
+    {
+      "id": 20,
+      "word": "department",
+      "meaning": "部門",
+      "phrase": "Human Resources department"
+    },
+    {
+      "id": 21,
+      "word": "promotion",
+      "meaning": "升遷",
+      "phrase": "receive a promotion"
+    },
+    {
+      "id": 22,
+      "word": "transfer",
+      "meaning": "調職",
+      "phrase": "request a transfer"
+    },
+    {
+      "id": 23,
+      "word": "resign",
+      "meaning": "辭職",
+      "phrase": "resign from a position"
+    },
+    {
+      "id": 24,
+      "word": "retirement",
+      "meaning": "退休",
+      "phrase": "retirement plan"
+    },
+    {
+      "id": 25,
+      "word": "benefit",
+      "meaning": "福利",
+      "phrase": "employee benefits"
+    },
+    {
+      "id": 26,
+      "word": "salary",
+      "meaning": "薪資",
+      "phrase": "annual salary"
+    },
+    {
+      "id": 27,
+      "word": "evaluate",
+      "meaning": "評估",
+      "phrase": "evaluate performance"
+    },
+    {
+      "id": 28,
+      "word": "performance",
+      "meaning": "表現",
+      "phrase": "performance review"
+    },
+    {
+      "id": 29,
+      "word": "reference",
+      "meaning": "推薦人／證明",
+      "phrase": "professional reference"
+    },
+    {
+      "id": 30,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for promotion"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Part 3 對話 1",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers discussing?",
+          "options": {
+            "A": "A job interview",
+            "B": "A customer complaint",
+            "C": "A hotel reservation",
+            "D": "A product shipment"
+          },
+          "answer": "A",
+          "explanation": "三場 candidate interviews 是對話主題。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does the woman mention?",
+          "options": {
+            "A": "A candidate canceled",
+            "B": "A meeting room is occupied",
+            "C": "A résumé is missing",
+            "D": "A manager is absent"
+          },
+          "answer": "B",
+          "explanation": "Conference Room 2 正在進行 training session。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man imply when he says, “Room 4B should be free after two”?",
+          "options": {
+            "A": "He wants to cancel the interviews",
+            "B": "Another room may be available later",
+            "C": "He will leave work at two",
+            "D": "The candidates are late"
+          },
+          "answer": "B",
+          "explanation": "Room 4B 兩點後有空，暗示可改用該會議室。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Part 3 對話 2",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the woman?",
+          "options": {
+            "A": "A job applicant",
+            "B": "A customer",
+            "C": "A hotel employee",
+            "D": "A delivery driver"
+          },
+          "answer": "A",
+          "explanation": "woman 預定參加面試，最可能是求職者。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is she calling?",
+          "options": {
+            "A": "To reschedule an interview",
+            "B": "To request a salary increase",
+            "C": "To submit an expense report",
+            "D": "To cancel an order"
+          },
+          "answer": "A",
+          "explanation": "班機時間改變，因此要求改面試時間。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man imply when he says, “Thursday afternoon is still open”?",
+          "options": {
+            "A": "No interviews will be held Thursday",
+            "B": "The interview can probably be moved",
+            "C": "The company has filled the position",
+            "D": "The office will close Thursday"
+          },
+          "answer": "B",
+          "explanation": "Thursday afternoon is still open 表示還有可安排面試的時段。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Part 3 對話 3",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers discussing?",
+          "options": {
+            "A": "Employee training",
+            "B": "Office equipment",
+            "C": "Advertising costs",
+            "D": "Customer refunds"
+          },
+          "answer": "A",
+          "explanation": "對話討論 employee training。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does the man mention?",
+          "options": {
+            "A": "He missed registration",
+            "B": "The training course is full",
+            "C": "He lost a document",
+            "D": "His supervisor is unavailable"
+          },
+          "answer": "B",
+          "explanation": "Friday session 已額滿。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the woman mean when she says, “There's another session next Tuesday”?",
+          "options": {
+            "A": "The employee can attend on another date",
+            "B": "Tuesday's session has been canceled",
+            "C": "Training is no longer required",
+            "D": "Registration is unnecessary"
+          },
+          "answer": "A",
+          "explanation": "Tuesday 還有場次，表示可改到另一天參加。"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Part 7 閱讀",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who is required to complete the program?",
+          "options": {
+            "A": "All employees",
+            "B": "Recently promoted supervisors",
+            "C": "Job applicants",
+            "D": "Customers"
+          },
+          "answer": "B",
+          "explanation": "新升任主管者必須完成課程。"
+        },
+        {
+          "id": 2,
+          "prompt": "How many online courses are included?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "answer": "C",
+          "explanation": "課程包含三門線上課。"
+        },
+        {
+          "id": 3,
+          "prompt": "When is the in-person workshop scheduled?",
+          "options": {
+            "A": "October 20",
+            "B": "October 23",
+            "C": "November 3",
+            "D": "November 20"
+          },
+          "answer": "B",
+          "explanation": "實體工作坊在 10 月 23 日。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should someone do if unable to attend?",
+          "options": {
+            "A": "Contact Human Resources",
+            "B": "Resign from the program",
+            "C": "Contact a customer",
+            "D": "Repeat the online courses"
+          },
+          "answer": "A",
+          "explanation": "無法出席者應聯絡 Human Resources。"
+        },
+        {
+          "id": 5,
+          "prompt": "Under what condition might another workshop be offered?",
+          "options": {
+            "A": "If the first workshop is canceled",
+            "B": "If enough employees request it",
+            "C": "If managers approve a new budget",
+            "D": "If the online courses are delayed"
+          },
+          "answer": "B",
+          "explanation": "若足夠多人提出需求，可能增開場次。"
+        },
+        {
+          "id": 6,
+          "prompt": "What should participants do before attending the workshop?",
+          "options": {
+            "A": "Complete three online courses",
+            "B": "Submit a résumé",
+            "C": "Conduct an interview",
+            "D": "Request a promotion"
+          },
+          "answer": "A",
+          "explanation": "工作坊前應完成三門線上課。"
+        },
+        {
+          "id": 7,
+          "prompt": "The word **“anything”** in the final paragraph refers to:",
+          "options": {
+            "A": "any thing or detail",
+            "B": "every employee",
+            "C": "a specific manager",
+            "D": "no information"
+          },
+          "answer": "A",
+          "explanation": "anything 指任何事情或細節。"
+        }
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ who has questions about the policy should contact Human Resources.",
+          "options": {
+            "A": "Anyone",
+            "B": "Anything",
+            "C": "Nothing",
+            "D": "Something"
+          },
+          "answer": "A",
+          "explanation": "指任何有問題的人，使用 Anyone。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ is required to complete the annual safety training.",
+          "options": {
+            "A": "Everyone",
+            "B": "Anything",
+            "C": "Something",
+            "D": "No"
+          },
+          "answer": "A",
+          "explanation": "Everyone 指所有人並搭配單數動詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "We didn't notice _____ unusual during the inspection.",
+          "options": {
+            "A": "something",
+            "B": "anything",
+            "C": "nothing",
+            "D": "someone"
+          },
+          "answer": "B",
+          "explanation": "否定句 didn’t notice 使用 anything。"
+        },
+        {
+          "id": 4,
+          "prompt": "There is _____ important that we need to discuss.",
+          "options": {
+            "A": "anyone",
+            "B": "nothing",
+            "C": "someone",
+            "D": "something"
+          },
+          "answer": "D",
+          "explanation": "肯定句表示有重要事情，使用 something。"
+        },
+        {
+          "id": 5,
+          "prompt": "The company is looking for _____ with experience in digital marketing.",
+          "options": {
+            "A": "something",
+            "B": "anything",
+            "C": "someone",
+            "D": "nothing"
+          },
+          "answer": "C",
+          "explanation": "尋找具經驗的某人，使用 someone。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ has changed since yesterday's meeting.",
+          "options": {
+            "A": "No one",
+            "B": "Nothing",
+            "C": "Anyone",
+            "D": "Someone"
+          },
+          "answer": "B",
+          "explanation": "Nothing 本身表示沒有任何事。"
+        },
+        {
+          "id": 7,
+          "prompt": "If _____ needs assistance, please let me know.",
+          "options": {
+            "A": "anything",
+            "B": "anyone",
+            "C": "nothing",
+            "D": "something"
+          },
+          "answer": "B",
+          "explanation": "if 條件句指任何需要協助的人，使用 anyone。"
+        },
+        {
+          "id": 8,
+          "prompt": "Did _____ contact the supplier this morning?",
+          "options": {
+            "A": "anyone",
+            "B": "someone",
+            "C": "nothing",
+            "D": "anything"
+          },
+          "answer": "A",
+          "explanation": "疑問句詢問是否有人聯絡，使用 anyone。"
+        },
+        {
+          "id": 9,
+          "prompt": "We need to hire someone _____ to manage the new department.",
+          "options": {
+            "A": "qualification",
+            "B": "qualifying",
+            "C": "qualified",
+            "D": "qualifies"
+          },
+          "answer": "C",
+          "explanation": "形容詞放在不定代名詞後：someone qualified。"
+        },
+        {
+          "id": 10,
+          "prompt": "There isn't _____ available in the larger conference room today.",
+          "options": {
+            "A": "something",
+            "B": "anything",
+            "C": "nothing",
+            "D": "someone"
+          },
+          "answer": "B",
+          "explanation": "否定句 isn’t 使用 anything。"
+        },
+        {
+          "id": 11,
+          "prompt": "Everyone on the project team _____ expected to attend.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Everyone 視為單數，使用 is。"
+        },
+        {
+          "id": 12,
+          "prompt": "Something _____ happened to the printer this morning.",
+          "options": {
+            "A": "unusual",
+            "B": "unusually",
+            "C": "unusualness",
+            "D": "more unusually"
+          },
+          "answer": "A",
+          "explanation": "形容詞置後：something unusual。"
+        }
+      ]
+    },
+    {
+      "id": "day-17-quiz",
+      "title": "Day 17 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ who wants to participate should register by Friday.",
+          "options": {
+            "A": "Anything",
+            "B": "Anyone",
+            "C": "Nothing",
+            "D": "Something"
+          },
+          "answer": "B",
+          "explanation": "指任何想參加的人，使用 Anyone。"
+        },
+        {
+          "id": 2,
+          "prompt": "We didn't find _____ wrong with the equipment.",
+          "options": {
+            "A": "something",
+            "B": "nothing",
+            "C": "anything",
+            "D": "someone"
+          },
+          "answer": "C",
+          "explanation": "否定句 didn’t find 使用 anything。"
+        },
+        {
+          "id": 3,
+          "prompt": "The company needs someone _____ in international sales.",
+          "options": {
+            "A": "experience",
+            "B": "experienced",
+            "C": "experiencing",
+            "D": "experiences"
+          },
+          "answer": "B",
+          "explanation": "形容詞置後：someone experienced。"
+        },
+        {
+          "id": 4,
+          "prompt": "Everyone in the department _____ required to attend.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Everyone 視為單數，使用 is。"
+        },
+        {
+          "id": 5,
+          "prompt": "There is _____ important in the manager's email.",
+          "options": {
+            "A": "something",
+            "B": "anyone",
+            "C": "someone",
+            "D": "anything"
+          },
+          "answer": "A",
+          "explanation": "肯定句表示有重要內容，使用 something。"
+        },
+        {
+          "id": 6,
+          "prompt": "In Dialogue 1, why can't the woman use Conference Room 2?",
+          "options": {
+            "A": "It is being renovated",
+            "B": "A training session is taking place there",
+            "C": "An interview is taking place there",
+            "D": "It is too small"
+          },
+          "answer": "B",
+          "explanation": "Room 2 正在舉辦 training session。"
+        },
+        {
+          "id": 7,
+          "prompt": "What does the man in Dialogue 1 suggest?",
+          "options": {
+            "A": "Canceling the interviews",
+            "B": "Using Room 4B",
+            "C": "Moving the training",
+            "D": "Interviewing candidates online"
+          },
+          "answer": "B",
+          "explanation": "man 建議改用 Room 4B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why does the woman in Dialogue 2 need to change her interview?",
+          "options": {
+            "A": "Her flight schedule changed",
+            "B": "She accepted another job",
+            "C": "She is attending training",
+            "D": "She forgot the interview"
+          },
+          "answer": "A",
+          "explanation": "woman 的航班時間改變。"
+        },
+        {
+          "id": 9,
+          "prompt": "What does “Thursday afternoon is still open” imply?",
+          "options": {
+            "A": "The office closes Thursday",
+            "B": "Another interview time is available",
+            "C": "Thursday's interview is canceled",
+            "D": "The position has been filled"
+          },
+          "answer": "B",
+          "explanation": "open 在行程語境表示還有可用時段。"
+        },
+        {
+          "id": 10,
+          "prompt": "Why can't the man in Dialogue 3 attend Friday's training?",
+          "options": {
+            "A": "He has a meeting",
+            "B": "Registration has not opened",
+            "C": "The session is already full",
+            "D": "His manager canceled it"
+          },
+          "answer": "C",
+          "explanation": "Friday training 已額滿。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "Listening 不只問說了什麼，也要判斷說話者為什麼說這句話。",
+  "nextDay": "Part 3 三人對話＋圖表資訊整合入門＋主詞動詞一致"
+}

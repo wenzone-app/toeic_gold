@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "day": 23,
+  "title": "Part 4 數字資訊定位＋Double Passage 跨篇推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 23 教材",
+  "sections": [
+    {
+      "title": "Day 23 學習概覽",
+      "markdown": "今天接續 Day 22，進入第四週第二階段。重點從「聽懂一段話」提升到 **Part 4 廣播／新聞／數字資訊定位**，Reading 繼續 **Double Passage 跨篇推論**；文法進入 TOEIC 高頻的 **名詞子句 `that / whether / if / what`**。\n\n目前尚未取得 Day 22 的實際答題結果，因此維持 **860～900 分難度**，但今天會增加「原文不直接出現答案」的同義改寫題。建議完成時間約 **95～105 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Finance / Budget / Business Performance**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| budget | 預算 | annual budget |\n| revenue | 營收 | increase revenue |\n| profit | 利潤 | annual profit |\n| expense | 支出 | operating expenses |\n| cost | 成本 | reduce costs |\n| estimate | 估算 | cost estimate |\n| financial | 財務的 | financial report |\n| fiscal | 會計年度的 | fiscal year |\n| quarter | 季度 | first quarter |\n| annual | 年度的 | annual report |\n| increase | 增加 | increase by 10% |\n| decrease | 減少 | decrease by 5% |\n| decline | 下降 | sales decline |\n| rise | 上升 | rise sharply |\n| stable | 穩定的 | remain stable |\n| approximately | 大約 | approximately $500 |\n| exceed | 超過 | exceed expectations |\n| allocate | 分配 | allocate funds |\n| funding | 資金 | additional funding |\n| investment | 投資 | capital investment |\n| forecast | 預測 | sales forecast |\n| projection | 預測 | revenue projection |\n| transaction | 交易 | financial transaction |\n| invoice | 發票 | issue an invoice |\n| payment | 付款 | make a payment |\n| outstanding | 未支付的 | outstanding balance |\n| fee | 費用 | service fee |\n| charge | 收費 | additional charge |\n| afford | 負擔得起 | cannot afford |\n| profitable | 有利潤的 | profitable business |\n\n今天優先形成：\n\n> **annual budget**  \n> **operating expenses**  \n> **financial report**  \n> **fiscal year**  \n> **sales forecast**  \n> **revenue projection**  \n> **allocate funds**  \n> **outstanding balance**  \n> **additional charge**  \n> **exceed expectations**\n\n數字題另外記住：\n\n> increase **by** 20%\n\n= 增加「20%」。\n\n> increase **to** $120\n\n= 增加「到 $120」。\n\n這兩個非常容易混淆。"
+    },
+    {
+      "title": "② 今日文法｜名詞子句是什麼？",
+      "markdown": "名詞子句就是：\n\n> **一整個子句，在句子裡當名詞使用。**\n\n例如：\n\n> We know **that the shipment has arrived**.\n\n`that the shipment has arrived` 整段是 `know` 的受詞。\n\n因此：\n\n> S + V + **that + S + V**"
+    },
+    {
+      "title": "③ that",
+      "markdown": "`that` 本身通常沒有實質意思，只是把完整句變成名詞子句。\n\n> The manager confirmed **that the meeting had been canceled**.\n\n後面：\n\n> the meeting had been canceled\n\n本身完整。\n\n另一個例子：\n\n> We believe **that sales will increase next quarter**.\n\nTOEIC 常在：\n\n> confirm  \n> announce  \n> believe  \n> indicate  \n> report  \n> mention  \n> expect\n\n後面看到 `that`。"
+    },
+    {
+      "title": "④ whether / if",
+      "markdown": "兩者都可以表示：\n\n> **是否**\n\n例如：\n\n> We don't know **whether the supplier has received the order**.\n\n也可以：\n\n> We don't know **if the supplier has received the order**.\n\n但 `whether` 適用範圍更廣。\n\n尤其：\n\n> whether A or B\n\n例如：\n\n> We haven't decided **whether to repair or replace the machine**."
+    },
+    {
+      "title": "⑤ whether or not",
+      "markdown": "高頻：\n\n> Please let us know **whether or not** you will attend.\n\n= 請告知是否參加。\n\n也可以：\n\n> whether you will attend or not"
+    },
+    {
+      "title": "⑥ what",
+      "markdown": "這是今天最重要的區別。\n\n比較：\n\n> I know **that he ordered** the equipment.\n\n`that`：\n\n只負責連接。\n\n但是：\n\n> I know **what he ordered**.\n\n`what` 本身等於：\n\n> **the thing that**\n\n所以：\n\n> what he ordered\n\n= 他訂購的東西。"
+    },
+    {
+      "title": "⑦ that vs. what 秒判",
+      "markdown": "### A\n\n> We know _____ the customer ordered a laptop.\n\n後面：\n\n> the customer ordered a laptop\n\n完整。\n\n答案：\n\n> **that**\n\n### B\n\n> We know _____ the customer ordered.\n\n後面：\n\n> the customer ordered _____\n\n缺受詞。\n\n答案：\n\n> **what**\n\n這個判斷非常重要。\n\n> **that → 後面完整**\n\n> **what → what 自己在子句中扮演成分**"
+    },
+    {
+      "title": "⑧ 名詞子句語序",
+      "markdown": "這是 TOEIC 常見陷阱。\n\n錯：\n\n> Do you know where **is the meeting**? ❌\n\n正確：\n\n> Do you know where **the meeting is**? ✅\n\n因為進入名詞子句後：\n\n> **使用正常陳述句語序**\n\n不是問句語序。\n\n同樣：\n\n> Can you tell me when **the store opens**?\n\n不是：\n\n> when does the store open ❌"
+    },
+    {
+      "title": "⑨ Part 4 數字資訊策略",
+      "markdown": "Part 4 遇到：\n\n> dates  \n> prices  \n> percentages  \n> times  \n> quantities\n\n不要試圖記全部。\n\n例如：\n\n> Sales increased 8 percent in April, 12 percent in May, and 17 percent in June.\n\n題目如果問：\n\n> What was the increase in June?\n\n你只需要定位：\n\n> June → 17%\n\n所以筆記：\n\n> Apr 8  \n> May 12  \n> Jun 17\n\n而不是把整句寫下來。"
+    },
+    {
+      "title": "⑩ Listening｜Part 4 商業新聞",
+      "markdown": "### Q1\n\nWhat is the report mainly about?\n\n(A) A company's financial performance  \n(B) A new employee training program  \n(C) A factory relocation  \n(D) A product recall\n\n### Q2\n\nBy how much did revenue increase?\n\n(A) 5 percent  \n(B) 8 percent  \n(C) 12 percent  \n(D) 18 percent\n\n### Q3\n\nWhat contributed to the result?\n\n(A) Lower employee salaries  \n(B) Strong online sales  \n(C) A new factory  \n(D) Reduced advertising\n\n聽力稿：\n\n> Harland Electronics released its second-quarter financial results this morning. The company reported that revenue increased by 12 percent compared with the same period last year. Executives said strong online sales contributed significantly to the increase. Operating expenses also rose by five percent, mainly because of higher transportation costs. The company expects sales to remain strong during the next quarter.\n\n答案：\n\n**1A / 2C / 3B**\n\n注意干擾數字：\n\n> revenue → **12%**\n\n> expenses → **5%**\n\n如果只聽到數字卻沒有綁定名詞，就很容易選錯。\n\n所以筆記：\n\n> rev +12  \n> expense +5"
+    },
+    {
+      "title": "⑪ Listening｜Part 4 廣播通知",
+      "markdown": "### Q1\n\nWhat is being announced?\n\n(A) A train delay  \n(B) A ticket-price increase  \n(C) A new train route  \n(D) A station closure\n\n### Q2\n\nWhen will the train now depart?\n\n(A) 4:15  \n(B) 4:30  \n(C) 4:45  \n(D) 5:00\n\n### Q3\n\nWhat are passengers advised to do?\n\n(A) Request refunds  \n(B) Remain near the platform  \n(C) Take a bus  \n(D) Purchase another ticket\n\n聽力稿：\n\n> Attention, passengers waiting for Train 417 to Kaohsiung. The train was originally scheduled to depart at four fifteen, but because of a mechanical inspection, departure has been delayed by thirty minutes. Passengers should remain near Platform 3 and listen for further announcements. We apologize for the delay.\n\n答案：\n\n**1A / 2C / 3B**\n\n計算：\n\n> 4:15 + 30 minutes = **4:45**\n\n這類題正式 TOEIC 可能要求你做簡單運算。"
+    },
+    {
+      "title": "⑫ Listening｜Part 4 公司簡報",
+      "markdown": "### Q1\n\nWhat is the speaker discussing?\n\n(A) Sales performance  \n(B) Employee recruitment  \n(C) Building maintenance  \n(D) Customer complaints\n\n### Q2\n\nWhich region had the highest growth?\n\n(A) North  \n(B) Central  \n(C) South  \n(D) International\n\n### Q3\n\nWhat will the company probably do next?\n\n(A) Reduce product prices  \n(B) Increase investment in the southern region  \n(C) Close several stores  \n(D) Hire fewer employees\n\n聽力稿：\n\n> Let's look at our regional sales figures for the first half of the year. Sales in the northern region increased by six percent, while the central region grew by nine percent. Our strongest performance came from the southern region, where sales increased by fifteen percent. Because demand there continues to exceed our expectations, management plans to allocate additional marketing funds to that region during the next quarter.\n\n答案：\n\n**1A / 2C / 3B**\n\n筆記：\n\n> N 6  \n> C 9  \n> S 15 → more marketing $\n\n最後一句沒有說：\n\n> increase investment\n\n但：\n\n> allocate additional marketing funds\n\n就是：\n\n**增加投入。**"
+    },
+    {
+      "title": "⑬ Reading｜Double Passage 進階",
+      "markdown": "限時：\n\n**5 分鐘。**\n\n### Passage 1 — Internal Memo\n\n> **To:** Department Managers  \n> **From:** Finance Division  \n> **Subject:** 2027 Budget Requests\n>\n> Department managers should submit preliminary budget requests for the next fiscal year by October 15.\n>\n> Each request must include estimated operating expenses, planned equipment purchases, and any proposed increases in staffing.\n>\n> Managers whose requests exceed their department's current annual budget by more than 10 percent should also provide a written explanation of the additional expenses.\n>\n> The Finance Division will review all submissions between October 16 and October 31. Managers will be notified of preliminary decisions during the first week of November.\n>\n> Final budgets are expected to be approved by November 20.\n\n### Passage 2 — E-mail\n\n> **To:** Finance Division  \n> **From:** Laura Chen, Marketing Manager  \n> **Subject:** Question About Budget Request\n>\n> I'm preparing our department's budget request and expect the total to be approximately 14 percent higher than this year's budget.\n>\n> Most of the increase is related to our plan to hire an additional marketing specialist and purchase new video-production equipment.\n>\n> I understand that some departments need to provide additional documentation. Could you confirm what I should include with our request?\n>\n> I plan to submit everything on October 12 because I'll be attending a conference from October 13 through October 17.\n>\n> Thank you.\n\n### Q1\n\nWhat is the deadline for preliminary budget requests?\n\n(A) October 12  \n(B) October 15  \n(C) October 31  \n(D) November 20\n\n### Q2\n\nWhat information must all requests include?\n\n(A) Customer surveys  \n(B) Operating expenses, equipment purchases, and staffing changes  \n(C) Employee performance reviews  \n(D) Conference schedules\n\n### Q3\n\nWhen is additional explanation required?\n\n(A) When a budget decreases  \n(B) When the request exceeds the current budget by more than 10 percent  \n(C) When new equipment costs more than staffing  \n(D) When a request is submitted early\n\n### Q4\n\nWhy is Laura's proposed budget higher?\n\n(A) Higher transportation expenses  \n(B) A new employee and equipment  \n(C) Office renovation  \n(D) Increased rent\n\n### Q5\n\nWhy does Laura ask about additional documentation?\n\n(A) Her request will probably exceed the 10-percent threshold  \n(B) She will submit after the deadline  \n(C) Her department has no annual budget  \n(D) She lost the required forms\n\n### Q6\n\nWhen does Laura intend to submit her request?\n\n(A) October 12  \n(B) October 13  \n(C) October 15  \n(D) October 17\n\n### Q7\n\nWhat can be inferred about Laura's submission?\n\n(A) It will probably require a written explanation  \n(B) It will automatically be rejected  \n(C) It will be 10 percent lower than last year  \n(D) It cannot include equipment expenses\n\n**答案：1B / 2B / 3B / 4B / 5A / 6A / 7A**"
+    },
+    {
+      "title": "⑭ Double Passage 核心解析",
+      "markdown": "Q5 是今天 Reading 最重要的一題。\n\nMemo：\n\n> over **10%** → written explanation\n\nLaura：\n\n> approximately **14% higher**\n\n所以：\n\n> 14 > 10\n\n因此她需要：\n\n> **additional explanation/documentation**\n\n答案沒有直接出現在 Laura 的 Email。\n\n必須做：\n\n> Passage 1 規則  \n> + Passage 2 數字  \n> = 推論\n\n這就是 900 分 Reading 很重要的能力。"
+    },
+    {
+      "title": "⑮ Part 5 仿真題｜12 題",
+      "markdown": "限時：\n\n**3 分鐘。**\n\n### 1\n\nThe manager confirmed _____ the shipment had arrived.\n\n(A) what  \n(B) that  \n(C) whether  \n(D) which\n\n### 2\n\nWe haven't decided _____ the conference will be held online or in person.\n\n(A) what  \n(B) that  \n(C) whether  \n(D) which\n\n### 3\n\nPlease let us know _____ you will attend the seminar.\n\n(A) whether  \n(B) what  \n(C) that  \n(D) whose\n\n### 4\n\nThe report indicates _____ sales increased last quarter.\n\n(A) what  \n(B) that  \n(C) whether  \n(D) whom\n\n### 5\n\nWe don't know _____ caused the equipment malfunction.\n\n(A) that  \n(B) whether  \n(C) what  \n(D) which of\n\n### 6\n\nCould you tell me when the meeting _____?\n\n(A) does start  \n(B) start does  \n(C) starts  \n(D) does it start\n\n### 7\n\nDo you know where Mr. Lin _____?\n\n(A) works  \n(B) does work  \n(C) work does  \n(D) does he work\n\n### 8\n\nThe customer asked _____ the product was still under warranty.\n\n(A) that  \n(B) whether  \n(C) what  \n(D) whose\n\n### 9\n\nWe understand _____ you need.\n\n(A) that  \n(B) whether  \n(C) what  \n(D) whom\n\n### 10\n\nThe company announced _____ a new branch would open next year.\n\n(A) what  \n(B) whether  \n(C) that  \n(D) whose\n\n### 11\n\nPlease confirm _____ or not the invoice has been paid.\n\n(A) what  \n(B) whether  \n(C) that  \n(D) which\n\n### 12\n\nCan you explain _____ the customer requested?\n\n(A) that  \n(B) whether  \n(C) what  \n(D) where\n\n**答案：1B / 2C / 3A / 4B / 5C / 6C / 7A / 8B / 9C / 10C / 11B / 12C**"
+    },
+    {
+      "title": "⑯ Day 23 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\nThe report shows _____ revenue increased significantly.\n\n(A) what  \n(B) that  \n(C) whether  \n(D) which\n\n### Q2\n\nWe need to determine _____ the supplier can deliver the products by Friday.\n\n(A) that  \n(B) what  \n(C) whether  \n(D) whose\n\n### Q3\n\nI don't understand _____ caused the delay.\n\n(A) that  \n(B) whether  \n(C) what  \n(D) when\n\n### Q4\n\nCould you tell me where the conference _____?\n\n(A) will be held  \n(B) will it be held  \n(C) does hold  \n(D) it will held\n\n### Q5\n\nWe know _____ the customer ordered.\n\n(A) that  \n(B) what  \n(C) whether  \n(D) when\n\n### Q6\n\nBy how much did Harland Electronics' revenue increase?\n\n(A) 5 percent  \n(B) 8 percent  \n(C) 12 percent  \n(D) 15 percent\n\n### Q7\n\nTrain 417 was scheduled for 4:15 and delayed 30 minutes. When will it depart?\n\n(A) 4:15  \n(B) 4:30  \n(C) 4:45  \n(D) 5:15\n\n### Q8\n\nWhich region had the strongest sales growth?\n\n(A) Northern  \n(B) Central  \n(C) Southern  \n(D) International\n\n### Q9\n\nWhy will Laura's budget request probably require an explanation?\n\n(A) She will submit it early  \n(B) It is approximately 14 percent higher than the current budget  \n(C) She will attend a conference  \n(D) She wants new office furniture\n\n### Q10\n\nWhen does Laura plan to submit her request?\n\n(A) October 12  \n(B) October 15  \n(C) October 17  \n(D) October 31\n\n## 答案\n\n**1B / 2C / 3C / 4A / 5B / 6C / 7C / 8C / 9B / 10A**"
+    },
+    {
+      "title": "⑰ 今日重點解析",
+      "markdown": "Q1：\n\n> revenue increased significantly\n\n完整句。\n\n所以：\n\n> **that**\n\n---\n\nQ3：\n\n> _____ caused the delay\n\n缺少：\n\n「什麼東西造成延誤」\n\n因此 `what` 本身就是主詞：\n\n> **what caused the delay**\n\n---\n\nQ4：\n\n這是名詞子句。\n\n不是：\n\n> Where **will the conference be held?**\n\n直接問句。\n\n而是：\n\n> Could you tell me **where the conference will be held**?\n\n所以使用：\n\n**陳述句語序。**\n\n---\n\nQ5：\n\n> the customer ordered _____\n\n缺受詞。\n\n所以：\n\n> **what**\n\n若是：\n\n> We know _____ the customer ordered a laptop.\n\n才是：\n\n> **that**"
+    },
+    {
+      "title": "⑱ 錯題回收｜Day 18～22",
+      "markdown": "目標 **60 秒內**：\n\n> manager, along with employees, _____ attending\n\n**is**\n\n> Either the manager or employees _____ responsible.\n\n**are**\n\n> There _____ several problems.\n\n**are**\n\n> remember _____ the report\n\n**to submit**\n\n> remember _____ her before\n\n**meeting**\n\n> try _____ the computer\n\n**restarting**\n\n> try _____ the supplier, but no answer\n\n**to contact**\n\n> provided that\n\n**只要／前提是**\n\n> unless\n\n**if not**\n\n> office _____ she works\n\n**where**\n\n> office _____ we rented\n\n**which / that**\n\n> _____ completes the work\n\n**whoever**\n\n> _____ option works best\n\n**whichever**\n\n> _____ information you need\n\n**whatever**"
+    },
+    {
+      "title": "⑲ 今日作業",
+      "markdown": "單字優先複習：\n\n> annual budget  \n> operating expenses  \n> fiscal year  \n> sales forecast  \n> revenue projection  \n> allocate funds  \n> outstanding balance  \n> additional charge  \n> exceed expectations  \n> financial report\n\n文法今天只要求形成三個反射：\n\n> **that + 完整句**\n\n> **what + 不完整子句，what 本身扮演成分**\n\n> **whether / if = 是否**\n\n以及一條非常重要：\n\n> **名詞子句使用陳述句語序。**\n\n所以看到：\n\n> Do you know where...\n\n不要選：\n\n> where is... ❌\n\n而要：\n\n> where ... is ✅\n\nListening 把三段壓成：\n\n> **Financial：revenue +12 → online sales → expense +5**\n\n> **Train：417 → 4:15 → +30 → 4:45 → Platform 3**\n\n> **Sales：North 6 → Central 9 → South 15 → more marketing funds**\n\n今天尤其要求：\n\n**數字一定要跟名詞綁在一起。**\n\n不要只寫：\n\n> 12 / 5 / 15\n\n而要寫：\n\n> rev 12 / expense 5 / south 15\n\nReading 重新完成 Double Passage，第二次限制：\n\n**4 分鐘 15 秒。**\n\n看到：\n\n> 10%\n\n與：\n\n> 14%\n\n要立即建立：\n\n> **threshold 10 → Laura 14 → explanation required**\n\n最後重新完成 Day 23 小考，第二次限制：\n\n**2 分鐘 15 秒，目標 10/10。**\n\n若第一次能達到 **9～10/10**，後續會提高「數字干擾項 + 跨篇推論」比例；若 Q1～Q5 錯兩題以上，則優先回收 `that / what / whether`；若 Q6～Q10 錯兩題以上，則優先強化數字與資訊來源綁定。\n\n**Day 23 核心：高分 TOEIC 不只是聽到或看到數字，而是必須知道「這個數字屬於誰、代表什麼，以及它和另一個條件如何互動」。**\n\nDay 24 將進入 **Part 4 圖表整合進階（價目表／行程表）＋ Double Passage 時序推論**；文法會進入高頻的 **分詞 `V-ing / V-ed` 與分詞構句**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "budget",
+      "meaning": "預算",
+      "phrase": "annual budget"
+    },
+    {
+      "id": 2,
+      "word": "revenue",
+      "meaning": "營收",
+      "phrase": "increase revenue"
+    },
+    {
+      "id": 3,
+      "word": "profit",
+      "meaning": "利潤",
+      "phrase": "annual profit"
+    },
+    {
+      "id": 4,
+      "word": "expense",
+      "meaning": "支出",
+      "phrase": "operating expenses"
+    },
+    {
+      "id": 5,
+      "word": "cost",
+      "meaning": "成本",
+      "phrase": "reduce costs"
+    },
+    {
+      "id": 6,
+      "word": "estimate",
+      "meaning": "估算",
+      "phrase": "cost estimate"
+    },
+    {
+      "id": 7,
+      "word": "financial",
+      "meaning": "財務的",
+      "phrase": "financial report"
+    },
+    {
+      "id": 8,
+      "word": "fiscal",
+      "meaning": "會計年度的",
+      "phrase": "fiscal year"
+    },
+    {
+      "id": 9,
+      "word": "quarter",
+      "meaning": "季度",
+      "phrase": "first quarter"
+    },
+    {
+      "id": 10,
+      "word": "annual",
+      "meaning": "年度的",
+      "phrase": "annual report"
+    },
+    {
+      "id": 11,
+      "word": "increase",
+      "meaning": "增加",
+      "phrase": "increase by 10%"
+    },
+    {
+      "id": 12,
+      "word": "decrease",
+      "meaning": "減少",
+      "phrase": "decrease by 5%"
+    },
+    {
+      "id": 13,
+      "word": "decline",
+      "meaning": "下降",
+      "phrase": "sales decline"
+    },
+    {
+      "id": 14,
+      "word": "rise",
+      "meaning": "上升",
+      "phrase": "rise sharply"
+    },
+    {
+      "id": 15,
+      "word": "stable",
+      "meaning": "穩定的",
+      "phrase": "remain stable"
+    },
+    {
+      "id": 16,
+      "word": "approximately",
+      "meaning": "大約",
+      "phrase": "approximately $500"
+    },
+    {
+      "id": 17,
+      "word": "exceed",
+      "meaning": "超過",
+      "phrase": "exceed expectations"
+    },
+    {
+      "id": 18,
+      "word": "allocate",
+      "meaning": "分配",
+      "phrase": "allocate funds"
+    },
+    {
+      "id": 19,
+      "word": "funding",
+      "meaning": "資金",
+      "phrase": "additional funding"
+    },
+    {
+      "id": 20,
+      "word": "investment",
+      "meaning": "投資",
+      "phrase": "capital investment"
+    },
+    {
+      "id": 21,
+      "word": "forecast",
+      "meaning": "預測",
+      "phrase": "sales forecast"
+    },
+    {
+      "id": 22,
+      "word": "projection",
+      "meaning": "預測",
+      "phrase": "revenue projection"
+    },
+    {
+      "id": 23,
+      "word": "transaction",
+      "meaning": "交易",
+      "phrase": "financial transaction"
+    },
+    {
+      "id": 24,
+      "word": "invoice",
+      "meaning": "發票",
+      "phrase": "issue an invoice"
+    },
+    {
+      "id": 25,
+      "word": "payment",
+      "meaning": "付款",
+      "phrase": "make a payment"
+    },
+    {
+      "id": 26,
+      "word": "outstanding",
+      "meaning": "未支付的",
+      "phrase": "outstanding balance"
+    },
+    {
+      "id": 27,
+      "word": "fee",
+      "meaning": "費用",
+      "phrase": "service fee"
+    },
+    {
+      "id": 28,
+      "word": "charge",
+      "meaning": "收費",
+      "phrase": "additional charge"
+    },
+    {
+      "id": 29,
+      "word": "afford",
+      "meaning": "負擔得起",
+      "phrase": "cannot afford"
+    },
+    {
+      "id": 30,
+      "word": "profitable",
+      "meaning": "有利潤的",
+      "phrase": "profitable business"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-part-4-1",
+      "title": "⑩ Listening｜Part 4 商業新聞",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the report mainly about?",
+          "options": {
+            "A": "A company's financial performance",
+            "B": "A new employee training program",
+            "C": "A factory relocation",
+            "D": "A product recall"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "By how much did revenue increase?",
+          "options": {
+            "A": "5 percent",
+            "B": "8 percent",
+            "C": "12 percent",
+            "D": "18 percent"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "What contributed to the result?",
+          "options": {
+            "A": "Lower employee salaries",
+            "B": "Strong online sales",
+            "C": "A new factory",
+            "D": "Reduced advertising"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-2",
+      "title": "⑪ Listening｜Part 4 廣播通知",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is being announced?",
+          "options": {
+            "A": "A train delay",
+            "B": "A ticket-price increase",
+            "C": "A new train route",
+            "D": "A station closure"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "When will the train now depart?",
+          "options": {
+            "A": "4:15",
+            "B": "4:30",
+            "C": "4:45",
+            "D": "5:00"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are passengers advised to do?",
+          "options": {
+            "A": "Request refunds",
+            "B": "Remain near the platform",
+            "C": "Take a bus",
+            "D": "Purchase another ticket"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-4-3",
+      "title": "⑫ Listening｜Part 4 公司簡報",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the speaker discussing?",
+          "options": {
+            "A": "Sales performance",
+            "B": "Employee recruitment",
+            "C": "Building maintenance",
+            "D": "Customer complaints"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which region had the highest growth?",
+          "options": {
+            "A": "North",
+            "B": "Central",
+            "C": "South",
+            "D": "International"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the company probably do next?",
+          "options": {
+            "A": "Reduce product prices",
+            "B": "Increase investment in the southern region",
+            "C": "Close several stores",
+            "D": "Hire fewer employees"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "reading-double-passage-4",
+      "title": "⑬ Reading｜Double Passage 進階",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the deadline for preliminary budget requests?",
+          "options": {
+            "A": "October 12",
+            "B": "October 15",
+            "C": "October 31",
+            "D": "November 20"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What information must all requests include?",
+          "options": {
+            "A": "Customer surveys",
+            "B": "Operating expenses, equipment purchases, and staffing changes",
+            "C": "Employee performance reviews",
+            "D": "Conference schedules"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "When is additional explanation required?",
+          "options": {
+            "A": "When a budget decreases",
+            "B": "When the request exceeds the current budget by more than 10 percent",
+            "C": "When new equipment costs more than staffing",
+            "D": "When a request is submitted early"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why is Laura's proposed budget higher?",
+          "options": {
+            "A": "Higher transportation expenses",
+            "B": "A new employee and equipment",
+            "C": "Office renovation",
+            "D": "Increased rent"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why does Laura ask about additional documentation?",
+          "options": {
+            "A": "Her request will probably exceed the 10-percent threshold",
+            "B": "She will submit after the deadline",
+            "C": "Her department has no annual budget",
+            "D": "She lost the required forms"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 6,
+          "prompt": "When does Laura intend to submit her request?",
+          "options": {
+            "A": "October 12",
+            "B": "October 13",
+            "C": "October 15",
+            "D": "October 17"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "What can be inferred about Laura's submission?",
+          "options": {
+            "A": "It will probably require a written explanation",
+            "B": "It will automatically be rejected",
+            "C": "It will be 10 percent lower than last year",
+            "D": "It cannot include equipment expenses"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑮ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The manager confirmed _____ the shipment had arrived.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "whether",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "We haven't decided _____ the conference will be held online or in person.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "whether",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Please let us know _____ you will attend the seminar.",
+          "options": {
+            "A": "whether",
+            "B": "what",
+            "C": "that",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 4,
+          "prompt": "The report indicates _____ sales increased last quarter.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "whether",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "We don't know _____ caused the equipment malfunction.",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "what",
+            "D": "which of"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "Could you tell me when the meeting _____?",
+          "options": {
+            "A": "does start",
+            "B": "start does",
+            "C": "starts",
+            "D": "does it start"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "Do you know where Mr. Lin _____?",
+          "options": {
+            "A": "works",
+            "B": "does work",
+            "C": "work does",
+            "D": "does he work"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 8,
+          "prompt": "The customer asked _____ the product was still under warranty.",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "what",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "We understand _____ you need.",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "what",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 10,
+          "prompt": "The company announced _____ a new branch would open next year.",
+          "options": {
+            "A": "what",
+            "B": "whether",
+            "C": "that",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 11,
+          "prompt": "Please confirm _____ or not the invoice has been paid.",
+          "options": {
+            "A": "what",
+            "B": "whether",
+            "C": "that",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "Can you explain _____ the customer requested?",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "what",
+            "D": "where"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "day-23-6",
+      "title": "⑯ Day 23 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The report shows _____ revenue increased significantly.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "whether",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "We need to determine _____ the supplier can deliver the products by Friday.",
+          "options": {
+            "A": "that",
+            "B": "what",
+            "C": "whether",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "I don't understand _____ caused the delay.",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "what",
+            "D": "when"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "Could you tell me where the conference _____?",
+          "options": {
+            "A": "will be held",
+            "B": "will it be held",
+            "C": "does hold",
+            "D": "it will held"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 5,
+          "prompt": "We know _____ the customer ordered.",
+          "options": {
+            "A": "that",
+            "B": "what",
+            "C": "whether",
+            "D": "when"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "By how much did Harland Electronics' revenue increase?",
+          "options": {
+            "A": "5 percent",
+            "B": "8 percent",
+            "C": "12 percent",
+            "D": "15 percent"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "Train 417 was scheduled for 4:15 and delayed 30 minutes. When will it depart?",
+          "options": {
+            "A": "4:15",
+            "B": "4:30",
+            "C": "4:45",
+            "D": "5:15"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which region had the strongest sales growth?",
+          "options": {
+            "A": "Northern",
+            "B": "Central",
+            "C": "Southern",
+            "D": "International"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why will Laura's budget request probably require an explanation?",
+          "options": {
+            "A": "She will submit it early",
+            "B": "It is approximately 14 percent higher than the current budget",
+            "C": "She will attend a conference",
+            "D": "She wants new office furniture"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "When does Laura plan to submit her request?",
+          "options": {
+            "A": "October 12",
+            "B": "October 15",
+            "C": "October 17",
+            "D": "October 31"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "數字必須和人物、項目及條件綁定，並透過跨篇資訊判斷門檻與結果。",
+  "nextDay": "Part 4 圖表整合＋Double Passage 時序推論"
+}

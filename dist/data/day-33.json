@@ -1,0 +1,834 @@
+{
+  "schemaVersion": "1.0",
+  "day": 33,
+  "title": "否定倒裝、間接回應與跨文件成本／例外推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 105,
+  "durationMinutes": {
+    "min": 100,
+    "max": 110
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 33 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 33 學習概覽",
+      "markdown": "- 掌握 Hardly / Not only / Not until 的句首倒裝\n- 運用 Should / Had 的條件句倒裝\n- 從間接回應推斷確定性與下一步\n- 辨認供應商更新對原始交貨條件的影響\n- 跨文件核算折扣、保固、運費與例外費用\n\n建議訓練時間：**105 分鐘**。\n\n> 題目為原創 TOEIC 風格練習；非官方試題，且課程小考分數不可直接換算正式 TOEIC 成績。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| negotiate | 協商 | negotiate contract terms |\n| proposal | 提案 | submit a proposal |\n| quotation | 報價單 | request a quotation |\n| liability | 責任 | liability clause |\n| clause | 條款 | contract clause |\n| amendment | 修正 | contract amendment |\n| approval | 核准 | obtain approval |\n| authorize | 授權 | authorize a purchase |\n| circulate | 傳閱、發送 | circulate a draft |\n| forecast | 預測 | sales forecast |\n| contingency | 應變措施 | contingency plan |\n| postpone | 延後 | postpone a meeting |\n| reschedule | 重新排程 | reschedule an appointment |\n| discrepancy | 不一致、差異 | invoice discrepancy |\n| duplicate | 重複的 | duplicate charge |\n| corrected | 已更正的 | corrected document |\n| deadline | 截止時間 | meet a deadline |\n| dispatch | 寄送 | dispatch an order |\n| loaner | 借用替代品 | loaner equipment |\n| waive | 免除 | waive a fee |\n| shortage | 短缺 | inventory shortage |\n| warranty | 保固 | extended warranty |\n| bulk | 大量的 | bulk discount |\n| subtotal | 小計 | device subtotal |\n| nonrefundable | 不可退款的 | nonrefundable fee |\n| expedite | 加速 | expedite delivery |\n| reconcile | 核對 | reconcile an invoice |\n| outstanding | 尚未完成的 | outstanding approval |\n| retain | 保留 | retain a copy |\n| eligible | 符合資格的 | eligible for a discount |"
+    },
+    {
+      "title": "② 今日文法｜句首倒裝與正式條件句",
+      "markdown": "主題：**句首倒裝、正式條件句與條件連接詞**\n\n### 規則 1\n\n`Hardly had + S + past participle + when + past clause`\n\n> Hardly had the meeting begun when the fire alarm rang.\n\nHardly 置句首，主句倒裝 had + 主詞 + p.p.；常與 when 搭配。\n\n### 規則 2\n\n`Not only + auxiliary + S + V, but + S + also + V`\n\n> Not only did the vendor lower the price, but it also extended the warranty.\n\nNot only 放句首修飾完整子句時，第一子句需要助動詞倒裝。\n\n### 規則 3\n\n`Should + S + base verb, main clause`\n\n> Should you require assistance, contact the support desk.\n\n省略 if 的正式條件句，等於 If you should require assistance。\n\n### 規則 4\n\n`Had + S + past participle, S + would have + past participle`\n\n> Had we received approval earlier, we would have placed the order.\n\n過去相反假設的 if 省略倒裝；不能寫 Had we received... would placed。\n\n### 規則 5\n\n`unless / provided that / in case`\n\n> We will dispatch the order provided that payment is confirmed. Keep the receipt in case a refund is needed.\n\nunless = 除非；provided that = 只要；in case = 以防，三者語意不可互換。\n\n### 解題流程\n1. 先找倒裝觸發詞\n2. 判斷助動詞與時態\n3. 確認主詞一致與主被動\n4. 最後核對語意\n\n目標：每題 **15 秒**。"
+    },
+    {
+      "title": "03 Listening｜Contract Approval and Indirect Response",
+      "markdown": "先用 TTS 播放 transcript（建議 1.0x，第二輪 1.1x），答題後再顯示逐字稿與解析。\n\n聽力稿：\n\n> Man: Can we send the revised contract to the client today?\n> Woman: Legal has reviewed everything except the liability clause. They expect to finish by four. If they approve it, I can send the contract before five; otherwise, it'll have to wait until tomorrow morning.\n> Man: So I shouldn't tell the client that today's delivery is guaranteed?\n> Woman: I wouldn't make that promise yet. I'll call you as soon as Legal responds."
+    },
+    {
+      "title": "04 Listening｜Incorrect Brochures and Outside Printer",
+      "markdown": "先用 TTS 播放 transcript（建議 1.0x，第二輪 1.1x），答題後再顯示逐字稿與解析。\n\n聽力稿：\n\n> Woman: The brochures arrived, but they show the old venue address. We need four hundred corrected copies for Monday's trade show.\n> Man: Our printing department can redo two hundred fifty by Friday, but the remaining one hundred fifty won't be ready until Monday afternoon.\n> Woman: That's too late. The trade show opens at nine Monday morning.\n> Man: An outside print shop can deliver all four hundred on Sunday for one hundred eighty dollars, provided we send the corrected file by three today.\n> Woman: Our budget is two hundred dollars, so let's use the outside shop. I'll send the file before lunch."
+    },
+    {
+      "title": "05 Listening｜Billing Portal Maintenance Update",
+      "markdown": "先用 TTS 播放 transcript（建議 1.0x，第二輪 1.1x），答題後再顯示逐字稿與解析。\n\n聽力稿：\n\n> Attention, billing portal users. The maintenance scheduled for Sunday was originally expected to end at ten in the morning. The vendor now expects the portal to reopen at eleven. During the outage, you may view invoices that you previously downloaded, but you cannot make online payments. Invoices normally due on Sunday will be considered on time if payment is completed by five Monday afternoon. Automatic reminders may still be sent on Sunday, but no late fee will be charged for these invoices before Tuesday. For assistance, contact billing support after nine on Monday morning."
+    },
+    {
+      "title": "⑥ Reading｜Tablet Procurement: Bulk Discount, Delivery Shortage and Loaners",
+      "markdown": "限時：**8 分 30 秒**。\n\n### Northfield Procurement Policy and Price List\n\n> Northfield Procurement — Tablet Purchase Terms. Standard tablets cost $250 each; Pro tablets cost $310 each. Orders of 15 or more tablets receive an 8% discount on the tablet subtotal only. An optional extended warranty costs $18 per purchased tablet and is not discounted. Standard shipping costs $60 per order. Orders placed by November 5 are eligible for November 14 delivery, subject to stock availability. Model changes require confirmation by November 8. A loaner-equipment service normally costs $90 per order.\n\n用途：Original rules and price structure\n\n### Eastwood Training Department Purchase Order\n\n> Purchase Order #E218, submitted November 4. Items: 18 Standard tablets ($250 each) and extended warranties for all 18 tablets ($18 each). Standard shipping: $60. Requested delivery: November 14. The training program begins November 17 and requires 18 working tablets on the first day. The department’s total budget, including warranty and shipping, is $5,000.\n\n用途：Order and operational constraints\n\n### Supplier Update — November 6\n\n> We can deliver only 12 Standard tablets by November 14; the remaining six will arrive November 19. To ensure you have 18 devices for the November 17 training, we can provide six loaner tablets by November 14. Because the shortage is our responsibility, we will waive the usual $90 loaner service fee. The six purchased Standard tablets will still arrive November 19, and the loaners should be returned by November 21. Alternatively, we can ship 18 Pro tablets by November 14. The 8% bulk discount still applies to their tablet subtotal, and the $18-per-tablet warranty charge and $60 shipping fee remain unchanged. Please confirm your choice by November 8. We cannot change the order automatically.\n\n用途：Updated availability and exception\n\n### 計算提示\n- `18×$250×0.92 + 18×$18 + $60 = $4,524`\n- `18×$310×0.92 + 18×$18 + $60 = $5,517.60`\n- `$90 loaner service fee waived due to supplier shortage`"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Day 33 小考",
+      "markdown": "正式限時：**5 分鐘**。\n\n### Listening Q33-L1\n\n聽力稿：\n\n> Woman: Is the revised proposal ready for the board?\n> Man: The figures are complete, but Finance hasn't signed off on the forecast. I'd rather not circulate it just yet.\n\n### Listening Q33-L2\n\n聽力稿：\n\n> Announcement: Thursday's onboarding session has moved from Room 201 to Room 305. It will still begin at two in the afternoon. Please bring your own laptop; loaner devices will not be available.\n\n### Reading Q33-R1\n\n> Policy: Schedule changes requested by 5 P.M. on October 15 are free. Later changes normally cost $25. Exception: for weather-related travel cancellations, the fee is waived for change requests received through October 17.\n> Email: Nina's October 16 flight was canceled because of severe weather. The organizer confirmed that the weather exception applies. Nina submitted a workshop change request on October 17.\n\n### Reading Q33-R2\n\n> Quotation: 16 adapters at $42 each. Hardware orders of 15 or more receive a 10% discount on the hardware subtotal. Shipping costs $24 and is not discounted. The buyer's budget is $650."
+    },
+    {
+      "title": "⑨ 複習與錯題分類",
+      "markdown": "回顧前 **[28, 29, 30, 31, 32] 天**，完成 **[{'prompt': 'The number of attendees _____ increased.', 'answer': 'has', 'tag': 'AGR'}, {'prompt': 'A number of applicants _____ qualified.', 'answer': 'are', 'tag': 'AGR'}, {'prompt': 'The manager, along with two assistants, _____ present.', 'answer': 'is', 'tag': 'AGR'}, {'prompt': 'Only after approval _____ the team release the report.', 'answer': 'did', 'tag': 'G'}, {'prompt': 'The director requested that the draft _____ revised.', 'answer': 'be', 'tag': 'G'}, {'prompt': 'Not necessarily = ?', 'answer': '不一定；仍可能可行', 'tag': 'IMP'}, {'prompt': 'Supersede an earlier policy = ?', 'answer': '取代先前規定', 'tag': 'V'}, {'prompt': 'A special rule overrides the general policy: use which?', 'answer': '特殊規則／最新適用規則', 'tag': 'E'}, {'prompt': 'Room rental $310 + projector $70 = ?', 'answer': '$380', 'tag': 'CAL'}, {'prompt': 'A number of vs. the number of: plural verb with which?', 'answer': 'a number of', 'tag': 'AGR'}, {'prompt': 'Keep a receipt _____ you need it later.', 'answer': 'in case', 'tag': 'C'}, {'prompt': 'no later than Friday = ?', 'answer': 'by Friday', 'tag': 'T'}] 張**複習卡。\n\n遮住答案，90 秒內先做一次；錯題於 24 小時後、3 天後再測。\n\n錯題標籤：\n\n- `G`：Grammar\n- `V`：Vocabulary\n- `L`：Listening\n- `P`：Paraphrase\n- `I`：Information Integration\n- `T`：Timeline\n- `E`：Exception\n- `U`：Updated Information\n- `C`：Condition\n- `N`：Next Action\n- `POS`：Part of Speech\n- `INT`：Intent\n- `CAL`：Calculation\n- `SEQ`：Sequence\n- `AGR`：Agreement\n- `IMP`：Implication\n- `BUD`：Budget Constraint"
+    },
+    {
+      "title": "⑩ 今日作業",
+      "markdown": "- 複習 30 字兩輪，選 8 字各造一個商務句子（約 15 分鐘）\n- Part 5 仿真 15 題第二輪，限時 3 分鐘；標記倒裝錯題（約 10 分鐘）\n- Listening 3 組各聽 2 次，第二輪 1.1x，先聽再看逐字稿（約 20 分鐘）\n- 將採購三文件整理成規則→短缺→替代→成本，重新算 $4,524 與 $5,517.60（約 15 分鐘）\n- 小考 12 題第二輪限時 4 分 30 秒，記錄逐題時間與錯題標籤（約 10 分鐘）"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "negotiate",
+      "meaning": "協商",
+      "phrase": "negotiate contract terms"
+    },
+    {
+      "id": 2,
+      "word": "proposal",
+      "meaning": "提案",
+      "phrase": "submit a proposal"
+    },
+    {
+      "id": 3,
+      "word": "quotation",
+      "meaning": "報價單",
+      "phrase": "request a quotation"
+    },
+    {
+      "id": 4,
+      "word": "liability",
+      "meaning": "責任",
+      "phrase": "liability clause"
+    },
+    {
+      "id": 5,
+      "word": "clause",
+      "meaning": "條款",
+      "phrase": "contract clause"
+    },
+    {
+      "id": 6,
+      "word": "amendment",
+      "meaning": "修正",
+      "phrase": "contract amendment"
+    },
+    {
+      "id": 7,
+      "word": "approval",
+      "meaning": "核准",
+      "phrase": "obtain approval"
+    },
+    {
+      "id": 8,
+      "word": "authorize",
+      "meaning": "授權",
+      "phrase": "authorize a purchase"
+    },
+    {
+      "id": 9,
+      "word": "circulate",
+      "meaning": "傳閱、發送",
+      "phrase": "circulate a draft"
+    },
+    {
+      "id": 10,
+      "word": "forecast",
+      "meaning": "預測",
+      "phrase": "sales forecast"
+    },
+    {
+      "id": 11,
+      "word": "contingency",
+      "meaning": "應變措施",
+      "phrase": "contingency plan"
+    },
+    {
+      "id": 12,
+      "word": "postpone",
+      "meaning": "延後",
+      "phrase": "postpone a meeting"
+    },
+    {
+      "id": 13,
+      "word": "reschedule",
+      "meaning": "重新排程",
+      "phrase": "reschedule an appointment"
+    },
+    {
+      "id": 14,
+      "word": "discrepancy",
+      "meaning": "不一致、差異",
+      "phrase": "invoice discrepancy"
+    },
+    {
+      "id": 15,
+      "word": "duplicate",
+      "meaning": "重複的",
+      "phrase": "duplicate charge"
+    },
+    {
+      "id": 16,
+      "word": "corrected",
+      "meaning": "已更正的",
+      "phrase": "corrected document"
+    },
+    {
+      "id": 17,
+      "word": "deadline",
+      "meaning": "截止時間",
+      "phrase": "meet a deadline"
+    },
+    {
+      "id": 18,
+      "word": "dispatch",
+      "meaning": "寄送",
+      "phrase": "dispatch an order"
+    },
+    {
+      "id": 19,
+      "word": "loaner",
+      "meaning": "借用替代品",
+      "phrase": "loaner equipment"
+    },
+    {
+      "id": 20,
+      "word": "waive",
+      "meaning": "免除",
+      "phrase": "waive a fee"
+    },
+    {
+      "id": 21,
+      "word": "shortage",
+      "meaning": "短缺",
+      "phrase": "inventory shortage"
+    },
+    {
+      "id": 22,
+      "word": "warranty",
+      "meaning": "保固",
+      "phrase": "extended warranty"
+    },
+    {
+      "id": 23,
+      "word": "bulk",
+      "meaning": "大量的",
+      "phrase": "bulk discount"
+    },
+    {
+      "id": 24,
+      "word": "subtotal",
+      "meaning": "小計",
+      "phrase": "device subtotal"
+    },
+    {
+      "id": 25,
+      "word": "nonrefundable",
+      "meaning": "不可退款的",
+      "phrase": "nonrefundable fee"
+    },
+    {
+      "id": 26,
+      "word": "expedite",
+      "meaning": "加速",
+      "phrase": "expedite delivery"
+    },
+    {
+      "id": 27,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile an invoice"
+    },
+    {
+      "id": 28,
+      "word": "outstanding",
+      "meaning": "尚未完成的",
+      "phrase": "outstanding approval"
+    },
+    {
+      "id": 29,
+      "word": "retain",
+      "meaning": "保留",
+      "phrase": "retain a copy"
+    },
+    {
+      "id": 30,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for a discount"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Contract Approval and Indirect Response",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is preventing the contract from being sent immediately?",
+          "options": {
+            "A": "The client has canceled the project.",
+            "B": "A legal clause has not yet been approved.",
+            "C": "The price quotation has expired.",
+            "D": "The office is closed."
+          },
+          "answer": "B",
+          "explanation": "Legal still needs to approve the liability clause."
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman mean by “I wouldn’t make that promise yet”?",
+          "options": {
+            "A": "Delivery today is not certain.",
+            "B": "The client has already received the contract.",
+            "C": "The legal review is unnecessary.",
+            "D": "The contract will never be sent."
+          },
+          "answer": "A",
+          "explanation": "The contract can go out today only if Legal approves it in time."
+        },
+        {
+          "id": 3,
+          "prompt": "When might the woman send the contract today?",
+          "options": {
+            "A": "Before noon, regardless of approval.",
+            "B": "At four, even without approval.",
+            "C": "Before five, if Legal approves it.",
+            "D": "After the client signs it."
+          },
+          "answer": "C",
+          "explanation": "She explicitly says approval by Legal would allow delivery before five."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Incorrect Brochures and Outside Printer",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem is reported?",
+          "options": {
+            "A": "The brochures contain an outdated address.",
+            "B": "The venue has been canceled.",
+            "C": "The trade show starts on Friday.",
+            "D": "The printing budget was reduced."
+          },
+          "answer": "A",
+          "explanation": "The brochures show the old venue address."
+        },
+        {
+          "id": 2,
+          "prompt": "Why is the company’s printing department not a suitable solution?",
+          "options": {
+            "A": "It cannot print in color.",
+            "B": "Its price exceeds $200.",
+            "C": "Some copies would be ready after the event begins.",
+            "D": "It refuses to print 250 copies."
+          },
+          "answer": "C",
+          "explanation": "The remaining 150 copies would be ready Monday afternoon, after the 9 A.M. opening."
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman do next?",
+          "options": {
+            "A": "Request an additional budget.",
+            "B": "Send the corrected file to the outside printer.",
+            "C": "Cancel the trade show.",
+            "D": "Ask the internal team to print only 250."
+          },
+          "answer": "B",
+          "explanation": "She will send the corrected file before lunch to use the outside shop."
+        },
+        {
+          "id": 4,
+          "prompt": "How much will the outside printing service cost?",
+          "options": {
+            "A": "$150",
+            "B": "$180",
+            "C": "$200",
+            "D": "$250"
+          },
+          "answer": "B",
+          "explanation": "The outside shop quoted $180 for all 400 copies."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Billing Portal Maintenance Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What has changed about the maintenance schedule?",
+          "options": {
+            "A": "Maintenance will start on Monday.",
+            "B": "The portal is now expected to reopen at 11 A.M.",
+            "C": "The outage has been canceled.",
+            "D": "Online payments will be available at 10 A.M."
+          },
+          "answer": "B",
+          "explanation": "The earlier end time was 10 A.M.; the updated expectation is 11 A.M."
+        },
+        {
+          "id": 2,
+          "prompt": "What can customers still do during the outage?",
+          "options": {
+            "A": "Make online payments.",
+            "B": "Change their billing addresses.",
+            "C": "View previously downloaded invoices.",
+            "D": "Download new invoices from the portal."
+          },
+          "answer": "C",
+          "explanation": "Only invoices downloaded before the outage remain viewable."
+        },
+        {
+          "id": 3,
+          "prompt": "When can invoices normally due Sunday be paid without being late?",
+          "options": {
+            "A": "By 5 P.M. Monday.",
+            "B": "By 11 A.M. Sunday.",
+            "C": "By 9 A.M. Monday.",
+            "D": "Any time Tuesday."
+          },
+          "answer": "A",
+          "explanation": "The special extension sets a Monday 5 P.M. deadline."
+        },
+        {
+          "id": 4,
+          "prompt": "What should customers understand about Sunday’s automated reminders?",
+          "options": {
+            "A": "They mean a late fee has already been charged.",
+            "B": "They require immediate payment by email.",
+            "C": "They indicate maintenance is complete.",
+            "D": "They may be sent even though the payment deadline was extended."
+          },
+          "answer": "D",
+          "explanation": "Reminders may still go out, but the special late-fee rule applies."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Tablet Procurement: Bulk Discount, Delivery Shortage and Loaners",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why did the original order qualify for the November 14 delivery date?",
+          "options": {
+            "A": "It was placed by November 5.",
+            "B": "It included extended warranties.",
+            "C": "It was paid in cash.",
+            "D": "It contained fewer than 15 tablets."
+          },
+          "answer": "A",
+          "explanation": "The order was placed November 4, before the November 5 cutoff; delivery remains subject to stock."
+        },
+        {
+          "id": 2,
+          "prompt": "To which portion of the order does the 8% discount apply?",
+          "options": {
+            "A": "Warranty charges only.",
+            "B": "Shipping fees only.",
+            "C": "The tablet subtotal only.",
+            "D": "The entire invoice including all fees."
+          },
+          "answer": "C",
+          "explanation": "The policy expressly excludes warranties and shipping from the discount."
+        },
+        {
+          "id": 3,
+          "prompt": "Why is the original Standard-tablet delivery plan insufficient for the training?",
+          "options": {
+            "A": "All tablets would arrive after November 21.",
+            "B": "Six purchased tablets would arrive after the November 17 start.",
+            "C": "The training requires Pro tablets.",
+            "D": "The warranties expire before the training."
+          },
+          "answer": "B",
+          "explanation": "Only 12 arrive November 14; six arrive November 19, after the November 17 start."
+        },
+        {
+          "id": 4,
+          "prompt": "Which option supplies 18 usable tablets by November 17 while staying within the $5,000 budget?",
+          "options": {
+            "A": "Wait for all 18 Standard tablets without loaners.",
+            "B": "Switch to 18 Pro tablets.",
+            "C": "Cancel the warranties and wait for November 19.",
+            "D": "Keep the Standard order and use six free loaners."
+          },
+          "answer": "D",
+          "explanation": "12 Standard plus six loaners are available by November 14, and the supplier waives the $90 fee."
+        },
+        {
+          "id": 5,
+          "prompt": "What is the total cost of the original Standard-tablet order after the discount, including warranties and shipping?",
+          "options": {
+            "A": "$4,140",
+            "B": "$4,464",
+            "C": "$4,524",
+            "D": "$4,614"
+          },
+          "answer": "C",
+          "explanation": "18×250=$4,500; 8% discount=$360, tablets=$4,140; warranties 18×18=$324; shipping $60; total $4,524."
+        },
+        {
+          "id": 6,
+          "prompt": "What would 18 Pro tablets cost after the discount, including warranties and standard shipping?",
+          "options": {
+            "A": "$5,133.60",
+            "B": "$5,457.60",
+            "C": "$5,517.60",
+            "D": "$5,580.00"
+          },
+          "answer": "C",
+          "explanation": "18×310=$5,580; less 8%=$5,133.60; plus $324 warranties and $60 shipping = $5,517.60."
+        },
+        {
+          "id": 7,
+          "prompt": "Which fee will the supplier waive because of the shortage?",
+          "options": {
+            "A": "The $60 shipping charge.",
+            "B": "The $90 loaner service fee.",
+            "C": "The $18 warranty fee per tablet.",
+            "D": "The entire tablet subtotal."
+          },
+          "answer": "B",
+          "explanation": "The update explicitly waives the usual $90 loaner fee."
+        },
+        {
+          "id": 8,
+          "prompt": "What must the department do by November 8?",
+          "options": {
+            "A": "Confirm its preferred solution.",
+            "B": "Return all loaner tablets.",
+            "C": "Begin the training.",
+            "D": "Pay for the six delayed tablets again."
+          },
+          "answer": "A",
+          "explanation": "The vendor requires confirmation by November 8 and will not change the order automatically."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Hardly _____ the presentation begun when the projector stopped working.",
+          "options": {
+            "A": "has",
+            "B": "had",
+            "C": "did",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Hardly had + S + p.p. + when."
+        },
+        {
+          "id": 2,
+          "prompt": "Not only _____ the vendor reduce the fee, but it also extended the warranty.",
+          "options": {
+            "A": "did",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Past-tense inversion: did + subject + base verb reduce."
+        },
+        {
+          "id": 3,
+          "prompt": "Should you _____ further information, please contact our office.",
+          "options": {
+            "A": "requires",
+            "B": "required",
+            "C": "require",
+            "D": "requiring"
+          },
+          "answer": "C",
+          "explanation": "After inverted should + subject, use base verb."
+        },
+        {
+          "id": 4,
+          "prompt": "Had the manager approved the request earlier, we _____ the equipment last week.",
+          "options": {
+            "A": "would order",
+            "B": "will order",
+            "C": "would have ordered",
+            "D": "had ordered"
+          },
+          "answer": "C",
+          "explanation": "Past counterfactual conditional requires would have + p.p."
+        },
+        {
+          "id": 5,
+          "prompt": "The revised invoice, along with the supporting documents, _____ ready for review.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "Invoice is the singular head noun."
+        },
+        {
+          "id": 6,
+          "prompt": "The order will be dispatched _____ the payment is confirmed.",
+          "options": {
+            "A": "provided that",
+            "B": "despite",
+            "C": "in case of",
+            "D": "unless not"
+          },
+          "answer": "A",
+          "explanation": "Provided that introduces the required condition."
+        },
+        {
+          "id": 7,
+          "prompt": "Please retain a copy of the agreement _____ a dispute arises.",
+          "options": {
+            "A": "unless",
+            "B": "in case",
+            "C": "once",
+            "D": "despite"
+          },
+          "answer": "B",
+          "explanation": "In case means as a precaution."
+        },
+        {
+          "id": 8,
+          "prompt": "The client requested that the shipment _____ expedited.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "Mandative subjunctive: request that + be + p.p."
+        },
+        {
+          "id": 9,
+          "prompt": "The documents _____ by the legal team were circulated yesterday.",
+          "options": {
+            "A": "reviewing",
+            "B": "reviewed",
+            "C": "review",
+            "D": "reviews"
+          },
+          "answer": "B",
+          "explanation": "Documents receive the action, so use past participle reviewed."
+        },
+        {
+          "id": 10,
+          "prompt": "The revised proposal must be submitted _____ than Friday afternoon.",
+          "options": {
+            "A": "no later",
+            "B": "not lately",
+            "C": "later no",
+            "D": "more late"
+          },
+          "answer": "A",
+          "explanation": "No later than = by."
+        },
+        {
+          "id": 11,
+          "prompt": "The manager has _____ approved the final quotation.",
+          "options": {
+            "A": "already",
+            "B": "yet",
+            "C": "still not yet",
+            "D": "ever since"
+          },
+          "answer": "A",
+          "explanation": "Already naturally modifies present perfect affirmative."
+        },
+        {
+          "id": 12,
+          "prompt": "A number of suppliers _____ expressed interest in the contract.",
+          "options": {
+            "A": "has",
+            "B": "is",
+            "C": "have",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "A number of + plural noun takes plural verb."
+        },
+        {
+          "id": 13,
+          "prompt": "The number of outstanding requests _____ decreased.",
+          "options": {
+            "A": "have",
+            "B": "has",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The number of takes singular auxiliary has."
+        },
+        {
+          "id": 14,
+          "prompt": "The replacement units are expected to arrive _____ schedule.",
+          "options": {
+            "A": "ahead of",
+            "B": "in case",
+            "C": "despite of",
+            "D": "prior than"
+          },
+          "answer": "A",
+          "explanation": "Ahead of schedule is the idiomatic phrase."
+        },
+        {
+          "id": 15,
+          "prompt": "Not until the payment was verified _____ the warehouse release the goods.",
+          "options": {
+            "A": "does",
+            "B": "did",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Not until initial phrase triggers inversion in main clause: did + subject + release."
+        }
+      ]
+    },
+    {
+      "id": "day-33-quiz",
+      "title": "Day 33 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Hardly _____ the conference started when the power failed.",
+          "options": {
+            "A": "did",
+            "B": "had",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Hardly had the conference started when..."
+        },
+        {
+          "id": 2,
+          "prompt": "Should you _____ a receipt, contact the accounting team.",
+          "options": {
+            "A": "need",
+            "B": "needs",
+            "C": "needed",
+            "D": "needing"
+          },
+          "answer": "A",
+          "explanation": "Formal inverted conditional: Should you need..."
+        },
+        {
+          "id": 3,
+          "prompt": "The contract, together with the amendments, _____ ready for signature.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Contract is the singular head noun."
+        },
+        {
+          "id": 4,
+          "prompt": "The supervisor recommended that the deadline _____ extended.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "Mandative subjunctive: be extended."
+        },
+        {
+          "id": 5,
+          "prompt": "What does the man imply about the revised proposal?",
+          "options": {
+            "A": "It has already been distributed.",
+            "B": "It should not be circulated yet.",
+            "C": "The board has rejected it.",
+            "D": "The figures are missing."
+          },
+          "answer": "B",
+          "explanation": "Finance approval is still outstanding, so he would not circulate it."
+        },
+        {
+          "id": 6,
+          "prompt": "What is still needed before circulation?",
+          "options": {
+            "A": "A new board meeting.",
+            "B": "More sales figures.",
+            "C": "Finance approval of the forecast.",
+            "D": "A different presentation room."
+          },
+          "answer": "C",
+          "explanation": "Finance has not signed off on the forecast."
+        },
+        {
+          "id": 7,
+          "prompt": "What has changed about Thursday’s onboarding session?",
+          "options": {
+            "A": "Its starting time.",
+            "B": "Its room.",
+            "C": "Its date.",
+            "D": "Its instructor."
+          },
+          "answer": "B",
+          "explanation": "Room 201 has changed to Room 305; time remains 2 P.M."
+        },
+        {
+          "id": 8,
+          "prompt": "What should attendees bring?",
+          "options": {
+            "A": "Their own laptops.",
+            "B": "A printed invoice.",
+            "C": "A projector.",
+            "D": "A loaner tablet."
+          },
+          "answer": "A",
+          "explanation": "Loaners are unavailable; attendees should bring laptops."
+        },
+        {
+          "id": 9,
+          "prompt": "Why does Nina qualify for a fee exception?",
+          "options": {
+            "A": "She paid in cash.",
+            "B": "She changed plans before October 15.",
+            "C": "Her flight was canceled because of severe weather.",
+            "D": "She registered for two workshops."
+          },
+          "answer": "C",
+          "explanation": "The weather-related cancellation exception applies."
+        },
+        {
+          "id": 10,
+          "prompt": "How much must Nina pay to change the workshop on October 17?",
+          "options": {
+            "A": "$0",
+            "B": "$10",
+            "C": "$25",
+            "D": "$50"
+          },
+          "answer": "A",
+          "explanation": "The fee is waived through October 17 for eligible weather cancellations."
+        },
+        {
+          "id": 11,
+          "prompt": "What is the total cost of the 16 adapters including discount and shipping?",
+          "options": {
+            "A": "$604.80",
+            "B": "$624.00",
+            "C": "$628.80",
+            "D": "$696.00"
+          },
+          "answer": "C",
+          "explanation": "16×42=$672; 10% off=$604.80; plus $24 shipping=$628.80."
+        },
+        {
+          "id": 12,
+          "prompt": "How far below the $650 budget is the quoted total?",
+          "options": {
+            "A": "$21.20",
+            "B": "$24.00",
+            "C": "$45.20",
+            "D": "$50.00"
+          },
+          "answer": "A",
+          "explanation": "$650 − $628.80 = $21.20."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "辨識句首否定倒裝與正式條件句，並整合更新、例外、成本及預算限制完成跨文件推論。",
+  "nextDay": "複合資訊推論與第四階段強化"
+}

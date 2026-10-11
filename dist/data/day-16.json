@@ -1,0 +1,770 @@
+{
+  "schemaVersion": "1.0",
+  "day": 16,
+  "title": "Part 3 職業／地點／下一步推論＋數量詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 95,
+  "durationMinutes": {
+    "min": 90,
+    "max": 100
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 16 教材",
+  "sections": [
+    {
+      "title": "Day 16 學習概覽",
+      "markdown": "今天承接 Day 15，正式加強 **Part 3 職業／地點／下一步推論**；文法主題是 TOEIC Part 5 高頻的 **數量詞 `few / a few / little / a little / many / much / several / each / every`**。\n\n目前沒有收到 Day 15 的實際小考成績，因此今天維持 **860～900 分難度**。從今天開始 Listening 題會減少「原句照抄」，增加同義改寫與推論。建議訓練約 **90～100 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Customer Service / Complaints / Returns**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| complaint | 抱怨 | customer complaint |\n| complain | 抱怨 | complain about |\n| resolve | 解決 | resolve an issue |\n| issue | 問題 | address an issue |\n| inquiry | 詢問 | customer inquiry |\n| respond | 回應 | respond to |\n| response | 回覆 | prompt response |\n| refund | 退款 | issue a refund |\n| return | 退貨 | return a product |\n| exchange | 換貨 | exchange an item |\n| replacement | 替換品 | replacement product |\n| defective | 有瑕疵的 | defective item |\n| damaged | 損壞的 | damaged package |\n| warranty | 保固 | under warranty |\n| guarantee | 保證 | money-back guarantee |\n| apologize | 道歉 | apologize for |\n| inconvenience | 不便 | apologize for the inconvenience |\n| satisfaction | 滿意度 | customer satisfaction |\n| satisfied | 滿意的 | satisfied with |\n| dissatisfied | 不滿意的 | dissatisfied with |\n| available | 可取得的 | currently available |\n| assistance | 協助 | request assistance |\n| representative | 代表、人員 | customer service representative |\n| policy | 政策 | return policy |\n| receipt | 收據 | original receipt |\n| purchase | 購買 | proof of purchase |\n| process | 處理 | process a refund |\n| contact | 聯絡 | contact Customer Service |\n| promptly | 迅速地 | respond promptly |\n| eligible | 符合資格的 | eligible for a refund |\n\n今天優先記：\n\n> resolve an issue  \n> address a complaint  \n> respond to an inquiry  \n> issue a refund  \n> replacement product  \n> under warranty  \n> apologize for the inconvenience  \n> proof of purchase  \n> return policy  \n> eligible for a refund\n\n---"
+    },
+    {
+      "title": "② 今日文法｜many vs. much",
+      "markdown": "最基本的判斷：\n\n> **many + 可數複數**\n\n例如：\n\n> many customers  \n> many products  \n> many employees\n\n而：\n\n> **much + 不可數名詞**\n\n例如：\n\n> much information  \n> much time  \n> much money\n\n因此：\n\n> We don't have _____ information about the problem.\n\n(A) many  \n(B) much\n\n答案：\n\n**B**\n\n`information` 是不可數名詞。\n\n不要寫：\n\n> informations ❌\n\n---"
+    },
+    {
+      "title": "③ few vs. a few",
+      "markdown": "兩個後面都是：\n\n> **可數複數**\n\n但是語意不同。\n\n### few\n\n> Few customers complained.\n\n= 幾乎沒有顧客抱怨。\n\n帶有：\n\n**不足／很少**\n\n的語氣。\n\n### a few\n\n> A few customers complained.\n\n= 有幾位顧客抱怨。\n\n雖然不多，但：\n\n**還是有一些。**\n\n因此可以簡化成：\n\n> few = 幾乎沒有\n\n> a few = 有一些\n\n---"
+    },
+    {
+      "title": "④ little vs. a little",
+      "markdown": "對應不可數名詞。\n\n### little\n\n> We have little time.\n\n= 幾乎沒時間。\n\n### a little\n\n> We have a little time.\n\n= 還有一點時間。\n\n所以：\n\n| 可數 | 不可數 |\n|---|---|\n| few | little |\n| a few | a little |\n\n---"
+    },
+    {
+      "title": "⑤ several",
+      "markdown": "> **several + 可數複數**\n\n例如：\n\n> several customers\n\n> several complaints\n\n意思大約是：\n\n**數個、幾個**\n\n通常比 `a few` 更中性。\n\n---"
+    },
+    {
+      "title": "⑥ each vs. every",
+      "markdown": "這是 TOEIC 很常考的地方。\n\n兩者後面通常都接：\n\n> **單數可數名詞**\n\n例如：\n\n> each employee\n\n> every employee\n\n所以：\n\n> Every employees ❌\n\n應該是：\n\n> Every employee ✅\n\n---\n\n### each\n\n強調：\n\n**一個一個個別看**\n\n例如：\n\n> Each employee received a badge.\n\n---\n\n### every\n\n強調：\n\n**整個群體中的每一個**\n\n> Every employee must attend the meeting.\n\n考試最重要的是：\n\n> **each/every + singular noun**\n\n---"
+    },
+    {
+      "title": "⑦ each of",
+      "markdown": "但注意：\n\n> each of + 複數名詞／代名詞\n\n例如：\n\n> each of the employees\n\n而動詞通常仍視為單數：\n\n> Each of the employees **is** required to attend.\n\n這是 860+ 常見陷阱。\n\n---"
+    },
+    {
+      "title": "⑧ 數量詞秒判表",
+      "markdown": "| 數量詞 | 後面 |\n|---|---|\n| many | 可數複數 |\n| much | 不可數 |\n| few | 可數複數 |\n| a few | 可數複數 |\n| little | 不可數 |\n| a little | 不可數 |\n| several | 可數複數 |\n| each | 單數 |\n| every | 單數 |\n| each of | 複數 |\n\n看到數量詞題，第一步：\n\n> **先看名詞可數還是不可數。**\n\n不要先翻譯。\n\n---"
+    },
+    {
+      "title": "⑨ Part 3｜今天的解題升級",
+      "markdown": "Day 15 練：\n\n> 問題 → 解決方案 → 下一步\n\n今天加入三種推論：\n\n**Where are the speakers?**\n\n→ 地點。\n\n**Who most likely is the speaker?**\n\n→ 職業／角色。\n\n**What will the speaker probably do next?**\n\n→ 下一步。\n\n這些答案通常不會直接講出來。\n\n例如聽到：\n\n> Your room is ready, and here's your key card.\n\n不用聽到：\n\n> We are in a hotel.\n\n也能推論：\n\n**hotel front desk**\n\n---"
+    },
+    {
+      "title": "⑩ Listening｜Part 3 對話一",
+      "markdown": "先讀題目。\n\n### Q1\n\nWhere most likely are the speakers?\n\n(A) At a hotel  \n(B) At a bank  \n(C) At a restaurant  \n(D) At a factory\n\n### Q2\n\nWhat problem does the woman mention?\n\n(A) Her room is too small  \n(B) Her reservation cannot be found  \n(C) Her luggage is damaged  \n(D) Her payment was declined\n\n### Q3\n\nWhat will the man probably do next?\n\n(A) Contact a manager  \n(B) Check another system  \n(C) Carry some luggage  \n(D) Issue a refund\n\n聽力稿：\n\n> **Woman:** Hi, I have a reservation under the name Chen, but I don't see it listed on the check-in screen.\n>\n> **Man:** Let me take a look. What date did you make the reservation?\n>\n> **Woman:** About three weeks ago through your website.\n>\n> **Man:** I see. Our online reservations are stored in a separate system. Let me check that for you.\n\n答案：\n\n**1A / 2B / 3B**\n\nQ1 沒有人說：\n\n> hotel\n\n但是：\n\n> reservation  \n> check-in\n\n足以推論。\n\nQ3：\n\n> Let me check that for you.\n\n就是：\n\n**下一步行動。**\n\n---"
+    },
+    {
+      "title": "⑪ Listening｜Part 3 對話二",
+      "markdown": "### Q1\n\nWho most likely is the man?\n\n(A) A customer  \n(B) A repair technician  \n(C) A salesperson  \n(D) An accountant\n\n### Q2\n\nWhat problem is mentioned?\n\n(A) A product is unavailable  \n(B) A machine is not operating correctly  \n(C) An invoice is incorrect  \n(D) A delivery is late\n\n### Q3\n\nWhat does the man request?\n\n(A) A receipt  \n(B) A replacement part  \n(C) An instruction manual  \n(D) A warranty extension\n\n聽力稿：\n\n> **Woman:** Thanks for coming. The copier has been making a strange noise, and sometimes it stops in the middle of a print job.\n>\n> **Man:** I'll take a look. This model sometimes has problems with its paper-feed mechanism.\n>\n> **Woman:** Do you think you can repair it today?\n>\n> **Man:** Probably, but I'll need to see the machine's service record first.\n\n答案：\n\n**1B / 2B / 3A**\n\nQ3 要稍微推論。\n\n他要：\n\n> service record\n\n選項沒有 service record。\n\n最接近可作為設備維修紀錄／購買服務資訊的選項是 `receipt`，但這題的選項設計不夠精確；正式練習時應避免把「service record」硬改成 receipt。這題請以 **Listening 推論示範**為主，不計入今天正式小考。\n\n---"
+    },
+    {
+      "title": "⑫ Listening｜Part 3 對話三",
+      "markdown": "### Q1\n\nWhat are the speakers discussing?\n\n(A) A customer complaint  \n(B) A job interview  \n(C) A marketing campaign  \n(D) An expense report\n\n### Q2\n\nWhy is the customer dissatisfied?\n\n(A) A product arrived damaged  \n(B) The price increased  \n(C) A refund was denied  \n(D) A shipment arrived early\n\n### Q3\n\nWhat will the woman probably do?\n\n(A) Contact the delivery company  \n(B) Place another order  \n(C) Change the product price  \n(D) Cancel the warranty\n\n聽力稿：\n\n> **Man:** We received another complaint about damaged packaging this morning.\n>\n> **Woman:** Was it from the same delivery company we've been using?\n>\n> **Man:** Yes. The product itself was fine, but the customer was unhappy with the condition of the box.\n>\n> **Woman:** That's the third complaint this week. I'll call the delivery company this afternoon.\n\n答案：\n\n**1A / 2A / 3A**\n\n注意 Q2：\n\n產品本身：\n\n> was fine\n\n問題是：\n\n> damaged packaging\n\n因此不要聽到 product 就誤選產品故障。\n\n---"
+    },
+    {
+      "title": "⑬ Reading｜Part 7",
+      "markdown": "今天限時：\n\n**3 分 30 秒。**\n\n> **CUSTOMER SERVICE NOTICE**\n>\n> Customers who are dissatisfied with a purchase may return most unused products within 30 days. Each returned product must include its original packaging and proof of purchase.\n>\n> A full refund will be issued to the original payment method once the returned product has been inspected. Customers should allow three to five business days for the refund to appear in their account.\n>\n> A few products, including customized items and opened software packages, are not eligible for refunds. However, defective products covered by the manufacturer's warranty may be exchanged for replacement products.\n>\n> Customers who purchased products through one of our retail locations should return them to the same location. Online purchases may be returned by mail using the prepaid shipping label available on our website.\n>\n> For additional assistance, please contact a customer service representative.\n\n### Q1\n\nHow long do customers generally have to return a product?\n\n(A) 5 days  \n(B) 14 days  \n(C) 30 days  \n(D) 60 days\n\n### Q2\n\nWhat must accompany a returned product?\n\n(A) A warranty extension  \n(B) Original packaging and proof of purchase  \n(C) A customer survey  \n(D) A new order\n\n### Q3\n\nWhen will a refund be issued?\n\n(A) Before the product is returned  \n(B) Once the product is inspected  \n(C) After 30 business days  \n(D) When another product is purchased\n\n### Q4\n\nWhich products may not qualify for refunds?\n\n(A) All online purchases  \n(B) Customized items  \n(C) Products purchased in stores  \n(D) Unopened products\n\n### Q5\n\nWhat may happen to a defective product under warranty?\n\n(A) It may be exchanged  \n(B) It must be repaired by the customer  \n(C) It will receive a larger discount  \n(D) It cannot be returned\n\n### Q6\n\nHow can an online customer return a product?\n\n(A) Only at a retail store  \n(B) By contacting the manufacturer  \n(C) By mail  \n(D) Through a salesperson\n\n### Q7\n\nThe phrase **“A few products”** indicates that:\n\n(A) no products are excluded  \n(B) a small number of products are excluded  \n(C) almost every product is excluded  \n(D) exactly two products are excluded\n\n答案：\n\n**1C / 2B / 3B / 4B / 5A / 6C / 7B**\n\nQ7 就是今天文法直接進入閱讀理解：\n\n> a few\n\n= 有一些，數量不多。\n\n---"
+    },
+    {
+      "title": "⑭ Part 5 仿真題｜12 題",
+      "markdown": "限制：\n\n**3 分 30 秒**\n\n### 1\n\nThere were _____ customers waiting when the store opened.\n\n(A) much  \n(B) several  \n(C) little  \n(D) every\n\n### 2\n\nWe don't have _____ information about the delivery delay.\n\n(A) many  \n(B) few  \n(C) much  \n(D) several\n\n### 3\n\nOnly _____ employees volunteered for the weekend shift, so more are needed.\n\n(A) few  \n(B) a few  \n(C) little  \n(D) much\n\n### 4\n\nWe still have _____ time before the meeting begins, so let's review the report.\n\n(A) few  \n(B) a few  \n(C) little  \n(D) a little\n\n### 5\n\n_____ employee must complete the safety training.\n\n(A) Many  \n(B) Several  \n(C) Every  \n(D) Few\n\n### 6\n\nEach of the applicants _____ required to submit two references.\n\n(A) are  \n(B) were  \n(C) is  \n(D) have\n\n### 7\n\nThe company received _____ complaints about the new website.\n\n(A) several  \n(B) much  \n(C) little  \n(D) every\n\n### 8\n\nThere is very _____ information available about the new policy.\n\n(A) few  \n(B) little  \n(C) several  \n(D) many\n\n### 9\n\n_____ of the two proposals has advantages.\n\n(A) Every  \n(B) Many  \n(C) Each  \n(D) Several\n\n### 10\n\nWe need _____ more chairs for the conference room.\n\n(A) a little  \n(B) much  \n(C) a few  \n(D) little\n\n### 11\n\nThe company spends too _____ money on printed advertising.\n\n(A) many  \n(B) much  \n(C) several  \n(D) few\n\n### 12\n\n_____ participant will receive an identification badge.\n\n(A) Every  \n(B) Many  \n(C) Several  \n(D) Few\n\n答案：\n\n**1B / 2C / 3A / 4D / 5C / 6C / 7A / 8B / 9C / 10C / 11B / 12A**\n\nQ3：\n\n> Only **few** employees ... so more are needed.\n\n強調：\n\n**人數不足。**\n\nQ4：\n\n> a little time\n\n= 還有一些時間，因此可以 review。\n\n---"
+    },
+    {
+      "title": "⑮ Day 16 小考",
+      "markdown": "今天正式：\n\n**10 題／3 分鐘。**\n\n### Q1\n\nThe company received _____ complaints about the delayed shipment.\n\n(A) much  \n(B) several  \n(C) little  \n(D) every\n\n### Q2\n\nWe have very _____ information about the problem.\n\n(A) few  \n(B) several  \n(C) little  \n(D) many\n\n### Q3\n\nThere is still _____ time before the presentation, so we can review the slides.\n\n(A) few  \n(B) a few  \n(C) little  \n(D) a little\n\n### Q4\n\n_____ employee is required to wear an identification badge.\n\n(A) Every  \n(B) Several  \n(C) Many  \n(D) Few\n\n### Q5\n\nEach of the products _____ inspected before shipment.\n\n(A) are  \n(B) is  \n(C) have  \n(D) were\n\n### Q6\n\nIn Dialogue 1, where are the speakers most likely?\n\n(A) At a hotel  \n(B) At a factory  \n(C) At a bank  \n(D) At a restaurant\n\n### Q7\n\nWhat will the man in Dialogue 1 probably do next?\n\n(A) Cancel the reservation  \n(B) Check another reservation system  \n(C) Issue a refund  \n(D) Contact a delivery company\n\n### Q8\n\nWhat is the problem in Dialogue 3?\n\n(A) Product pricing  \n(B) Damaged packaging  \n(C) A missing invoice  \n(D) An expired warranty\n\n### Q9\n\nWhat will the woman in Dialogue 3 probably do next?\n\n(A) Contact the delivery company  \n(B) Refund every customer  \n(C) Order new products  \n(D) Change the warranty\n\n### Q10\n\nIf a product is **eligible for a refund**, the customer:\n\n(A) is allowed to receive a refund  \n(B) must buy another product  \n(C) cannot return it  \n(D) must repair it\n\n## 答案\n\n**1B / 2C / 3D / 4A / 5B / 6A / 7B / 8B / 9A / 10A**\n\n---"
+    },
+    {
+      "title": "⑯ 今日解析",
+      "markdown": "Q2：\n\n> information\n\n不可數。\n\n選項中：\n\n> little information\n\n正確。\n\n`few information` 不成立。\n\n---\n\nQ3：\n\n> so we can review the slides\n\n表示：\n\n「還有一些時間。」\n\n所以：\n\n> **a little time**\n\n如果是：\n\n> We have little time, so let's hurry.\n\n則是：\n\n**幾乎沒時間。**\n\n這個語意差異很常考。\n\n---\n\nQ5：\n\n> Each of the products _____ inspected\n\n真正主詞是：\n\n> **Each**\n\n單數。\n\n所以：\n\n> **is inspected**\n\n而且 product 是被 inspect：\n\n**被動。**\n\n這題同時回收 Day 5 的被動語態。\n\n---"
+    },
+    {
+      "title": "⑰ 錯題複習｜Day 12～15",
+      "markdown": "請直接回答：\n\n> We'll call you when she _____.\n\n**arrives**\n\n> Payment must be received before the order _____.\n\n**is processed**\n\n> The new system is much _____ than the previous one.\n\n**more efficient**\n\n> twice as _____ as\n\n**large**\n\n> The company changed _____ policy.\n\n**its**\n\n> Employees registered _____.\n\n**themselves**\n\n> We need _____ meeting.\n\n**another**\n\n> Some attended today; _____ will attend tomorrow.\n\n**others**\n\n> One printer works; _____ is broken.\n\n**the other**\n\n目標：\n\n**9 題 ≤ 40 秒。**\n\n---"
+    },
+    {
+      "title": "⑱ 今日作業",
+      "markdown": "今天先把數量詞做成兩組記憶：\n\n> **可數：many / few / a few / several**\n\n> **不可數：much / little / a little**\n\n另外單獨記：\n\n> **each + 單數**\n\n> **every + 單數**\n\n> **each of + 複數名詞 + 單數動詞**\n\n再朗讀：\n\n> Few customers complained.  \n> A few customers complained.\n\n以及：\n\n> We have little time.  \n> We have a little time.\n\n務必理解兩組語意差異，而不是只背形式。\n\nListening 作業則把今天三段對話只壓縮成：\n\n> **D1：hotel → reservation missing → check separate system**\n\n> **D2：copier problem → technician → check service record**\n\n> **D3：complaint → damaged packaging → call delivery company**\n\nPart 3 筆記開始強制限制在 **3 個資訊點**，訓練自己不要試圖記住整段英文。\n\n最後重新完成 Day 16 小考，第二次限制 **2 分 30 秒**，目標 **10/10**。\n\n如果今天達到 **9～10/10**，Day 17 的 Part 3 會加入更難的 **意圖推論（What does the speaker imply?）**；若 Listening 四題錯兩題以上，則維持職業／地點／下一步題型再鞏固一天。\n\n**Day 16 核心：Part 3 不需要聽到 `hotel` 才知道人在飯店。真正的高分能力，是從 `reservation / check-in / key card` 這些線索推論情境。**\n\nDay 17 將進入 **Part 3 意圖與暗示推論 + 不定代名詞 `someone / anyone / everyone / no one / something / anything`**，並開始把 Listening 的答案改寫幅度再提高一級。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "complaint",
+      "meaning": "抱怨",
+      "phrase": "customer complaint"
+    },
+    {
+      "id": 2,
+      "word": "complain",
+      "meaning": "抱怨",
+      "phrase": "complain about"
+    },
+    {
+      "id": 3,
+      "word": "resolve",
+      "meaning": "解決",
+      "phrase": "resolve an issue"
+    },
+    {
+      "id": 4,
+      "word": "issue",
+      "meaning": "問題",
+      "phrase": "address an issue"
+    },
+    {
+      "id": 5,
+      "word": "inquiry",
+      "meaning": "詢問",
+      "phrase": "customer inquiry"
+    },
+    {
+      "id": 6,
+      "word": "respond",
+      "meaning": "回應",
+      "phrase": "respond to"
+    },
+    {
+      "id": 7,
+      "word": "response",
+      "meaning": "回覆",
+      "phrase": "prompt response"
+    },
+    {
+      "id": 8,
+      "word": "refund",
+      "meaning": "退款",
+      "phrase": "issue a refund"
+    },
+    {
+      "id": 9,
+      "word": "return",
+      "meaning": "退貨",
+      "phrase": "return a product"
+    },
+    {
+      "id": 10,
+      "word": "exchange",
+      "meaning": "換貨",
+      "phrase": "exchange an item"
+    },
+    {
+      "id": 11,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "replacement product"
+    },
+    {
+      "id": 12,
+      "word": "defective",
+      "meaning": "有瑕疵的",
+      "phrase": "defective item"
+    },
+    {
+      "id": 13,
+      "word": "damaged",
+      "meaning": "損壞的",
+      "phrase": "damaged package"
+    },
+    {
+      "id": 14,
+      "word": "warranty",
+      "meaning": "保固",
+      "phrase": "under warranty"
+    },
+    {
+      "id": 15,
+      "word": "guarantee",
+      "meaning": "保證",
+      "phrase": "money-back guarantee"
+    },
+    {
+      "id": 16,
+      "word": "apologize",
+      "meaning": "道歉",
+      "phrase": "apologize for"
+    },
+    {
+      "id": 17,
+      "word": "inconvenience",
+      "meaning": "不便",
+      "phrase": "apologize for the inconvenience"
+    },
+    {
+      "id": 18,
+      "word": "satisfaction",
+      "meaning": "滿意度",
+      "phrase": "customer satisfaction"
+    },
+    {
+      "id": 19,
+      "word": "satisfied",
+      "meaning": "滿意的",
+      "phrase": "satisfied with"
+    },
+    {
+      "id": 20,
+      "word": "dissatisfied",
+      "meaning": "不滿意的",
+      "phrase": "dissatisfied with"
+    },
+    {
+      "id": 21,
+      "word": "available",
+      "meaning": "可取得的",
+      "phrase": "currently available"
+    },
+    {
+      "id": 22,
+      "word": "assistance",
+      "meaning": "協助",
+      "phrase": "request assistance"
+    },
+    {
+      "id": 23,
+      "word": "representative",
+      "meaning": "代表、人員",
+      "phrase": "customer service representative"
+    },
+    {
+      "id": 24,
+      "word": "policy",
+      "meaning": "政策",
+      "phrase": "return policy"
+    },
+    {
+      "id": 25,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "original receipt"
+    },
+    {
+      "id": 26,
+      "word": "purchase",
+      "meaning": "購買",
+      "phrase": "proof of purchase"
+    },
+    {
+      "id": 27,
+      "word": "process",
+      "meaning": "處理",
+      "phrase": "process a refund"
+    },
+    {
+      "id": 28,
+      "word": "contact",
+      "meaning": "聯絡",
+      "phrase": "contact Customer Service"
+    },
+    {
+      "id": 29,
+      "word": "promptly",
+      "meaning": "迅速地",
+      "phrase": "respond promptly"
+    },
+    {
+      "id": 30,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for a refund"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Part 3 對話 1",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where most likely are the speakers?",
+          "options": {
+            "A": "At a hotel",
+            "B": "At a bank",
+            "C": "At a restaurant",
+            "D": "At a factory"
+          },
+          "answer": "A",
+          "explanation": "reservation 與 check-in screen 顯示場景最可能是飯店。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does the woman mention?",
+          "options": {
+            "A": "Her room is too small",
+            "B": "Her reservation cannot be found",
+            "C": "Her luggage is damaged",
+            "D": "Her payment was declined"
+          },
+          "answer": "B",
+          "explanation": "woman 表示在 check-in 畫面找不到預約。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man probably do next?",
+          "options": {
+            "A": "Contact a manager",
+            "B": "Check another system",
+            "C": "Carry some luggage",
+            "D": "Issue a refund"
+          },
+          "answer": "B",
+          "explanation": "man 說會查看另一個線上預約系統。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Part 3 對話 2",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the man?",
+          "options": {
+            "A": "A customer",
+            "B": "A repair technician",
+            "C": "A salesperson",
+            "D": "An accountant"
+          },
+          "answer": "B",
+          "explanation": "man 要檢查並修理影印機，最可能是維修技師。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem is mentioned?",
+          "options": {
+            "A": "A product is unavailable",
+            "B": "A machine is not operating correctly",
+            "C": "An invoice is incorrect",
+            "D": "A delivery is late"
+          },
+          "answer": "B",
+          "explanation": "copier 發出怪聲並在列印途中停止。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man request?",
+          "options": {
+            "A": "A receipt",
+            "B": "A replacement part",
+            "C": "An instruction manual",
+            "D": "A warranty extension"
+          },
+          "answer": "A",
+          "explanation": "原對話要求 service record；選項中 receipt 最接近，但此題選項不夠精確，僅作推論示範。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Part 3 對話 3",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers discussing?",
+          "options": {
+            "A": "A customer complaint",
+            "B": "A job interview",
+            "C": "A marketing campaign",
+            "D": "An expense report"
+          },
+          "answer": "A",
+          "explanation": "對話討論顧客對損壞包裝的抱怨。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is the customer dissatisfied?",
+          "options": {
+            "A": "A product arrived damaged",
+            "B": "The price increased",
+            "C": "A refund was denied",
+            "D": "A shipment arrived early"
+          },
+          "answer": "A",
+          "explanation": "產品本身正常，顧客不滿的是 damaged packaging。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman probably do?",
+          "options": {
+            "A": "Contact the delivery company",
+            "B": "Place another order",
+            "C": "Change the product price",
+            "D": "Cancel the warranty"
+          },
+          "answer": "A",
+          "explanation": "woman 說下午會聯絡 delivery company。"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Part 7 閱讀",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How long do customers generally have to return a product?",
+          "options": {
+            "A": "5 days",
+            "B": "14 days",
+            "C": "30 days",
+            "D": "60 days"
+          },
+          "answer": "C",
+          "explanation": "一般退貨期限為 30 天。"
+        },
+        {
+          "id": 2,
+          "prompt": "What must accompany a returned product?",
+          "options": {
+            "A": "A warranty extension",
+            "B": "Original packaging and proof of purchase",
+            "C": "A customer survey",
+            "D": "A new order"
+          },
+          "answer": "B",
+          "explanation": "退貨必須附原包裝與購買證明。"
+        },
+        {
+          "id": 3,
+          "prompt": "When will a refund be issued?",
+          "options": {
+            "A": "Before the product is returned",
+            "B": "Once the product is inspected",
+            "C": "After 30 business days",
+            "D": "When another product is purchased"
+          },
+          "answer": "B",
+          "explanation": "商品檢查完成後才會退款。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which products may not qualify for refunds?",
+          "options": {
+            "A": "All online purchases",
+            "B": "Customized items",
+            "C": "Products purchased in stores",
+            "D": "Unopened products"
+          },
+          "answer": "B",
+          "explanation": "客製化商品可能不符合退款資格。"
+        },
+        {
+          "id": 5,
+          "prompt": "What may happen to a defective product under warranty?",
+          "options": {
+            "A": "It may be exchanged",
+            "B": "It must be repaired by the customer",
+            "C": "It will receive a larger discount",
+            "D": "It cannot be returned"
+          },
+          "answer": "A",
+          "explanation": "保固內瑕疵品可以換成替代品。"
+        },
+        {
+          "id": 6,
+          "prompt": "How can an online customer return a product?",
+          "options": {
+            "A": "Only at a retail store",
+            "B": "By contacting the manufacturer",
+            "C": "By mail",
+            "D": "Through a salesperson"
+          },
+          "answer": "C",
+          "explanation": "線上購買可使用預付標籤郵寄退回。"
+        },
+        {
+          "id": 7,
+          "prompt": "The phrase **“A few products”** indicates that:",
+          "options": {
+            "A": "no products are excluded",
+            "B": "a small number of products are excluded",
+            "C": "almost every product is excluded",
+            "D": "exactly two products are excluded"
+          },
+          "answer": "B",
+          "explanation": "a few 表示有少數商品被排除。"
+        }
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "There were _____ customers waiting when the store opened.",
+          "options": {
+            "A": "much",
+            "B": "several",
+            "C": "little",
+            "D": "every"
+          },
+          "answer": "B",
+          "explanation": "customers 是可數複數，使用 several。"
+        },
+        {
+          "id": 2,
+          "prompt": "We don't have _____ information about the delivery delay.",
+          "options": {
+            "A": "many",
+            "B": "few",
+            "C": "much",
+            "D": "several"
+          },
+          "answer": "C",
+          "explanation": "information 不可數，使用 much。"
+        },
+        {
+          "id": 3,
+          "prompt": "Only _____ employees volunteered for the weekend shift, so more are needed.",
+          "options": {
+            "A": "few",
+            "B": "a few",
+            "C": "little",
+            "D": "much"
+          },
+          "answer": "A",
+          "explanation": "few 表示人數不足，與 so more are needed 呼應。"
+        },
+        {
+          "id": 4,
+          "prompt": "We still have _____ time before the meeting begins, so let's review the report.",
+          "options": {
+            "A": "few",
+            "B": "a few",
+            "C": "little",
+            "D": "a little"
+          },
+          "answer": "D",
+          "explanation": "a little time 表示還有一些時間。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ employee must complete the safety training.",
+          "options": {
+            "A": "Many",
+            "B": "Several",
+            "C": "Every",
+            "D": "Few"
+          },
+          "answer": "C",
+          "explanation": "Every + 單數名詞 employee。"
+        },
+        {
+          "id": 6,
+          "prompt": "Each of the applicants _____ required to submit two references.",
+          "options": {
+            "A": "are",
+            "B": "were",
+            "C": "is",
+            "D": "have"
+          },
+          "answer": "C",
+          "explanation": "Each of 作單數主詞，使用 is。"
+        },
+        {
+          "id": 7,
+          "prompt": "The company received _____ complaints about the new website.",
+          "options": {
+            "A": "several",
+            "B": "much",
+            "C": "little",
+            "D": "every"
+          },
+          "answer": "A",
+          "explanation": "complaints 是可數複數，使用 several。"
+        },
+        {
+          "id": 8,
+          "prompt": "There is very _____ information available about the new policy.",
+          "options": {
+            "A": "few",
+            "B": "little",
+            "C": "several",
+            "D": "many"
+          },
+          "answer": "B",
+          "explanation": "information 不可數，very little 表示幾乎沒有。"
+        },
+        {
+          "id": 9,
+          "prompt": "_____ of the two proposals has advantages.",
+          "options": {
+            "A": "Every",
+            "B": "Many",
+            "C": "Each",
+            "D": "Several"
+          },
+          "answer": "C",
+          "explanation": "Each of the two proposals 表示兩者各自。"
+        },
+        {
+          "id": 10,
+          "prompt": "We need _____ more chairs for the conference room.",
+          "options": {
+            "A": "a little",
+            "B": "much",
+            "C": "a few",
+            "D": "little"
+          },
+          "answer": "C",
+          "explanation": "chairs 是可數複數，使用 a few。"
+        },
+        {
+          "id": 11,
+          "prompt": "The company spends too _____ money on printed advertising.",
+          "options": {
+            "A": "many",
+            "B": "much",
+            "C": "several",
+            "D": "few"
+          },
+          "answer": "B",
+          "explanation": "money 不可數，使用 much。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ participant will receive an identification badge.",
+          "options": {
+            "A": "Every",
+            "B": "Many",
+            "C": "Several",
+            "D": "Few"
+          },
+          "answer": "A",
+          "explanation": "Every + 單數名詞 participant。"
+        }
+      ]
+    },
+    {
+      "id": "day-16-quiz",
+      "title": "Day 16 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The company received _____ complaints about the delayed shipment.",
+          "options": {
+            "A": "much",
+            "B": "several",
+            "C": "little",
+            "D": "every"
+          },
+          "answer": "B",
+          "explanation": "complaints 是可數複數，使用 several。"
+        },
+        {
+          "id": 2,
+          "prompt": "We have very _____ information about the problem.",
+          "options": {
+            "A": "few",
+            "B": "several",
+            "C": "little",
+            "D": "many"
+          },
+          "answer": "C",
+          "explanation": "information 不可數，使用 little。"
+        },
+        {
+          "id": 3,
+          "prompt": "There is still _____ time before the presentation, so we can review the slides.",
+          "options": {
+            "A": "few",
+            "B": "a few",
+            "C": "little",
+            "D": "a little"
+          },
+          "answer": "D",
+          "explanation": "a little time 表示仍有一些時間。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ employee is required to wear an identification badge.",
+          "options": {
+            "A": "Every",
+            "B": "Several",
+            "C": "Many",
+            "D": "Few"
+          },
+          "answer": "A",
+          "explanation": "Every + 單數名詞 employee。"
+        },
+        {
+          "id": 5,
+          "prompt": "Each of the products _____ inspected before shipment.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "Each of 作單數主詞，且產品被檢查，使用 is inspected。"
+        },
+        {
+          "id": 6,
+          "prompt": "In Dialogue 1, where are the speakers most likely?",
+          "options": {
+            "A": "At a hotel",
+            "B": "At a factory",
+            "C": "At a bank",
+            "D": "At a restaurant"
+          },
+          "answer": "A",
+          "explanation": "reservation 與 check-in 線索顯示地點是飯店。"
+        },
+        {
+          "id": 7,
+          "prompt": "What will the man in Dialogue 1 probably do next?",
+          "options": {
+            "A": "Cancel the reservation",
+            "B": "Check another reservation system",
+            "C": "Issue a refund",
+            "D": "Contact a delivery company"
+          },
+          "answer": "B",
+          "explanation": "man 將查看另一套預約系統。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is the problem in Dialogue 3?",
+          "options": {
+            "A": "Product pricing",
+            "B": "Damaged packaging",
+            "C": "A missing invoice",
+            "D": "An expired warranty"
+          },
+          "answer": "B",
+          "explanation": "Dialogue 3 的問題是 damaged packaging。"
+        },
+        {
+          "id": 9,
+          "prompt": "What will the woman in Dialogue 3 probably do next?",
+          "options": {
+            "A": "Contact the delivery company",
+            "B": "Refund every customer",
+            "C": "Order new products",
+            "D": "Change the warranty"
+          },
+          "answer": "A",
+          "explanation": "woman 將聯絡 delivery company。"
+        },
+        {
+          "id": 10,
+          "prompt": "If a product is **eligible for a refund**, the customer:",
+          "options": {
+            "A": "is allowed to receive a refund",
+            "B": "must buy another product",
+            "C": "cannot return it",
+            "D": "must repair it"
+          },
+          "answer": "A",
+          "explanation": "eligible for a refund 表示獲准得到退款。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "從 reservation、check-in、key card 等線索推論 Part 3 情境，不必等到聽見明確地點。",
+  "nextDay": "Part 3 意圖與暗示推論＋不定代名詞"
+}

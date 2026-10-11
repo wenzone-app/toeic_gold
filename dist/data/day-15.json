@@ -1,0 +1,712 @@
+{
+  "schemaVersion": "1.0",
+  "day": 15,
+  "title": "Part 3 對話入門＋代名詞與指示詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 95,
+  "durationMinutes": {
+    "min": 90,
+    "max": 100
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 15 教材",
+  "sections": [
+    {
+      "title": "Day 15 學習概覽",
+      "markdown": "第三週正式開始。前兩週已建立 Part 5 的主要解題框架，今天開始把重心往 **連續資訊處理**移動：加入 **Part 3 短對話**，文法則處理 **代名詞與指示詞的指涉判斷**。\n\n由於目前沒有收到 Day 14 週測的實際作答成績，今天先維持 **860～900 分難度**。建議約 **90～100 分鐘**。今天開始 Listening 不只要求答對，還要練習「題目先讀 → 預測要聽什麼」。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Meetings / Projects / Office Communication**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| agenda | 議程 | meeting agenda |\n| appointment | 約會、預約 | schedule an appointment |\n| arrangement | 安排 | make arrangements |\n| attend | 出席 | attend a meeting |\n| attendance | 出席 | attendance record |\n| available | 有空的、可用的 | be available |\n| cancel | 取消 | cancel a meeting |\n| confirm | 確認 | confirm an appointment |\n| deadline | 截止期限 | meet a deadline |\n| discussion | 討論 | have a discussion |\n| document | 文件 | review a document |\n| postpone | 延後 | postpone a meeting |\n| reschedule | 改期 | reschedule an appointment |\n| participant | 參與者 | meeting participant |\n| presentation | 簡報 | give a presentation |\n| proposal | 提案 | submit a proposal |\n| project | 專案 | complete a project |\n| progress | 進度 | make progress |\n| schedule | 時程 | project schedule |\n| update | 更新 | provide an update |\n| notify | 通知 | notify employees |\n| remind | 提醒 | remind someone to |\n| mention | 提及 | mention a problem |\n| discuss | 討論 | discuss a proposal |\n| recommend | 建議 | recommend changing |\n| arrange | 安排 | arrange a meeting |\n| participate | 參加 | participate in |\n| available | 可取得／有空 | currently available |\n| urgent | 緊急的 | urgent request |\n| immediately | 立即 | respond immediately |\n\n今天優先形成：\n\n> meeting agenda  \n> schedule an appointment  \n> make arrangements  \n> meet a deadline  \n> confirm an appointment  \n> reschedule a meeting  \n> submit a proposal  \n> make progress  \n> provide an update  \n> participate in\n\n注意：\n\n> **discuss the problem** ✅\n\n通常不需要：\n\n> discuss about the problem ❌\n\n而：\n\n> **have a discussion about the problem**\n\n則可以使用 `about`。\n\n---"
+    },
+    {
+      "title": "② 今日文法｜代名詞",
+      "markdown": "TOEIC 常考的不是「he 是他」這種基礎，而是空格到底需要：\n\n> 主格 / 受格 / 所有格 / 反身代名詞\n\n例如：\n\n> Ms. Chen asked _____ to prepare the report.\n\n(A) he  \n(B) his  \n(C) him  \n(D) himself\n\n`asked _____`\n\n需要受詞。\n\n所以：\n\n> **him**\n\n答案 C。\n\n基本表先形成反射：\n\n| 主格 | 受格 | 所有格形容詞 | 所有格代名詞 |\n|---|---|---|---|\n| I | me | my | mine |\n| we | us | our | ours |\n| you | you | your | yours |\n| he | him | his | his |\n| she | her | her | hers |\n| they | them | their | theirs |\n| it | it | its | — |\n\n---"
+    },
+    {
+      "title": "③ its vs. it's",
+      "markdown": "TOEIC 很值得直接秒判：\n\n> **its** = 它的\n\n> **it's** = it is / it has\n\n例如：\n\n> The company changed _____ refund policy.\n\n需要：\n\n「公司的退款政策」\n\n所以：\n\n> **its**\n\n不是：\n\n> it's\n\n正式 TOEIC 選項未必直接拿 `it's` 騙你，但閱讀與商務寫作一定要分得清楚。\n\n---"
+    },
+    {
+      "title": "④ reflexive pronouns｜反身代名詞",
+      "markdown": "> myself  \n> yourself  \n> himself  \n> herself  \n> itself  \n> ourselves  \n> themselves\n\n例如：\n\n> Employees can register _____ through the website.\n\n答案：\n\n> **themselves**\n\n意思：\n\n員工可以「自己」完成登記。\n\n高頻：\n\n> by myself  \n> by yourself  \n> by themselves\n\n= 獨自／自行。\n\n---"
+    },
+    {
+      "title": "⑤ another / other / others",
+      "markdown": "這是今天真正比較容易失分的地方。\n\n### another\n\n> another + 單數可數名詞\n\n例如：\n\n> another meeting\n\n> another supplier\n\n---\n\n### other\n\n> other + 複數名詞／不可數名詞\n\n例如：\n\n> other employees\n\n> other information\n\n---\n\n### others\n\n後面：\n\n**不再接名詞**\n\n例如：\n\n> Some employees work remotely; **others** work in the office.\n\n---\n\n### the other\n\n兩個之中的：\n\n**另一個**\n\n> One printer is working, but **the other** is broken.\n\n---"
+    },
+    {
+      "title": "⑥ each other",
+      "markdown": "> The two departments regularly communicate with **each other**.\n\n= 彼此。\n\n不要混成：\n\n> themselves\n\n比較：\n\n> They introduced **themselves**.\n\n他們介紹自己。\n\n> They introduced **each other**.\n\n他們互相介紹對方。\n\n意思不同。\n\n---"
+    },
+    {
+      "title": "⑦ 指示詞 this / that / these / those",
+      "markdown": "Part 7 會更重要。\n\n例如：\n\n> The company introduced a flexible work policy last year. **This change** has improved employee satisfaction.\n\n`This change` 指的是：\n\n> flexible work policy\n\n閱讀時看到：\n\n> this / that / these / those / it / they\n\n要習慣問：\n\n> **它到底指前面的什麼？**\n\n這是 Part 7 指涉題的核心。\n\n---"
+    },
+    {
+      "title": "⑧ Part 3 入門策略",
+      "markdown": "從今天開始加入 Part 3。\n\n不要等音檔開始才看題目。\n\n正確流程是：\n\n**① 先讀問題**\n\n**② 預測答案類型**\n\n**③ 聽對話**\n\n**④ 抓轉折／問題／下一步**\n\n例如題目：\n\n> Why is the woman calling?\n\n你在聽之前就知道：\n\n我要抓：\n\n**打電話原因。**\n\n題目：\n\n> What will the man probably do next?\n\n你要抓：\n\n**下一步行動。**\n\n這會大幅降低 Listening 的記憶負擔。\n\n---"
+    },
+    {
+      "title": "⑨ Listening｜Part 3 對話 1",
+      "markdown": "先看三題：\n\n### Q1\n\nWhy is the woman calling?\n\n(A) To confirm a meeting  \n(B) To order equipment  \n(C) To apply for a job  \n(D) To request payment\n\n### Q2\n\nWhat problem does the man mention?\n\n(A) A report is incomplete  \n(B) He has another appointment  \n(C) A conference room is unavailable  \n(D) A customer canceled an order\n\n### Q3\n\nWhat will the speakers probably do?\n\n(A) Cancel the project  \n(B) Meet later in the day  \n(C) Contact a supplier  \n(D) Submit a report\n\n聽力稿：\n\n> **Woman:** Hi, David. I'm calling to confirm our project meeting tomorrow morning at ten.\n>\n> **Man:** I was actually going to contact you. I have an appointment with a client at that time. Would two in the afternoon work instead?\n>\n> **Woman:** That's fine with me. I'll update the calendar invitation.\n\n答案：\n\n**1A / 2B / 3B**\n\n關鍵不是每句都聽懂。\n\nQ1：\n\n> calling to confirm\n\nQ2：\n\n> appointment with a client\n\nQ3：\n\n> two in the afternoon → That's fine\n\n即可解題。\n\n---"
+    },
+    {
+      "title": "⑩ Listening｜Part 3 對話 2",
+      "markdown": "先看題目。\n\n### Q1\n\nWhat are the speakers discussing?\n\n(A) A product shipment  \n(B) A presentation  \n(C) A job interview  \n(D) A hotel reservation\n\n### Q2\n\nWhat does the woman still need?\n\n(A) Sales figures  \n(B) Customer names  \n(C) Photographs  \n(D) A meeting room\n\n### Q3\n\nWhat does the man offer to do?\n\n(A) Contact the sales department  \n(B) Give the presentation  \n(C) Change the deadline  \n(D) Print some documents\n\n聽力稿：\n\n> **Man:** How's the presentation for Friday's management meeting coming along?\n>\n> **Woman:** Almost finished. I've completed the slides about our new products, but I'm still waiting for the latest sales figures.\n>\n> **Man:** I can ask the sales department to send them to you this afternoon.\n>\n> **Woman:** That would be great. Thanks.\n\n答案：\n\n**1B / 2A / 3A**\n\n今天開始注意：\n\n> What does the man **offer to do**?\n\n通常答案藏在：\n\n> **I can...**\n\n正式 TOEIC 非常常見。\n\n---"
+    },
+    {
+      "title": "⑪ Part 3 高頻訊號",
+      "markdown": "聽到這些句型要提高注意力：\n\n> **I'll...**\n\n→ 下一步行動\n\n> **I can...**\n\n→ 提供協助\n\n> **Why don't we...?**\n\n→ 建議\n\n> **How about...?**\n\n→ 建議\n\n> **Unfortunately...**\n\n→ 問題／壞消息\n\n> **Actually...**\n\n→ 修正前面的資訊\n\n> **But...**\n\n→ 轉折後通常重要\n\n> **I'm afraid...**\n\n→ 常接問題或拒絕\n\n之後 Part 3 不需要把整段英文記在腦中。\n\n要抓：\n\n> **人物關係 → 問題 → 解決方案 → 下一步**\n\n---"
+    },
+    {
+      "title": "⑫ Reading｜Part 7",
+      "markdown": "限時 **3 分 30 秒**。\n\n> **To:** Project Team  \n> **From:** Laura Chen  \n> **Subject:** Thursday's Project Meeting\n>\n> Our project meeting originally scheduled for Thursday at 10:00 A.M. has been moved to 2:30 P.M. because several team members will be attending a customer presentation that morning.\n>\n> The meeting will still take place in Conference Room 5A. An updated agenda is attached to this email. Please review it before the meeting, particularly the section concerning the revised product launch schedule.\n>\n> Kevin Huang will provide an update on the advertising campaign, and Maria Lin will present the results of the latest customer survey.\n>\n> If you are unable to attend, please send your comments regarding the launch schedule to me by noon on Thursday. I will include them in the discussion.\n>\n> The meeting is expected to last approximately one hour.\n\n### Q1\n\nWhy was the meeting time changed?\n\n(A) The conference room is unavailable  \n(B) Some employees have another event  \n(C) Laura Chen will be absent  \n(D) The project is behind schedule\n\n### Q2\n\nWhat should employees review?\n\n(A) A customer contract  \n(B) An expense report  \n(C) An updated agenda  \n(D) A job application\n\n### Q3\n\nWhat will Kevin Huang discuss?\n\n(A) Customer survey results  \n(B) Advertising  \n(C) Product pricing  \n(D) Employee training\n\n### Q4\n\nWhat should someone who cannot attend do?\n\n(A) Reschedule the meeting  \n(B) Contact Kevin Huang  \n(C) Send comments to Laura  \n(D) Attend the customer presentation\n\n### Q5\n\nApproximately when should the meeting end?\n\n(A) 2:30 P.M.  \n(B) 3:00 P.M.  \n(C) 3:30 P.M.  \n(D) 4:30 P.M.\n\n### Q6\n\nIn the sentence “I will include **them** in the discussion,” what does **them** refer to?\n\n(A) Team members  \n(B) Customer presentations  \n(C) Comments  \n(D) Survey results\n\n答案：\n\n**1B / 2C / 3B / 4C / 5C / 6C**\n\nQ6 就是今天的指涉題。\n\n往前找最近、語意合理的複數名詞：\n\n> send your **comments** ...  \n> I will include **them**...\n\n所以：\n\n**them = comments**\n\n---"
+    },
+    {
+      "title": "⑬ Part 5 仿真題｜12 題",
+      "markdown": "限時：\n\n**3 分 30 秒**\n\n### 1\n\nMs. Lee asked _____ to prepare the presentation.\n\n(A) he  \n(B) him  \n(C) his  \n(D) himself\n\n### 2\n\nThe company recently updated _____ employee handbook.\n\n(A) it  \n(B) itself  \n(C) its  \n(D) theirs\n\n### 3\n\nEmployees can register _____ for the training program.\n\n(A) themselves  \n(B) their  \n(C) them  \n(D) they\n\n### 4\n\nWe need _____ copy of the contract.\n\n(A) other  \n(B) others  \n(C) another  \n(D) the others\n\n### 5\n\nSome employees attended the morning session, while _____ participated in the afternoon.\n\n(A) another  \n(B) other  \n(C) others  \n(D) the other\n\n### 6\n\nPlease contact us if you need any _____ information.\n\n(A) another  \n(B) other  \n(C) others  \n(D) the other\n\n### 7\n\nThe two managers discussed the proposal with _____.\n\n(A) themselves  \n(B) each other  \n(C) theirs  \n(D) another\n\n### 8\n\nOne printer is located upstairs, and _____ is near reception.\n\n(A) another  \n(B) other  \n(C) others  \n(D) the other\n\n### 9\n\nThe company increased _____ advertising budget this year.\n\n(A) it  \n(B) its  \n(C) itself  \n(D) their\n\n### 10\n\nCustomers may submit the forms _____.\n\n(A) they  \n(B) their  \n(C) themselves  \n(D) them\n\n### 11\n\nThe marketing team reviewed several proposals and selected _____ for further consideration.\n\n(A) they  \n(B) their  \n(C) them  \n(D) theirs\n\n### 12\n\nMr. Wang completed the entire project by _____.\n\n(A) him  \n(B) his  \n(C) himself  \n(D) he\n\n答案：\n\n**1B / 2C / 3A / 4C / 5C / 6B / 7B / 8D / 9B / 10C / 11C / 12C**\n\n---"
+    },
+    {
+      "title": "⑭ Day 15 小考",
+      "markdown": "今天：\n\n**10 題／3 分鐘**\n\n### Q1\n\nThe manager asked _____ to revise the proposal.\n\n(A) she  \n(B) her  \n(C) hers  \n(D) herself\n\n### Q2\n\nThe company will announce _____ new policy tomorrow.\n\n(A) it  \n(B) its  \n(C) itself  \n(D) theirs\n\n### Q3\n\nEmployees should familiarize _____ with the updated procedures.\n\n(A) they  \n(B) their  \n(C) themselves  \n(D) them\n\n### Q4\n\nWe need _____ meeting to discuss the budget.\n\n(A) other  \n(B) another  \n(C) others  \n(D) the others\n\n### Q5\n\nSome customers prefer online shopping, while _____ prefer visiting stores.\n\n(A) another  \n(B) other  \n(C) others  \n(D) the other\n\n### Q6\n\nWhy is the woman calling in Dialogue 1?\n\n(A) To confirm a meeting  \n(B) To complain about a product  \n(C) To request a refund  \n(D) To order supplies\n\n### Q7\n\nWhat does the man in Dialogue 1 suggest?\n\n(A) Meeting in the afternoon  \n(B) Canceling the meeting  \n(C) Changing conference rooms  \n(D) Calling a customer\n\n### Q8\n\nWhat information is the woman waiting for in Dialogue 2?\n\n(A) Product prices  \n(B) Sales figures  \n(C) Customer feedback  \n(D) Employee names\n\n### Q9\n\nWhat will the man probably do next in Dialogue 2?\n\n(A) Contact Sales  \n(B) Cancel the presentation  \n(C) Meet a customer  \n(D) Reserve a room\n\n### Q10\n\nIn the Reading passage, the word **“them”** refers to:\n\n(A) meetings  \n(B) presentations  \n(C) comments  \n(D) employees\n\n## 答案\n\n**1B / 2B / 3C / 4B / 5C / 6A / 7A / 8B / 9A / 10C**\n\n---"
+    },
+    {
+      "title": "⑮ 今日解析",
+      "markdown": "Q1：\n\n> asked _____\n\nask 是動詞，需要受詞：\n\n> asked **her**\n\n---\n\nQ3：\n\n> familiarize _____ with\n\n固定搭配：\n\n> **familiarize oneself with**\n\n所以：\n\n> Employees should familiarize **themselves** with...\n\n這是 TOEIC 很值得記的結構。\n\n---\n\nQ4：\n\n> _____ meeting\n\n單數可數名詞。\n\n意思是：\n\n「另一場會議」\n\n所以：\n\n> **another meeting**\n\n---\n\nQ5：\n\n> Some customers..., while _____ prefer...\n\n空格本身就是主詞，後面不能再接名詞。\n\n所以：\n\n> **others**\n\n記：\n\n> some..., others...\n\n這是非常常見的結構。\n\n---"
+    },
+    {
+      "title": "⑯ 第二週錯題回收",
+      "markdown": "現在不要看前面的教材，直接完成：\n\n> The hotel _____ we stayed...\n\n**where**\n\n> The hotel _____ we booked...\n\n**which**\n\n> _____ the heavy rain...\n\n**Despite**\n\n> _____ it was raining...\n\n**Although**\n\n> We'll call you when the order _____.\n\n**arrives**\n\n> We'll ship it once payment _____.\n\n**is received**\n\n> The new system is much _____ than the old one.\n\n**more efficient**\n\n> The warehouse is twice as _____ as the old one.\n\n**large**\n\n> Customers were _____ with the service.\n\n**satisfied**\n\n> The results were _____.\n\n**encouraging**\n\n目標：\n\n**10 題 ≤ 45 秒。**\n\n如果仍有需要重新推理很久的題目，就把那一類標記為 **G**，後續持續穿插。\n\n---"
+    },
+    {
+      "title": "⑰ 今日作業",
+      "markdown": "今天先複習這 10 組：\n\n> meeting agenda  \n> schedule an appointment  \n> meet a deadline  \n> reschedule a meeting  \n> submit a proposal  \n> make progress  \n> provide an update  \n> participate in  \n> review a document  \n> respond immediately\n\n接著朗讀並理解：\n\n> The manager asked **him** to prepare the report.\n\n> The company changed **its** policy.\n\n> Employees registered **themselves**.\n\n> We need **another** meeting.\n\n> **Other employees** will attend tomorrow.\n\n> Some attended today; **others** will attend tomorrow.\n\n> One printer works; **the other** is broken.\n\n最後重新做兩段 Part 3，但第二次不要逐句翻譯。只在紙上記：\n\n> **Dialogue 1：confirm meeting → client appointment → 2 P.M.**\n\n> **Dialogue 2：presentation → missing sales figures → contact Sales**\n\n這就是從今天開始要培養的 Listening 筆記方式：**只記關鍵資訊，不記完整句子。**\n\n睡前重新完成 Day 15 小考，第二次限制 **2 分 30 秒**，目標 **10/10**。\n\n如果今天達到 **9～10/10**，後續會增加 Part 3 的推論題與下一步行動題；如果 Listening 四題錯兩題以上，則接下來會維持較短對話並加強「問題 → 關鍵字 → 訊號句」定位。\n\n**Day 15 核心：Part 3 不追求每個字都聽懂。先讀題，知道自己要找什麼，再抓「問題、轉折、解決方案、下一步」。**\n\nDay 16 將進入 **Part 3 進階：職業／地點／下一步推論**，文法則處理 TOEIC 高頻的 **數量詞 `few / a few / little / a little / many / much / several / each / every`**。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "agenda",
+      "meaning": "議程",
+      "phrase": "meeting agenda"
+    },
+    {
+      "id": 2,
+      "word": "appointment",
+      "meaning": "約會、預約",
+      "phrase": "schedule an appointment"
+    },
+    {
+      "id": 3,
+      "word": "arrangement",
+      "meaning": "安排",
+      "phrase": "make arrangements"
+    },
+    {
+      "id": 4,
+      "word": "attend",
+      "meaning": "出席",
+      "phrase": "attend a meeting"
+    },
+    {
+      "id": 5,
+      "word": "attendance",
+      "meaning": "出席",
+      "phrase": "attendance record"
+    },
+    {
+      "id": 6,
+      "word": "available",
+      "meaning": "有空的、可用的",
+      "phrase": "be available"
+    },
+    {
+      "id": 7,
+      "word": "cancel",
+      "meaning": "取消",
+      "phrase": "cancel a meeting"
+    },
+    {
+      "id": 8,
+      "word": "confirm",
+      "meaning": "確認",
+      "phrase": "confirm an appointment"
+    },
+    {
+      "id": 9,
+      "word": "deadline",
+      "meaning": "截止期限",
+      "phrase": "meet a deadline"
+    },
+    {
+      "id": 10,
+      "word": "discussion",
+      "meaning": "討論",
+      "phrase": "have a discussion"
+    },
+    {
+      "id": 11,
+      "word": "document",
+      "meaning": "文件",
+      "phrase": "review a document"
+    },
+    {
+      "id": 12,
+      "word": "postpone",
+      "meaning": "延後",
+      "phrase": "postpone a meeting"
+    },
+    {
+      "id": 13,
+      "word": "reschedule",
+      "meaning": "改期",
+      "phrase": "reschedule an appointment"
+    },
+    {
+      "id": 14,
+      "word": "participant",
+      "meaning": "參與者",
+      "phrase": "meeting participant"
+    },
+    {
+      "id": 15,
+      "word": "presentation",
+      "meaning": "簡報",
+      "phrase": "give a presentation"
+    },
+    {
+      "id": 16,
+      "word": "proposal",
+      "meaning": "提案",
+      "phrase": "submit a proposal"
+    },
+    {
+      "id": 17,
+      "word": "project",
+      "meaning": "專案",
+      "phrase": "complete a project"
+    },
+    {
+      "id": 18,
+      "word": "progress",
+      "meaning": "進度",
+      "phrase": "make progress"
+    },
+    {
+      "id": 19,
+      "word": "schedule",
+      "meaning": "時程",
+      "phrase": "project schedule"
+    },
+    {
+      "id": 20,
+      "word": "update",
+      "meaning": "更新",
+      "phrase": "provide an update"
+    },
+    {
+      "id": 21,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify employees"
+    },
+    {
+      "id": 22,
+      "word": "remind",
+      "meaning": "提醒",
+      "phrase": "remind someone to"
+    },
+    {
+      "id": 23,
+      "word": "mention",
+      "meaning": "提及",
+      "phrase": "mention a problem"
+    },
+    {
+      "id": 24,
+      "word": "discuss",
+      "meaning": "討論",
+      "phrase": "discuss a proposal"
+    },
+    {
+      "id": 25,
+      "word": "recommend",
+      "meaning": "建議",
+      "phrase": "recommend changing"
+    },
+    {
+      "id": 26,
+      "word": "arrange",
+      "meaning": "安排",
+      "phrase": "arrange a meeting"
+    },
+    {
+      "id": 27,
+      "word": "participate",
+      "meaning": "參加",
+      "phrase": "participate in"
+    },
+    {
+      "id": 28,
+      "word": "available",
+      "meaning": "可取得／有空",
+      "phrase": "currently available"
+    },
+    {
+      "id": 29,
+      "word": "urgent",
+      "meaning": "緊急的",
+      "phrase": "urgent request"
+    },
+    {
+      "id": 30,
+      "word": "immediately",
+      "meaning": "立即",
+      "phrase": "respond immediately"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Part 3 對話 1",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the woman calling?",
+          "options": {
+            "A": "To confirm a meeting",
+            "B": "To order equipment",
+            "C": "To apply for a job",
+            "D": "To request payment"
+          },
+          "answer": "A",
+          "explanation": "woman 說 calling to confirm our project meeting。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does the man mention?",
+          "options": {
+            "A": "A report is incomplete",
+            "B": "He has another appointment",
+            "C": "A conference room is unavailable",
+            "D": "A customer canceled an order"
+          },
+          "answer": "B",
+          "explanation": "man 說同一時間有 appointment with a client。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the speakers probably do?",
+          "options": {
+            "A": "Cancel the project",
+            "B": "Meet later in the day",
+            "C": "Contact a supplier",
+            "D": "Submit a report"
+          },
+          "answer": "B",
+          "explanation": "兩人同意改到下午兩點見面。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Part 3 對話 2",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers discussing?",
+          "options": {
+            "A": "A product shipment",
+            "B": "A presentation",
+            "C": "A job interview",
+            "D": "A hotel reservation"
+          },
+          "answer": "B",
+          "explanation": "對話主題是 Friday management meeting 的 presentation。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman still need?",
+          "options": {
+            "A": "Sales figures",
+            "B": "Customer names",
+            "C": "Photographs",
+            "D": "A meeting room"
+          },
+          "answer": "A",
+          "explanation": "woman 仍在等待 latest sales figures。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man offer to do?",
+          "options": {
+            "A": "Contact the sales department",
+            "B": "Give the presentation",
+            "C": "Change the deadline",
+            "D": "Print some documents"
+          },
+          "answer": "A",
+          "explanation": "man 說 I can ask the sales department，表示他將聯絡業務部門。"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Part 7 閱讀",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why was the meeting time changed?",
+          "options": {
+            "A": "The conference room is unavailable",
+            "B": "Some employees have another event",
+            "C": "Laura Chen will be absent",
+            "D": "The project is behind schedule"
+          },
+          "answer": "B",
+          "explanation": "部分成員上午要參加客戶簡報，因此會議改期。"
+        },
+        {
+          "id": 2,
+          "prompt": "What should employees review?",
+          "options": {
+            "A": "A customer contract",
+            "B": "An expense report",
+            "C": "An updated agenda",
+            "D": "A job application"
+          },
+          "answer": "C",
+          "explanation": "信中要求會前查看 updated agenda。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will Kevin Huang discuss?",
+          "options": {
+            "A": "Customer survey results",
+            "B": "Advertising",
+            "C": "Product pricing",
+            "D": "Employee training"
+          },
+          "answer": "B",
+          "explanation": "Kevin 將提供 advertising campaign 的更新。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should someone who cannot attend do?",
+          "options": {
+            "A": "Reschedule the meeting",
+            "B": "Contact Kevin Huang",
+            "C": "Send comments to Laura",
+            "D": "Attend the customer presentation"
+          },
+          "answer": "C",
+          "explanation": "無法出席者應將 comments 寄給 Laura。"
+        },
+        {
+          "id": 5,
+          "prompt": "Approximately when should the meeting end?",
+          "options": {
+            "A": "2:30 P.M.",
+            "B": "3:00 P.M.",
+            "C": "3:30 P.M.",
+            "D": "4:30 P.M."
+          },
+          "answer": "C",
+          "explanation": "會議 2:30 開始、約一小時，因此約 3:30 結束。"
+        },
+        {
+          "id": 6,
+          "prompt": "In the sentence “I will include **them** in the discussion,” what does **them** refer to?",
+          "options": {
+            "A": "Team members",
+            "B": "Customer presentations",
+            "C": "Comments",
+            "D": "Survey results"
+          },
+          "answer": "C",
+          "explanation": "them 指前文的 comments。"
+        }
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Ms. Lee asked _____ to prepare the presentation.",
+          "options": {
+            "A": "he",
+            "B": "him",
+            "C": "his",
+            "D": "himself"
+          },
+          "answer": "B",
+          "explanation": "asked 後需要受格 him。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company recently updated _____ employee handbook.",
+          "options": {
+            "A": "it",
+            "B": "itself",
+            "C": "its",
+            "D": "theirs"
+          },
+          "answer": "C",
+          "explanation": "policy 前需要所有格形容詞 its。"
+        },
+        {
+          "id": 3,
+          "prompt": "Employees can register _____ for the training program.",
+          "options": {
+            "A": "themselves",
+            "B": "their",
+            "C": "them",
+            "D": "they"
+          },
+          "answer": "A",
+          "explanation": "員工為自己登記，使用 themselves。"
+        },
+        {
+          "id": 4,
+          "prompt": "We need _____ copy of the contract.",
+          "options": {
+            "A": "other",
+            "B": "others",
+            "C": "another",
+            "D": "the others"
+          },
+          "answer": "C",
+          "explanation": "another + 單數可數名詞 copy。"
+        },
+        {
+          "id": 5,
+          "prompt": "Some employees attended the morning session, while _____ participated in the afternoon.",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the other"
+          },
+          "answer": "C",
+          "explanation": "some..., others... 是固定對比結構。"
+        },
+        {
+          "id": 6,
+          "prompt": "Please contact us if you need any _____ information.",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the other"
+          },
+          "answer": "B",
+          "explanation": "other + 不可數名詞 information。"
+        },
+        {
+          "id": 7,
+          "prompt": "The two managers discussed the proposal with _____.",
+          "options": {
+            "A": "themselves",
+            "B": "each other",
+            "C": "theirs",
+            "D": "another"
+          },
+          "answer": "B",
+          "explanation": "with each other 表示彼此。"
+        },
+        {
+          "id": 8,
+          "prompt": "One printer is located upstairs, and _____ is near reception.",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the other"
+          },
+          "answer": "D",
+          "explanation": "兩個中的另一個使用 the other。"
+        },
+        {
+          "id": 9,
+          "prompt": "The company increased _____ advertising budget this year.",
+          "options": {
+            "A": "it",
+            "B": "its",
+            "C": "itself",
+            "D": "their"
+          },
+          "answer": "B",
+          "explanation": "budget 前需要所有格形容詞 its。"
+        },
+        {
+          "id": 10,
+          "prompt": "Customers may submit the forms _____.",
+          "options": {
+            "A": "they",
+            "B": "their",
+            "C": "themselves",
+            "D": "them"
+          },
+          "answer": "C",
+          "explanation": "顧客自行提交表格，使用 themselves。"
+        },
+        {
+          "id": 11,
+          "prompt": "The marketing team reviewed several proposals and selected _____ for further consideration.",
+          "options": {
+            "A": "they",
+            "B": "their",
+            "C": "them",
+            "D": "theirs"
+          },
+          "answer": "C",
+          "explanation": "selected 後需要受格 them。"
+        },
+        {
+          "id": 12,
+          "prompt": "Mr. Wang completed the entire project by _____.",
+          "options": {
+            "A": "him",
+            "B": "his",
+            "C": "himself",
+            "D": "he"
+          },
+          "answer": "C",
+          "explanation": "by himself 表示獨自完成。"
+        }
+      ]
+    },
+    {
+      "id": "day-15-quiz",
+      "title": "Day 15 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The manager asked _____ to revise the proposal.",
+          "options": {
+            "A": "she",
+            "B": "her",
+            "C": "hers",
+            "D": "herself"
+          },
+          "answer": "B",
+          "explanation": "asked 後需要受格 her。"
+        },
+        {
+          "id": 2,
+          "prompt": "The company will announce _____ new policy tomorrow.",
+          "options": {
+            "A": "it",
+            "B": "its",
+            "C": "itself",
+            "D": "theirs"
+          },
+          "answer": "B",
+          "explanation": "policy 前需要所有格形容詞 its。"
+        },
+        {
+          "id": 3,
+          "prompt": "Employees should familiarize _____ with the updated procedures.",
+          "options": {
+            "A": "they",
+            "B": "their",
+            "C": "themselves",
+            "D": "them"
+          },
+          "answer": "C",
+          "explanation": "familiarize oneself with 是固定結構，employees 對應 themselves。"
+        },
+        {
+          "id": 4,
+          "prompt": "We need _____ meeting to discuss the budget.",
+          "options": {
+            "A": "other",
+            "B": "another",
+            "C": "others",
+            "D": "the others"
+          },
+          "answer": "B",
+          "explanation": "another + 單數可數名詞 meeting。"
+        },
+        {
+          "id": 5,
+          "prompt": "Some customers prefer online shopping, while _____ prefer visiting stores.",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the other"
+          },
+          "answer": "C",
+          "explanation": "some..., others... 是固定結構。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why is the woman calling in Dialogue 1?",
+          "options": {
+            "A": "To confirm a meeting",
+            "B": "To complain about a product",
+            "C": "To request a refund",
+            "D": "To order supplies"
+          },
+          "answer": "A",
+          "explanation": "Dialogue 1 中 woman 打電話確認會議。"
+        },
+        {
+          "id": 7,
+          "prompt": "What does the man in Dialogue 1 suggest?",
+          "options": {
+            "A": "Meeting in the afternoon",
+            "B": "Canceling the meeting",
+            "C": "Changing conference rooms",
+            "D": "Calling a customer"
+          },
+          "answer": "A",
+          "explanation": "man 建議改到下午見面。"
+        },
+        {
+          "id": 8,
+          "prompt": "What information is the woman waiting for in Dialogue 2?",
+          "options": {
+            "A": "Product prices",
+            "B": "Sales figures",
+            "C": "Customer feedback",
+            "D": "Employee names"
+          },
+          "answer": "B",
+          "explanation": "woman 正在等待 sales figures。"
+        },
+        {
+          "id": 9,
+          "prompt": "What will the man probably do next in Dialogue 2?",
+          "options": {
+            "A": "Contact Sales",
+            "B": "Cancel the presentation",
+            "C": "Meet a customer",
+            "D": "Reserve a room"
+          },
+          "answer": "A",
+          "explanation": "man 將聯絡 Sales。"
+        },
+        {
+          "id": 10,
+          "prompt": "In the Reading passage, the word **“them”** refers to:",
+          "options": {
+            "A": "meetings",
+            "B": "presentations",
+            "C": "comments",
+            "D": "employees"
+          },
+          "answer": "C",
+          "explanation": "them 指 comments。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "Part 3 先讀題，再抓問題、轉折、解決方案與下一步。",
+  "nextDay": "Part 3 職業／地點／下一步推論＋數量詞"
+}

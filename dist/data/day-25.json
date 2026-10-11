@@ -1,0 +1,778 @@
+{
+  "schemaVersion": "1.0",
+  "day": 25,
+  "title": "Part 4 圖表與意圖推論＋條件／例外規則推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 25 教材",
+  "sections": [
+    {
+      "title": "Day 25 學習概覽",
+      "markdown": "今天接續 Day 24。主軸升級為 **Part 4「圖表＋意圖推論」混合題**、Reading **Double Passage「條件／例外」推論**，文法進入 TOEIC Part 5 高頻的 **比較級、最高級、倍數與程度比較**。\n\n目前沒有收到 Day 24 的實際小考成績，因此今天維持 **860～900 分難度**；不額外拉高文章長度，而是增加「答案不直接照抄原文」的比例。建議訓練時間約 **95～105 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "今天主題：**Marketing / Sales / Customer Service**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| promote | 推廣 | promote a product |\n| promotion | 促銷 | special promotion |\n| advertise | 廣告 | advertise online |\n| advertisement | 廣告 | place an advertisement |\n| campaign | 活動 | marketing campaign |\n| launch | 推出 | product launch |\n| target | 目標 | target audience |\n| consumer | 消費者 | consumer demand |\n| demand | 需求 | meet demand |\n| sales | 銷售額 | increase sales |\n| representative | 業務代表 | sales representative |\n| customer | 顧客 | customer satisfaction |\n| client | 客戶 | potential client |\n| feedback | 回饋 | customer feedback |\n| survey | 調查 | customer survey |\n| satisfaction | 滿意度 | satisfaction rating |\n| complaint | 抱怨 | customer complaint |\n| respond | 回應 | respond promptly |\n| inquiry | 詢問 | customer inquiry |\n| competitive | 有競爭力的 | competitive price |\n| competitor | 競爭者 | major competitor |\n| attract | 吸引 | attract customers |\n| retain | 留住 | retain customers |\n| expand | 擴展 | expand the market |\n| strategy | 策略 | marketing strategy |\n| effective | 有效的 | effective strategy |\n| successful | 成功的 | successful campaign |\n| popular | 受歡迎的 | popular product |\n| affordable | 負擔得起的 | affordable price |\n| recommend | 推薦 | highly recommended |\n\n今天優先形成：\n\n> **marketing campaign**  \n> **product launch**  \n> **target audience**  \n> **consumer demand**  \n> **customer satisfaction**  \n> **customer feedback**  \n> **customer inquiry**  \n> **competitive price**  \n> **retain customers**  \n> **marketing strategy**"
+    },
+    {
+      "title": "② 今日文法｜比較級",
+      "markdown": "基本：\n\n> cheap → cheaper  \n> fast → faster  \n> efficient → more efficient\n\n例如：\n\n> Express delivery is **faster than** standard delivery.\n\n結構：\n\n> **比較級 + than**"
+    },
+    {
+      "title": "③ much / far / significantly + 比較級",
+      "markdown": "TOEIC 很愛考這個。\n\n> This model is **much cheaper** than the previous one.\n\n可以：\n\n> much cheaper  \n> far cheaper  \n> significantly cheaper  \n> considerably cheaper\n\n不能：\n\n> very cheaper ❌\n\n`very` 通常修飾原級：\n\n> very cheap\n\n比較級使用：\n\n> **much / far / significantly / considerably**"
+    },
+    {
+      "title": "④ even + 比較級",
+      "markdown": "> The updated software is **even faster**.\n\n= 更新後甚至更快。\n\nTOEIC 常見：\n\n> even more convenient  \n> even lower  \n> even better"
+    },
+    {
+      "title": "⑤ 最高級",
+      "markdown": "> This is the **most popular** product in our store.\n\n結構：\n\n> **the + 最高級**\n\n例如：\n\n> the cheapest option  \n> the fastest service  \n> the most convenient location"
+    },
+    {
+      "title": "⑥ one of the + 最高級",
+      "markdown": "高頻結構：\n\n> It is **one of the most successful campaigns** this year.\n\n注意：\n\n> one of the + 最高級 + **複數名詞**\n\n所以：\n\n> one of the best **employees** ✅\n\n不是：\n\n> one of the best employee ❌"
+    },
+    {
+      "title": "⑦ as ... as",
+      "markdown": "表示：\n\n> 一樣……\n\n例如：\n\n> Standard delivery is **as reliable as** express delivery.\n\n否定：\n\n> Economy shipping is **not as fast as** express shipping.\n\n= Economy 沒有 Express 那麼快。"
+    },
+    {
+      "title": "⑧ twice / three times as ... as",
+      "markdown": "例如：\n\n> Model B is **twice as expensive as** Model A.\n\n如果：\n\nModel A = $100\n\n那：\n\nModel B = $200\n\n結構：\n\n> **倍數 + as + adjective + as**"
+    },
+    {
+      "title": "⑨ 比較級陷阱",
+      "markdown": "> Of the two proposals, Proposal B is _____.\n\n(A) better  \n(B) best\n\n只有兩個：\n\n> **better**\n\n三個以上：\n\n> the best\n\n所以：\n\n> Of the three proposals, B is **the best**."
+    },
+    {
+      "title": "⑩ Part 4 圖表＋意圖推論",
+      "markdown": "今天不是只有：\n\n> 查表。\n\n而是：\n\n> **聽懂條件 → 查表 → 理解說話者為什麼提到某資訊。**\n\n### Advertising Packages\n\n| Package | Online Ads | Newsletter | Price |\n|---|---:|---:|---:|\n| Basic | 2 weeks | No | $300 |\n| Standard | 4 weeks | Yes | $500 |\n| Premium | 8 weeks | Yes | $850 |\n| Business Plus | 12 weeks | Yes | $1,100 |\n\n---\n\n## Listening 1\n\n### Q1\n\nWhy is the speaker calling?\n\n(A) To cancel an advertisement  \n(B) To select an advertising package  \n(C) To complain about a newsletter  \n(D) To request a refund\n\n### Q2\n\nWhat requirement does the speaker mention?\n\n(A) The campaign should run for at least one month  \n(B) The budget is under $300  \n(C) No newsletter advertisement is needed  \n(D) The campaign must last three months\n\n### Q3\n\nLook at the table. Which package will most likely be selected?\n\n(A) Basic  \n(B) Standard  \n(C) Premium  \n(D) Business Plus\n\n獨白：\n\n> Hi, this is Linda from Kenton Design. We're planning an online advertising campaign for a new product we're launching next month. We'd like the advertisements to run for at least four weeks, and we'd also like our product featured in your newsletter. Since we're trying to keep the campaign under six hundred dollars, please recommend the most suitable package.\n\n答案：\n\n**1B / 2A / 3B**\n\n條件：\n\n> ≥ 4 weeks  \n> newsletter  \n> < $600\n\nStandard：\n\n> 4 weeks + newsletter + $500\n\n所以：\n\n**B**"
+    },
+    {
+      "title": "⑪ Listening 2｜意圖推論",
+      "markdown": "### Q1\n\nWhat is the purpose of the announcement?\n\n(A) To explain survey results  \n(B) To introduce new employees  \n(C) To announce a price increase  \n(D) To advertise a conference\n\n### Q2\n\nWhat improved the most?\n\n(A) Product quality  \n(B) Delivery speed  \n(C) Customer service  \n(D) Product selection\n\n### Q3\n\nWhy does the speaker say, “There's still room for improvement”?\n\n(A) Some ratings remain below the company's target  \n(B) The survey received too few responses  \n(C) A product was discontinued  \n(D) Sales have declined\n\n聽力稿：\n\n> We've received the results of our latest customer satisfaction survey. Overall satisfaction increased from 82 to 89 percent. Customers gave particularly high ratings to our service representatives, whose score rose from 78 to 91 percent. Delivery satisfaction also improved, from 84 to 88 percent. These results are encouraging, but our company-wide target is 92 percent, so there's still room for improvement.\n\n答案：\n\n**1A / 2C / 3A**\n\n注意：\n\n> room for improvement\n\n不是「有空間」。\n\n而是：\n\n> **還可以做得更好。**"
+    },
+    {
+      "title": "⑫ Listening 3｜價格表整合",
+      "markdown": "### Training Courses\n\n| Course | Duration | Fee |\n|---|---:|---:|\n| Excel Basics | 1 day | $120 |\n| Excel Advanced | 2 days | $220 |\n| Data Analysis | 2 days | $280 |\n| Project Management | 3 days | $390 |\n\n### Q1\n\nWhy is the speaker calling?\n\n(A) To register for training  \n(B) To cancel a meeting  \n(C) To apply for a job  \n(D) To request reimbursement\n\n### Q2\n\nWhat does the speaker say?\n\n(A) She can attend only a two-day course  \n(B) She has never used Excel  \n(C) Her company will pay up to $300  \n(D) She wants project-management training\n\n### Q3\n\nLook at the table. Which course will she most likely choose?\n\n(A) Excel Basics  \n(B) Excel Advanced  \n(C) Data Analysis  \n(D) Project Management\n\n聽力稿：\n\n> Hello. I'd like to register for one of your professional training courses. My manager recommended a course that focuses on analyzing business information rather than basic spreadsheet skills. The company will reimburse my course fee as long as it doesn't exceed three hundred dollars. Could you please reserve a place for me?\n\n答案：\n\n**1A / 2C / 3C**\n\n關鍵同義改寫：\n\n> analyzing business information\n\n→ **Data Analysis**\n\n再確認：\n\n> $280 < $300\n\n所以：\n\n**C**"
+    },
+    {
+      "title": "⑬ Reading｜Double Passage：條件與例外",
+      "markdown": "限時：\n\n**5 分鐘。**\n\n### Passage 1 — Return Policy\n\n> **Mason Electronics Return Policy**\n>\n> Most products may be returned within 30 days of purchase for a full refund, provided that customers present the original receipt.\n>\n> Opened software and downloadable products are not eligible for refunds.\n>\n> Electronic devices that have been opened may be returned within 14 days. A 10-percent restocking fee may apply unless the product is defective.\n>\n> Members of the Mason Plus program receive an extended 45-day return period on unopened products.\n>\n> Defective products covered by the manufacturer's warranty may also qualify for repair or replacement after the normal return period has ended.\n\n### Passage 2 — Customer Message\n\n> **To:** Mason Electronics Customer Service  \n> **From:** Kevin Wu  \n> **Subject:** Tablet Return\n>\n> I purchased a T20 tablet from your store 18 days ago and opened it the same day. Unfortunately, the tablet now shuts down unexpectedly several times a day.\n>\n> I still have my original receipt and am a Mason Plus member. I originally planned to request a refund, but I noticed that your policy has different rules for opened electronic devices.\n>\n> Could you let me know what options are available? The tablet includes a one-year manufacturer's warranty.\n>\n> Thank you.\n\n### Q1\n\nWhat is normally required for a full refund?\n\n(A) Membership  \n(B) Original receipt  \n(C) Product warranty  \n(D) Manager approval\n\n### Q2\n\nHow long can an opened electronic device normally be returned?\n\n(A) 14 days  \n(B) 30 days  \n(C) 45 days  \n(D) One year\n\n### Q3\n\nWhich products receive the Mason Plus 45-day return period?\n\n(A) All electronic devices  \n(B) Opened software  \n(C) Unopened products  \n(D) Defective products only\n\n### Q4\n\nHow long ago did Kevin purchase the tablet?\n\n(A) 14 days  \n(B) 18 days  \n(C) 30 days  \n(D) 45 days\n\n### Q5\n\nWhy is Kevin unlikely to qualify for the normal refund?\n\n(A) He has no receipt  \n(B) He is not a member  \n(C) His opened electronic device is beyond the 14-day period  \n(D) His warranty has expired\n\n### Q6\n\nWhat information in Kevin's message is especially relevant to another option in the policy?\n\n(A) He bought the tablet in a store  \n(B) The tablet is defective and has a manufacturer's warranty  \n(C) He opened it immediately  \n(D) He is a Mason Plus member\n\n### Q7\n\nWhat will Mason Electronics most likely offer Kevin?\n\n(A) Nothing  \n(B) A refund for downloadable software  \n(C) Information about repair or replacement  \n(D) A 45-day refund automatically\n\n**答案：1B / 2A / 3C / 4B / 5C / 6B / 7C**"
+    },
+    {
+      "title": "⑭ Reading 高分解析",
+      "markdown": "這題組故意放了三個時間：\n\n> 14 days  \n> 30 days  \n> 45 days\n\nKevin 又同時符合：\n\n> receipt  \n> member  \n> defective  \n> warranty\n\n不能看到：\n\n> Mason Plus = 45 days\n\n就選 45。\n\n因為政策明確限定：\n\n> 45 days on **unopened products**\n\nKevin：\n\n> opened it the same day\n\n所以會員延長期不適用。\n\n接著：\n\n> opened electronics → 14 days\n\nKevin：\n\n> 18 days\n\n正常退貨期限也過了。\n\n但是：\n\n> defective + manufacturer's warranty\n\n因此仍可能：\n\n> **repair or replacement**\n\n這就是：\n\n> **一般規則 → 例外 → 再例外**\n\n900 分 Reading 很常這樣設計。"
+    },
+    {
+      "title": "⑮ Part 5 仿真題｜12 題",
+      "markdown": "限時 **3 分鐘**。\n\n### 1\n\nThe new model is significantly _____ than the previous one.\n\n(A) efficient  \n(B) more efficient  \n(C) most efficient  \n(D) efficiency\n\n### 2\n\nExpress shipping is _____ than standard shipping.\n\n(A) fast  \n(B) fastest  \n(C) faster  \n(D) more fast\n\n### 3\n\nThis is _____ popular product in our current catalog.\n\n(A) more  \n(B) most  \n(C) the most  \n(D) much\n\n### 4\n\nThe downtown branch is _____ larger than our previous location.\n\n(A) very  \n(B) much  \n(C) most  \n(D) many\n\n### 5\n\nThis year's campaign was _____ successful than last year's.\n\n(A) more  \n(B) most  \n(C) much  \n(D) very\n\n### 6\n\nThe new system is not _____ complicated as the old one.\n\n(A) more  \n(B) most  \n(C) as  \n(D) much\n\n### 7\n\nThis warehouse is twice _____ large as the previous facility.\n\n(A) more  \n(B) most  \n(C) as  \n(D) much\n\n### 8\n\nThe Riverside Hotel is one of _____ hotels in the city.\n\n(A) convenient  \n(B) more convenient  \n(C) the most convenient  \n(D) most conveniently\n\n### 9\n\nOf the two proposals, Ms. Chen's is _____.\n\n(A) better  \n(B) best  \n(C) the best  \n(D) more best\n\n### 10\n\nOf all four candidates, Mr. Lin has _____ experience.\n\n(A) more  \n(B) most  \n(C) the most  \n(D) much\n\n### 11\n\nCustomer satisfaction is now considerably _____ than it was last year.\n\n(A) high  \n(B) higher  \n(C) highest  \n(D) highly\n\n### 12\n\nThe updated application loads even _____ than the previous version.\n\n(A) quickly  \n(B) more quickly  \n(C) most quickly  \n(D) quick\n\n**答案：1B / 2C / 3C / 4B / 5A / 6C / 7C / 8C / 9A / 10C / 11B / 12B**"
+    },
+    {
+      "title": "⑯ Day 25 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\nThe new office is much _____ than the old one.\n\n(A) large  \n(B) larger  \n(C) largest  \n(D) more large\n\n### Q2\n\nThis is _____ affordable option available.\n\n(A) more  \n(B) most  \n(C) the most  \n(D) much\n\n### Q3\n\nThe updated website is not _____ difficult to use as the previous version.\n\n(A) more  \n(B) most  \n(C) as  \n(D) much\n\n### Q4\n\nThis year's sales were significantly _____ than last year's.\n\n(A) high  \n(B) higher  \n(C) highest  \n(D) highly\n\n### Q5\n\nOf the two delivery services, Express is _____.\n\n(A) faster  \n(B) fastest  \n(C) the fastest  \n(D) more fastest\n\n### Q6\n\nWhich advertising package should Linda choose?\n\n(A) Basic  \n(B) Standard  \n(C) Premium  \n(D) Business Plus\n\n### Q7\n\nWhat improved the most in the satisfaction survey?\n\n(A) Delivery  \n(B) Customer service  \n(C) Product quality  \n(D) Prices\n\n### Q8\n\nWhich training course will the caller probably select?\n\n(A) Excel Basics  \n(B) Excel Advanced  \n(C) Data Analysis  \n(D) Project Management\n\n### Q9\n\nWhy does Kevin not qualify for the normal opened-electronics return period?\n\n(A) He lost his receipt  \n(B) Eighteen days have passed  \n(C) He is not a member  \n(D) The product is not electronic\n\n### Q10\n\nWhat option will Kevin most likely be offered?\n\n(A) Repair or replacement  \n(B) Automatic 45-day refund  \n(C) A downloadable product  \n(D) No assistance\n\n## 答案\n\n**1B / 2C / 3C / 4B / 5A / 6B / 7B / 8C / 9B / 10A**"
+    },
+    {
+      "title": "⑰ 小考解析",
+      "markdown": "Q1：\n\n有：\n\n> much\n\n後面修飾比較級：\n\n> **much larger**\n\n不是：\n\n> very larger ❌\n\n---\n\nQ2：\n\n句中有：\n\n> available\n\n語意是在所有可選方案中找：\n\n> 最便宜／最負擔得起的。\n\n所以：\n\n> **the most affordable**\n\n---\n\nQ3：\n\n固定結構：\n\n> **not as + adjective + as**\n\n所以：\n\n> not as difficult as\n\n---\n\nQ4：\n\n> significantly\n\n可以修飾：\n\n> **higher**\n\n所以：\n\n> significantly higher\n\n---\n\nQ5：\n\n只有：\n\n> two delivery services\n\n所以：\n\n> **faster**\n\n不要使用最高級。\n\n---\n\nQ6：\n\nLinda 的三個條件：\n\n> ≥4 weeks  \n> newsletter  \n> < $600\n\n只有：\n\n> **Standard**\n\n全部符合。\n\n---\n\nQ7：\n\nService：\n\n> 78 → 91\n\n增加：\n\n> +13\n\nDelivery：\n\n> 84 → 88\n\n增加：\n\n> +4\n\n所以：\n\n> **Customer service**\n\n這裡不是問「最高分是什麼」，而是：\n\n> **improved the most**\n\n---\n\nQ8：\n\n語音說：\n\n> analyzing business information\n\n不是直接說：\n\n> Data Analysis\n\n你要完成同義轉換。\n\n再用：\n\n> reimbursement ≤ $300\n\n確認：\n\n> $280\n\n符合。\n\n---\n\nQ9：\n\n電子產品：\n\n> opened → 14 days\n\nKevin：\n\n> 18 days\n\n因此已超過一般退貨期。\n\n---\n\nQ10：\n\n雖然一般 refund period 過了：\n\n> defective + warranty\n\n政策仍提供：\n\n> **repair or replacement**"
+    },
+    {
+      "title": "⑱ 錯題複習｜Day 20～24",
+      "markdown": "請在 **60 秒內**完成：\n\n> event continues _____ it rains\n\n**unless**\n\n> employees may enter _____ they have ID\n\n**provided that**\n\n> office _____ she works\n\n**where**\n\n> office _____ we rented\n\n**which / that**\n\n> _____ completes the task\n\n**whoever**\n\n> _____ option works\n\n**whichever**\n\n> _____ information you need\n\n**whatever**\n\n> We know _____ sales increased.\n\n**that**\n\n> We know _____ the customer ordered.\n\n**what**\n\n> determine _____ the supplier can deliver\n\n**whether**\n\n> Do you know where the meeting _____?\n\n**is**\n\n> employees _____ in Taipei\n\n**working**\n\n> products _____ in Taiwan\n\n**manufactured**\n\n> applications _____ after Friday\n\n**received**\n\n> _____ the report, she found an error.\n\n**Reviewing**"
+    },
+    {
+      "title": "⑲ 今日錯題分類",
+      "markdown": "今天請繼續使用：\n\n**G — Grammar**\n\n如果比較級／最高級錯。\n\n**L — Listening**\n\n如果沒有聽懂語音條件。\n\n**I — Information Integration**\n\n如果聽懂：\n\n> four weeks / newsletter / under $600\n\n卻選錯方案。\n\n**P — Paraphrase**\n\n如果沒把：\n\n> analyzing business information\n\n連到：\n\n> Data Analysis。\n\n**T — Timeline**\n\n如果退貨期限：\n\n> 14 / 18 / 30 / 45\n\n判斷錯。\n\n今天再增加一種：\n\n**E — Exception**\n\n代表：\n\n> **例外規則判斷錯誤**\n\n例如看到：\n\n> Mason Plus = 45 days\n\n直接套到 Kevin，卻忽略：\n\n> **unopened products only**\n\n就是典型 E 錯誤。"
+    },
+    {
+      "title": "⑳ 今日作業",
+      "markdown": "今天單字優先熟悉：\n\n> marketing campaign  \n> product launch  \n> target audience  \n> consumer demand  \n> customer satisfaction  \n> customer feedback  \n> customer inquiry  \n> competitive price  \n> retain customers  \n> marketing strategy\n\n文法建立四個反射：\n\n> **much / far / significantly + 比較級**\n\n> **the + 最高級**\n\n> **not as + adj + as**\n\n> **one of the + 最高級 + 複數名詞**\n\n再自己說出：\n\n> The new model is **much faster than** the old one.\n\n> This is **the most affordable** option.\n\n> Standard shipping is **not as fast as** Express.\n\n> This is **one of the most popular products**.\n\nListening 重新壓縮成：\n\n> **Ad：≥4 weeks + newsletter + <$600 → Standard**\n\n> **Survey：82→89 / service 78→91 / target 92**\n\n> **Training：analysis + ≤$300 → Data Analysis**\n\nReading 則只畫規則：\n\n> General → 30 days + receipt\n\n> Open electronics → 14 days\n\n> Member → 45 days **ONLY unopened**\n\n> Defective + warranty → repair/replacement\n\n然後套 Kevin：\n\n> 18 days + opened  \n> → 14-day refund ❌\n\n> member + opened  \n> → 45-day rule ❌\n\n> defective + warranty  \n> → repair/replacement ✅\n\n最後重新完成 Day 25 小考，第二次限制：\n\n**2 分鐘 15 秒**\n\n目標：\n\n**10/10。**\n\n如果今天能穩定達到 **9～10/10**，下一階段會提高到更接近 900+ 的「多條件同時成立＋例外規則」題；若 Q1～Q5 錯兩題以上，優先補比較結構；若 Q6～Q8 錯兩題以上，優先補圖表條件篩選；若 Q9～Q10 錯，後續會增加 `Timeline + Exception` 混合題。\n\n**Day 25 核心不是「看到一條規則就套用」，而是確認：一般規則是什麼 → 有沒有例外 → 這個人是否真的符合例外的全部條件。**\n\nDay 26 將進入 **Part 4 多條件圖表整合＋說話者意圖、Double Passage 修改／取消／重新安排資訊追蹤**；文法則進入 TOEIC 高頻的 **副詞子句與連接詞 `although / even though / while / whereas / despite / in spite of`**。\n\nI noticed you haven’t viewed this scheduled task in a while. Would you like me to keep it running?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "promote",
+      "meaning": "推廣",
+      "phrase": "promote a product"
+    },
+    {
+      "id": 2,
+      "word": "promotion",
+      "meaning": "促銷",
+      "phrase": "special promotion"
+    },
+    {
+      "id": 3,
+      "word": "advertise",
+      "meaning": "廣告",
+      "phrase": "advertise online"
+    },
+    {
+      "id": 4,
+      "word": "advertisement",
+      "meaning": "廣告",
+      "phrase": "place an advertisement"
+    },
+    {
+      "id": 5,
+      "word": "campaign",
+      "meaning": "活動",
+      "phrase": "marketing campaign"
+    },
+    {
+      "id": 6,
+      "word": "launch",
+      "meaning": "推出",
+      "phrase": "product launch"
+    },
+    {
+      "id": 7,
+      "word": "target",
+      "meaning": "目標",
+      "phrase": "target audience"
+    },
+    {
+      "id": 8,
+      "word": "consumer",
+      "meaning": "消費者",
+      "phrase": "consumer demand"
+    },
+    {
+      "id": 9,
+      "word": "demand",
+      "meaning": "需求",
+      "phrase": "meet demand"
+    },
+    {
+      "id": 10,
+      "word": "sales",
+      "meaning": "銷售額",
+      "phrase": "increase sales"
+    },
+    {
+      "id": 11,
+      "word": "representative",
+      "meaning": "業務代表",
+      "phrase": "sales representative"
+    },
+    {
+      "id": 12,
+      "word": "customer",
+      "meaning": "顧客",
+      "phrase": "customer satisfaction"
+    },
+    {
+      "id": 13,
+      "word": "client",
+      "meaning": "客戶",
+      "phrase": "potential client"
+    },
+    {
+      "id": 14,
+      "word": "feedback",
+      "meaning": "回饋",
+      "phrase": "customer feedback"
+    },
+    {
+      "id": 15,
+      "word": "survey",
+      "meaning": "調查",
+      "phrase": "customer survey"
+    },
+    {
+      "id": 16,
+      "word": "satisfaction",
+      "meaning": "滿意度",
+      "phrase": "satisfaction rating"
+    },
+    {
+      "id": 17,
+      "word": "complaint",
+      "meaning": "抱怨",
+      "phrase": "customer complaint"
+    },
+    {
+      "id": 18,
+      "word": "respond",
+      "meaning": "回應",
+      "phrase": "respond promptly"
+    },
+    {
+      "id": 19,
+      "word": "inquiry",
+      "meaning": "詢問",
+      "phrase": "customer inquiry"
+    },
+    {
+      "id": 20,
+      "word": "competitive",
+      "meaning": "有競爭力的",
+      "phrase": "competitive price"
+    },
+    {
+      "id": 21,
+      "word": "competitor",
+      "meaning": "競爭者",
+      "phrase": "major competitor"
+    },
+    {
+      "id": 22,
+      "word": "attract",
+      "meaning": "吸引",
+      "phrase": "attract customers"
+    },
+    {
+      "id": 23,
+      "word": "retain",
+      "meaning": "留住",
+      "phrase": "retain customers"
+    },
+    {
+      "id": 24,
+      "word": "expand",
+      "meaning": "擴展",
+      "phrase": "expand the market"
+    },
+    {
+      "id": 25,
+      "word": "strategy",
+      "meaning": "策略",
+      "phrase": "marketing strategy"
+    },
+    {
+      "id": 26,
+      "word": "effective",
+      "meaning": "有效的",
+      "phrase": "effective strategy"
+    },
+    {
+      "id": 27,
+      "word": "successful",
+      "meaning": "成功的",
+      "phrase": "successful campaign"
+    },
+    {
+      "id": 28,
+      "word": "popular",
+      "meaning": "受歡迎的",
+      "phrase": "popular product"
+    },
+    {
+      "id": 29,
+      "word": "affordable",
+      "meaning": "負擔得起的",
+      "phrase": "affordable price"
+    },
+    {
+      "id": 30,
+      "word": "recommend",
+      "meaning": "推薦",
+      "phrase": "highly recommended"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "part-4-1",
+      "title": "⑩ Part 4 圖表＋意圖推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To cancel an advertisement",
+            "B": "To select an advertising package",
+            "C": "To complain about a newsletter",
+            "D": "To request a refund"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What requirement does the speaker mention?",
+          "options": {
+            "A": "The campaign should run for at least one month",
+            "B": "The budget is under $300",
+            "C": "No newsletter advertisement is needed",
+            "D": "The campaign must last three months"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the table. Which package will most likely be selected?",
+          "options": {
+            "A": "Basic",
+            "B": "Standard",
+            "C": "Premium",
+            "D": "Business Plus"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2-2",
+      "title": "⑪ Listening 2｜意圖推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the announcement?",
+          "options": {
+            "A": "To explain survey results",
+            "B": "To introduce new employees",
+            "C": "To announce a price increase",
+            "D": "To advertise a conference"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What improved the most?",
+          "options": {
+            "A": "Product quality",
+            "B": "Delivery speed",
+            "C": "Customer service",
+            "D": "Product selection"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the speaker say, “There's still room for improvement”?",
+          "options": {
+            "A": "Some ratings remain below the company's target",
+            "B": "The survey received too few responses",
+            "C": "A product was discontinued",
+            "D": "Sales have declined"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3-3",
+      "title": "⑫ Listening 3｜價格表整合",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To register for training",
+            "B": "To cancel a meeting",
+            "C": "To apply for a job",
+            "D": "To request reimbursement"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the speaker say?",
+          "options": {
+            "A": "She can attend only a two-day course",
+            "B": "She has never used Excel",
+            "C": "Her company will pay up to $300",
+            "D": "She wants project-management training"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the table. Which course will she most likely choose?",
+          "options": {
+            "A": "Excel Basics",
+            "B": "Excel Advanced",
+            "C": "Data Analysis",
+            "D": "Project Management"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "reading-double-passage-4",
+      "title": "⑬ Reading｜Double Passage：條件與例外",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is normally required for a full refund?",
+          "options": {
+            "A": "Membership",
+            "B": "Original receipt",
+            "C": "Product warranty",
+            "D": "Manager approval"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "How long can an opened electronic device normally be returned?",
+          "options": {
+            "A": "14 days",
+            "B": "30 days",
+            "C": "45 days",
+            "D": "One year"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which products receive the Mason Plus 45-day return period?",
+          "options": {
+            "A": "All electronic devices",
+            "B": "Opened software",
+            "C": "Unopened products",
+            "D": "Defective products only"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "How long ago did Kevin purchase the tablet?",
+          "options": {
+            "A": "14 days",
+            "B": "18 days",
+            "C": "30 days",
+            "D": "45 days"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why is Kevin unlikely to qualify for the normal refund?",
+          "options": {
+            "A": "He has no receipt",
+            "B": "He is not a member",
+            "C": "His opened electronic device is beyond the 14-day period",
+            "D": "His warranty has expired"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "What information in Kevin's message is especially relevant to another option in the policy?",
+          "options": {
+            "A": "He bought the tablet in a store",
+            "B": "The tablet is defective and has a manufacturer's warranty",
+            "C": "He opened it immediately",
+            "D": "He is a Mason Plus member"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "What will Mason Electronics most likely offer Kevin?",
+          "options": {
+            "A": "Nothing",
+            "B": "A refund for downloadable software",
+            "C": "Information about repair or replacement",
+            "D": "A 45-day refund automatically"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑮ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The new model is significantly _____ than the previous one.",
+          "options": {
+            "A": "efficient",
+            "B": "more efficient",
+            "C": "most efficient",
+            "D": "efficiency"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "Express shipping is _____ than standard shipping.",
+          "options": {
+            "A": "fast",
+            "B": "fastest",
+            "C": "faster",
+            "D": "more fast"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "This is _____ popular product in our current catalog.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "the most",
+            "D": "much"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "The downtown branch is _____ larger than our previous location.",
+          "options": {
+            "A": "very",
+            "B": "much",
+            "C": "most",
+            "D": "many"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "This year's campaign was _____ successful than last year's.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "much",
+            "D": "very"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 6,
+          "prompt": "The new system is not _____ complicated as the old one.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "as",
+            "D": "much"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "This warehouse is twice _____ large as the previous facility.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "as",
+            "D": "much"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 8,
+          "prompt": "The Riverside Hotel is one of _____ hotels in the city.",
+          "options": {
+            "A": "convenient",
+            "B": "more convenient",
+            "C": "the most convenient",
+            "D": "most conveniently"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "Of the two proposals, Ms. Chen's is _____.",
+          "options": {
+            "A": "better",
+            "B": "best",
+            "C": "the best",
+            "D": "more best"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 10,
+          "prompt": "Of all four candidates, Mr. Lin has _____ experience.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "the most",
+            "D": "much"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 11,
+          "prompt": "Customer satisfaction is now considerably _____ than it was last year.",
+          "options": {
+            "A": "high",
+            "B": "higher",
+            "C": "highest",
+            "D": "highly"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "The updated application loads even _____ than the previous version.",
+          "options": {
+            "A": "quickly",
+            "B": "more quickly",
+            "C": "most quickly",
+            "D": "quick"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "day-25-6",
+      "title": "⑯ Day 25 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The new office is much _____ than the old one.",
+          "options": {
+            "A": "large",
+            "B": "larger",
+            "C": "largest",
+            "D": "more large"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "This is _____ affordable option available.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "the most",
+            "D": "much"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "The updated website is not _____ difficult to use as the previous version.",
+          "options": {
+            "A": "more",
+            "B": "most",
+            "C": "as",
+            "D": "much"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 4,
+          "prompt": "This year's sales were significantly _____ than last year's.",
+          "options": {
+            "A": "high",
+            "B": "higher",
+            "C": "highest",
+            "D": "highly"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "Of the two delivery services, Express is _____.",
+          "options": {
+            "A": "faster",
+            "B": "fastest",
+            "C": "the fastest",
+            "D": "more fastest"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which advertising package should Linda choose?",
+          "options": {
+            "A": "Basic",
+            "B": "Standard",
+            "C": "Premium",
+            "D": "Business Plus"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "What improved the most in the satisfaction survey?",
+          "options": {
+            "A": "Delivery",
+            "B": "Customer service",
+            "C": "Product quality",
+            "D": "Prices"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which training course will the caller probably select?",
+          "options": {
+            "A": "Excel Basics",
+            "B": "Excel Advanced",
+            "C": "Data Analysis",
+            "D": "Project Management"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why does Kevin not qualify for the normal opened-electronics return period?",
+          "options": {
+            "A": "He lost his receipt",
+            "B": "Eighteen days have passed",
+            "C": "He is not a member",
+            "D": "The product is not electronic"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "What option will Kevin most likely be offered?",
+          "options": {
+            "A": "Repair or replacement",
+            "B": "Automatic 45-day refund",
+            "C": "A downloadable product",
+            "D": "No assistance"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "圖表題結合條件與意圖推論；雙篇閱讀需辨認一般規則、條件與例外。",
+  "nextDay": "Part 4 多條件圖表＋修改資訊追蹤"
+}

@@ -1,0 +1,770 @@
+{
+  "schemaVersion": "1.0",
+  "day": 19,
+  "title": "Part 3 對話＋表格資訊整合與動名詞／不定詞進階",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 100,
+  "durationMinutes": {
+    "min": 95,
+    "max": 105
+  },
+  "level": "860–900",
+  "source": "使用者提供的 Day 19 教材",
+  "sections": [
+    {
+      "title": "Day 19 學習概覽",
+      "markdown": "今天接續 Day 18，正式進入 **Part 3「對話＋表格」資訊整合**。這是第三週的重要升級：你不只要聽懂對話，還要把聽到的「條件」帶進表格才能得到答案。\n\n文法進入 **動名詞與不定詞進階**：`remember / forget / stop / try / regret`。這些動詞後面接 `V-ing` 或 `to V` 都可能正確，但**意思不同**。\n\n目前沒有收到 Day 18 實際成績，因此今天維持 **860～900 分難度**。今天先不再增加三人對話複雜度，而是把難度放在「跨來源整合」。\n\n建議訓練時間：**95～105 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "主題：**Travel / Transportation / Business Trips**\n\n| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| departure | 出發 | departure time |\n| arrival | 抵達 | arrival time |\n| destination | 目的地 | final destination |\n| itinerary | 行程 | travel itinerary |\n| reservation | 預訂 | make a reservation |\n| accommodation | 住宿 | arrange accommodation |\n| transportation | 交通 | public transportation |\n| fare | 車資、票價 | train fare |\n| passenger | 乘客 | airline passenger |\n| terminal | 航廈 | airport terminal |\n| platform | 月台 | train platform |\n| boarding | 登機 | boarding pass |\n| luggage | 行李 | claim luggage |\n| baggage | 行李 | baggage claim |\n| delay | 延誤 | flight delay |\n| delayed | 延誤的 | delayed flight |\n| cancel | 取消 | cancel a flight |\n| cancellation | 取消 | flight cancellation |\n| postpone | 延後 | postpone a trip |\n| reschedule | 改期 | reschedule a flight |\n| transfer | 轉乘 | transfer to another train |\n| connection | 轉乘班次 | connecting flight |\n| direct | 直達的 | direct flight |\n| available | 可取得的 | seats available |\n| advance | 提前 | book in advance |\n| reimburse | 報銷 | reimburse expenses |\n| reimbursement | 報銷 | travel reimbursement |\n| expense | 費用 | travel expenses |\n| receipt | 收據 | keep a receipt |\n| convenient | 方便的 | convenient location |\n\n今天優先形成：\n\n> **departure time**  \n> **travel itinerary**  \n> **arrange accommodation**  \n> **boarding pass**  \n> **baggage claim**  \n> **flight delay**  \n> **connecting flight**  \n> **direct flight**  \n> **book in advance**  \n> **travel expenses**\n\n注意：\n\n`luggage` 和 `baggage` 通常都是不可數：\n\n> some luggage ✅  \n> a piece of luggage ✅  \n> several pieces of luggage ✅\n\n不是：\n\n> luggages ❌"
+    },
+    {
+      "title": "② 今日文法｜remember doing vs. remember to do",
+      "markdown": "先比較：\n\n> I remember **meeting** Mr. Chen.\n\n意思：\n\n**我記得以前見過陳先生。**\n\n事情已經發生。\n\n而：\n\n> Remember **to call** Mr. Chen.\n\n意思：\n\n**記得要打電話給陳先生。**\n\n事情尚未完成。\n\n所以：\n\n> remember + V-ing  \n> → 記得「做過」\n\n> remember + to V  \n> → 記得「要做」"
+    },
+    {
+      "title": "③ forget doing vs. forget to do",
+      "markdown": "邏輯相同。\n\n> I'll never forget **visiting** Paris.\n\n= 我永遠不會忘記曾經去過巴黎。\n\n但是：\n\n> I forgot **to submit** the report.\n\n= 我忘記要交報告。\n\n結果：\n\n**沒有交。**\n\nTOEIC 更常考：\n\n> forget to V\n\n例如：\n\n> Don't forget _____ your receipt.\n\n(A) keeping  \n(B) to keep\n\n答案：\n\n**B**\n\n因為是提醒未來要做。"
+    },
+    {
+      "title": "④ stop doing vs. stop to do",
+      "markdown": "這組非常重要。\n\n> He stopped **working**.\n\n意思：\n\n**他停止工作。**\n\n原本正在 working，現在不做了。\n\n但：\n\n> He stopped **to answer** the phone.\n\n意思：\n\n**他停下原本正在做的事情，去接電話。**\n\n所以：\n\n> stop + V-ing  \n> = 停止這件事\n\n> stop + to V  \n> = 停下來，為了做另一件事"
+    },
+    {
+      "title": "⑤ try doing vs. try to do",
+      "markdown": "### try to V\n\n表示：\n\n**努力、試圖完成某件事**\n\n> I tried **to contact** the supplier, but no one answered.\n\n我有努力聯絡，但可能沒成功。\n\n### try V-ing\n\n表示：\n\n**試試某個方法**\n\n> If the printer doesn't work, try **restarting** it.\n\n意思：\n\n> 試試重新啟動看看。\n\n這在 TOEIC 辦公設備情境非常常用。"
+    },
+    {
+      "title": "⑥ regret doing vs. regret to do",
+      "markdown": "### regret doing\n\n後悔已經做過：\n\n> We regret **causing** the inconvenience.\n\n### regret to V\n\n很正式的商務英文：\n\n> We regret **to inform** you that your flight has been canceled.\n\n意思不是：\n\n「我們後悔通知你。」\n\n而是：\n\n**很遺憾地通知您……**\n\n常見：\n\n> We regret to inform you that...\n\n商務通知、拒絕信非常高頻。"
+    },
+    {
+      "title": "⑦ 今天的秒判表",
+      "markdown": "| 結構 | 意思 |\n|---|---|\n| remember doing | 記得做過 |\n| remember to do | 記得要做 |\n| forget doing | 忘記曾做過 |\n| forget to do | 忘記要做 |\n| stop doing | 停止做 |\n| stop to do | 停下來去做另一件事 |\n| try doing | 試試某方法 |\n| try to do | 努力去做 |\n| regret doing | 後悔做過 |\n| regret to do | 遺憾地要做／通知 |\n\n今天不要背成「哪個動詞後面接 V-ing」。\n\n因為：\n\n> **兩種都可以，意思不同。**"
+    },
+    {
+      "title": "⑧ Part 3 圖表整合｜解題方法",
+      "markdown": "今天第一次正式做：\n\n**聽力＋表格。**\n\n看到表格，不要全部背。\n\n先讀題目，例如：\n\n> Which train will the speakers probably take?\n\n再看表格：\n\n| Train | Departure | Arrival |\n|---|---:|---:|\n| 102 | 8:10 | 9:25 |\n| 118 | 8:45 | 10:00 |\n| 126 | 9:20 | 10:35 |\n| 134 | 10:00 | 11:15 |\n\n你只需要知道：\n\n> 題目要找「哪一班」。\n\n接著 Listening 如果說：\n\n> We need to arrive before 10:30, but I can't leave the office until 8:30.\n\n把兩個條件帶入：\n\n**8:30 後才能出發**\n\n排除 102。\n\n**10:30 前抵達**\n\n排除 126、134。\n\n因此：\n\n> **118**\n\n這種題的答案不是直接「聽」出來，而是：\n\n> **Listening 條件 + Graphic 資訊 = 答案**"
+    },
+    {
+      "title": "⑨ Listening｜Part 3 + 表格 1",
+      "markdown": "### Train Schedule\n\n| Train | Departure | Arrival |\n|---|---:|---:|\n| 205 | 8:00 | 9:15 |\n| 217 | 8:40 | 9:55 |\n| 229 | 9:10 | 10:25 |\n| 241 | 9:45 | 11:00 |\n\n先看題目。\n\n### Q1\n\nWhy are the speakers traveling?\n\n(A) To attend a meeting  \n(B) To inspect a factory  \n(C) To visit a customer  \n(D) To attend training\n\n### Q2\n\nWhat constraint does the woman mention?\n\n(A) She cannot leave before 8:30  \n(B) She needs to return before noon  \n(C) She has lost her ticket  \n(D) She needs a direct flight\n\n### Q3\n\nLook at the table. Which train will they most likely take?\n\n(A) 205  \n(B) 217  \n(C) 229  \n(D) 241\n\n聽力稿：\n\n> **Man:** Which train should we take to Taichung for tomorrow's client meeting?\n>\n> **Woman:** The meeting starts at ten thirty, so I'd like to arrive at least thirty minutes early. But I have to finish a conference call here at eight fifteen.\n>\n> **Man:** In that case, the 8:40 train looks best. I'll book the tickets.\n>\n> **Woman:** Great. Please reserve seats near the front if they're available.\n\n答案：\n\n**1A / 2A / 3B**\n\nQ3 可以直接聽到 8:40，但仍要確認表格：\n\n> 8:40 = Train **217**\n\n正式 TOEIC 有些題目不會直接說班號，只給時間。"
+    },
+    {
+      "title": "⑩ Listening｜Part 3 + 表格 2",
+      "markdown": "### Airport Shuttle\n\n| Shuttle | Departure | Terminal |\n|---|---:|---|\n| A | 6:30 | Terminal 1 |\n| B | 7:00 | Terminal 2 |\n| C | 7:30 | Terminal 1 |\n| D | 8:00 | Terminal 2 |\n\n### Q1\n\nWhere are the speakers probably going?\n\n(A) A conference center  \n(B) An airport  \n(C) A factory  \n(D) A restaurant\n\n### Q2\n\nWhat does the woman say about her flight?\n\n(A) It has been canceled  \n(B) It departs from Terminal 2  \n(C) It leaves tomorrow  \n(D) It has been delayed\n\n### Q3\n\nLook at the table. Which shuttle will the woman most likely take?\n\n(A) A  \n(B) B  \n(C) C  \n(D) D\n\n聽力稿：\n\n> **Woman:** My flight boards at eight fifteen, so I should probably take the seven o'clock shuttle.\n>\n> **Man:** Which terminal are you leaving from?\n>\n> **Woman:** Terminal 2. I checked my boarding pass this morning.\n>\n> **Man:** Then seven o'clock should work. It usually takes about thirty minutes to get there.\n\n答案：\n\n**1B / 2B / 3B**\n\n表格：\n\n> 7:00 + Terminal 2\n\n→ Shuttle **B**"
+    },
+    {
+      "title": "⑪ Listening｜Part 3 推論",
+      "markdown": "### Q1\n\nWhy is the man calling?\n\n(A) To change a reservation  \n(B) To apply for a job  \n(C) To request a refund  \n(D) To confirm a meeting\n\n### Q2\n\nWhat problem does he mention?\n\n(A) His flight arrives later than expected  \n(B) His hotel room is unavailable  \n(C) His luggage is missing  \n(D) His meeting was canceled\n\n### Q3\n\nWhat will the woman probably do?\n\n(A) Cancel the reservation  \n(B) Change the check-in information  \n(C) Contact an airline  \n(D) Issue a refund\n\n聽力稿：\n\n> **Man:** Hi, I have a reservation for tonight under Daniel Lee. My flight has been delayed by three hours, so I probably won't arrive until after eleven.\n>\n> **Woman:** That's no problem. I'll add a note to your reservation so the night staff knows you'll be checking in late.\n>\n> **Man:** Thank you. I was worried my room might be given away.\n\n答案：\n\n**1D / 2A / 3B**\n\n注意 Q1。\n\n他不是要：\n\n> change the room\n\n真正目的是：\n\n> **確認晚到不會失去預訂。**\n\n選項中最接近：\n\n**confirm a reservation**"
+    },
+    {
+      "title": "⑫ Reading｜Part 7",
+      "markdown": "今天限時：\n\n**3 分 30 秒。**\n\n> **To:** All Sales Representatives  \n> **From:** Corporate Travel Department  \n> **Subject:** Updated Business Travel Policy\n>\n> Beginning October 1, employees traveling on company business should make airline and hotel reservations through the company's online travel portal.\n>\n> Whenever possible, flights should be booked at least 14 days in advance. Employees who need to make a reservation less than 14 days before departure must receive approval from their department manager.\n>\n> Travelers should remember to keep all receipts for transportation, accommodation, and other approved business expenses. Electronic copies may be uploaded through the expense reporting system.\n>\n> Employees are encouraged to use public transportation when it is more economical than taking a taxi. However, taxi fares may be reimbursed when public transportation is unavailable or when employees are carrying large amounts of company equipment.\n>\n> After returning from a business trip, employees must submit an expense report within ten business days. Reports submitted after this period may require additional approval.\n\n### Q1\n\nWhen does the new policy take effect?\n\n(A) September 14  \n(B) October 1  \n(C) October 10  \n(D) October 14\n\n### Q2\n\nWhat should employees generally do with flights?\n\n(A) Book at least 14 days early  \n(B) Purchase tickets at the airport  \n(C) Choose the most expensive option  \n(D) Travel only on weekends\n\n### Q3\n\nWhat is required for a late reservation?\n\n(A) Customer approval  \n(B) Manager approval  \n(C) A paper receipt  \n(D) An additional hotel booking\n\n### Q4\n\nWhy should travelers keep receipts?\n\n(A) To change their flights  \n(B) To receive reimbursement for approved expenses  \n(C) To prove their identity  \n(D) To reserve accommodation\n\n### Q5\n\nWhen may a taxi fare be reimbursed?\n\n(A) Whenever an employee prefers taxis  \n(B) Only during international travel  \n(C) When public transportation is unavailable  \n(D) Only when traveling with a manager\n\n### Q6\n\nHow soon after a trip should an expense report normally be submitted?\n\n(A) Within 5 calendar days  \n(B) Within 10 business days  \n(C) Within 14 days  \n(D) Within one month\n\n### Q7\n\nIn the sentence “Travelers should **remember to keep** all receipts,” why is `to keep` used?\n\n(A) Keeping the receipts happened in the past  \n(B) It refers to an action travelers need to remember to perform  \n(C) The travelers stopped keeping receipts  \n(D) Keeping receipts is optional\n\n**答案：1B / 2A / 3B / 4B / 5C / 6B / 7B**"
+    },
+    {
+      "title": "⑬ Part 5 仿真題｜12 題",
+      "markdown": "今天限制：\n\n**3 分鐘。**\n\n### 1\n\nPlease remember _____ your receipt after paying the hotel bill.\n\n(A) keeping  \n(B) to keep  \n(C) kept  \n(D) keep\n\n### 2\n\nI remember _____ this hotel during a business trip several years ago.\n\n(A) visit  \n(B) to visit  \n(C) visiting  \n(D) visited\n\n### 3\n\nMr. Wu forgot _____ his expense report before the deadline.\n\n(A) submitting  \n(B) to submit  \n(C) submitted  \n(D) submit\n\n### 4\n\nThe technician stopped _____ the machine when he noticed an unusual sound.\n\n(A) operate  \n(B) to operate  \n(C) operating  \n(D) operated\n\n### 5\n\nMs. Chen stopped _____ some coffee before returning to the office.\n\n(A) getting  \n(B) to get  \n(C) got  \n(D) get\n\n### 6\n\nIf the application does not respond, try _____ your computer.\n\n(A) restart  \n(B) to restarted  \n(C) restarting  \n(D) restarted\n\n### 7\n\nThe staff tried _____ the customer, but the telephone number was incorrect.\n\n(A) contacting  \n(B) to contact  \n(C) contacted  \n(D) contact\n\n### 8\n\nWe regret _____ you that Flight 205 has been canceled.\n\n(A) informing  \n(B) informed  \n(C) to inform  \n(D) inform\n\n### 9\n\nThe company regrets _____ the original proposal without reviewing the updated cost estimate.\n\n(A) rejecting  \n(B) to reject  \n(C) reject  \n(D) rejected\n\n### 10\n\nDon't forget _____ your boarding pass before leaving for the airport.\n\n(A) printing  \n(B) to print  \n(C) printed  \n(D) print\n\n### 11\n\nThe manager stopped _____ with a customer before entering the conference room.\n\n(A) talking  \n(B) to talk  \n(C) talked  \n(D) talk\n\n### 12\n\nIf the document still won't open, try _____ it in another application.\n\n(A) opening  \n(B) to opened  \n(C) opened  \n(D) open\n\n**答案：1B / 2C / 3B / 4C / 5B / 6C / 7B / 8C / 9A / 10B / 11B / 12A**"
+    },
+    {
+      "title": "⑭ 幾題最容易錯的解析",
+      "markdown": "Q4：\n\n> stopped **operating the machine**\n\n= 停止操作機器。\n\n如果：\n\n> stopped **to operate the machine**\n\n則是：\n\n「停下原本的事情，去操作機器。」\n\n完全不同。\n\n---\n\nQ5：\n\n> stopped **to get some coffee**\n\n表示：\n\n原本正在做別的事情：\n\n→ 停下來\n\n→ 去買／拿咖啡。\n\n所以 `to get`。\n\n---\n\nQ6：\n\n> try **restarting**\n\n情境是：\n\n> 電腦程式有問題。\n\n這是在提供：\n\n**可以試試看的解決方法。**\n\n所以：\n\n> try V-ing\n\n---\n\nQ7：\n\n> tried **to contact**\n\n後面：\n\n> but the telephone number was incorrect\n\n代表他：\n\n**試圖聯絡，但沒有成功。**\n\n所以：\n\n> try to V\n\n---\n\nQ8：\n\n> We regret **to inform you** that...\n\n正式商務固定用法：\n\n> **很遺憾通知您……**"
+    },
+    {
+      "title": "⑮ Day 19 小考",
+      "markdown": "正式限制：\n\n**10 題／2 分 45 秒**\n\n### Q1\n\nPlease remember _____ your expense report by Friday.\n\n(A) submitting  \n(B) to submit  \n(C) submitted  \n(D) submit\n\n### Q2\n\nI remember _____ Ms. Lee at last year's conference.\n\n(A) meeting  \n(B) to meet  \n(C) met  \n(D) meet\n\n### Q3\n\nThe printer was making an unusual noise, so the employee stopped _____ it.\n\n(A) to use  \n(B) using  \n(C) used  \n(D) use\n\n### Q4\n\nIf the website does not load correctly, try _____ your browser.\n\n(A) refreshing  \n(B) to refreshed  \n(C) refreshed  \n(D) refresh\n\n### Q5\n\nWe regret _____ you that your application was unsuccessful.\n\n(A) informing  \n(B) to inform  \n(C) informed  \n(D) inform\n\n### Q6\n\nIn the first Listening conversation, why are the speakers traveling?\n\n(A) To attend a meeting  \n(B) To attend training  \n(C) To take a vacation  \n(D) To inspect equipment\n\n### Q7\n\nWhich train will they probably take?\n\n(A) 205  \n(B) 217  \n(C) 229  \n(D) 241\n\n### Q8\n\nWhich shuttle does the woman in Conversation 2 need?\n\n(A) A  \n(B) B  \n(C) C  \n(D) D\n\n### Q9\n\nWhy is the hotel guest calling?\n\n(A) His reservation was canceled  \n(B) He expects to arrive late  \n(C) His room is damaged  \n(D) He lost his luggage\n\n### Q10\n\nWhat will the hotel employee do?\n\n(A) Cancel the room  \n(B) Add a late-arrival note to the reservation  \n(C) Contact the airline  \n(D) Refund the guest\n\n## 答案\n\n**1B / 2A / 3B / 4A / 5B / 6A / 7B / 8B / 9B / 10B**"
+    },
+    {
+      "title": "⑯ 今日錯題判讀",
+      "markdown": "如果 Q1～Q5 錯：\n\n標記：\n\n**G — Gerund / Infinitive Meaning**\n\n不要只記正確答案。\n\n例如 Q3 錯，筆記寫：\n\n> stop doing = 停止原本的動作\n\n如果 Q6～Q10 錯：\n\n再分兩種。\n\n如果「對話知道意思，但表格找錯」：\n\n> **I — Information Integration**\n\n如果「連對話中的條件都沒有抓到」：\n\n> **L — Listening**\n\n從今天開始新增 `I` 類型，因為 Part 3/4 圖表題的問題不一定是英文聽不懂，也可能是資訊整合速度不足。"
+    },
+    {
+      "title": "⑰ 錯題回收｜Day 15～18",
+      "markdown": "請快速回答：\n\n> We need _____ meeting.\n\n**another**\n\n> Some employees attended; _____ stayed home.\n\n**others**\n\n> We have very _____ information.\n\n**little**\n\n> We still have _____ time.\n\n**a little**\n\n> Each of the products _____ inspected.\n\n**is**\n\n> Everyone _____ required to attend.\n\n**is**\n\n> something _____\n\n**important**\n\n> We didn't notice _____ unusual.\n\n**anything**\n\n> The manager, along with two employees, _____ attending.\n\n**is**\n\n> Either the manager or the employees _____ responsible.\n\n**are**\n\n> Neither the employees nor the manager _____ available.\n\n**is**\n\n> There _____ several problems.\n\n**are**\n\n目標：\n\n**12 題 ≤ 50 秒。**"
+    },
+    {
+      "title": "⑱ 今日作業",
+      "markdown": "今天單字不要逐字背，集中複習：\n\n> departure time  \n> travel itinerary  \n> boarding pass  \n> baggage claim  \n> flight delay  \n> connecting flight  \n> direct flight  \n> book in advance  \n> travel expenses  \n> arrange accommodation\n\n接著把今天五組文法自己說出意思：\n\n> remember doing ↔ remember to do\n\n> forget doing ↔ forget to do\n\n> stop doing ↔ stop to do\n\n> try doing ↔ try to do\n\n> regret doing ↔ regret to do\n\n其中最優先熟悉：\n\n> **stop doing / stop to do**\n\n以及：\n\n> **try doing / try to do**\n\nListening 則不要重聽整段後逐句翻譯。把第一段只留下：\n\n> **meeting 10:30 → call until 8:15 → arrive before 10 → Train 217**\n\n第二段：\n\n> **flight 8:15 → Terminal 2 → 7:00 → Shuttle B**\n\n這就是圖表題正確的筆記方式：\n\n> **只記會影響表格選擇的條件。**\n\n最後重新完成 Day 19 小考，第二次限制：\n\n**2 分鐘。**\n\n目標：\n\n**10/10。**\n\n若第一次達到 **9～10/10**，接下來會繼續維持 900 分方向，把表格題從「時間表」提升到「價目表／產品規格／行程表」並增加同義改寫；若 Q6～Q10 錯兩題以上，則先增加一輪表格定位訓練再提高複雜度。\n\n**Day 19 核心：圖表題不是先把表格全部記起來，而是先從對話抓「限制條件」，再用條件去篩表格。**\n\nDay 20 將進入 **Part 4 簡短獨白入門：公告、電話留言與公司通知**；文法會進入 **假設語氣與條件句進階 `if / unless / provided that / as long as`**，Listening 也會第一次從「多人對話」轉向「單人連續資訊」。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "departure",
+      "meaning": "出發",
+      "phrase": "departure time"
+    },
+    {
+      "id": 2,
+      "word": "arrival",
+      "meaning": "抵達",
+      "phrase": "arrival time"
+    },
+    {
+      "id": 3,
+      "word": "destination",
+      "meaning": "目的地",
+      "phrase": "final destination"
+    },
+    {
+      "id": 4,
+      "word": "itinerary",
+      "meaning": "行程",
+      "phrase": "travel itinerary"
+    },
+    {
+      "id": 5,
+      "word": "reservation",
+      "meaning": "預訂",
+      "phrase": "make a reservation"
+    },
+    {
+      "id": 6,
+      "word": "accommodation",
+      "meaning": "住宿",
+      "phrase": "arrange accommodation"
+    },
+    {
+      "id": 7,
+      "word": "transportation",
+      "meaning": "交通",
+      "phrase": "public transportation"
+    },
+    {
+      "id": 8,
+      "word": "fare",
+      "meaning": "車資、票價",
+      "phrase": "train fare"
+    },
+    {
+      "id": 9,
+      "word": "passenger",
+      "meaning": "乘客",
+      "phrase": "airline passenger"
+    },
+    {
+      "id": 10,
+      "word": "terminal",
+      "meaning": "航廈",
+      "phrase": "airport terminal"
+    },
+    {
+      "id": 11,
+      "word": "platform",
+      "meaning": "月台",
+      "phrase": "train platform"
+    },
+    {
+      "id": 12,
+      "word": "boarding",
+      "meaning": "登機",
+      "phrase": "boarding pass"
+    },
+    {
+      "id": 13,
+      "word": "luggage",
+      "meaning": "行李",
+      "phrase": "claim luggage"
+    },
+    {
+      "id": 14,
+      "word": "baggage",
+      "meaning": "行李",
+      "phrase": "baggage claim"
+    },
+    {
+      "id": 15,
+      "word": "delay",
+      "meaning": "延誤",
+      "phrase": "flight delay"
+    },
+    {
+      "id": 16,
+      "word": "delayed",
+      "meaning": "延誤的",
+      "phrase": "delayed flight"
+    },
+    {
+      "id": 17,
+      "word": "cancel",
+      "meaning": "取消",
+      "phrase": "cancel a flight"
+    },
+    {
+      "id": 18,
+      "word": "cancellation",
+      "meaning": "取消",
+      "phrase": "flight cancellation"
+    },
+    {
+      "id": 19,
+      "word": "postpone",
+      "meaning": "延後",
+      "phrase": "postpone a trip"
+    },
+    {
+      "id": 20,
+      "word": "reschedule",
+      "meaning": "改期",
+      "phrase": "reschedule a flight"
+    },
+    {
+      "id": 21,
+      "word": "transfer",
+      "meaning": "轉乘",
+      "phrase": "transfer to another train"
+    },
+    {
+      "id": 22,
+      "word": "connection",
+      "meaning": "轉乘班次",
+      "phrase": "connecting flight"
+    },
+    {
+      "id": 23,
+      "word": "direct",
+      "meaning": "直達的",
+      "phrase": "direct flight"
+    },
+    {
+      "id": 24,
+      "word": "available",
+      "meaning": "可取得的",
+      "phrase": "seats available"
+    },
+    {
+      "id": 25,
+      "word": "advance",
+      "meaning": "提前",
+      "phrase": "book in advance"
+    },
+    {
+      "id": 26,
+      "word": "reimburse",
+      "meaning": "報銷",
+      "phrase": "reimburse expenses"
+    },
+    {
+      "id": 27,
+      "word": "reimbursement",
+      "meaning": "報銷",
+      "phrase": "travel reimbursement"
+    },
+    {
+      "id": 28,
+      "word": "expense",
+      "meaning": "費用",
+      "phrase": "travel expenses"
+    },
+    {
+      "id": 29,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "keep a receipt"
+    },
+    {
+      "id": 30,
+      "word": "convenient",
+      "meaning": "方便的",
+      "phrase": "convenient location"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-part-3-1-1",
+      "title": "⑨ Listening｜Part 3 + 表格 1",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why are the speakers traveling?",
+          "options": {
+            "A": "To attend a meeting",
+            "B": "To inspect a factory",
+            "C": "To visit a customer",
+            "D": "To attend training"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 2,
+          "prompt": "What constraint does the woman mention?",
+          "options": {
+            "A": "She cannot leave before 8:30",
+            "B": "She needs to return before noon",
+            "C": "She has lost her ticket",
+            "D": "She needs a direct flight"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the table. Which train will they most likely take?",
+          "options": {
+            "A": "205",
+            "B": "217",
+            "C": "229",
+            "D": "241"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-3-2-2",
+      "title": "⑩ Listening｜Part 3 + 表格 2",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where are the speakers probably going?",
+          "options": {
+            "A": "A conference center",
+            "B": "An airport",
+            "C": "A factory",
+            "D": "A restaurant"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman say about her flight?",
+          "options": {
+            "A": "It has been canceled",
+            "B": "It departs from Terminal 2",
+            "C": "It leaves tomorrow",
+            "D": "It has been delayed"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the table. Which shuttle will the woman most likely take?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "listening-part-3-3",
+      "title": "⑪ Listening｜Part 3 推論",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the man calling?",
+          "options": {
+            "A": "To change a reservation",
+            "B": "To apply for a job",
+            "C": "To request a refund",
+            "D": "To confirm a meeting"
+          },
+          "answer": "D",
+          "explanation": "教材答案為 D。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does he mention?",
+          "options": {
+            "A": "His flight arrives later than expected",
+            "B": "His hotel room is unavailable",
+            "C": "His luggage is missing",
+            "D": "His meeting was canceled"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman probably do?",
+          "options": {
+            "A": "Cancel the reservation",
+            "B": "Change the check-in information",
+            "C": "Contact an airline",
+            "D": "Issue a refund"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "reading-part-7-4",
+      "title": "⑫ Reading｜Part 7",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When does the new policy take effect?",
+          "options": {
+            "A": "September 14",
+            "B": "October 1",
+            "C": "October 10",
+            "D": "October 14"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "What should employees generally do with flights?",
+          "options": {
+            "A": "Book at least 14 days early",
+            "B": "Purchase tickets at the airport",
+            "C": "Choose the most expensive option",
+            "D": "Travel only on weekends"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is required for a late reservation?",
+          "options": {
+            "A": "Customer approval",
+            "B": "Manager approval",
+            "C": "A paper receipt",
+            "D": "An additional hotel booking"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why should travelers keep receipts?",
+          "options": {
+            "A": "To change their flights",
+            "B": "To receive reimbursement for approved expenses",
+            "C": "To prove their identity",
+            "D": "To reserve accommodation"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 5,
+          "prompt": "When may a taxi fare be reimbursed?",
+          "options": {
+            "A": "Whenever an employee prefers taxis",
+            "B": "Only during international travel",
+            "C": "When public transportation is unavailable",
+            "D": "Only when traveling with a manager"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 6,
+          "prompt": "How soon after a trip should an expense report normally be submitted?",
+          "options": {
+            "A": "Within 5 calendar days",
+            "B": "Within 10 business days",
+            "C": "Within 14 days",
+            "D": "Within one month"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 7,
+          "prompt": "In the sentence “Travelers should **remember to keep** all receipts,” why is `to keep` used?",
+          "options": {
+            "A": "Keeping the receipts happened in the past",
+            "B": "It refers to an action travelers need to remember to perform",
+            "C": "The travelers stopped keeping receipts",
+            "D": "Keeping receipts is optional"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    },
+    {
+      "id": "part-5-12-5",
+      "title": "⑬ Part 5 仿真題｜12 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Please remember _____ your receipt after paying the hotel bill.",
+          "options": {
+            "A": "keeping",
+            "B": "to keep",
+            "C": "kept",
+            "D": "keep"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "I remember _____ this hotel during a business trip several years ago.",
+          "options": {
+            "A": "visit",
+            "B": "to visit",
+            "C": "visiting",
+            "D": "visited"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 3,
+          "prompt": "Mr. Wu forgot _____ his expense report before the deadline.",
+          "options": {
+            "A": "submitting",
+            "B": "to submit",
+            "C": "submitted",
+            "D": "submit"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "The technician stopped _____ the machine when he noticed an unusual sound.",
+          "options": {
+            "A": "operate",
+            "B": "to operate",
+            "C": "operating",
+            "D": "operated"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 5,
+          "prompt": "Ms. Chen stopped _____ some coffee before returning to the office.",
+          "options": {
+            "A": "getting",
+            "B": "to get",
+            "C": "got",
+            "D": "get"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "If the application does not respond, try _____ your computer.",
+          "options": {
+            "A": "restart",
+            "B": "to restarted",
+            "C": "restarting",
+            "D": "restarted"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 7,
+          "prompt": "The staff tried _____ the customer, but the telephone number was incorrect.",
+          "options": {
+            "A": "contacting",
+            "B": "to contact",
+            "C": "contacted",
+            "D": "contact"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "We regret _____ you that Flight 205 has been canceled.",
+          "options": {
+            "A": "informing",
+            "B": "informed",
+            "C": "to inform",
+            "D": "inform"
+          },
+          "answer": "C",
+          "explanation": "教材答案為 C。"
+        },
+        {
+          "id": 9,
+          "prompt": "The company regrets _____ the original proposal without reviewing the updated cost estimate.",
+          "options": {
+            "A": "rejecting",
+            "B": "to reject",
+            "C": "reject",
+            "D": "rejected"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 10,
+          "prompt": "Don't forget _____ your boarding pass before leaving for the airport.",
+          "options": {
+            "A": "printing",
+            "B": "to print",
+            "C": "printed",
+            "D": "print"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 11,
+          "prompt": "The manager stopped _____ with a customer before entering the conference room.",
+          "options": {
+            "A": "talking",
+            "B": "to talk",
+            "C": "talked",
+            "D": "talk"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 12,
+          "prompt": "If the document still won't open, try _____ it in another application.",
+          "options": {
+            "A": "opening",
+            "B": "to opened",
+            "C": "opened",
+            "D": "open"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        }
+      ]
+    },
+    {
+      "id": "day-19-6",
+      "title": "⑮ Day 19 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Please remember _____ your expense report by Friday.",
+          "options": {
+            "A": "submitting",
+            "B": "to submit",
+            "C": "submitted",
+            "D": "submit"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 2,
+          "prompt": "I remember _____ Ms. Lee at last year's conference.",
+          "options": {
+            "A": "meeting",
+            "B": "to meet",
+            "C": "met",
+            "D": "meet"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "The printer was making an unusual noise, so the employee stopped _____ it.",
+          "options": {
+            "A": "to use",
+            "B": "using",
+            "C": "used",
+            "D": "use"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 4,
+          "prompt": "If the website does not load correctly, try _____ your browser.",
+          "options": {
+            "A": "refreshing",
+            "B": "to refreshed",
+            "C": "refreshed",
+            "D": "refresh"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 5,
+          "prompt": "We regret _____ you that your application was unsuccessful.",
+          "options": {
+            "A": "informing",
+            "B": "to inform",
+            "C": "informed",
+            "D": "inform"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 6,
+          "prompt": "In the first Listening conversation, why are the speakers traveling?",
+          "options": {
+            "A": "To attend a meeting",
+            "B": "To attend training",
+            "C": "To take a vacation",
+            "D": "To inspect equipment"
+          },
+          "answer": "A",
+          "explanation": "教材答案為 A。"
+        },
+        {
+          "id": 7,
+          "prompt": "Which train will they probably take?",
+          "options": {
+            "A": "205",
+            "B": "217",
+            "C": "229",
+            "D": "241"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which shuttle does the woman in Conversation 2 need?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 9,
+          "prompt": "Why is the hotel guest calling?",
+          "options": {
+            "A": "His reservation was canceled",
+            "B": "He expects to arrive late",
+            "C": "His room is damaged",
+            "D": "He lost his luggage"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        },
+        {
+          "id": 10,
+          "prompt": "What will the hotel employee do?",
+          "options": {
+            "A": "Cancel the room",
+            "B": "Add a late-arrival note to the reservation",
+            "C": "Contact the airline",
+            "D": "Refund the guest"
+          },
+          "answer": "B",
+          "explanation": "教材答案為 B。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "圖表題先從對話抓限制條件，再用條件篩選表格；同時辨別動名詞與不定詞造成的語意差異。",
+  "nextDay": "Part 4 簡短獨白＋條件表達進階"
+}
