@@ -211,21 +211,26 @@ function renderNotes() {
 }
 
 function render() {
-  if (!lesson) return;
   renderedAnnotations = new Map();
+  if (view === 'notes') {
+    $('#page-title').textContent = '收藏與筆記';
+    $('#page-sub').textContent = '集中整理容易忘、還不理解或想再次複習的內容。';
+    $('#content').innerHTML = renderNotes();
+    bind();
+    return;
+  }
+  if (!lesson) return;
   const titles = {
     lesson: [lesson.title, lesson.courseTitle || lesson.source || `Day ${currentDay} 每日教材`],
     calendar: ['你的 90 天學習旅程', '選擇已匯入的日期，開始或繼續學習。'],
     words: [`Day ${currentDay} 核心單字`, `${lesson.vocabulary?.length || 0} 個單字，搭配一起記更牢。`],
-    quiz: [`Day ${currentDay} 階段練習`, '完成作答後提交，立即查看答案與解析。'],
-    notes: ['收藏與筆記', '集中整理容易忘、還不理解或想再次複習的內容。']
+    quiz: [`Day ${currentDay} 階段練習`, '完成作答後提交，立即查看答案與解析。']
   };
   $('#page-title').textContent = titles[view][0]; $('#page-sub').textContent = titles[view][1];
   if (view === 'lesson') $('#content').innerHTML = renderLesson();
   else if (view === 'calendar') $('#content').innerHTML = renderCalendar();
   else if (view === 'words') $('#content').innerHTML = renderWords();
-  else if (view === 'quiz') $('#content').innerHTML = renderQuiz();
-  else $('#content').innerHTML = renderNotes();
+  else $('#content').innerHTML = renderQuiz();
   if (view === 'lesson') updateLessonHeader();
   bind();
 }
