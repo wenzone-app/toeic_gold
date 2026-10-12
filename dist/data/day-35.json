@@ -1,0 +1,834 @@
+{
+  "schemaVersion": "1.0",
+  "day": 35,
+  "title": "第五週整合：倒裝、間接回應與跨文件授權折扣門檻",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 110,
+  "durationMinutes": {
+    "min": 105,
+    "max": 115
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 35 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 35 學習概覽",
+      "markdown": "- 辨識 No sooner、Only by、Not until 與假設倒裝\n- 區分服務部分恢復與全面恢復的間接回應\n- 用圖表同時檢查到貨、溫控、簽收與預算\n- 整合三份文件中的折扣門檻、更新期限與費用免除\n- 依首次小考錯題標籤制定 Day 36 補強\n\n建議訓練時間：**110 分鐘**。\n\n> 尚未取得 Day 34 實際首次成績；沿用進階基準，不推定前日已掌握。課程小考分數不等於正式 TOEIC 分數。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| service-level agreement | 服務水準協議 | meet a service-level agreement |\n| uptime | 正常運作時間 | guaranteed uptime |\n| maintenance window | 維護時段 | scheduled maintenance window |\n| outage | 服務中斷 | unexpected outage |\n| contingency | 應變措施 | contingency plan |\n| interim | 暫時的 | interim solution |\n| workaround | 替代處理方式 | temporary workaround |\n| restoration | 恢復 | service restoration |\n| escalate | 升級處理 | escalate a complaint |\n| acknowledge | 確認收到 | acknowledge a request |\n| resolve | 解決 | resolve an issue |\n| turnaround | 處理週期 | turnaround time |\n| allocate | 分配 | allocate resources |\n| backlog | 積壓工作 | clear a backlog |\n| overdue | 逾期的 | overdue invoice |\n| dispatch | 發送、寄出 | dispatch a shipment |\n| consignment | 託運貨物 | track a consignment |\n| partial shipment | 部分出貨 | arrange a partial shipment |\n| expedite | 加速 | expedite delivery |\n| substitute | 替代品 | approve a substitute |\n| specification | 規格 | technical specifications |\n| compatible | 相容的 | compatible equipment |\n| quotation | 報價單 | revised quotation |\n| surcharge | 附加費 | handling surcharge |\n| waiver | 費用免除 | fee waiver |\n| credit | 抵用額、貸項 | issue a service credit |\n| invoice | 發票 | reconcile an invoice |\n| reconcile | 核對 | reconcile accounts |\n| discrepancy | 差異 | billing discrepancy |\n| procurement | 採購 | procurement department |"
+    },
+    {
+      "title": "② 今日文法｜No sooner、Only by、Not until、Had/Were 條件倒裝、要求式假設語氣與主詞一致",
+      "markdown": "主題：**No sooner、Only by、Not until、Had/Were 條件倒裝、要求式假設語氣與主詞一致**\n\n### 規則 1\n\n`No sooner + had + S + past participle + than`\n\n> No sooner had the meeting ended than the client called.\n\n句首 No sooner 觸發過去完成式倒裝，搭配 than。\n\n### 規則 2\n\n`Only by + V-ing + auxiliary + S + base verb`\n\n> Only by comparing the quotations could we identify the surcharge.\n\nOnly by 限制片語置句首，主句倒裝；could 後接原形 identify。\n\n### 規則 3\n\n`Not until + clause + did + S + base verb`\n\n> Not until the invoice arrived did Accounting release the payment.\n\nNot until 置句首時，主要子句倒裝。\n\n### 規則 4\n\n`Had + S + past participle, S + would have + past participle`\n\n> Had we noticed the discrepancy, we would have contacted the vendor.\n\n省略 if 的過去相反假設，主句為 would have + 過去分詞。\n\n### 規則 5\n\n`Were + S + to + base verb, S + would + base verb`\n\n> Were the server to fail, we would use the backup.\n\n正式未來假設，Were ... to 與 would 搭配。\n\n### 規則 6\n\n`request/insist that + S + (should) + base verb`\n\n> The director requested that the report be revised.\n\n正式美式英文要求式假設語氣使用 be revised。\n\n### 規則 7\n\n`Neither A nor B / S along with X`\n\n> Neither the manager nor the technicians are available. / The report, along with its charts, is ready.\n\nneither ... nor 通常採鄰近一致；along with 不改變主詞單複數。\n\n### 解題流程\n1. 先\n2. 辨\n3. 認\n4. 句\n5. 首\n6. 限\n7. 制\n8. 詞\n9. 是\n10. 否\n11. 觸\n12. 發\n13. 倒\n14. 裝\n15. ，\n16. 再\n17. 判\n18. 斷\n19. 時\n20. 間\n21. 與\n22. 主\n23. 詞\n24. ；\n25. 詞\n26. 性\n27. 題\n28. 檢\n29. 查\n30. 搭\n31. 配\n32. 。\n\n目標：每題 **15 秒**。"
+    },
+    {
+      "title": "03 Listening｜Billing Portal — Partial Restoration",
+      "markdown": "使用 transcript 進行 TTS 播放；先聽一次並提交答案，再顯示逐字稿與解析。第二輪 1.1x。\n\n聽力稿：\n\n> Man: Can we announce that the billing portal is fully operational again?\n> Woman: Not quite. Customers can view invoices, but online payments are still disabled while the bank completes certification. The bank expects to finish by four this afternoon. A small group will test payments on Friday, and full payment access is planned for Monday.\n> Man: So saying that all services are restored would be premature?\n> Woman: Exactly. Please send a notice explaining what customers can use now and when payment access is expected to return."
+    },
+    {
+      "title": "04 Listening｜Temperature-Controlled Sensor Delivery",
+      "markdown": "使用 transcript 進行 TTS 播放；先聽一次並提交答案，再顯示逐字稿與解析。第二輪 1.1x。\n\n聽力稿：\n\n> Woman: We need forty-eight sensors delivered by Thursday at noon for the laboratory inspection. They must be transported in temperature-controlled packaging, and someone must sign for them. We cannot spend more than two hundred seventy dollars.\n> Man: The carrier sent four service options. Service A is inexpensive but arrives on Friday. Service C arrives Thursday morning, though it has no temperature control. Service D is within budget but does not include a delivery signature.\n> Woman: Then Service B appears to be the only one that meets every requirement. Please book it and forward the tracking number to the laboratory."
+    },
+    {
+      "title": "05 Listening｜Grant Portal Maintenance Extension",
+      "markdown": "使用 transcript 進行 TTS 播放；先聽一次並提交答案，再顯示逐字稿與解析。第二輪 1.1x。\n\n聽力稿：\n\n> Attention, grant portal users. Saturday’s maintenance was originally scheduled from eight until eleven in the morning. The vendor has extended the work, and the portal is now expected to reopen at one in the afternoon. During the outage, previously downloaded application PDFs can still be read offline, but no new submissions can be made. For departments whose applications were due Saturday at five, the deadline has been extended to Monday at noon. Automatic reminders may still arrive on Saturday; they do not change the extended deadline. Any further delay will be posted on the support page at twelve thirty Saturday afternoon."
+    },
+    {
+      "title": "⑥ Reading｜Meridian Learning — Annual Licenses and Portal-Outage Exception",
+      "markdown": "限時：**8 分 30 秒**。\n\n### Meridian Learning — Annual Platform Licensing Terms\n\n> Standard annual licenses cost $120 per purchased seat. Orders of 25 or more seats receive a 12% discount on the license subtotal only. The one-time onboarding fee is $180. Optional priority support costs $240 per order. Neither fee is discounted. Discount eligibility is based on the number of seats purchased, not the number of employees who actually use them. Seat quantities may be changed without a processing fee through November 7. Later changes normally incur a $50 processing fee.\n\n用途：General pricing, discounts and change fees\n\n### Westhaven Services — Purchase Order WS-408\n\n> On November 4, Westhaven ordered 26 Standard annual licenses, onboarding, and priority support. The department's total budget is $3,100, including all fees. On November 6, two employees left the project, leaving 24 expected users. The purchasing officer is considering reducing the order to 24 or 25 seats. No change has been confirmed yet.\n\n用途：Initial order, revised headcount and budget\n\n### Meridian Learning — Portal Outage Exception\n\n> Because our ordering portal was unavailable on November 7, purchase order WS-408 may confirm a revised seat quantity through November 9 without the usual $50 processing fee. Westhaven may purchase 25 licenses even though only 24 employees are expected to use the platform. The 12% discount applies to an order of 25 seats, but not 24. Onboarding and priority support remain $180 and $240, respectively. We will not adjust the order automatically. Please reply with the final seat quantity by November 9.\n\n用途：Revised deadline and confirmation requirement\n\n### 計算提示\n- `26 seats: 26×120×0.88+180+240=3165.60`\n- `24 seats: 24×120+180+240=3300.00 (no discount)`\n- `25 seats: 25×120×0.88+180+240=3060.00`\n- `24 vs 25 seats: 3300−3060=240.00`\n- `Remaining budget for 25 seats: 3100−3060=40.00`"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Day 35 小考",
+      "markdown": "正式限時：**5 分鐘**。\n\n### Listening Q35-L1\n\n聽力稿：\n\n> Man: We can dispatch sixty training kits on Tuesday. The remaining fifteen will arrive Thursday.\n> Woman: Wednesday’s workshop needs only fifty-five kits, so there is no need to postpone it. Please send the first batch directly to reception.\n\n### Listening Q35-L2\n\n聽力稿：\n\n> The Thursday shuttle will leave at eight ten rather than eight forty. The pickup location has not changed. Passengers who need wheelchair assistance should confirm with Operations by three on Wednesday afternoon.\n\n### Reading Q35-R1\n\n> Manuals cost $28 each. Orders of 20 or more receive a 15% discount on the manuals subtotal only. Delivery is $18 and is not discounted. The department orders 22 manuals and has a total budget of $550.\n\n### Reading Q35-R2\n\n> General policy: Workshop cancellations requested by November 4 are free; requests from November 5 through November 8 incur a $35 fee. Provider update: Because the November 12 workshop was rescheduled to November 15, affected registrants may cancel without a fee through November 10. Olivia registered for the original November 12 workshop and submitted a cancellation request on November 9."
+    },
+    {
+      "title": "⑨ 複習與錯題分類",
+      "markdown": "回顧前 **[30, 31, 32, 33, 34] 天**，完成 **[{'prompt': 'Under no circumstances _____ confidential files be shared.', 'answer': 'should', 'tag': 'G'}, {'prompt': 'Hardly _____ the meeting started when the alarm sounded.', 'answer': 'had', 'tag': 'G'}, {'prompt': 'Only after approval _____ the team release the report.', 'answer': 'did', 'tag': 'G'}, {'prompt': 'Had it not been for the backup server, service _____ failed.', 'answer': 'would have', 'tag': 'G'}, {'prompt': 'The number of complaints _____ decreased.', 'answer': 'has', 'tag': 'AGR'}, {'prompt': 'A number of vendors _____ submitted quotations.', 'answer': 'have', 'tag': 'AGR'}, {'prompt': 'The manager requested that the contract _____ revised.', 'answer': 'be', 'tag': 'G'}, {'prompt': 'I wouldn’t make that promise yet. → 這暗示什麼？', 'answer': '目前無法保證；仍有不確定性', 'tag': 'IMP'}, {'prompt': 'supersede an earlier notice = ?', 'answer': '取代先前公告', 'tag': 'U'}, {'prompt': '29 meals 不符 30 份折扣門檻，應先確認什麼？', 'answer': '折扣是否失效及總價是否反而上升', 'tag': 'BUD'}, {'prompt': 'waive a fee vs refund a fee?', 'answer': 'waive 免收；refund 退還已支付的費用', 'tag': 'V'}, {'prompt': 'in case vs provided that?', 'answer': '以防／只要（條件成立）', 'tag': 'G'}] 張**複習卡。\n\n先遮答案、限時 90 秒回想；沒有前日作答資料時這是重點複習，而非個人實際錯題清單。\n\n錯題標籤：\n\n- `G`：Grammar 文法\n- `V`：Vocabulary 字彙\n- `L`：Listening 聽力理解\n- `P`：Paraphrase 同義改寫\n- `I`：Information Integration 資訊整合\n- `T`：Timeline 時間順序\n- `E`：Exception 特殊例外\n- `U`：Updated Information 更新資訊\n- `C`：Condition 條件判斷\n- `N`：Next Action 下一步\n- `POS`：Part of Speech 詞性\n- `INT`：Intent 意圖\n- `CAL`：Calculation 計算\n- `SEQ`：Sequence 步驟順序\n- `AGR`：Subject–Verb Agreement 主詞動詞一致\n- `IMP`：Implication 隱含意圖\n- `BUD`：Budget Constraint 預算限制"
+    },
+    {
+      "title": "⑩ 今日作業",
+      "markdown": "- 複習 30 個單字兩輪，選 8 個造句；特別比較 waiver、credit、refund（約 15 分鐘）\n- Part 5 15 題限時重測（3 分 30 秒），標記倒裝與主詞一致錯誤（約 10 分鐘）\n- 三組 Listening 各播放兩次（1.0x、1.1x），第二次不看稿（約 25 分鐘）\n- 重算 26、25、24 席總價並畫出折扣門檻與截止日期（約 20 分鐘）\n- 12 題小考首次限時 5 分鐘，複習後重測 4 分 30 秒並保存兩次紀錄（約 10 分鐘）"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "service-level agreement",
+      "meaning": "服務水準協議",
+      "phrase": "meet a service-level agreement"
+    },
+    {
+      "id": 2,
+      "word": "uptime",
+      "meaning": "正常運作時間",
+      "phrase": "guaranteed uptime"
+    },
+    {
+      "id": 3,
+      "word": "maintenance window",
+      "meaning": "維護時段",
+      "phrase": "scheduled maintenance window"
+    },
+    {
+      "id": 4,
+      "word": "outage",
+      "meaning": "服務中斷",
+      "phrase": "unexpected outage"
+    },
+    {
+      "id": 5,
+      "word": "contingency",
+      "meaning": "應變措施",
+      "phrase": "contingency plan"
+    },
+    {
+      "id": 6,
+      "word": "interim",
+      "meaning": "暫時的",
+      "phrase": "interim solution"
+    },
+    {
+      "id": 7,
+      "word": "workaround",
+      "meaning": "替代處理方式",
+      "phrase": "temporary workaround"
+    },
+    {
+      "id": 8,
+      "word": "restoration",
+      "meaning": "恢復",
+      "phrase": "service restoration"
+    },
+    {
+      "id": 9,
+      "word": "escalate",
+      "meaning": "升級處理",
+      "phrase": "escalate a complaint"
+    },
+    {
+      "id": 10,
+      "word": "acknowledge",
+      "meaning": "確認收到",
+      "phrase": "acknowledge a request"
+    },
+    {
+      "id": 11,
+      "word": "resolve",
+      "meaning": "解決",
+      "phrase": "resolve an issue"
+    },
+    {
+      "id": 12,
+      "word": "turnaround",
+      "meaning": "處理週期",
+      "phrase": "turnaround time"
+    },
+    {
+      "id": 13,
+      "word": "allocate",
+      "meaning": "分配",
+      "phrase": "allocate resources"
+    },
+    {
+      "id": 14,
+      "word": "backlog",
+      "meaning": "積壓工作",
+      "phrase": "clear a backlog"
+    },
+    {
+      "id": 15,
+      "word": "overdue",
+      "meaning": "逾期的",
+      "phrase": "overdue invoice"
+    },
+    {
+      "id": 16,
+      "word": "dispatch",
+      "meaning": "發送、寄出",
+      "phrase": "dispatch a shipment"
+    },
+    {
+      "id": 17,
+      "word": "consignment",
+      "meaning": "託運貨物",
+      "phrase": "track a consignment"
+    },
+    {
+      "id": 18,
+      "word": "partial shipment",
+      "meaning": "部分出貨",
+      "phrase": "arrange a partial shipment"
+    },
+    {
+      "id": 19,
+      "word": "expedite",
+      "meaning": "加速",
+      "phrase": "expedite delivery"
+    },
+    {
+      "id": 20,
+      "word": "substitute",
+      "meaning": "替代品",
+      "phrase": "approve a substitute"
+    },
+    {
+      "id": 21,
+      "word": "specification",
+      "meaning": "規格",
+      "phrase": "technical specifications"
+    },
+    {
+      "id": 22,
+      "word": "compatible",
+      "meaning": "相容的",
+      "phrase": "compatible equipment"
+    },
+    {
+      "id": 23,
+      "word": "quotation",
+      "meaning": "報價單",
+      "phrase": "revised quotation"
+    },
+    {
+      "id": 24,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "handling surcharge"
+    },
+    {
+      "id": 25,
+      "word": "waiver",
+      "meaning": "費用免除",
+      "phrase": "fee waiver"
+    },
+    {
+      "id": 26,
+      "word": "credit",
+      "meaning": "抵用額、貸項",
+      "phrase": "issue a service credit"
+    },
+    {
+      "id": 27,
+      "word": "invoice",
+      "meaning": "發票",
+      "phrase": "reconcile an invoice"
+    },
+    {
+      "id": 28,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile accounts"
+    },
+    {
+      "id": 29,
+      "word": "discrepancy",
+      "meaning": "差異",
+      "phrase": "billing discrepancy"
+    },
+    {
+      "id": 30,
+      "word": "procurement",
+      "meaning": "採購",
+      "phrase": "procurement department"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Billing Portal — Partial Restoration",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What can customers currently do on the portal?",
+          "options": {
+            "A": "Make online payments",
+            "B": "View invoices",
+            "C": "Transfer funds",
+            "D": "Update payment cards"
+          },
+          "answer": "B",
+          "explanation": "Invoice viewing has returned, but payments remain disabled."
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply by saying “Not quite”?",
+          "options": {
+            "A": "The portal is completely restored",
+            "B": "The bank has canceled certification",
+            "C": "Only some portal functions are available",
+            "D": "Customers must pay in person permanently"
+          },
+          "answer": "C",
+          "explanation": "Not quite is a qualified disagreement: invoice viewing works but payments do not."
+        },
+        {
+          "id": 3,
+          "prompt": "What does the woman ask the man to do?",
+          "options": {
+            "A": "Send a notice describing the limited service",
+            "B": "Cancel Friday’s payment test",
+            "C": "Contact every bank customer by phone",
+            "D": "Delete old invoices"
+          },
+          "answer": "A",
+          "explanation": "She asks him to explain current access and the expected restoration schedule."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Temperature-Controlled Sensor Delivery",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Service C unsuitable?",
+          "options": {
+            "A": "It arrives on Friday",
+            "B": "It exceeds the budget",
+            "C": "It lacks temperature control",
+            "D": "It cannot transport 48 sensors"
+          },
+          "answer": "C",
+          "explanation": "Service C has no temperature control, which is required."
+        },
+        {
+          "id": 2,
+          "prompt": "Which service should the speakers choose?",
+          "options": {
+            "A": "Service A",
+            "B": "Service B",
+            "C": "Service C",
+            "D": "Service D"
+          },
+          "answer": "B",
+          "explanation": "B arrives Thursday 10 A.M., has temperature control and signature, and costs $260 ≤ $270."
+        },
+        {
+          "id": 3,
+          "prompt": "Why is Service D rejected?",
+          "options": {
+            "A": "It lacks a required delivery signature",
+            "B": "It arrives after Thursday noon",
+            "C": "It costs more than $270",
+            "D": "It does not offer temperature control"
+          },
+          "answer": "A",
+          "explanation": "D meets the time, price and temperature conditions but has no signature."
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Request a budget increase",
+            "B": "Delay the inspection",
+            "C": "Buy different sensors",
+            "D": "Book Service B and send its tracking number"
+          },
+          "answer": "D",
+          "explanation": "The woman directly requests booking and forwarding the tracking number."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Grant Portal Maintenance Extension",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When is the portal now expected to reopen?",
+          "options": {
+            "A": "Saturday at 11 A.M.",
+            "B": "Saturday at 12:30 P.M.",
+            "C": "Saturday at 1 P.M.",
+            "D": "Monday at noon"
+          },
+          "answer": "C",
+          "explanation": "The updated reopening estimate is Saturday at 1 P.M."
+        },
+        {
+          "id": 2,
+          "prompt": "What can users do during maintenance?",
+          "options": {
+            "A": "Submit new applications",
+            "B": "Read previously downloaded PDFs offline",
+            "C": "Change payment details",
+            "D": "Upload missing documents"
+          },
+          "answer": "B",
+          "explanation": "Previously downloaded PDFs remain readable offline."
+        },
+        {
+          "id": 3,
+          "prompt": "What is the new application deadline for the affected departments?",
+          "options": {
+            "A": "Saturday at 5 P.M.",
+            "B": "Sunday at noon",
+            "C": "Monday at 9 A.M.",
+            "D": "Monday at noon"
+          },
+          "answer": "D",
+          "explanation": "The original Saturday deadline is extended to Monday at noon."
+        },
+        {
+          "id": 4,
+          "prompt": "What should users understand about Saturday’s automatic reminders?",
+          "options": {
+            "A": "They do not override the extended deadline",
+            "B": "They indicate a late penalty has been charged",
+            "C": "They confirm the portal is fully restored",
+            "D": "They require an email submission"
+          },
+          "answer": "A",
+          "explanation": "Automated reminders may still be sent, but the updated deadline remains in effect."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Meridian Learning — Annual Licenses and Portal-Outage Exception",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the total cost of the original 26-seat order, including both fees?",
+          "options": {
+            "A": "$2,745.60",
+            "B": "$3,060.00",
+            "C": "$3,165.60",
+            "D": "$3,540.00"
+          },
+          "answer": "C",
+          "explanation": "26×120×0.88 + 180 + 240 = $3,165.60."
+        },
+        {
+          "id": 2,
+          "prompt": "What would the 24-seat order cost, including both fees?",
+          "options": {
+            "A": "$2,956.80",
+            "B": "$3,060.00",
+            "C": "$3,165.60",
+            "D": "$3,300.00"
+          },
+          "answer": "D",
+          "explanation": "24 seats do not meet the discount threshold: 24×120 + 180 + 240 = $3,300."
+        },
+        {
+          "id": 3,
+          "prompt": "What would the 25-seat order cost, including both fees?",
+          "options": {
+            "A": "$3,060.00",
+            "B": "$3,120.00",
+            "C": "$3,240.00",
+            "D": "$3,420.00"
+          },
+          "answer": "A",
+          "explanation": "25×120×0.88 + 180 + 240 = $3,060."
+        },
+        {
+          "id": 4,
+          "prompt": "How much less does the 25-seat order cost than the 24-seat order?",
+          "options": {
+            "A": "$40",
+            "B": "$120",
+            "C": "$200",
+            "D": "$240"
+          },
+          "answer": "D",
+          "explanation": "$3,300 − $3,060 = $240."
+        },
+        {
+          "id": 5,
+          "prompt": "Why is buying 25 seats cheaper than buying 24?",
+          "options": {
+            "A": "The onboarding fee is waived for 25 seats",
+            "B": "The 25-seat order qualifies for a 12% license discount",
+            "C": "Priority support becomes free",
+            "D": "The vendor discounts all fees"
+          },
+          "answer": "B",
+          "explanation": "The discount applies to the license subtotal at 25 or more seats, not to fixed fees."
+        },
+        {
+          "id": 6,
+          "prompt": "How much of the $3,100 budget remains if Westhaven purchases 25 seats?",
+          "options": {
+            "A": "$0",
+            "B": "$40",
+            "C": "$100",
+            "D": "$240"
+          },
+          "answer": "B",
+          "explanation": "$3,100 − $3,060 = $40."
+        },
+        {
+          "id": 7,
+          "prompt": "By what date may Westhaven change its seat quantity without the $50 processing fee?",
+          "options": {
+            "A": "November 4",
+            "B": "November 6",
+            "C": "November 7",
+            "D": "November 9"
+          },
+          "answer": "D",
+          "explanation": "The vendor’s portal-outage exception extends the fee-free deadline through November 9."
+        },
+        {
+          "id": 8,
+          "prompt": "What must the purchasing officer do to change the order?",
+          "options": {
+            "A": "Reply with the final quantity by November 9",
+            "B": "Wait for an automatic reduction to 24 seats",
+            "C": "Cancel priority support before November 7",
+            "D": "Purchase 26 seats regardless of headcount"
+          },
+          "answer": "A",
+          "explanation": "The supplier will not change the order automatically; the officer must reply."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "No sooner _____ the notice been posted than customers began calling.",
+          "options": {
+            "A": "has",
+            "B": "had",
+            "C": "did",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "No sooner had + S + past participle + than."
+        },
+        {
+          "id": 2,
+          "prompt": "Only by reviewing the revised terms _____ the team identify the hidden fee.",
+          "options": {
+            "A": "could",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only by + V-ing 在句首，主句使用 could the team identify."
+        },
+        {
+          "id": 3,
+          "prompt": "Not until the invoice arrived _____ Accounting release the payment.",
+          "options": {
+            "A": "does",
+            "B": "was",
+            "C": "did",
+            "D": "has"
+          },
+          "answer": "C",
+          "explanation": "Not until + 過去子句 → did + 主詞 + 原形動詞."
+        },
+        {
+          "id": 4,
+          "prompt": "Had we _____ the discrepancy earlier, we would have contacted the vendor.",
+          "options": {
+            "A": "notice",
+            "B": "noticed",
+            "C": "noticing",
+            "D": "notices"
+          },
+          "answer": "B",
+          "explanation": "過去相反假設：Had we noticed ... would have contacted."
+        },
+        {
+          "id": 5,
+          "prompt": "Were the backup system _____ fail, the team would use the offline forms.",
+          "options": {
+            "A": "for",
+            "B": "in",
+            "C": "to",
+            "D": "on"
+          },
+          "answer": "C",
+          "explanation": "Were + S + to + 原形動詞."
+        },
+        {
+          "id": 6,
+          "prompt": "The director insisted that the report _____ revised before release.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "要求式假設語氣 insisted that + be revised."
+        },
+        {
+          "id": 7,
+          "prompt": "Neither the supplier nor the contractors _____ available on Monday.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "靠近動詞的 contractors 是複數."
+        },
+        {
+          "id": 8,
+          "prompt": "The schedule, together with the instructions, _____ attached.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "真正主詞 schedule 是單數."
+        },
+        {
+          "id": 9,
+          "prompt": "A number of applications _____ been received since Friday.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "A number of + 複數名詞 + have."
+        },
+        {
+          "id": 10,
+          "prompt": "The number of unresolved requests _____ fallen this week.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "were",
+            "D": "has"
+          },
+          "answer": "D",
+          "explanation": "The number of + 單數動詞 has."
+        },
+        {
+          "id": 11,
+          "prompt": "_____ the unexpected outage, the team met the deadline.",
+          "options": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "Because",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "Despite + 名詞片語；Although 後需子句."
+        },
+        {
+          "id": 12,
+          "prompt": "_____ the portal was unavailable, the staff completed the forms offline.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Although",
+            "D": "Due to"
+          },
+          "answer": "C",
+          "explanation": "Although + 主詞 + 動詞."
+        },
+        {
+          "id": 13,
+          "prompt": "Customers affected by the outage are eligible _____ a service credit.",
+          "options": {
+            "A": "to",
+            "B": "on",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "C",
+          "explanation": "eligible for 為固定搭配."
+        },
+        {
+          "id": 14,
+          "prompt": "The supplier agreed to _____ the processing fee.",
+          "options": {
+            "A": "waive",
+            "B": "waiver",
+            "C": "waived",
+            "D": "waiving"
+          },
+          "answer": "A",
+          "explanation": "to + 原形動詞 waive；waiver 是名詞."
+        },
+        {
+          "id": 15,
+          "prompt": "The proposed workaround is technically _____ with the existing system.",
+          "options": {
+            "A": "compatibility",
+            "B": "compatible",
+            "C": "compatibly",
+            "D": "compete"
+          },
+          "answer": "B",
+          "explanation": "be + 形容詞 compatible，固定搭配 compatible with."
+        }
+      ]
+    },
+    {
+      "id": "day-35-quiz",
+      "title": "Day 35 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "No sooner _____ the meeting ended than the client requested another revision.",
+          "options": {
+            "A": "did",
+            "B": "had",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "No sooner had the meeting ended than ..."
+        },
+        {
+          "id": 2,
+          "prompt": "Only by comparing both quotations _____ the buyer discover the surcharge.",
+          "options": {
+            "A": "could",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only by + V-ing 引導限制片語，主句倒裝 could the buyer discover."
+        },
+        {
+          "id": 3,
+          "prompt": "The supervisor requested that all invoices _____ checked again.",
+          "options": {
+            "A": "are",
+            "B": "were",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "requested that + be checked."
+        },
+        {
+          "id": 4,
+          "prompt": "Neither the coordinator nor the technicians _____ responsible for this update.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "靠近動詞的 technicians 是複數."
+        },
+        {
+          "id": 5,
+          "prompt": "How many kits can be dispatched on Tuesday?",
+          "options": {
+            "A": "15",
+            "B": "45",
+            "C": "55",
+            "D": "60"
+          },
+          "answer": "D",
+          "explanation": "The supplier can dispatch 60 kits Tuesday; 15 more Thursday."
+        },
+        {
+          "id": 6,
+          "prompt": "What does the woman imply about Wednesday’s workshop?",
+          "options": {
+            "A": "It must be canceled",
+            "B": "It can proceed with the first shipment",
+            "C": "It will need 75 kits on Wednesday",
+            "D": "It has been moved to Thursday"
+          },
+          "answer": "B",
+          "explanation": "The workshop needs 55 kits and the Tuesday shipment supplies 60."
+        },
+        {
+          "id": 7,
+          "prompt": "What time will the shuttle now leave?",
+          "options": {
+            "A": "8:10 A.M.",
+            "B": "8:40 A.M.",
+            "C": "9:10 A.M.",
+            "D": "3 P.M."
+          },
+          "answer": "A",
+          "explanation": "The notice changes the departure time from 8:40 to 8:10."
+        },
+        {
+          "id": 8,
+          "prompt": "When should wheelchair users confirm assistance?",
+          "options": {
+            "A": "Tuesday at 3 P.M.",
+            "B": "Wednesday at noon",
+            "C": "Wednesday at 3 P.M.",
+            "D": "Thursday at 8:10 A.M."
+          },
+          "answer": "C",
+          "explanation": "Confirm with Operations by Wednesday at 3 P.M."
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost of 22 manuals after the discount and delivery fee?",
+          "options": {
+            "A": "$523.60",
+            "B": "$541.60",
+            "C": "$550.00",
+            "D": "$634.00"
+          },
+          "answer": "B",
+          "explanation": "22×28×0.85 + 18 = $541.60."
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the $550 budget remains after the manual order?",
+          "options": {
+            "A": "$8.40",
+            "B": "$18.00",
+            "C": "$26.40",
+            "D": "$46.40"
+          },
+          "answer": "A",
+          "explanation": "$550 − $541.60 = $8.40."
+        },
+        {
+          "id": 11,
+          "prompt": "Why does Olivia qualify for a cancellation-fee exception?",
+          "options": {
+            "A": "She registered after November 8",
+            "B": "She purchased two seats",
+            "C": "The provider changed the workshop date",
+            "D": "The event was canceled permanently"
+          },
+          "answer": "C",
+          "explanation": "The provider rescheduled the workshop, creating a special cancellation exception."
+        },
+        {
+          "id": 12,
+          "prompt": "What cancellation fee must Olivia pay for her November 9 request?",
+          "options": {
+            "A": "$0",
+            "B": "$15",
+            "C": "$25",
+            "D": "$35"
+          },
+          "answer": "A",
+          "explanation": "Affected registrants may cancel without a fee through November 10."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "整合倒裝、間接回應與條件式意圖，並運用授權、折扣門檻、期限及例外完成跨文件推論。",
+  "nextDay": "第五週複盤與 Part 5 混合倒裝限時測驗／Part 3/4 間接否定與服務恢復時序／Triple Passage 折扣門檻、期限例外與成本比較／依 Day 35 首次答題紀錄調整難度"
+}
