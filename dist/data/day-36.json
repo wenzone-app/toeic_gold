@@ -1,0 +1,834 @@
+{
+  "schemaVersion": "1.0",
+  "day": 36,
+  "title": "第六週：連接詞、隱含意圖與跨文件帳單例外",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 110,
+  "durationMinutes": {
+    "min": 105,
+    "max": 115
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 36 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 36 學習概覽",
+      "markdown": "- 以 15 秒內辨識倒裝、要求式假設語氣與轉折因果\n- 聽懂未核准事項、時間更新與多條件交通選擇\n- 區分 service credit、refund 與當期/次期帳單\n- 完成 15 題 Part 5、12 題小考並追蹤首次作答時間\n- 依真實首次成績決定 Day 37 難度\n\n建議訓練時間：**110 分鐘**。\n\n> Day 35 首次成績未提供，今天維持基準；課程練習正確率不直接等於正式 TOEIC 分數。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| disruption | 中斷、干擾 | service disruption |\n| compensation | 補償 | request compensation |\n| credit | 帳款抵用額 | apply a service credit |\n| reimbursement | 費用報銷 | claim reimbursement |\n| refund | 退款 | issue a refund |\n| waive | 免除 | waive a fee |\n| eligible | 符合資格的 | eligible for compensation |\n| qualify | 符合資格 | qualify for a credit |\n| deduct | 扣除 | deduct a charge |\n| outstanding | 尚未結清的 | outstanding balance |\n| statement | 對帳單 | monthly statement |\n| invoice | 發票、請款單 | issue an invoice |\n| reconcile | 核對 | reconcile accounts |\n| discrepancy | 差異、不一致 | billing discrepancy |\n| adjustment | 調整 | billing adjustment |\n| renewal | 續約 | contract renewal |\n| provision | 條款、規定 | contract provision |\n| exemption | 豁免 | fee exemption |\n| notify | 通知 | notify customers |\n| acknowledge | 確認收到 | acknowledge receipt |\n| incident | 事故、事件 | incident report |\n| restore | 恢復 | restore service |\n| duration | 持續時間 | outage duration |\n| exclude | 排除 | exclude maintenance |\n| prior | 事先的 | prior notice |\n| contingency | 應變措施 | contingency procedure |\n| dispatch | 派送、發送 | dispatch equipment |\n| accessible | 無障礙可使用的 | accessible vehicle |\n| provisional | 暫定的 | provisional schedule |\n| consecutive | 連續的 | consecutive business days |"
+    },
+    {
+      "title": "② 今日文法｜Scarcely/Only after 倒裝、要求式假設語氣、Despite/Although、主詞一致、分詞與篇章連接詞",
+      "markdown": "主題：**Scarcely/Only after 倒裝、要求式假設語氣、Despite/Although、主詞一致、分詞與篇章連接詞**\n\n### 規則 1\n\n`Scarcely/Hardly + had + S + p.p. + when + past tense`\n\n> Scarcely had the briefing begun when the alarm sounded.\n\n句首 Scarcely/Hardly 觸發過去完成式倒裝，搭配 when。\n\n### 規則 2\n\n`Only after + clause, auxiliary + S + base verb`\n\n> Only after the audit was completed did the manager approve the payment.\n\nOnly after 放句首時，主句倒裝；after 子句本身不倒裝。\n\n### 規則 3\n\n`recommend/require/request that + S + (should) + base verb`\n\n> The auditor recommended that the invoice be corrected.\n\n正式要求或建議後的 that 子句使用原形動詞，被動為 be + p.p.。\n\n### 規則 4\n\n`Despite/In spite of + noun or V-ing; Although + clause`\n\n> Despite receiving the notice, the customer requested clarification.\n\ndespite 後接名詞或 V-ing；although 後接主詞與動詞構成的子句。\n\n### 規則 5\n\n`Neither A nor B + verb agreeing with nearer subject`\n\n> Neither the director nor the technicians are available.\n\n動詞通常與最近的主詞 technicians 一致。\n\n### 規則 6\n\n`Past participle reduced relative clause`\n\n> The invoices reviewed yesterday contain several adjustments.\n\nreviewed yesterday = that were reviewed yesterday；名詞承受動作時用過去分詞。\n\n### 規則 7\n\n`However / Therefore / Meanwhile / In addition`\n\n> The portal remains unavailable. Therefore, submissions will be accepted by email.\n\nhowever 表對比；therefore 表因果；meanwhile 表同時；in addition 表補充。\n\n### 解題流程\n1. 先\n2. 看\n3. 句\n4. 子\n5. 結\n6. 構\n7. ，\n8. 再\n9. 判\n10. 斷\n11. 時\n12. 態\n13. 、\n14. 語\n15. 意\n16. 與\n17. 搭\n18. 配\n19. ；\n20. P\n21. a\n22. r\n23. t\n24.  \n25. 5\n26.  \n27. 每\n28. 題\n29. 目\n30. 標\n31.  \n32. 1\n33. 5\n34.  \n35. 秒\n36. 。\n\n目標：每題 **15 秒**。"
+    },
+    {
+      "title": "03 Listening｜Expense Policy — Conditional Release",
+      "markdown": "先以 TTS 聽音，不看逐字稿作答；提交後顯示逐字稿與解析。第二輪以 1.1 倍速重聽。\n\n聽力稿：\n\n> Man: Can we send the new expense-claim instructions to all employees today?\n> Woman: I would hold off. Payroll has approved the wording, but Legal is still reviewing the reimbursement examples. They expect to finish by three this afternoon. If they approve the examples, we can circulate the instructions before five. Otherwise, we will send them tomorrow morning.\n> Man: Then I should not describe today's release as definite?\n> Woman: Exactly. Please prepare the email draft, but do not send it until Legal confirms."
+    },
+    {
+      "title": "04 Listening｜Convention Shuttle — Multiple Constraints",
+      "markdown": "先以 TTS 聽音，不看逐字稿作答；提交後顯示逐字稿與解析。第二輪以 1.1 倍速重聽。\n\n聽力稿：\n\n> Woman: We need to transport eighteen delegates to the convention center on Wednesday. They must arrive by eight thirty, at least one vehicle must be wheelchair accessible, and our transport budget is three hundred twenty dollars.\n> Man: Route B is cheaper, but its vehicle is not accessible. Route C arrives at eight thirty-five. Route D meets the time and access requirements, but costs three hundred forty-five dollars.\n> Woman: Route A seems to be the only option that satisfies everything. Please reserve it and forward the confirmation."
+    },
+    {
+      "title": "05 Listening｜Pickup Portal — Revised Deadline",
+      "markdown": "先以 TTS 聽音，不看逐字稿作答；提交後顯示逐字稿與解析。第二輪以 1.1 倍速重聽。\n\n聽力稿：\n\n> Attention, shipping customers. The pickup-request portal was originally expected to reopen Tuesday at two in the afternoon. Repairs are taking longer, and we now expect it to reopen at four.\n> During the outage, you can still consult shipping labels you downloaded earlier, but you cannot submit new pickup requests online.\n> For customers whose pickups were scheduled for Tuesday, the confirmation deadline has been extended from Tuesday at five to Wednesday at noon, with no additional fee.\n> Automatic reminder emails may still display the original deadline. The updated deadline remains valid.\n> For urgent questions, telephone support is available Tuesday from nine until five."
+    },
+    {
+      "title": "⑥ Reading｜Service Agreement, Incident Record and Billing Update",
+      "markdown": "限時：**8 分 30 秒**。\n\n### ClearPeak Cloud — Service Agreement\n\n> The standard service fee is $980 per month. Optional backup storage costs $35 per month. An unplanned service interruption lasting more than four hours qualifies the customer for a $150 service credit; an interruption lasting from two hours up to and including four hours qualifies for a $60 credit. Scheduled maintenance announced at least 48 hours in advance does not qualify. Service credits are applied to the following month’s service invoice, not paid as cash refunds. Credits reduce the standard service fee but do not change separately billed optional services.\n\n用途：Monthly charges, outage credits and exclusions\n\n### BlueRiver Design — Incident Record and November Invoice\n\n> On November 9, the customer portal stopped responding at 8:20 A.M. and was restored at 1:05 P.M. The interruption was unplanned; no maintenance notice had been issued. The November invoice lists the $980 standard service fee and $35 backup storage fee, totaling $1,015. Payment is due November 22. The team is reviewing whether a credit should reduce this invoice.\n\n用途：Actual outage and current charges\n\n### ClearPeak Support — Credit Confirmation\n\n> We confirm that the November 9 interruption lasted four hours and forty-five minutes, so a $150 service credit applies. Under your agreement, it will appear on the December invoice, not the November invoice. The November balance remains $1,015. If you wish to discontinue optional backup storage effective December 1, please reply by November 18. With storage discontinued, the December invoice will contain the $980 service fee less the $150 credit and no $35 storage charge. Otherwise, the storage charge continues. We cannot cancel the optional service automatically.\n\n用途：Credit timing, optional service cancellation and next action\n\n### 計算提示\n- `08:20→13:05 = 4h45m, qualifies for $150 (>4h).`\n- `November: $980+$35=$1,015; December credit does not apply to November.`\n- `December without storage: $980−$150=$830.`\n- `December with storage: $980−$150+$35=$865.`"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Day 36 小考",
+      "markdown": "正式限時：**5 分鐘**。\n\n### Listening Q36-L1\n\n聽力稿：\n\n> Man: The delivery team can bring twenty-eight tablets Thursday morning. The remaining twelve will arrive Friday afternoon.\n> Woman: Thursday’s workshop needs only twenty-five tablets, so we can proceed. Please send the first batch to the training center.\n\n### Listening Q36-L2\n\n聽力稿：\n\n> Thursday’s site tour will begin at nine twenty rather than nine fifty. The meeting point remains the north gate. Participants needing accessibility assistance should email Facilities by two Wednesday afternoon.\n\n### Reading Q36-R1\n\n> Headsets cost $45 each. Orders of 15 or more receive a 10% discount on the headset subtotal only. Shipping costs $30 and is not discounted. The department orders 18 headsets and has a total budget of $780.\n\n### Reading Q36-R2\n\n> General policy: Cancellations after November 10 incur a $40 fee. Provider update: The November 21 seminar has been rescheduled to November 23, so affected registrants may cancel without a fee through November 19. An employee registered for November 21 and requested cancellation on November 18."
+    },
+    {
+      "title": "⑨ 複習與錯題分類",
+      "markdown": "回顧前 **[31, 32, 33, 34, 35] 天**，完成 **[{'prompt': 'No sooner _____ the call ended than the server failed.', 'answer': 'had', 'tag': 'G'}, {'prompt': 'Only by checking the receipt _____ we identify the charge.', 'answer': 'could', 'tag': 'G'}, {'prompt': 'Under no circumstances _____ credentials be shared.', 'answer': 'should', 'tag': 'G'}, {'prompt': 'Had we known, we _____ contacted support.', 'answer': 'would have', 'tag': 'G'}, {'prompt': 'The number of unresolved tickets _____ fallen.', 'answer': 'has', 'tag': 'AGR'}, {'prompt': 'A number of suppliers _____ responded.', 'answer': 'have', 'tag': 'AGR'}, {'prompt': 'The manager requested that the document _____ updated.', 'answer': 'be', 'tag': 'G'}, {'prompt': 'I would hold off. → 代表什麼？', 'answer': '建議先不要執行，等待條件確認', 'tag': 'IMP'}, {'prompt': 'waive / refund / credit 的差異？', 'answer': '免收／退還已付費／帳款抵用額', 'tag': 'V'}, {'prompt': '服務公告的舊時間與更新時間衝突時採用？', 'answer': '適用的最新更新時間', 'tag': 'U'}, {'prompt': '25 席享折扣，24 席不享折扣；計算時先確認？', 'answer': '折扣適用門檻及折扣基礎', 'tag': 'CAL'}, {'prompt': 'provided that / in case 的差異？', 'answer': '只要（條件）／以防（預防）', 'tag': 'C'}] 張**複習卡。\n\n先遮答案口頭作答，錯題 24 小時內重做；此為跨日核心觀念複習，非已確認的個人錯題。\n\n錯題標籤：\n\n- `G`：Grammar 文法\n- `V`：Vocabulary 字彙\n- `L`：Listening 聽力理解\n- `P`：Paraphrase 同義改寫\n- `I`：Information Integration 資訊整合\n- `T`：Timeline 時間順序\n- `E`：Exception 特殊例外\n- `U`：Updated Information 更新資訊\n- `C`：Condition 條件判斷\n- `N`：Next Action 下一步\n- `POS`：Part of Speech 詞性\n- `IMP`：Implication 隱含意圖\n- `CAL`：Calculation 計算\n- `AGR`：Subject–Verb Agreement 主詞動詞一致\n- `BUD`：Budget Constraint 預算限制"
+    },
+    {
+      "title": "⑩ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，挑選 8 個造句；比較 credit、refund、waive。（約 15 分鐘）\n- Part 5 仿真 15 題重做一次，記錄每題秒數與錯題標籤。（約 10 分鐘）\n- 三組 Listening 先 1.0 倍速再 1.1 倍速，不看逐字稿完成第二輪。（約 25 分鐘）\n- Triple Passage 重算停機時長、11 月帳單與 12 月兩種帳單。（約 20 分鐘）\n- 正式小考首次限時 5 分鐘；檢討後隔一段時間再做第二次。（約 10 分鐘）"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "disruption",
+      "meaning": "中斷、干擾",
+      "phrase": "service disruption"
+    },
+    {
+      "id": 2,
+      "word": "compensation",
+      "meaning": "補償",
+      "phrase": "request compensation"
+    },
+    {
+      "id": 3,
+      "word": "credit",
+      "meaning": "帳款抵用額",
+      "phrase": "apply a service credit"
+    },
+    {
+      "id": 4,
+      "word": "reimbursement",
+      "meaning": "費用報銷",
+      "phrase": "claim reimbursement"
+    },
+    {
+      "id": 5,
+      "word": "refund",
+      "meaning": "退款",
+      "phrase": "issue a refund"
+    },
+    {
+      "id": 6,
+      "word": "waive",
+      "meaning": "免除",
+      "phrase": "waive a fee"
+    },
+    {
+      "id": 7,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for compensation"
+    },
+    {
+      "id": 8,
+      "word": "qualify",
+      "meaning": "符合資格",
+      "phrase": "qualify for a credit"
+    },
+    {
+      "id": 9,
+      "word": "deduct",
+      "meaning": "扣除",
+      "phrase": "deduct a charge"
+    },
+    {
+      "id": 10,
+      "word": "outstanding",
+      "meaning": "尚未結清的",
+      "phrase": "outstanding balance"
+    },
+    {
+      "id": 11,
+      "word": "statement",
+      "meaning": "對帳單",
+      "phrase": "monthly statement"
+    },
+    {
+      "id": 12,
+      "word": "invoice",
+      "meaning": "發票、請款單",
+      "phrase": "issue an invoice"
+    },
+    {
+      "id": 13,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile accounts"
+    },
+    {
+      "id": 14,
+      "word": "discrepancy",
+      "meaning": "差異、不一致",
+      "phrase": "billing discrepancy"
+    },
+    {
+      "id": 15,
+      "word": "adjustment",
+      "meaning": "調整",
+      "phrase": "billing adjustment"
+    },
+    {
+      "id": 16,
+      "word": "renewal",
+      "meaning": "續約",
+      "phrase": "contract renewal"
+    },
+    {
+      "id": 17,
+      "word": "provision",
+      "meaning": "條款、規定",
+      "phrase": "contract provision"
+    },
+    {
+      "id": 18,
+      "word": "exemption",
+      "meaning": "豁免",
+      "phrase": "fee exemption"
+    },
+    {
+      "id": 19,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify customers"
+    },
+    {
+      "id": 20,
+      "word": "acknowledge",
+      "meaning": "確認收到",
+      "phrase": "acknowledge receipt"
+    },
+    {
+      "id": 21,
+      "word": "incident",
+      "meaning": "事故、事件",
+      "phrase": "incident report"
+    },
+    {
+      "id": 22,
+      "word": "restore",
+      "meaning": "恢復",
+      "phrase": "restore service"
+    },
+    {
+      "id": 23,
+      "word": "duration",
+      "meaning": "持續時間",
+      "phrase": "outage duration"
+    },
+    {
+      "id": 24,
+      "word": "exclude",
+      "meaning": "排除",
+      "phrase": "exclude maintenance"
+    },
+    {
+      "id": 25,
+      "word": "prior",
+      "meaning": "事先的",
+      "phrase": "prior notice"
+    },
+    {
+      "id": 26,
+      "word": "contingency",
+      "meaning": "應變措施",
+      "phrase": "contingency procedure"
+    },
+    {
+      "id": 27,
+      "word": "dispatch",
+      "meaning": "派送、發送",
+      "phrase": "dispatch equipment"
+    },
+    {
+      "id": 28,
+      "word": "accessible",
+      "meaning": "無障礙可使用的",
+      "phrase": "accessible vehicle"
+    },
+    {
+      "id": 29,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional schedule"
+    },
+    {
+      "id": 30,
+      "word": "consecutive",
+      "meaning": "連續的",
+      "phrase": "consecutive business days"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Expense Policy — Conditional Release",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is delaying the release of the instructions?",
+          "options": {
+            "A": "Payroll has rejected the wording.",
+            "B": "Legal has not finished reviewing the examples.",
+            "C": "The email server is unavailable.",
+            "D": "Employees have requested a new policy."
+          },
+          "answer": "B",
+          "explanation": "Payroll approved the wording, but Legal is still reviewing the examples."
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman mean by “I would hold off”?",
+          "options": {
+            "A": "She wants the man to send the instructions immediately.",
+            "B": "She recommends waiting before sending the instructions.",
+            "C": "She wants to cancel the reimbursement program.",
+            "D": "She has already contacted every employee."
+          },
+          "answer": "B",
+          "explanation": "Hold off means delay an action; sending is conditional on Legal approval."
+        },
+        {
+          "id": 3,
+          "prompt": "What should the man do next?",
+          "options": {
+            "A": "Circulate the instructions without approval.",
+            "B": "Ask Payroll to rewrite the entire policy.",
+            "C": "Prepare the email but wait for Legal confirmation.",
+            "D": "Send the email tomorrow regardless of approval."
+          },
+          "answer": "C",
+          "explanation": "The woman explicitly requests a draft but no sending until Legal confirms."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Convention Shuttle — Multiple Constraints",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Route C unsuitable?",
+          "options": {
+            "A": "It has too few seats.",
+            "B": "It arrives after the required time.",
+            "C": "It is not wheelchair accessible.",
+            "D": "It exceeds the budget."
+          },
+          "answer": "B",
+          "explanation": "Route C arrives at 08:35, later than the 08:30 requirement."
+        },
+        {
+          "id": 2,
+          "prompt": "Which route meets all the requirements?",
+          "options": {
+            "A": "Route A",
+            "B": "Route B",
+            "C": "Route C",
+            "D": "Route D"
+          },
+          "answer": "A",
+          "explanation": "Route A: 20 seats, 08:20, accessible, $310 ≤ $320."
+        },
+        {
+          "id": 3,
+          "prompt": "Why is Route B rejected?",
+          "options": {
+            "A": "It arrives too late.",
+            "B": "It costs more than $320.",
+            "C": "It has no accessible vehicle.",
+            "D": "It seats only 16 people."
+          },
+          "answer": "C",
+          "explanation": "Route B has no wheelchair access."
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Request more funding.",
+            "B": "Move the convention to Friday.",
+            "C": "Reduce the number of delegates.",
+            "D": "Reserve Route A and send confirmation."
+          },
+          "answer": "D",
+          "explanation": "The woman asks him to reserve Route A and forward confirmation."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Pickup Portal — Revised Deadline",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When is the portal now expected to reopen?",
+          "options": {
+            "A": "Tuesday at 2 P.M.",
+            "B": "Tuesday at 4 P.M.",
+            "C": "Wednesday at noon.",
+            "D": "Tuesday at 5 P.M."
+          },
+          "answer": "B",
+          "explanation": "Updated reopening time is Tuesday 4 P.M.; 2 P.M. was the old estimate."
+        },
+        {
+          "id": 2,
+          "prompt": "What can customers do during the outage?",
+          "options": {
+            "A": "Submit new pickup requests.",
+            "B": "Modify online payment methods.",
+            "C": "Consult previously downloaded labels.",
+            "D": "Change pickup addresses online."
+          },
+          "answer": "C",
+          "explanation": "Previously downloaded labels remain available offline."
+        },
+        {
+          "id": 3,
+          "prompt": "What is the new confirmation deadline for affected customers?",
+          "options": {
+            "A": "Tuesday at 2 P.M.",
+            "B": "Tuesday at 5 P.M.",
+            "C": "Wednesday at 9 A.M.",
+            "D": "Wednesday at noon."
+          },
+          "answer": "D",
+          "explanation": "For Tuesday pickups, deadline extended to Wednesday noon."
+        },
+        {
+          "id": 4,
+          "prompt": "What should customers know about automatic reminder emails?",
+          "options": {
+            "A": "They may show an outdated deadline.",
+            "B": "They mean an additional fee has been charged.",
+            "C": "They confirm the portal is restored.",
+            "D": "They replace the updated deadline."
+          },
+          "answer": "A",
+          "explanation": "Automated reminders may still show the original deadline, which does not override the update."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Service Agreement, Incident Record and Billing Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How long did the November 9 interruption last?",
+          "options": {
+            "A": "3 hours 45 minutes",
+            "B": "4 hours 5 minutes",
+            "C": "4 hours 45 minutes",
+            "D": "5 hours 15 minutes"
+          },
+          "answer": "C",
+          "explanation": "From 08:20 to 13:05 is 4 hours 45 minutes."
+        },
+        {
+          "id": 2,
+          "prompt": "How much service credit does BlueRiver qualify for?",
+          "options": {
+            "A": "$35",
+            "B": "$60",
+            "C": "$150",
+            "D": "$980"
+          },
+          "answer": "C",
+          "explanation": "Unplanned outage lasted more than 4 hours, so $150 applies."
+        },
+        {
+          "id": 3,
+          "prompt": "Why is the November invoice not reduced by the service credit?",
+          "options": {
+            "A": "The incident was scheduled maintenance.",
+            "B": "Credits are applied to the following month’s invoice.",
+            "C": "The backup storage fee is refundable only in cash.",
+            "D": "The outage lasted fewer than two hours."
+          },
+          "answer": "B",
+          "explanation": "Contract specifies following month’s invoice; support confirms December."
+        },
+        {
+          "id": 4,
+          "prompt": "What is the total amount due for November?",
+          "options": {
+            "A": "$830",
+            "B": "$865",
+            "C": "$980",
+            "D": "$1,015"
+          },
+          "answer": "D",
+          "explanation": "$980 service fee + $35 storage = $1,015; credit is deferred to December."
+        },
+        {
+          "id": 5,
+          "prompt": "What will the December invoice total if storage is canceled in time?",
+          "options": {
+            "A": "$795",
+            "B": "$830",
+            "C": "$865",
+            "D": "$1,015"
+          },
+          "answer": "B",
+          "explanation": "$980 − $150 credit = $830, with no $35 storage fee."
+        },
+        {
+          "id": 6,
+          "prompt": "What will the December invoice total if storage continues?",
+          "options": {
+            "A": "$830",
+            "B": "$850",
+            "C": "$865",
+            "D": "$980"
+          },
+          "answer": "C",
+          "explanation": "$980 − $150 + $35 = $865."
+        },
+        {
+          "id": 7,
+          "prompt": "By when must BlueRiver reply to discontinue backup storage on December 1?",
+          "options": {
+            "A": "November 9",
+            "B": "November 18",
+            "C": "November 22",
+            "D": "December 1"
+          },
+          "answer": "B",
+          "explanation": "Support requires a reply by November 18."
+        },
+        {
+          "id": 8,
+          "prompt": "Which statement about the $150 credit is correct?",
+          "options": {
+            "A": "It will be paid immediately as a cash refund.",
+            "B": "It removes both the service fee and storage fee.",
+            "C": "It is applied to the December service charge.",
+            "D": "It reduces the November invoice to $865."
+          },
+          "answer": "C",
+          "explanation": "The credit is a December invoice adjustment to the standard service charge, not a cash refund."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Scarcely _____ the briefing begun when the emergency alert sounded.",
+          "options": {
+            "A": "has",
+            "B": "had",
+            "C": "did",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Scarcely had + S + p.p. + when."
+        },
+        {
+          "id": 2,
+          "prompt": "Only after the audit was completed _____ the director authorize payment.",
+          "options": {
+            "A": "did",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only after 句首，主句使用 did + 原形動詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "The auditor recommended that the invoice _____ corrected immediately.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommend that + S + 原形動詞；被動 be corrected。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ receiving prior notice, several customers requested clarification.",
+          "options": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "Because",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "Despite + V-ing；Although 必須接完整子句。"
+        },
+        {
+          "id": 5,
+          "prompt": "Although the service _____ restored, some transactions remained delayed.",
+          "options": {
+            "A": "was",
+            "B": "were",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "A",
+          "explanation": "Although 後接完整子句；service 單數，被動 was restored。"
+        },
+        {
+          "id": 6,
+          "prompt": "Neither the manager nor the technicians _____ available today.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "靠近動詞的 technicians 為複數。"
+        },
+        {
+          "id": 7,
+          "prompt": "The incident report, along with its attachments, _____ ready for review.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "主詞 report 為單數，along with 不改變一致性。"
+        },
+        {
+          "id": 8,
+          "prompt": "The requests _____ yesterday have already been processed.",
+          "options": {
+            "A": "receiving",
+            "B": "received",
+            "C": "receive",
+            "D": "receives"
+          },
+          "answer": "B",
+          "explanation": "requests 被收到，用過去分詞作後置修飾。"
+        },
+        {
+          "id": 9,
+          "prompt": "The team could not restore access immediately. _____, a temporary phone service was introduced.",
+          "options": {
+            "A": "Nevertheless",
+            "B": "Therefore",
+            "C": "Meanwhile",
+            "D": "Otherwise"
+          },
+          "answer": "B",
+          "explanation": "後句為前句造成的應對結果，用 Therefore。"
+        },
+        {
+          "id": 10,
+          "prompt": "The invoice has not been paid _____, although it was issued last week.",
+          "options": {
+            "A": "already",
+            "B": "yet",
+            "C": "still",
+            "D": "ever"
+          },
+          "answer": "B",
+          "explanation": "否定現在完成式常用 yet 表示尚未。"
+        },
+        {
+          "id": 11,
+          "prompt": "The customer is eligible _____ a credit after the extended outage.",
+          "options": {
+            "A": "with",
+            "B": "for",
+            "C": "to",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "固定搭配 eligible for。"
+        },
+        {
+          "id": 12,
+          "prompt": "The finance team discovered a _____ between the quotation and the invoice.",
+          "options": {
+            "A": "discrepant",
+            "B": "discrepancy",
+            "C": "discrepantly",
+            "D": "discrepancies"
+          },
+          "answer": "B",
+          "explanation": "冠詞 a 後接單數名詞 discrepancy。"
+        },
+        {
+          "id": 13,
+          "prompt": "Please notify us _____ the scheduled maintenance is postponed.",
+          "options": {
+            "A": "in case of",
+            "B": "if",
+            "C": "despite",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "後接完整條件子句用 if。"
+        },
+        {
+          "id": 14,
+          "prompt": "The service credit will be _____ from next month’s standard fee.",
+          "options": {
+            "A": "deduct",
+            "B": "deducting",
+            "C": "deducted",
+            "D": "deduction"
+          },
+          "answer": "C",
+          "explanation": "被動 will be deducted。"
+        },
+        {
+          "id": 15,
+          "prompt": "No later _____ Friday should the updated invoice be submitted.",
+          "options": {
+            "A": "as",
+            "B": "than",
+            "C": "that",
+            "D": "to"
+          },
+          "answer": "B",
+          "explanation": "固定片語 no later than。"
+        }
+      ]
+    },
+    {
+      "id": "day-36-quiz",
+      "title": "Day 36 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Scarcely _____ the orientation begun when the fire alarm sounded.",
+          "options": {
+            "A": "did",
+            "B": "had",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "Scarcely had the orientation begun when ..."
+        },
+        {
+          "id": 2,
+          "prompt": "The committee recommended that the software _____ tested before release.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommend that + S + be tested。"
+        },
+        {
+          "id": 3,
+          "prompt": "Despite _____ the revised notice, several participants arrived late.",
+          "options": {
+            "A": "receive",
+            "B": "receiving",
+            "C": "received",
+            "D": "to receive"
+          },
+          "answer": "B",
+          "explanation": "Despite 後接 V-ing。"
+        },
+        {
+          "id": 4,
+          "prompt": "Neither the coordinator nor the technicians _____ on duty this afternoon.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "靠近動詞的 technicians 是複數。"
+        },
+        {
+          "id": 5,
+          "prompt": "How many tablets can be delivered Thursday morning?",
+          "options": {
+            "A": "12",
+            "B": "25",
+            "C": "28",
+            "D": "40"
+          },
+          "answer": "C",
+          "explanation": "The first shipment contains 28 tablets."
+        },
+        {
+          "id": 6,
+          "prompt": "What does the woman imply about Thursday’s workshop?",
+          "options": {
+            "A": "It must be canceled.",
+            "B": "It can proceed using the first shipment.",
+            "C": "It requires 40 tablets immediately.",
+            "D": "It will start Friday afternoon."
+          },
+          "answer": "B",
+          "explanation": "28 available ≥ 25 needed; workshop can proceed."
+        },
+        {
+          "id": 7,
+          "prompt": "When will the site tour now begin?",
+          "options": {
+            "A": "9:20 A.M.",
+            "B": "9:50 A.M.",
+            "C": "2 P.M.",
+            "D": "10:20 A.M."
+          },
+          "answer": "A",
+          "explanation": "New time is 9:20 A.M.; 9:50 was the old time."
+        },
+        {
+          "id": 8,
+          "prompt": "When must accessibility requests be submitted?",
+          "options": {
+            "A": "Tuesday at 2 P.M.",
+            "B": "Wednesday at noon.",
+            "C": "Wednesday at 2 P.M.",
+            "D": "Thursday at 9:20 A.M."
+          },
+          "answer": "C",
+          "explanation": "Deadline is Wednesday at 2 P.M."
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost of 18 headsets after discount and shipping?",
+          "options": {
+            "A": "$729",
+            "B": "$759",
+            "C": "$780",
+            "D": "$840"
+          },
+          "answer": "B",
+          "explanation": "18×$45×0.90+$30 = $759."
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the $780 budget remains?",
+          "options": {
+            "A": "$9",
+            "B": "$21",
+            "C": "$30",
+            "D": "$51"
+          },
+          "answer": "B",
+          "explanation": "$780−$759 = $21."
+        },
+        {
+          "id": 11,
+          "prompt": "Why does the employee qualify for a cancellation-fee exception?",
+          "options": {
+            "A": "The employee registered late.",
+            "B": "The provider rescheduled the seminar.",
+            "C": "The employee bought two tickets.",
+            "D": "The event was canceled permanently."
+          },
+          "answer": "B",
+          "explanation": "Provider changed Nov 21 to Nov 23, enabling fee-free cancellation through Nov 19."
+        },
+        {
+          "id": 12,
+          "prompt": "What fee applies to the employee’s November 18 cancellation?",
+          "options": {
+            "A": "$0",
+            "B": "$15",
+            "C": "$25",
+            "D": "$40"
+          },
+          "answer": "A",
+          "explanation": "Nov 18 falls within special free-cancellation period through Nov 19."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握連接詞與介系詞判斷、隱含意圖，並整合帳單、更正、付款紀錄與例外完成跨文件推論。",
+  "nextDay": "Part 6 句子插入與段落連貫／Part 3/4 高密度推論與新舊公告／Triple Passage 合約例外與跨期費用／依 Day 36 首次錯題標籤補強"
+}
