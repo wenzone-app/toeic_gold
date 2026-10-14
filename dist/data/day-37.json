@@ -1,0 +1,834 @@
+{
+  "schemaVersion": "1.0",
+  "day": 37,
+  "title": "Part 6 篇章指涉、句子插入與跨文件計費",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 110,
+  "durationMinutes": {
+    "min": 105,
+    "max": 115
+  },
+  "level": "860–900+ (adaptive pending score)",
+  "source": "使用者提供的 Day 37 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 37 學習概覽",
+      "markdown": "- 辨識 Part 6 轉折、因果、代名詞指涉與句子插入位置\n- 聽懂延後核准、交貨限制與更新期限\n- 整合半小時計費、遲到補償與跨月帳單\n\n建議訓練時間：**110 分鐘**。\n\n> 尚未取得 Day 36 首次小考實際成績；今日維持基準難度。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| amendment | 修正條款 | contract amendment |\n| addendum | 補充文件 | contract addendum |\n| itemize | 逐項列明 | itemize charges |\n| billable | 可計費的 | billable hours |\n| round up | 無條件進位 | round up to the next half hour |\n| surcharge | 附加費 | after-hours surcharge |\n| retainer | 預付保留費 | pay a retainer |\n| installment | 分期款 | monthly installment |\n| outstanding | 未結清的 | outstanding balance |\n| reconcile | 核對 | reconcile the invoice |\n| receipt | 收據 | acknowledge receipt |\n| waiver | 豁免 | fee waiver |\n| incur | 產生費用 | incur additional charges |\n| threshold | 門檻 | eligibility threshold |\n| eligible | 符合資格的 | eligible for a credit |\n| reimburse | 報銷 | reimburse travel expenses |\n| verify | 核實 | verify the figures |\n| pending | 尚待處理的 | pending approval |\n| rectify | 修正 | rectify an error |\n| provisional | 暫定的 | provisional timetable |\n| circulate | 傳閱、發送 | circulate a draft |\n| withhold | 暫不提供 | withhold publication |\n| defer | 延後 | defer the rollout |\n| prerequisite | 先決條件 | meet a prerequisite |\n| compliance | 遵循規範 | compliance checklist |\n| endorse | 正式認可 | endorse a proposal |\n| acknowledge | 確認收到 | acknowledge a notice |\n| supersede | 取代 | supersede an earlier version |\n| consecutive | 連續的 | consecutive business days |\n| omit | 省略 | omit a required attachment |"
+    },
+    {
+      "title": "② 今日文法｜Part 6 篇章邏輯、句子插入、分詞與要求式假設語氣",
+      "markdown": "主題：**Part 6 篇章邏輯、句子插入、分詞與要求式假設語氣**\n\n### 規則 1\n\n`However / Therefore / Meanwhile / In addition`\n\n> The manual is ready. However, the checklist still needs approval.\n\nHowever 表轉折；Therefore 表結果；Meanwhile 表同時；In addition 表補充。依上下文關係選擇，而非只看單句。\n\n### 規則 2\n\n`Sentence insertion: pronoun reference`\n\n> The revised forms are available. These documents replace the previous versions.\n\n插入句的 this/these/it/they 必須有清楚的先行詞；也要檢查前後文的指涉與順序。\n\n### 規則 3\n\n`Sentence insertion: chronology and action`\n\n> Safety will approve the checklist on Thursday. After that, the team will circulate it.\n\n先完成核准，再傳送文件。辨識 first, once, after that, then 等時間順序。\n\n### 規則 4\n\n`Reduced relative clause: past participle`\n\n> The charges listed on the invoice are billable.\n\ncharges that are listed → charges listed，表示被動修飾。\n\n### 規則 5\n\n`Mandative subjunctive: require that + S + base verb`\n\n> The supervisor required that each form be signed.\n\n要求、建議、堅持類動詞後的 that 子句，在正式用法中採原形動詞；被動用 be + p.p.。\n\n### 規則 6\n\n`Only after / Not until inversion`\n\n> Only after the review ended did the manager authorize payment.\n\n限制副詞片語置句首，主句使用助動詞倒裝。\n\n### 規則 7\n\n`Provided that / Unless / In case`\n\n> The shipment can proceed provided that inspection is complete.\n\nprovided that = 只要；unless = 除非；in case = 以防。\n\n### 解題流程\n1. 先\n2. 找\n3. 指\n4. 示\n5. 詞\n6. 先\n7. 行\n8. 詞\n9. 與\n10. 句\n11. 間\n12. 邏\n13. 輯\n14. ，\n15. 再\n16. 檢\n17. 查\n18. 時\n19. 態\n20. 、\n21. 主\n22. 被\n23. 動\n24. 與\n25. 語\n26. 意\n27. 一\n28. 致\n29. 性\n30. 。\n\n目標：每題 **15 秒**。"
+    },
+    {
+      "title": "03 Listening｜Updated Safety Manual",
+      "markdown": "先聽後作答，提交後顯示逐字稿與解析；可使用 TTS 播放原創英語逐字稿。\n\n聽力稿：\n\n> Man: Can we distribute the revised safety manual to the branches this morning?\n> Woman: I would wait. Operations has approved the instructions, but Safety is still checking the emergency diagrams. The review should finish by two. If the diagrams are approved, we can send the complete package by four.\n> Man: Should I tell the branches that the manual is ready?\n> Woman: Tell them a new version is being prepared, but do not send the manual alone. Please draft the announcement and hold it until Safety confirms."
+    },
+    {
+      "title": "04 Listening｜Temperature-Controlled Delivery",
+      "markdown": "先聽後作答，提交後顯示逐字稿與解析；可使用 TTS 播放原創英語逐字稿。\n\n聽力稿：\n\n> Woman: We need twenty sample containers delivered to the research lab by ten thirty Tuesday morning. Temperature control and a signed receipt are mandatory, and our budget is three hundred dollars.\n> Man: Option B is inexpensive but has no temperature control. Option C arrives ten minutes too late. Option D arrives on time, but the carrier does not obtain a signature.\n> Woman: That leaves Option A. Please reserve it and forward the tracking details to the lab."
+    },
+    {
+      "title": "05 Listening｜Registration Portal Update",
+      "markdown": "先聽後作答，提交後顯示逐字稿與解析；可使用 TTS 播放原創英語逐字稿。\n\n聽力稿：\n\n> Attention, workshop participants. The registration portal was originally scheduled to reopen on Thursday at one in the afternoon. The vendor now expects access to be restored at four. During the outage, people who have already downloaded their preparation materials may read them offline, but new registrations cannot be submitted. The deadline for this Friday's workshop has been extended from Thursday at five to Friday at noon. Automatic reminders may still display the old deadline; the extension remains valid. If the portal is not restored by four, an additional notice will appear on the support page."
+    },
+    {
+      "title": "⑥ Reading｜On-Site Inspection: Billing and Next-Month Credit",
+      "markdown": "限時：**8 分 30 秒**。\n\n### On-Site Service Terms\n\n> A standard on-site inspection call costs $480. Labor costs $90 per hour, billed in 30-minute increments and rounded up to the next half hour; a minimum of two billable hours applies. A $120 after-hours surcharge applies if actual work begins after 6:00 P.M. A $200 deposit paid in advance is credited against the current invoice balance. If a technician arrives more than 45 minutes after the scheduled appointment, the customer receives a $100 service credit on the following month's invoice. Service credits do not reduce the current invoice.\n\n用途：service_terms\n\n### Alder Research — November Service Record\n\n> Appointment: November 12 at 5:30 P.M. Technician arrival: 6:20 P.M. Actual work: 6:30 P.M. to 9:10 P.M. The inspection was not canceled. A $200 deposit had already been paid. The November invoice covers the call fee, billable labor, and any applicable after-hours surcharge, less the deposit. The customer is checking whether the technician's delay changes the amount currently due.\n\n用途：work_order\n\n### Vendor Confirmation and December Quote\n\n> We confirm that the technician arrived 50 minutes late, so Alder Research will receive a $100 credit on its December invoice, not the November invoice. November's outstanding balance remains $670. A separate December preventive check is quoted at the standard $480 call fee plus two hours of labor ($180). It is scheduled to begin at 3:00 P.M., so no after-hours surcharge applies. An optional replacement filter costs $85. The December service credit will reduce the December invoice by $100. Your December budget is $620. To add the filter, please reply by November 25; it will not be added automatically.\n\n用途：vendor_email\n\n### 計算提示\n- `arrivalDelayMinutes`\n- `workMinutes`\n- `billableLaborMinutes`\n- `novemberBeforeDepositUSD`\n- `novemberBalanceUSD`\n- `decemberWithoutFilterUSD`\n- `decemberWithFilterUSD`\n- `decemberBudgetUSD`"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Day 37 小考",
+      "markdown": "正式限時：**5 分鐘**。\n\n### Listening Q37-L1\n\n聽力稿：\n\n> Woman: The contractor can deliver sixteen replacement keyboards on Monday. The remaining nine will arrive Wednesday. Tuesday's orientation requires only fourteen, so we do not need to delay it. Please send the first shipment to the training desk.\n\n### Listening Q37-L2\n\n聽力稿：\n\n> Notice: The supplier briefing will begin at 10:15 A.M. on Friday instead of 9:45 A.M. The meeting room is unchanged. Anyone needing interpretation should email Administration by Thursday at 2 P.M.\n\n### Reading Q37-R1\n\n> A printer charges $32 per workbook. Orders of 25 or more receive a 10% discount on the workbook subtotal only. Delivery costs $24 and is not discounted. A department orders 25 workbooks and has a budget of $760.\n\n### Reading Q37-R2\n\n> General rule: Changes made after November 15 incur a $45 fee. Update: Because the provider moved the November 24 seminar to November 26, affected registrants may change their bookings without a fee through November 20. Nora registered for November 24 and requested a change on November 19."
+    },
+    {
+      "title": "⑨ 複習與錯題分類",
+      "markdown": "回顧前 **[32, 33, 34, 35, 36] 天**，完成 **[{'prompt': 'Scarcely _____ the briefing begun when the alert sounded.', 'answer': 'had', 'tag': 'G'}, {'prompt': 'No sooner _____ the meeting ended than the client called.', 'answer': 'had', 'tag': 'G'}, {'prompt': 'Only after the audit ended _____ the team publish the report.', 'answer': 'did', 'tag': 'G'}, {'prompt': 'The director required that the document _____ signed.', 'answer': 'be', 'tag': 'G'}, {'prompt': 'Despite _____ the email, the customer called again.', 'answer': 'receiving', 'tag': 'G'}, {'prompt': 'The number of tickets _____ fallen.', 'answer': 'has', 'tag': 'AGR'}, {'prompt': 'A number of suppliers _____ responded.', 'answer': 'have', 'tag': 'AGR'}, {'prompt': 'I would hold off. → 中文意思？', 'answer': '建議暫緩執行', 'tag': 'IMP'}, {'prompt': 'Credit / refund / reimbursement 差別？', 'answer': '帳款抵用／退款／費用報銷', 'tag': 'V'}, {'prompt': '更新公告與舊提醒衝突時應採用？', 'answer': '適用的最新公告', 'tag': 'U'}, {'prompt': '服務抵用額明訂次月折抵，是否可直接扣本月？', 'answer': '不可；依合約在次月折抵', 'tag': 'E'}, {'prompt': 'Part 6 插入句有 These documents 時先確認什麼？', 'answer': '前文是否已出現可指代的複數文件', 'tag': 'P'}] 張**複習卡。\n\n先遮住答案，90 秒快答；錯題於 24 小時後再測。未取得歷史實際錯題，故使用跨日核心複習。\n\n錯題標籤：\n\n- `G`：文法（倒裝、假設語氣、分詞、被動）\n- `AGR`：主詞動詞一致\n- `V`：單字與搭配詞\n- `POS`：詞性\n- `P`：Part 6 篇章邏輯／句子插入\n- `L`：聽力明示資訊\n- `IMP`：隱含意圖\n- `I`：資訊整合\n- `T`：時間與期限\n- `U`：更新資訊\n- `E`：例外條款\n- `CAL`：計算\n- `BUD`：預算限制\n- `N`：下一步動作"
+    },
+    {
+      "title": "⑩ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，選 8 個造句；其中 3 句用於帳單與文件核准情境。（約 15 分鐘）\n- Part 5 15 題在 225 秒內作答；依錯題標籤複習。（約 10 分鐘）\n- Listening 三組各聽兩次，第二次不看逐字稿並嘗試 1.1x。（約 25 分鐘）\n- Reading 重算 11 月費用、12 月兩個方案，並標出每份文件的優先條件。（約 20 分鐘）\n- Part 6 四題完成句子插入與篇章關係說明；12 題小考首次限時作答，複習後重測。（約 20 分鐘）"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "amendment",
+      "meaning": "修正條款",
+      "phrase": "contract amendment"
+    },
+    {
+      "id": 2,
+      "word": "addendum",
+      "meaning": "補充文件",
+      "phrase": "contract addendum"
+    },
+    {
+      "id": 3,
+      "word": "itemize",
+      "meaning": "逐項列明",
+      "phrase": "itemize charges"
+    },
+    {
+      "id": 4,
+      "word": "billable",
+      "meaning": "可計費的",
+      "phrase": "billable hours"
+    },
+    {
+      "id": 5,
+      "word": "round up",
+      "meaning": "無條件進位",
+      "phrase": "round up to the next half hour"
+    },
+    {
+      "id": 6,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "after-hours surcharge"
+    },
+    {
+      "id": 7,
+      "word": "retainer",
+      "meaning": "預付保留費",
+      "phrase": "pay a retainer"
+    },
+    {
+      "id": 8,
+      "word": "installment",
+      "meaning": "分期款",
+      "phrase": "monthly installment"
+    },
+    {
+      "id": 9,
+      "word": "outstanding",
+      "meaning": "未結清的",
+      "phrase": "outstanding balance"
+    },
+    {
+      "id": 10,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile the invoice"
+    },
+    {
+      "id": 11,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "acknowledge receipt"
+    },
+    {
+      "id": 12,
+      "word": "waiver",
+      "meaning": "豁免",
+      "phrase": "fee waiver"
+    },
+    {
+      "id": 13,
+      "word": "incur",
+      "meaning": "產生費用",
+      "phrase": "incur additional charges"
+    },
+    {
+      "id": 14,
+      "word": "threshold",
+      "meaning": "門檻",
+      "phrase": "eligibility threshold"
+    },
+    {
+      "id": 15,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for a credit"
+    },
+    {
+      "id": 16,
+      "word": "reimburse",
+      "meaning": "報銷",
+      "phrase": "reimburse travel expenses"
+    },
+    {
+      "id": 17,
+      "word": "verify",
+      "meaning": "核實",
+      "phrase": "verify the figures"
+    },
+    {
+      "id": 18,
+      "word": "pending",
+      "meaning": "尚待處理的",
+      "phrase": "pending approval"
+    },
+    {
+      "id": 19,
+      "word": "rectify",
+      "meaning": "修正",
+      "phrase": "rectify an error"
+    },
+    {
+      "id": 20,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional timetable"
+    },
+    {
+      "id": 21,
+      "word": "circulate",
+      "meaning": "傳閱、發送",
+      "phrase": "circulate a draft"
+    },
+    {
+      "id": 22,
+      "word": "withhold",
+      "meaning": "暫不提供",
+      "phrase": "withhold publication"
+    },
+    {
+      "id": 23,
+      "word": "defer",
+      "meaning": "延後",
+      "phrase": "defer the rollout"
+    },
+    {
+      "id": 24,
+      "word": "prerequisite",
+      "meaning": "先決條件",
+      "phrase": "meet a prerequisite"
+    },
+    {
+      "id": 25,
+      "word": "compliance",
+      "meaning": "遵循規範",
+      "phrase": "compliance checklist"
+    },
+    {
+      "id": 26,
+      "word": "endorse",
+      "meaning": "正式認可",
+      "phrase": "endorse a proposal"
+    },
+    {
+      "id": 27,
+      "word": "acknowledge",
+      "meaning": "確認收到",
+      "phrase": "acknowledge a notice"
+    },
+    {
+      "id": 28,
+      "word": "supersede",
+      "meaning": "取代",
+      "phrase": "supersede an earlier version"
+    },
+    {
+      "id": 29,
+      "word": "consecutive",
+      "meaning": "連續的",
+      "phrase": "consecutive business days"
+    },
+    {
+      "id": 30,
+      "word": "omit",
+      "meaning": "省略",
+      "phrase": "omit a required attachment"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Updated Safety Manual",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why has the full package not been distributed?",
+          "options": {
+            "A": "The printing company is closed.",
+            "B": "Safety has not approved the emergency diagrams.",
+            "C": "Operations rejected the instructions.",
+            "D": "The branches requested more copies."
+          },
+          "answer": "B",
+          "explanation": "Operations 已核准文字，但 Safety 仍在檢查緊急圖示。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply by “I would wait”?",
+          "options": {
+            "A": "She recommends delaying distribution.",
+            "B": "She has already sent the manual.",
+            "C": "She wants to cancel the revision.",
+            "D": "She expects the branches to revise it."
+          },
+          "answer": "A",
+          "explanation": "I would wait 表示建議暫緩，不要提前寄送。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should the man do next?",
+          "options": {
+            "A": "Send the manual without diagrams.",
+            "B": "Change the diagrams himself.",
+            "C": "Draft an announcement and wait for confirmation.",
+            "D": "Call the printing company."
+          },
+          "answer": "C",
+          "explanation": "下一步先擬稿，等待 Safety 確認才發送。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Temperature-Controlled Delivery",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Option C unsuitable?",
+          "options": {
+            "A": "It exceeds the budget.",
+            "B": "It arrives after the required deadline.",
+            "C": "It lacks temperature control.",
+            "D": "It has insufficient capacity."
+          },
+          "answer": "B",
+          "explanation": "Option C 10:40 抵達，晚於 10:30 截止時間。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option meets every requirement?",
+          "options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "answer": "A",
+          "explanation": "A 10:10 抵達、24 容量、控溫、簽收且 $290。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why is Option D rejected?",
+          "options": {
+            "A": "It has fewer than 20 spaces.",
+            "B": "It is too expensive.",
+            "C": "It cannot provide a signed receipt.",
+            "D": "It arrives after 10:30."
+          },
+          "answer": "C",
+          "explanation": "Option D 無簽收服務，違反必要條件。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Request a higher budget.",
+            "B": "Delay the experiment.",
+            "C": "Choose the least expensive option.",
+            "D": "Reserve Option A and send tracking details."
+          },
+          "answer": "D",
+          "explanation": "對話最後明確要求預訂 A 並傳送追蹤資訊。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Registration Portal Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When is the portal now expected to reopen?",
+          "options": {
+            "A": "Thursday at 1 P.M.",
+            "B": "Thursday at 4 P.M.",
+            "C": "Thursday at 5 P.M.",
+            "D": "Friday at noon"
+          },
+          "answer": "B",
+          "explanation": "新公告將開放時間從週四 13:00 改為 16:00。"
+        },
+        {
+          "id": 2,
+          "prompt": "What can participants do while the portal is unavailable?",
+          "options": {
+            "A": "Submit new registrations.",
+            "B": "Update their payment information.",
+            "C": "Read materials downloaded earlier.",
+            "D": "Change their workshop date online."
+          },
+          "answer": "C",
+          "explanation": "僅先前已下載的準備資料可離線閱讀。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the updated registration deadline?",
+          "options": {
+            "A": "Thursday at 1 P.M.",
+            "B": "Thursday at 4 P.M.",
+            "C": "Thursday at 5 P.M.",
+            "D": "Friday at noon"
+          },
+          "answer": "D",
+          "explanation": "更新截止期限為 Friday noon。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should participants know about automatic reminders?",
+          "options": {
+            "A": "They may still show the previous deadline.",
+            "B": "They confirm a late fee.",
+            "C": "They cancel the deadline extension.",
+            "D": "They indicate registration is complete."
+          },
+          "answer": "A",
+          "explanation": "自動提醒可能顯示舊期限，但不影響新期限效力。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "On-Site Inspection: Billing and Next-Month Credit",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How late did the technician arrive for the November appointment?",
+          "options": {
+            "A": "40 minutes",
+            "B": "45 minutes",
+            "C": "50 minutes",
+            "D": "60 minutes"
+          },
+          "answer": "C",
+          "explanation": "17:30 預約，18:20 抵達，遲到 50 分鐘。"
+        },
+        {
+          "id": 2,
+          "prompt": "How many labor hours are billed for the November visit?",
+          "options": {
+            "A": "2 hours",
+            "B": "2.5 hours",
+            "C": "2 hours 40 minutes",
+            "D": "3 hours"
+          },
+          "answer": "D",
+          "explanation": "18:30–21:10 = 160 分鐘，按每 30 分鐘無條件進位為 180 分鐘，即 3 小時。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the November balance after the deposit is applied?",
+          "options": {
+            "A": "$570",
+            "B": "$670",
+            "C": "$770",
+            "D": "$870"
+          },
+          "answer": "B",
+          "explanation": "$480 + 3×$90 + $120 − $200 = $670。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why is an after-hours surcharge included in November?",
+          "options": {
+            "A": "The actual work began after 6 P.M.",
+            "B": "The appointment was booked after 6 P.M.",
+            "C": "The customer paid late.",
+            "D": "The technician worked on a weekend."
+          },
+          "answer": "A",
+          "explanation": "依實際開始工作時間判斷，18:30 晚於 18:00。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is the December total without the optional filter?",
+          "options": {
+            "A": "$460",
+            "B": "$560",
+            "C": "$660",
+            "D": "$760"
+          },
+          "answer": "B",
+          "explanation": "$480 + $180 − $100 = $560。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is the December total if the optional filter is added?",
+          "options": {
+            "A": "$560",
+            "B": "$620",
+            "C": "$645",
+            "D": "$745"
+          },
+          "answer": "C",
+          "explanation": "$560 + $85 = $645。"
+        },
+        {
+          "id": 7,
+          "prompt": "Which December option stays within the $620 budget?",
+          "options": {
+            "A": "Both options",
+            "B": "The inspection without the filter only",
+            "C": "The inspection with the filter only",
+            "D": "Neither option"
+          },
+          "answer": "B",
+          "explanation": "無濾芯 $560 ≤ $620；加濾芯 $645 > $620。"
+        },
+        {
+          "id": 8,
+          "prompt": "What must the customer do to add the optional filter?",
+          "options": {
+            "A": "Reply by November 25.",
+            "B": "Pay the November invoice again.",
+            "C": "Wait for automatic inclusion.",
+            "D": "Request a cash refund."
+          },
+          "answer": "A",
+          "explanation": "供應商要求 11/25 前回覆，不會自動加入。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Hardly _____ the webinar started when the connection failed.",
+          "options": {
+            "A": "has",
+            "B": "had",
+            "C": "did",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Hardly had + S + p.p. + when。"
+        },
+        {
+          "id": 2,
+          "prompt": "Only after the figures were verified _____ the manager approve the statement.",
+          "options": {
+            "A": "did",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only after 置句首，主句用 did 倒裝。"
+        },
+        {
+          "id": 3,
+          "prompt": "The committee requested that the contract _____ amended before signing.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "要求式假設語氣：be amended。"
+        },
+        {
+          "id": 4,
+          "prompt": "The charges _____ on the revised invoice are accurate.",
+          "options": {
+            "A": "listing",
+            "B": "listed",
+            "C": "list",
+            "D": "lists"
+          },
+          "answer": "B",
+          "explanation": "費用被列明，過去分詞 listed。"
+        },
+        {
+          "id": 5,
+          "prompt": "The report was scheduled for release today. _____, Legal has requested another review.",
+          "options": {
+            "A": "However",
+            "B": "Therefore",
+            "C": "Meanwhile",
+            "D": "Otherwise"
+          },
+          "answer": "A",
+          "explanation": "原定今日發布，卻因法務要求再審而受阻；However 表轉折。"
+        },
+        {
+          "id": 6,
+          "prompt": "The shipment cannot leave _____ the safety certificate is issued.",
+          "options": {
+            "A": "unless",
+            "B": "despite",
+            "C": "because of",
+            "D": "in case of"
+          },
+          "answer": "A",
+          "explanation": "unless = 除非；未核發證明不能出貨。"
+        },
+        {
+          "id": 7,
+          "prompt": "The new policy will apply _____ all regional offices.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "apply to + 對象。"
+        },
+        {
+          "id": 8,
+          "prompt": "Neither the supervisor nor the inspectors _____ available tomorrow.",
+          "options": {
+            "A": "is",
+            "B": "has",
+            "C": "are",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "就近一致，inspectors 複數。"
+        },
+        {
+          "id": 9,
+          "prompt": "The revised estimate, along with two attachments, _____ ready.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "主詞 estimate 單數。"
+        },
+        {
+          "id": 10,
+          "prompt": "The supplier agreed to _____ the processing charge.",
+          "options": {
+            "A": "waiver",
+            "B": "waive",
+            "C": "waived",
+            "D": "waiving"
+          },
+          "answer": "B",
+          "explanation": "agree to + 原形 waive。"
+        },
+        {
+          "id": 11,
+          "prompt": "The finance team identified a billing _____ in the statement.",
+          "options": {
+            "A": "discrepancy",
+            "B": "discrepant",
+            "C": "discrepantly",
+            "D": "discrepancies"
+          },
+          "answer": "A",
+          "explanation": "a 後接單數名詞 discrepancy。"
+        },
+        {
+          "id": 12,
+          "prompt": "The technician arrived _____ than expected because of traffic.",
+          "options": {
+            "A": "late",
+            "B": "latest",
+            "C": "later",
+            "D": "lately"
+          },
+          "answer": "C",
+          "explanation": "比較級 later than。"
+        },
+        {
+          "id": 13,
+          "prompt": "The client is eligible _____ a service credit.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "C",
+          "explanation": "eligible for。"
+        },
+        {
+          "id": 14,
+          "prompt": "The final report will be distributed _____ approval is received.",
+          "options": {
+            "A": "as soon as",
+            "B": "despite",
+            "C": "in spite of",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "as soon as 後接完整子句。"
+        },
+        {
+          "id": 15,
+          "prompt": "Please retain the receipt _____ an auditor requests proof of payment.",
+          "options": {
+            "A": "in case",
+            "B": "unless",
+            "C": "despite",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "in case = 以防。"
+        }
+      ]
+    },
+    {
+      "id": "day-37-quiz",
+      "title": "Day 37 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Only after the inspection ended _____ the technician submit the report.",
+          "options": {
+            "A": "does",
+            "B": "did",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "Only after 置句首，主句 did + S + 原形。"
+        },
+        {
+          "id": 2,
+          "prompt": "The director recommended that the revised form _____ uploaded today.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommended that + S + be + p.p.。"
+        },
+        {
+          "id": 3,
+          "prompt": "The checklist was approved. _____, the team distributed the updated manual.",
+          "options": {
+            "A": "However",
+            "B": "Therefore",
+            "C": "Nevertheless",
+            "D": "Meanwhile"
+          },
+          "answer": "B",
+          "explanation": "核准後因此發送，因果關係。"
+        },
+        {
+          "id": 4,
+          "prompt": "The documents _____ yesterday have been filed.",
+          "options": {
+            "A": "received",
+            "B": "receiving",
+            "C": "receive",
+            "D": "receives"
+          },
+          "answer": "A",
+          "explanation": "文件被收到，過去分詞作後置修飾。"
+        },
+        {
+          "id": 5,
+          "prompt": "How many keyboards will arrive on Monday?",
+          "options": {
+            "A": "9",
+            "B": "14",
+            "C": "16",
+            "D": "25"
+          },
+          "answer": "C",
+          "explanation": "首批 16 台。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does the woman imply about Tuesday’s orientation?",
+          "options": {
+            "A": "It will be postponed.",
+            "B": "It can proceed with the first shipment.",
+            "C": "It requires all 25 keyboards.",
+            "D": "It has moved to Wednesday."
+          },
+          "answer": "B",
+          "explanation": "16 台 ≥ 14 台，課程不必延後。"
+        },
+        {
+          "id": 7,
+          "prompt": "When will Friday’s supplier briefing now begin?",
+          "options": {
+            "A": "9:45 A.M.",
+            "B": "10:00 A.M.",
+            "C": "10:15 A.M.",
+            "D": "2:00 P.M."
+          },
+          "answer": "C",
+          "explanation": "最新時間 10:15。"
+        },
+        {
+          "id": 8,
+          "prompt": "When is the deadline to request interpretation?",
+          "options": {
+            "A": "Wednesday at 2 P.M.",
+            "B": "Thursday at noon",
+            "C": "Friday at 9:45 A.M.",
+            "D": "Thursday at 2 P.M."
+          },
+          "answer": "D",
+          "explanation": "週四 14:00 前寄信。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost of 25 workbooks including delivery?",
+          "options": {
+            "A": "$720",
+            "B": "$744",
+            "C": "$760",
+            "D": "$824"
+          },
+          "answer": "B",
+          "explanation": "25×32×0.9+24 = 720+24 = $744。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the $760 budget remains?",
+          "options": {
+            "A": "$16",
+            "B": "$24",
+            "C": "$40",
+            "D": "$80"
+          },
+          "answer": "A",
+          "explanation": "$760−$744=$16。"
+        },
+        {
+          "id": 11,
+          "prompt": "Why can Nora change her booking without the usual fee?",
+          "options": {
+            "A": "She registered after November 15.",
+            "B": "She ordered two tickets.",
+            "C": "The provider rescheduled the seminar.",
+            "D": "The seminar was canceled permanently."
+          },
+          "answer": "C",
+          "explanation": "主辦方改期，適用特殊免手續費條款。"
+        },
+        {
+          "id": 12,
+          "prompt": "What change fee must Nora pay for the November 19 request?",
+          "options": {
+            "A": "$0",
+            "B": "$15",
+            "C": "$25",
+            "D": "$45"
+          },
+          "answer": "A",
+          "explanation": "11/19 在延長免收費期限 11/20 前，故為 $0。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握 Part 6 篇章指涉與句子插入，並整合合約、用量、計費與例外完成跨文件推論。",
+  "nextDay": "Part 6 句子插入進階、Part 3/4 間接推論、跨文件時間與費用判斷"
+}
