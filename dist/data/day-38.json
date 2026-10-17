@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 38,
+  "title": "Part 6 句子插入進階、隱含推論與跨文件決策",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 110,
+  "durationMinutes": {
+    "min": 105,
+    "max": 115
+  },
+  "level": "860-900+",
+  "source": "使用者提供的 Day 38 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 38 學習概覽",
+      "markdown": "- 辨識 Part 6 代名詞指涉與句子插入位置\n- 掌握倒裝與要求式假設語氣\n- 理解 Listening 中未直接說出的限制與意圖\n- 處理多條件配送選擇\n- 整合 Triple Passage 中的折扣、信用額與時序\n\n建議訓練時間：**110 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| milestone | 里程碑 | reach a milestone |\n| deliverable | 交付成果 | project deliverable |\n| dependency | 相依條件 | project dependency |\n| prerequisite | 先決條件 | meet a prerequisite |\n| stakeholder | 利害關係人 | notify stakeholders |\n| scope | 範圍 | project scope |\n| revision | 修訂 | request a revision |\n| amendment | 修正條款 | contract amendment |\n| approval | 核准 | obtain approval |\n| authorization | 授權 | prior authorization |\n| comply | 遵守 | comply with requirements |\n| specification | 規格 | technical specification |\n| compatible | 相容的 | compatible equipment |\n| defective | 有瑕疵的 | defective item |\n| replacement | 替換品 | replacement unit |\n| warranty | 保固 | warranty coverage |\n| inspection | 檢查 | safety inspection |\n| postpone | 延後 | postpone a launch |\n| accelerate | 加速 | accelerate delivery |\n| contingency | 應變方案 | contingency plan |\n| deadline | 截止期限 | meet a deadline |\n| overdue | 逾期的 | overdue task |\n| outstanding | 尚未完成的 | outstanding issue |\n| resolve | 解決 | resolve a problem |\n| discrepancy | 差異 | billing discrepancy |\n| quotation | 報價單 | revised quotation |\n| negotiate | 協商 | negotiate terms |\n| waive | 免除 | waive a fee |\n| credit | 抵用額 | issue a credit |\n| extension | 延長 | deadline extension |"
+    },
+    {
+      "title": "② 今日文法｜Part 6 指涉、時間順序、倒裝句、要求式假設語氣、篇章連接詞",
+      "markdown": "主題：**Part 6 指涉、時間順序、倒裝句、要求式假設語氣、篇章連接詞**\n\n### 規則 1\n\nThis/These/It/They 必須有明確先行詞\n\n### 規則 2\n\nHardly/Scarcely/No sooner 句首使用倒裝\n\n### 規則 3\n\nOnly after/Not until 句首使用 did + subject + base verb\n\n### 規則 4\n\nrecommend/request/require + that + subject + base verb\n\n### 規則 5\n\nHowever 表轉折，Therefore 表因果，Meanwhile 表同時"
+    },
+    {
+      "title": "03 Listening｜Software Release",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Are we still launching the new application on Friday? Woman: The development work is finished, but Security found two issues during testing. They expect to complete another review Thursday afternoon. Man: So should I tell everyone Friday is confirmed? Woman: I wouldn't announce Friday just yet. If Security clears both issues, we can proceed. Otherwise, we'll move the launch to Monday. Man: All right. I'll prepare both versions of the schedule and wait for the review result."
+    },
+    {
+      "title": "04 Listening｜Delivery Selection",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> We need twenty sample boxes at the laboratory no later than ten fifteen Wednesday morning. The products must remain refrigerated, and a signature is required on delivery. We have a maximum shipping budget of two hundred ninety dollars. Service A arrives five minutes too late, Service B is not refrigerated, and Service D does not include signature confirmation. Please reserve the remaining suitable option."
+    },
+    {
+      "title": "05 Listening｜Maintenance Update",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, HR portal users. Maintenance was originally scheduled to end Monday at ten in the morning. The vendor now expects the portal to reopen at noon. During the outage, previously downloaded reports remain available, but no new forms can be submitted. Forms originally due Monday at five may now be submitted until Tuesday at noon. Automated reminder messages may still display Monday's deadline, but the extension remains valid."
+    },
+    {
+      "title": "⑥ Reading｜Equipment Lease and Service Credit",
+      "markdown": "限時：**8 分 30 秒**。\n\n### Lease Terms\n\n> Office scanners lease for $220 per unit per month. Orders of 5 or more units receive a 10% discount on the monthly equipment subtotal. Installation costs $180 per order and is not discounted. If delivery is more than two business days later than the confirmed delivery date, the customer receives a $100 service credit on the next month's invoice. Service credits do not reduce the current month's invoice. Optional maintenance coverage costs $25 per unit per month.\n\n用途：參考文件\n\n### Customer Order\n\n> Riverstone Accounting ordered 5 scanners. Confirmed delivery date: September 8. Actual delivery date: September 11. Installation completed September 11. Maintenance coverage was selected for all five units. September budget: $1,350. October budget: $1,200.\n\n用途：參考文件\n\n### Vendor Confirmation\n\n> Because the scanners arrived three business days late, Riverstone qualifies for a $100 service credit. The credit will appear on the October invoice. September charges remain unchanged. Monthly lease charges and maintenance coverage continue unless canceled. Maintenance cancellation requests for October must be received by September 25.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**2 分 30 秒**。\n\n### 閱讀文章\n\n> The updated purchasing procedure will take effect next Monday. [1] _____, all purchase requests over $5,000 must receive Finance approval before being sent to Procurement. [2] _____ This requirement is intended to prevent unapproved expenditures. Requests already approved under the previous procedure will remain valid. Once Finance approval is obtained, the request [3] _____ directly to Procurement. [4] _____"
+    },
+    {
+      "title": "⑨ Day 38 小考",
+      "markdown": "正式限時：**5 分鐘**。\n"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "依照首次作答結果整理錯題，優先複習出現頻率最高的標籤。\n\n錯題標籤：\n\n- `G`：Grammar\n- `P`：Part 6 / Passage Logic\n- `AGR`：Agreement\n- `L`：Listening\n- `IMP`：Implication\n- `I`：Information Integration\n- `U`：Updated Information\n- `E`：Exception\n- `T`：Timeline\n- `CAL`：Calculation\n- `BUD`：Budget Constraint\n- `N`：Next Action"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- Review 30 vocabulary items twice\n- Redo Part 5 within 3 minutes\n- Redo Part 6 and explain paragraph logic\n- Listen to all three sets twice, second round at 1.1x\n- Recalculate September and October lease totals\n- Redo Day 38 quiz within 4 minutes 30 seconds"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "milestone",
+      "meaning": "里程碑",
+      "phrase": "reach a milestone"
+    },
+    {
+      "id": 2,
+      "word": "deliverable",
+      "meaning": "交付成果",
+      "phrase": "project deliverable"
+    },
+    {
+      "id": 3,
+      "word": "dependency",
+      "meaning": "相依條件",
+      "phrase": "project dependency"
+    },
+    {
+      "id": 4,
+      "word": "prerequisite",
+      "meaning": "先決條件",
+      "phrase": "meet a prerequisite"
+    },
+    {
+      "id": 5,
+      "word": "stakeholder",
+      "meaning": "利害關係人",
+      "phrase": "notify stakeholders"
+    },
+    {
+      "id": 6,
+      "word": "scope",
+      "meaning": "範圍",
+      "phrase": "project scope"
+    },
+    {
+      "id": 7,
+      "word": "revision",
+      "meaning": "修訂",
+      "phrase": "request a revision"
+    },
+    {
+      "id": 8,
+      "word": "amendment",
+      "meaning": "修正條款",
+      "phrase": "contract amendment"
+    },
+    {
+      "id": 9,
+      "word": "approval",
+      "meaning": "核准",
+      "phrase": "obtain approval"
+    },
+    {
+      "id": 10,
+      "word": "authorization",
+      "meaning": "授權",
+      "phrase": "prior authorization"
+    },
+    {
+      "id": 11,
+      "word": "comply",
+      "meaning": "遵守",
+      "phrase": "comply with requirements"
+    },
+    {
+      "id": 12,
+      "word": "specification",
+      "meaning": "規格",
+      "phrase": "technical specification"
+    },
+    {
+      "id": 13,
+      "word": "compatible",
+      "meaning": "相容的",
+      "phrase": "compatible equipment"
+    },
+    {
+      "id": 14,
+      "word": "defective",
+      "meaning": "有瑕疵的",
+      "phrase": "defective item"
+    },
+    {
+      "id": 15,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "replacement unit"
+    },
+    {
+      "id": 16,
+      "word": "warranty",
+      "meaning": "保固",
+      "phrase": "warranty coverage"
+    },
+    {
+      "id": 17,
+      "word": "inspection",
+      "meaning": "檢查",
+      "phrase": "safety inspection"
+    },
+    {
+      "id": 18,
+      "word": "postpone",
+      "meaning": "延後",
+      "phrase": "postpone a launch"
+    },
+    {
+      "id": 19,
+      "word": "accelerate",
+      "meaning": "加速",
+      "phrase": "accelerate delivery"
+    },
+    {
+      "id": 20,
+      "word": "contingency",
+      "meaning": "應變方案",
+      "phrase": "contingency plan"
+    },
+    {
+      "id": 21,
+      "word": "deadline",
+      "meaning": "截止期限",
+      "phrase": "meet a deadline"
+    },
+    {
+      "id": 22,
+      "word": "overdue",
+      "meaning": "逾期的",
+      "phrase": "overdue task"
+    },
+    {
+      "id": 23,
+      "word": "outstanding",
+      "meaning": "尚未完成的",
+      "phrase": "outstanding issue"
+    },
+    {
+      "id": 24,
+      "word": "resolve",
+      "meaning": "解決",
+      "phrase": "resolve a problem"
+    },
+    {
+      "id": 25,
+      "word": "discrepancy",
+      "meaning": "差異",
+      "phrase": "billing discrepancy"
+    },
+    {
+      "id": 26,
+      "word": "quotation",
+      "meaning": "報價單",
+      "phrase": "revised quotation"
+    },
+    {
+      "id": 27,
+      "word": "negotiate",
+      "meaning": "協商",
+      "phrase": "negotiate terms"
+    },
+    {
+      "id": 28,
+      "word": "waive",
+      "meaning": "免除",
+      "phrase": "waive a fee"
+    },
+    {
+      "id": 29,
+      "word": "credit",
+      "meaning": "抵用額",
+      "phrase": "issue a credit"
+    },
+    {
+      "id": 30,
+      "word": "extension",
+      "meaning": "延長",
+      "phrase": "deadline extension"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Software Release",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why has the software not been released?",
+          "options": {
+            "A": "The installation failed.",
+            "B": "Security testing is incomplete.",
+            "C": "The client canceled the project.",
+            "D": "The licenses expired."
+          },
+          "answer": "B",
+          "explanation": "Development is finished, but Security found two issues and another review is still pending."
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman mean by “I wouldn't announce Friday just yet”?",
+          "options": {
+            "A": "Friday is guaranteed.",
+            "B": "The announcement has already been sent.",
+            "C": "Friday is still uncertain.",
+            "D": "The launch has been canceled."
+          },
+          "answer": "C",
+          "explanation": "She advises against announcing Friday because the Security review may still force the launch to move to Monday."
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man probably do next?",
+          "options": {
+            "A": "Send the launch notice immediately.",
+            "B": "Prepare two possible schedules.",
+            "C": "Contact the customer for payment.",
+            "D": "Cancel security testing."
+          },
+          "answer": "B",
+          "explanation": "He says he will prepare both versions of the schedule and wait for the review result."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Delivery Selection",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Service A unsuitable?",
+          "options": {
+            "A": "It lacks refrigeration.",
+            "B": "It arrives too late.",
+            "C": "It is too expensive.",
+            "D": "It lacks capacity."
+          },
+          "answer": "B",
+          "explanation": "Service A arrives at 10:20, which is later than the 10:15 deadline."
+        },
+        {
+          "id": 2,
+          "prompt": "Why is Service B unsuitable?",
+          "options": {
+            "A": "No signature is available.",
+            "B": "No refrigeration is available.",
+            "C": "It is too expensive.",
+            "D": "It arrives too late."
+          },
+          "answer": "B",
+          "explanation": "The shipment must remain refrigerated, but Service B does not provide refrigeration."
+        },
+        {
+          "id": 3,
+          "prompt": "Which service should be selected?",
+          "options": {
+            "A": "Service A",
+            "B": "Service B",
+            "C": "Service C",
+            "D": "Service D"
+          },
+          "answer": "C",
+          "explanation": "Service C meets the arrival deadline, capacity, refrigeration, signature, and budget requirements."
+        },
+        {
+          "id": 4,
+          "prompt": "What will probably happen next?",
+          "options": {
+            "A": "Service C will be booked.",
+            "B": "The samples will be canceled.",
+            "C": "The budget will be reduced.",
+            "D": "Refrigeration will be removed."
+          },
+          "answer": "A",
+          "explanation": "The speaker explicitly asks to reserve the remaining suitable option, which is Service C."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Maintenance Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When is the system now expected to reopen?",
+          "options": {
+            "A": "10 A.M.",
+            "B": "11 A.M.",
+            "C": "Noon",
+            "D": "1 P.M."
+          },
+          "answer": "C",
+          "explanation": "The updated reopening time is noon."
+        },
+        {
+          "id": 2,
+          "prompt": "What can employees do during the outage?",
+          "options": {
+            "A": "Submit new forms.",
+            "B": "Read previously downloaded reports.",
+            "C": "Update payroll information.",
+            "D": "Create new accounts."
+          },
+          "answer": "B",
+          "explanation": "Previously downloaded reports remain available, but new forms cannot be submitted."
+        },
+        {
+          "id": 3,
+          "prompt": "What is the updated submission deadline?",
+          "options": {
+            "A": "Monday 5 P.M.",
+            "B": "Tuesday noon",
+            "C": "Tuesday 5 P.M.",
+            "D": "Wednesday noon"
+          },
+          "answer": "B",
+          "explanation": "Forms originally due Monday at 5 may now be submitted until Tuesday at noon."
+        },
+        {
+          "id": 4,
+          "prompt": "What should employees understand about reminder emails?",
+          "options": {
+            "A": "They may still show the old deadline.",
+            "B": "They cancel the extension.",
+            "C": "They mean late fees apply.",
+            "D": "They confirm service restoration."
+          },
+          "answer": "A",
+          "explanation": "Automated reminders may still display Monday's deadline, but the extension remains valid."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Equipment Lease and Service Credit",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the monthly scanner subtotal before discount?",
+          "options": {
+            "A": "$990",
+            "B": "$1,000",
+            "C": "$1,100",
+            "D": "$1,280"
+          },
+          "answer": "C",
+          "explanation": "5 scanners × $220 = $1,100."
+        },
+        {
+          "id": 2,
+          "prompt": "What is the discounted monthly scanner cost?",
+          "options": {
+            "A": "$900",
+            "B": "$990",
+            "C": "$1,000",
+            "D": "$1,100"
+          },
+          "answer": "B",
+          "explanation": "The order qualifies for a 10% discount: $1,100 × 0.90 = $990."
+        },
+        {
+          "id": 3,
+          "prompt": "How much is the monthly maintenance cost?",
+          "options": {
+            "A": "$25",
+            "B": "$100",
+            "C": "$125",
+            "D": "$180"
+          },
+          "answer": "C",
+          "explanation": "5 scanners × $25 maintenance = $125."
+        },
+        {
+          "id": 4,
+          "prompt": "What is the September invoice total?",
+          "options": {
+            "A": "$1,195",
+            "B": "$1,295",
+            "C": "$1,395",
+            "D": "$1,495"
+          },
+          "answer": "B",
+          "explanation": "$990 discounted lease + $125 maintenance + $180 installation = $1,295."
+        },
+        {
+          "id": 5,
+          "prompt": "Does September stay within the $1,350 budget?",
+          "options": {
+            "A": "Yes, by $55.",
+            "B": "Yes, by $155.",
+            "C": "No, by $45.",
+            "D": "No, by $145."
+          },
+          "answer": "A",
+          "explanation": "$1,350 - $1,295 = $55 remaining."
+        },
+        {
+          "id": 6,
+          "prompt": "What is the October total if maintenance remains active?",
+          "options": {
+            "A": "$915",
+            "B": "$1,015",
+            "C": "$1,115",
+            "D": "$1,295"
+          },
+          "answer": "B",
+          "explanation": "$990 lease + $125 maintenance - $100 credit = $1,015."
+        },
+        {
+          "id": 7,
+          "prompt": "What is the October total if maintenance is canceled in time?",
+          "options": {
+            "A": "$890",
+            "B": "$990",
+            "C": "$1,015",
+            "D": "$1,115"
+          },
+          "answer": "A",
+          "explanation": "$990 lease - $100 service credit = $890."
+        },
+        {
+          "id": 8,
+          "prompt": "What must Riverstone do to remove October maintenance charges?",
+          "options": {
+            "A": "Reply by September 25.",
+            "B": "Return the scanners.",
+            "C": "Pay September early.",
+            "D": "Request a refund."
+          },
+          "answer": "A",
+          "explanation": "The vendor states that cancellation requests for October maintenance must be received by September 25."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Hardly _____ the meeting begun when the network failed.",
+          "options": {
+            "A": "had",
+            "B": "did",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "A",
+          "explanation": "Hardly + had + subject + past participle."
+        },
+        {
+          "id": 2,
+          "prompt": "Only after the invoice was corrected _____ Accounting approve payment.",
+          "options": {
+            "A": "does",
+            "B": "did",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "Only after at the beginning triggers inversion: did + subject + base verb."
+        },
+        {
+          "id": 3,
+          "prompt": "The director requested that the final document _____ reviewed again.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "request that + subject + base verb; passive form is be reviewed."
+        },
+        {
+          "id": 4,
+          "prompt": "The documents _____ yesterday are ready for filing.",
+          "options": {
+            "A": "received",
+            "B": "receiving",
+            "C": "receive",
+            "D": "receives"
+          },
+          "answer": "A",
+          "explanation": "The documents were received, so use the past participle."
+        },
+        {
+          "id": 5,
+          "prompt": "The shipment arrived late. _____, installation had to be postponed.",
+          "options": {
+            "A": "However",
+            "B": "Therefore",
+            "C": "Meanwhile",
+            "D": "Otherwise"
+          },
+          "answer": "B",
+          "explanation": "The late shipment caused the postponement, so Therefore is correct."
+        },
+        {
+          "id": 6,
+          "prompt": "The equipment cannot be released _____ inspection is complete.",
+          "options": {
+            "A": "unless",
+            "B": "despite",
+            "C": "because of",
+            "D": "in spite of"
+          },
+          "answer": "A",
+          "explanation": "Unless expresses the required condition."
+        },
+        {
+          "id": 7,
+          "prompt": "Please keep a copy _____ the original is lost.",
+          "options": {
+            "A": "once",
+            "B": "in case",
+            "C": "despite",
+            "D": "unless"
+          },
+          "answer": "B",
+          "explanation": "In case expresses a precaution."
+        },
+        {
+          "id": 8,
+          "prompt": "Neither the manager nor the technicians _____ available.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "With neither...nor, the verb agrees with the nearer subject, technicians."
+        },
+        {
+          "id": 9,
+          "prompt": "The report, along with the attachments, _____ complete.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The main subject is report, which is singular."
+        },
+        {
+          "id": 10,
+          "prompt": "A number of clients _____ requested revised quotations.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "A number of + plural noun takes a plural verb."
+        },
+        {
+          "id": 11,
+          "prompt": "The number of delayed shipments _____ decreased.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "The number of + plural noun takes a singular verb."
+        },
+        {
+          "id": 12,
+          "prompt": "The company agreed to _____ the late fee.",
+          "options": {
+            "A": "waiver",
+            "B": "waive",
+            "C": "waived",
+            "D": "waiving"
+          },
+          "answer": "B",
+          "explanation": "agree to + base verb."
+        },
+        {
+          "id": 13,
+          "prompt": "The system is fully _____ with the existing hardware.",
+          "options": {
+            "A": "compatibility",
+            "B": "compatible",
+            "C": "compatibly",
+            "D": "compete"
+          },
+          "answer": "B",
+          "explanation": "After is, an adjective is needed: compatible."
+        },
+        {
+          "id": 14,
+          "prompt": "The extension will remain valid _____ the revised deadline.",
+          "options": {
+            "A": "through",
+            "B": "among",
+            "C": "beside",
+            "D": "toward"
+          },
+          "answer": "A",
+          "explanation": "Through means up to and including the stated deadline."
+        },
+        {
+          "id": 15,
+          "prompt": "The customer is eligible _____ a service credit.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "C",
+          "explanation": "The fixed expression is eligible for."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "請選出第 1 空的正確答案。",
+          "options": {
+            "A": "Beginning that day",
+            "B": "Nevertheless",
+            "C": "Meanwhile",
+            "D": "For example"
+          },
+          "answer": "A",
+          "explanation": "Beginning that day refers directly to the new procedure's effective date next Monday."
+        },
+        {
+          "id": 2,
+          "prompt": "請選出第 2 空的正確答案。",
+          "options": {
+            "A": "Employees should therefore submit large purchases directly to suppliers.",
+            "B": "Managers should check the approval status before forwarding a request.",
+            "C": "The company will reduce salaries next month.",
+            "D": "Procurement will stop reviewing requests."
+          },
+          "answer": "B",
+          "explanation": "This logically follows the Finance-approval requirement and leads into the sentence about preventing unapproved expenditures."
+        },
+        {
+          "id": 3,
+          "prompt": "請選出第 3 空的正確答案。",
+          "options": {
+            "A": "sends",
+            "B": "sent",
+            "C": "will send",
+            "D": "will be sent"
+          },
+          "answer": "D",
+          "explanation": "The request receives the action, so future passive voice is required: will be sent."
+        },
+        {
+          "id": 4,
+          "prompt": "請選出第 4 空的正確答案。",
+          "options": {
+            "A": "This sequence will help ensure that every large purchase has proper authorization.",
+            "B": "The old office will close Friday.",
+            "C": "Supplier catalogs are available online.",
+            "D": "Parking permits expire annually."
+          },
+          "answer": "A",
+          "explanation": "This sequence refers to the approval-then-forwarding process described immediately before it."
+        }
+      ]
+    },
+    {
+      "id": "day-38-quiz",
+      "title": "Day 38 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Not until the revised schedule was approved _____ the team notify customers.",
+          "options": {
+            "A": "did",
+            "B": "has",
+            "C": "was",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Not until at the beginning triggers inversion: did + subject + base verb."
+        },
+        {
+          "id": 2,
+          "prompt": "The committee recommended that the equipment _____ inspected again.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommend that + subject + base verb; passive form is be inspected."
+        },
+        {
+          "id": 3,
+          "prompt": "The original deadline has passed. _____, affected customers have been granted an extension.",
+          "options": {
+            "A": "Therefore",
+            "B": "However",
+            "C": "Meanwhile",
+            "D": "Otherwise"
+          },
+          "answer": "B",
+          "explanation": "The second sentence contrasts with the fact that the original deadline has passed."
+        },
+        {
+          "id": 4,
+          "prompt": "The applications _____ before noon will receive priority.",
+          "options": {
+            "A": "submitted",
+            "B": "submitting",
+            "C": "submit",
+            "D": "submits"
+          },
+          "answer": "A",
+          "explanation": "Applications are submitted, so the past participle is needed."
+        },
+        {
+          "id": 5,
+          "prompt": "How many units can arrive Thursday?",
+          "options": {
+            "A": "8",
+            "B": "20",
+            "C": "22",
+            "D": "30"
+          },
+          "answer": "C",
+          "explanation": "The speaker says twenty-two units can be delivered Thursday morning."
+        },
+        {
+          "id": 6,
+          "prompt": "What does the woman imply?",
+          "options": {
+            "A": "Friday's training must be canceled.",
+            "B": "The first shipment is sufficient.",
+            "C": "All 30 units are required Friday.",
+            "D": "Training will move to Monday."
+          },
+          "answer": "B",
+          "explanation": "Twenty-two units arrive Thursday and only twenty are needed Friday, so the first shipment is enough."
+        },
+        {
+          "id": 7,
+          "prompt": "What is the new briefing time?",
+          "options": {
+            "A": "1:40 P.M.",
+            "B": "2:10 P.M.",
+            "C": "Noon",
+            "D": "1:10 P.M."
+          },
+          "answer": "A",
+          "explanation": "The updated time is 1:40 P.M."
+        },
+        {
+          "id": 8,
+          "prompt": "What is the deadline for requesting interpretation?",
+          "options": {
+            "A": "Thursday noon",
+            "B": "Friday noon",
+            "C": "Friday 1:40 P.M.",
+            "D": "Monday"
+          },
+          "answer": "B",
+          "explanation": "Participants requiring interpretation must contact Administration by noon Friday."
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost?",
+          "options": {
+            "A": "$1,350",
+            "B": "$1,430",
+            "C": "$1,500",
+            "D": "$1,580"
+          },
+          "answer": "B",
+          "explanation": "20 × $75 = $1,500; after 10% discount = $1,350; plus $80 setup = $1,430."
+        },
+        {
+          "id": 10,
+          "prompt": "How much budget remains?",
+          "options": {
+            "A": "$20",
+            "B": "$50",
+            "C": "$70",
+            "D": "$150"
+          },
+          "answer": "C",
+          "explanation": "$1,500 - $1,430 = $70."
+        },
+        {
+          "id": 11,
+          "prompt": "Why does Mia qualify for the fee exception?",
+          "options": {
+            "A": "She registered late.",
+            "B": "The organizer changed the session date.",
+            "C": "She purchased two tickets.",
+            "D": "She contacted support after October 24."
+          },
+          "answer": "B",
+          "explanation": "The organizer changed the session date, creating a special exception for affected participants."
+        },
+        {
+          "id": 12,
+          "prompt": "What fee applies?",
+          "options": {
+            "A": "$0",
+            "B": "$15",
+            "C": "$20",
+            "D": "$30"
+          },
+          "answer": "A",
+          "explanation": "Mia's October 23 request falls within the fee-free exception through October 24."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握 Part 6 代名詞指涉、句子插入與篇章連貫，並整合折扣、服務抵用額及時序完成跨文件決策。",
+  "nextDay": "Part 6 pronoun reference and sentence insertion／Part 3/4 indirect intention／Triple Passage policy-update conflict／timed Part 5 mixed grammar"
+}
