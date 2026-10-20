@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 39,
+  "title": "Part 6 跨句指涉、政策衝突與高密度推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ (baseline; Day 38 actual score not submitted)",
+  "source": "使用者提供的 Day 39 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 39 學習概覽",
+      "markdown": "- 強化 Part 6 句子插入、轉折與代名詞指涉\n- 快速處理倒裝、要求式假設語氣與主詞一致\n- 辨識 Listening 中未直接表達的條件與不確定性\n- 處理多條件場地與時程選擇\n- 整合 Triple Passage 中的折扣門檻、更新期限與下一步\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| escalate | 升級處理 | escalate an issue |\n| pending | 尚待處理的 | pending approval |\n| allocate | 分配 | allocate resources |\n| feasible | 可行的 | feasible solution |\n| constraint | 限制條件 | budget constraint |\n| contingency | 應變方案 | contingency plan |\n| notify | 通知 | notify stakeholders |\n| authorize | 授權 | authorize a payment |\n| endorse | 認可 | endorse a proposal |\n| amend | 修訂 | amend a contract |\n| binding | 具約束力的 | binding agreement |\n| valid | 有效的 | valid through Friday |\n| expire | 到期 | expire at midnight |\n| renewal | 續約 | contract renewal |\n| eligible | 符合資格的 | eligible for a credit |\n| waiver | 豁免 | fee waiver |\n| surcharge | 附加費 | late surcharge |\n| threshold | 門檻 | discount threshold |\n| variance | 差異 | budget variance |\n| reconcile | 核對 | reconcile an invoice |\n| discrepancy | 不一致 | billing discrepancy |\n| provisional | 暫定的 | provisional schedule |\n| subsequent | 後續的 | subsequent review |\n| prior | 先前的 | prior approval |\n| mandatory | 強制的 | mandatory training |\n| optional | 選擇性的 | optional coverage |\n| retain | 保留 | retain a copy |\n| acknowledge | 確認收到 | acknowledge receipt |\n| supersede | 取代 | supersede an earlier notice |\n| clarification | 澄清 | request clarification |"
+    },
+    {
+      "title": "② 今日文法｜Part 6 跨句指涉、However/Therefore/Meanwhile/Otherwise、Only after/Not until/No sooner 倒裝、要求式假設語氣、主詞動詞一致、Reduced relative clause",
+      "markdown": "主題：**Part 6 跨句指涉、However/Therefore/Meanwhile/Otherwise、Only after/Not until/No sooner 倒裝、要求式假設語氣、主詞動詞一致、Reduced relative clause**\n\n### 規則 1\n\nThis/These/Such/It/They 必須能找到明確先行詞\n\n### 規則 2\n\nOnly after/Not until 置於句首時，主句使用助動詞倒裝\n\n### 規則 3\n\nNo sooner/Hardly/Scarcely 置於句首時，常用 had + S + p.p.\n\n### 規則 4\n\nrecommend/request/require/insist + that + S + 原形動詞\n\n### 規則 5\n\nA number of + plural verb；The number of + singular verb"
+    },
+    {
+      "title": "03 Listening｜Vendor Renewal",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Has the software renewal been approved? Woman: Finance approved the base package, but Legal is still reviewing the data-processing addendum. If they sign off by Thursday, we can renew at the quoted rate. Otherwise, the vendor says the discount expires Friday and we'll need a revised quotation. Man: So I shouldn't tell the team the price is locked in? Woman: Not yet. Please ask the vendor to hold the quote until Thursday if possible."
+    },
+    {
+      "title": "04 Listening｜Conference Room Selection",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: We need a room for thirty people on Tuesday from one to four. Wheelchair access is required, and the room must have a projector. Our total limit is four hundred fifty dollars. Man: Oak is large enough but not accessible. Cedar is inexpensive, but it isn't available until three. Pine is available at one, though the projector adds seventy dollars to the three-hundred-ninety-dollar room rate. Woman: That puts it over budget. Maple seems to meet everything. Please put a provisional hold on it."
+    },
+    {
+      "title": "05 Listening｜Portal Deadline Update",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, applicants. The grant portal was originally expected to reopen Wednesday at 9 A.M. Repairs are taking longer, and access is now expected at 11:30 A.M. You may review documents you previously downloaded, but no new applications can be submitted during the outage. Applications originally due Wednesday at noon will be accepted until Thursday at 10 A.M. Automatic reminders may still display the old deadline. The extended deadline remains valid."
+    },
+    {
+      "title": "⑥ Reading｜Training Registration / Discount Threshold / Updated Deadline",
+      "markdown": "限時：**8 分 30 秒**。\n\n### Training Registration Policy\n\n> Standard registration costs $240 per participant. Groups of 12 or more receive a 15% discount on the registration subtotal only. Optional printed materials cost $18 per participant and are not discounted. A $90 room setup fee applies once per group and is not discounted. Participant-count changes may be made without an administrative fee through November 12. Later changes normally incur a $40 fee.\n\n用途：參考文件\n\n### Booking Summary\n\n> Harbor Consulting registered 12 participants for a November 20 training session and selected printed materials for all participants. On November 13, two participants withdrew, leaving 10 expected attendees. The team is considering either reducing the registration to 10 or keeping 12 registrations. The total budget is $2,800.\n\n用途：參考文件\n\n### Provider Update\n\n> Because our registration portal was unavailable on November 12, Harbor Consulting may confirm a revised participant count through November 14 without the usual $40 administrative fee. The 15% group discount applies only when 12 or more registrations are purchased. Printed materials are billed according to the final number of registrations purchased. We will not change the booking automatically. Please confirm the final count by November 14.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**3 分 45 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**2 分 30 秒**。\n\n### 閱讀文章\n\n> Subject: Revised Contract Review Process\n> \n> Beginning next month, all vendor contracts above $50,000 must receive both Finance and Legal approval before signature.\n> \n> [1] _____\n> \n> This additional step is intended to reduce pricing and compliance risks.\n> \n> Contracts already approved under the old process will remain valid. [2] _____, any amendment made after the new policy takes effect must follow the revised approval sequence.\n> \n> Once both departments approve the final draft, it [3] _____ to the authorized signer.\n> \n> [4] _____"
+    },
+    {
+      "title": "⑨ Day 39 小考",
+      "markdown": "正式限時：**5 分鐘**。\n"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 34、Day 35、Day 36、Day 37、Day 38**。\n\n複習重點：\n\n- 倒裝句\n- 要求式假設語氣\n- Part 6 句子插入\n- 更新公告\n- Exception\n- Calculation\n- Budget\n- Next Action\n\n錯題標籤：\n\n- `G`：Grammar\n- `P`：Part 6 / Passage Logic\n- `AGR`：Agreement\n- `L`：Listening\n- `IMP`：Implication\n- `I`：Information Integration\n- `U`：Updated Information\n- `E`：Exception\n- `T`：Timeline\n- `CAL`：Calculation\n- `BUD`：Budget Constraint\n- `N`：Next Action"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習 30 個單字兩輪並選 8 個造句\n- Part 5 15 題第二次限時 3 分鐘\n- Part 6 4 題重做並說明每題前後文邏輯\n- 三組 Listening 各聽兩次，第二次 1.1x 且不看逐字稿\n- 重新計算 10 與 12 人訓練報名成本\n- Day 39 小考第二次限時 4 分 30 秒"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "escalate",
+      "meaning": "升級處理",
+      "phrase": "escalate an issue"
+    },
+    {
+      "id": 2,
+      "word": "pending",
+      "meaning": "尚待處理的",
+      "phrase": "pending approval"
+    },
+    {
+      "id": 3,
+      "word": "allocate",
+      "meaning": "分配",
+      "phrase": "allocate resources"
+    },
+    {
+      "id": 4,
+      "word": "feasible",
+      "meaning": "可行的",
+      "phrase": "feasible solution"
+    },
+    {
+      "id": 5,
+      "word": "constraint",
+      "meaning": "限制條件",
+      "phrase": "budget constraint"
+    },
+    {
+      "id": 6,
+      "word": "contingency",
+      "meaning": "應變方案",
+      "phrase": "contingency plan"
+    },
+    {
+      "id": 7,
+      "word": "notify",
+      "meaning": "通知",
+      "phrase": "notify stakeholders"
+    },
+    {
+      "id": 8,
+      "word": "authorize",
+      "meaning": "授權",
+      "phrase": "authorize a payment"
+    },
+    {
+      "id": 9,
+      "word": "endorse",
+      "meaning": "認可",
+      "phrase": "endorse a proposal"
+    },
+    {
+      "id": 10,
+      "word": "amend",
+      "meaning": "修訂",
+      "phrase": "amend a contract"
+    },
+    {
+      "id": 11,
+      "word": "binding",
+      "meaning": "具約束力的",
+      "phrase": "binding agreement"
+    },
+    {
+      "id": 12,
+      "word": "valid",
+      "meaning": "有效的",
+      "phrase": "valid through Friday"
+    },
+    {
+      "id": 13,
+      "word": "expire",
+      "meaning": "到期",
+      "phrase": "expire at midnight"
+    },
+    {
+      "id": 14,
+      "word": "renewal",
+      "meaning": "續約",
+      "phrase": "contract renewal"
+    },
+    {
+      "id": 15,
+      "word": "eligible",
+      "meaning": "符合資格的",
+      "phrase": "eligible for a credit"
+    },
+    {
+      "id": 16,
+      "word": "waiver",
+      "meaning": "豁免",
+      "phrase": "fee waiver"
+    },
+    {
+      "id": 17,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "late surcharge"
+    },
+    {
+      "id": 18,
+      "word": "threshold",
+      "meaning": "門檻",
+      "phrase": "discount threshold"
+    },
+    {
+      "id": 19,
+      "word": "variance",
+      "meaning": "差異",
+      "phrase": "budget variance"
+    },
+    {
+      "id": 20,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile an invoice"
+    },
+    {
+      "id": 21,
+      "word": "discrepancy",
+      "meaning": "不一致",
+      "phrase": "billing discrepancy"
+    },
+    {
+      "id": 22,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional schedule"
+    },
+    {
+      "id": 23,
+      "word": "subsequent",
+      "meaning": "後續的",
+      "phrase": "subsequent review"
+    },
+    {
+      "id": 24,
+      "word": "prior",
+      "meaning": "先前的",
+      "phrase": "prior approval"
+    },
+    {
+      "id": 25,
+      "word": "mandatory",
+      "meaning": "強制的",
+      "phrase": "mandatory training"
+    },
+    {
+      "id": 26,
+      "word": "optional",
+      "meaning": "選擇性的",
+      "phrase": "optional coverage"
+    },
+    {
+      "id": 27,
+      "word": "retain",
+      "meaning": "保留",
+      "phrase": "retain a copy"
+    },
+    {
+      "id": 28,
+      "word": "acknowledge",
+      "meaning": "確認收到",
+      "phrase": "acknowledge receipt"
+    },
+    {
+      "id": 29,
+      "word": "supersede",
+      "meaning": "取代",
+      "phrase": "supersede an earlier notice"
+    },
+    {
+      "id": 30,
+      "word": "clarification",
+      "meaning": "澄清",
+      "phrase": "request clarification"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Vendor Renewal",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is still pending?",
+          "options": {
+            "A": "Finance approval of the base package.",
+            "B": "Legal review of an addendum.",
+            "C": "A new software installation.",
+            "D": "The team's training schedule."
+          },
+          "answer": "B",
+          "explanation": "Finance has already approved the base package; Legal is still reviewing the data-processing addendum."
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply about the current price?",
+          "options": {
+            "A": "It is permanently guaranteed.",
+            "B": "It may change if approval is delayed.",
+            "C": "It has already increased.",
+            "D": "It includes free training."
+          },
+          "answer": "B",
+          "explanation": "The quoted rate depends on approval before the discount expires, so the price is not guaranteed yet."
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Ask the vendor to hold the quotation.",
+            "B": "Cancel the renewal.",
+            "C": "Approve the addendum himself.",
+            "D": "Send a final price notice to the team."
+          },
+          "answer": "A",
+          "explanation": "The woman asks him to ask the vendor to hold the quote until Thursday."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Conference Room Selection",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Oak unsuitable?",
+          "options": {
+            "A": "It is too small.",
+            "B": "It is not wheelchair accessible.",
+            "C": "It has no projector.",
+            "D": "It is unavailable Tuesday."
+          },
+          "answer": "B",
+          "explanation": "Oak meets the capacity and time requirements but is not wheelchair accessible."
+        },
+        {
+          "id": 2,
+          "prompt": "Why is Pine unsuitable?",
+          "options": {
+            "A": "It is unavailable at 1 P.M.",
+            "B": "It is too small.",
+            "C": "Its total cost exceeds the budget.",
+            "D": "It lacks accessibility."
+          },
+          "answer": "C",
+          "explanation": "Pine costs $390 plus $70 for the projector, totaling $460, above the $450 limit."
+        },
+        {
+          "id": 3,
+          "prompt": "Which room meets all requirements?",
+          "options": {
+            "A": "Maple",
+            "B": "Oak",
+            "C": "Pine",
+            "D": "Cedar"
+          },
+          "answer": "A",
+          "explanation": "Maple seats 30, is accessible, includes a projector, is available from 1 to 4, and costs $410."
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Reserve Oak.",
+            "B": "Request a larger budget.",
+            "C": "Place a provisional hold on Maple.",
+            "D": "Move the meeting to 3 P.M."
+          },
+          "answer": "C",
+          "explanation": "The woman explicitly asks him to place a provisional hold on Maple."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Portal Deadline Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When is the portal now expected to reopen?",
+          "options": {
+            "A": "Wednesday at 9 A.M.",
+            "B": "Wednesday at 10 A.M.",
+            "C": "Wednesday at 11:30 A.M.",
+            "D": "Thursday at 10 A.M."
+          },
+          "answer": "C",
+          "explanation": "The updated reopening time is Wednesday at 11:30 A.M."
+        },
+        {
+          "id": 2,
+          "prompt": "What can applicants do during the outage?",
+          "options": {
+            "A": "Submit new applications.",
+            "B": "Review previously downloaded documents.",
+            "C": "Change application categories.",
+            "D": "Upload missing files."
+          },
+          "answer": "B",
+          "explanation": "Applicants may review documents they already downloaded, but cannot submit new applications."
+        },
+        {
+          "id": 3,
+          "prompt": "What is the updated application deadline?",
+          "options": {
+            "A": "Wednesday at noon.",
+            "B": "Wednesday at 11:30 A.M.",
+            "C": "Thursday at 9 A.M.",
+            "D": "Thursday at 10 A.M."
+          },
+          "answer": "D",
+          "explanation": "The deadline is extended to Thursday at 10 A.M."
+        },
+        {
+          "id": 4,
+          "prompt": "What should applicants understand about automatic reminders?",
+          "options": {
+            "A": "They may show the old deadline.",
+            "B": "They cancel the extension.",
+            "C": "They confirm application approval.",
+            "D": "They add a late fee."
+          },
+          "answer": "A",
+          "explanation": "The announcement says automatic reminders may still show the old deadline, but the new deadline remains valid."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Training Registration / Discount Threshold / Updated Deadline",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the registration subtotal for 12 participants before discount?",
+          "options": {
+            "A": "$2,040",
+            "B": "$2,448",
+            "C": "$2,880",
+            "D": "$3,096"
+          },
+          "answer": "C",
+          "explanation": "12 × $240 = $2,880."
+        },
+        {
+          "id": 2,
+          "prompt": "What is the discounted registration cost for 12 participants?",
+          "options": {
+            "A": "$2,040",
+            "B": "$2,448",
+            "C": "$2,592",
+            "D": "$2,880"
+          },
+          "answer": "B",
+          "explanation": "$2,880 × 0.85 = $2,448."
+        },
+        {
+          "id": 3,
+          "prompt": "What is the total cost for 12 registrations including printed materials and the setup fee?",
+          "options": {
+            "A": "$2,664",
+            "B": "$2,754",
+            "C": "$2,844",
+            "D": "$3,096"
+          },
+          "answer": "B",
+          "explanation": "$2,448 registration + $216 materials + $90 setup = $2,754."
+        },
+        {
+          "id": 4,
+          "prompt": "What is the total cost if the group is reduced to 10 registrations?",
+          "options": {
+            "A": "$2,490",
+            "B": "$2,580",
+            "C": "$2,670",
+            "D": "$2,754"
+          },
+          "answer": "C",
+          "explanation": "10 registrations receive no group discount: $2,400 + $180 materials + $90 setup = $2,670."
+        },
+        {
+          "id": 5,
+          "prompt": "Which option is cheaper?",
+          "options": {
+            "A": "10 registrations",
+            "B": "12 registrations",
+            "C": "They cost the same.",
+            "D": "It cannot be determined."
+          },
+          "answer": "A",
+          "explanation": "10 registrations cost $2,670, versus $2,754 for 12."
+        },
+        {
+          "id": 6,
+          "prompt": "How much of the $2,800 budget remains if Harbor keeps 12 registrations?",
+          "options": {
+            "A": "$36",
+            "B": "$46",
+            "C": "$56",
+            "D": "$146"
+          },
+          "answer": "B",
+          "explanation": "$2,800 − $2,754 = $46."
+        },
+        {
+          "id": 7,
+          "prompt": "What is the updated deadline for changing the participant count without the administrative fee?",
+          "options": {
+            "A": "November 12",
+            "B": "November 13",
+            "C": "November 14",
+            "D": "November 20"
+          },
+          "answer": "C",
+          "explanation": "The provider extends the fee-free deadline to November 14."
+        },
+        {
+          "id": 8,
+          "prompt": "What must Harbor Consulting do to change the booking?",
+          "options": {
+            "A": "Wait for the provider to adjust it automatically.",
+            "B": "Confirm the final count by November 14.",
+            "C": "Pay the setup fee again.",
+            "D": "Cancel printed materials first."
+          },
+          "answer": "B",
+          "explanation": "The provider will not change the booking automatically and requires confirmation by November 14."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "No sooner _____ the agreement been signed than the client requested an amendment.",
+          "options": {
+            "A": "has",
+            "B": "had",
+            "C": "did",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "No sooner + had + subject + past participle."
+        },
+        {
+          "id": 2,
+          "prompt": "Only after Finance approved the budget _____ the team place the order.",
+          "options": {
+            "A": "did",
+            "B": "was",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Only after at the beginning triggers inversion: did + subject + base verb."
+        },
+        {
+          "id": 3,
+          "prompt": "The director requested that the revised clause _____ reviewed again.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "request that + subject + base verb; passive form is be reviewed."
+        },
+        {
+          "id": 4,
+          "prompt": "The documents _____ by Legal yesterday are now final.",
+          "options": {
+            "A": "reviewing",
+            "B": "reviewed",
+            "C": "review",
+            "D": "reviews"
+          },
+          "answer": "B",
+          "explanation": "The documents receive the action, so use the past participle reviewed."
+        },
+        {
+          "id": 5,
+          "prompt": "The vendor missed the deadline. _____, the client requested compensation.",
+          "options": {
+            "A": "However",
+            "B": "Therefore",
+            "C": "Meanwhile",
+            "D": "Otherwise"
+          },
+          "answer": "B",
+          "explanation": "The request for compensation is a consequence of the missed deadline."
+        },
+        {
+          "id": 6,
+          "prompt": "The renewal cannot proceed _____ Legal approves the addendum.",
+          "options": {
+            "A": "unless",
+            "B": "despite",
+            "C": "because of",
+            "D": "in case of"
+          },
+          "answer": "A",
+          "explanation": "Unless expresses the required condition."
+        },
+        {
+          "id": 7,
+          "prompt": "Please retain the confirmation email _____ a billing dispute arises.",
+          "options": {
+            "A": "unless",
+            "B": "in case",
+            "C": "despite",
+            "D": "once"
+          },
+          "answer": "B",
+          "explanation": "In case expresses a precaution."
+        },
+        {
+          "id": 8,
+          "prompt": "Neither the manager nor the analysts _____ available this afternoon.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "The nearer subject analysts is plural."
+        },
+        {
+          "id": 9,
+          "prompt": "The proposal, along with its attachments, _____ ready for circulation.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "The main subject proposal is singular."
+        },
+        {
+          "id": 10,
+          "prompt": "A number of suppliers _____ submitted revised quotations.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "A number of + plural noun takes a plural verb."
+        },
+        {
+          "id": 11,
+          "prompt": "The number of unresolved issues _____ decreased since Monday.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "The number of + plural noun takes a singular verb."
+        },
+        {
+          "id": 12,
+          "prompt": "The vendor agreed to _____ the administrative fee.",
+          "options": {
+            "A": "waiver",
+            "B": "waive",
+            "C": "waived",
+            "D": "waiving"
+          },
+          "answer": "B",
+          "explanation": "agree to + base verb."
+        },
+        {
+          "id": 13,
+          "prompt": "The proposed solution is technically _____ with the existing system.",
+          "options": {
+            "A": "compatibility",
+            "B": "compatible",
+            "C": "compatibly",
+            "D": "compete"
+          },
+          "answer": "B",
+          "explanation": "An adjective is needed after is."
+        },
+        {
+          "id": 14,
+          "prompt": "The quotation remains valid _____ Friday.",
+          "options": {
+            "A": "through",
+            "B": "among",
+            "C": "beside",
+            "D": "toward"
+          },
+          "answer": "A",
+          "explanation": "Through means up to and including Friday."
+        },
+        {
+          "id": 15,
+          "prompt": "Customers affected by the outage are eligible _____ a service credit.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "C",
+          "explanation": "The fixed expression is eligible for."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Blank [1]",
+          "options": {
+            "A": "Managers should therefore check both approval statuses before forwarding a contract.",
+            "B": "The cafeteria will close early on Fridays.",
+            "C": "Supplier catalogs are updated quarterly.",
+            "D": "Travel requests use a different form."
+          },
+          "answer": "A",
+          "explanation": "This logically follows the dual-approval requirement and supports the explanation of why the extra step exists."
+        },
+        {
+          "id": 2,
+          "prompt": "Blank [2]",
+          "options": {
+            "A": "For example",
+            "B": "However",
+            "C": "Therefore",
+            "D": "Meanwhile"
+          },
+          "answer": "B",
+          "explanation": "The sentence contrasts already-approved contracts with later amendments that must follow the new process."
+        },
+        {
+          "id": 3,
+          "prompt": "Blank [3]",
+          "options": {
+            "A": "sends",
+            "B": "sent",
+            "C": "will send",
+            "D": "will be sent"
+          },
+          "answer": "D",
+          "explanation": "The final draft receives the action, so future passive voice is required."
+        },
+        {
+          "id": 4,
+          "prompt": "Blank [4]",
+          "options": {
+            "A": "This sequence will ensure that the final version has the required approvals before signature.",
+            "B": "The old printer will be replaced next week.",
+            "C": "Parking spaces are limited near the office.",
+            "D": "The vendor meeting starts at noon."
+          },
+          "answer": "A",
+          "explanation": "This sequence clearly refers back to Finance approval, Legal approval, and forwarding to the signer."
+        }
+      ]
+    },
+    {
+      "id": "day-39-quiz",
+      "title": "Day 39 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Not until the final quotation arrived _____ Procurement approve the order.",
+          "options": {
+            "A": "did",
+            "B": "has",
+            "C": "was",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Not until triggers inversion with did + subject + base verb."
+        },
+        {
+          "id": 2,
+          "prompt": "The committee recommended that the agreement _____ amended before signing.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommend that + subject + base verb; passive form is be amended."
+        },
+        {
+          "id": 3,
+          "prompt": "The vendor lowered the price. _____, the delivery date remained unchanged.",
+          "options": {
+            "A": "Therefore",
+            "B": "However",
+            "C": "Meanwhile",
+            "D": "Otherwise"
+          },
+          "answer": "B",
+          "explanation": "The second statement contrasts with the first."
+        },
+        {
+          "id": 4,
+          "prompt": "The invoices _____ yesterday have already been reconciled.",
+          "options": {
+            "A": "received",
+            "B": "receiving",
+            "C": "receive",
+            "D": "receives"
+          },
+          "answer": "A",
+          "explanation": "The invoices were received, so use the past participle."
+        },
+        {
+          "id": 5,
+          "prompt": "How many monitors can arrive Wednesday?",
+          "options": {
+            "A": "6",
+            "B": "16",
+            "C": "18",
+            "D": "24"
+          },
+          "answer": "C",
+          "explanation": "The supplier can deliver eighteen monitors on Wednesday."
+        },
+        {
+          "id": 6,
+          "prompt": "What does the speaker imply about Thursday's training?",
+          "options": {
+            "A": "It must be canceled.",
+            "B": "The first shipment is sufficient.",
+            "C": "All 24 monitors are required.",
+            "D": "It will move to Friday."
+          },
+          "answer": "B",
+          "explanation": "Eighteen monitors arrive before the training and only sixteen are needed."
+        },
+        {
+          "id": 7,
+          "prompt": "What is the new presentation time?",
+          "options": {
+            "A": "3:20 P.M.",
+            "B": "3:50 P.M.",
+            "C": "11 A.M.",
+            "D": "2:50 P.M."
+          },
+          "answer": "A",
+          "explanation": "The updated presentation time is 3:20 P.M."
+        },
+        {
+          "id": 8,
+          "prompt": "When is the deadline to request interpretation?",
+          "options": {
+            "A": "Wednesday at 11 A.M.",
+            "B": "Thursday at 11 A.M.",
+            "C": "Thursday at 3:20 P.M.",
+            "D": "Friday at 11 A.M."
+          },
+          "answer": "B",
+          "explanation": "Interpretation requests are due by 11 A.M. Thursday."
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost?",
+          "options": {
+            "A": "$1,188",
+            "B": "$1,263",
+            "C": "$1,275",
+            "D": "$1,425"
+          },
+          "answer": "B",
+          "explanation": "15 × $90 = $1,350; 12% discount gives $1,188; plus $75 setup = $1,263."
+        },
+        {
+          "id": 10,
+          "prompt": "How much budget remains?",
+          "options": {
+            "A": "$27",
+            "B": "$37",
+            "C": "$75",
+            "D": "$112"
+          },
+          "answer": "B",
+          "explanation": "$1,300 − $1,263 = $37."
+        },
+        {
+          "id": 11,
+          "prompt": "Why does Leo qualify for the fee exception?",
+          "options": {
+            "A": "He registered after November 8.",
+            "B": "The organizer changed the workshop date.",
+            "C": "He purchased two seats.",
+            "D": "He contacted support after November 12."
+          },
+          "answer": "B",
+          "explanation": "The organizer's schedule change created a special fee-free exception for affected registrants."
+        },
+        {
+          "id": 12,
+          "prompt": "What change fee applies?",
+          "options": {
+            "A": "$0",
+            "B": "$10",
+            "C": "$15",
+            "D": "$25"
+          },
+          "answer": "A",
+          "explanation": "Leo's request on November 11 is within the fee-free exception through November 12."
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握 Part 6 跨句指涉與政策衝突，並整合更新公告、例外條件、成本及預算限制完成高密度推論。",
+  "nextDay": "Part 6 雙層指涉與句子插入／Part 3/4 不確定語氣與下一步／Triple Passage 合約條款衝突／Part 5 混合文法限時"
+}
