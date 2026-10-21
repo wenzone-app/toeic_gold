@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 40,
+  "title": "合約條款衝突、條件推論與跨文件費用決策",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+",
+  "source": "使用者提供的 Day 40 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 40 學習概覽",
+      "markdown": "- 辨認正式更新如何取代非正式估計\n- 理解 only if、provided that、unless 的條件差異\n- 使用未來完成式與倒裝處理 Part 5\n- 在 Listening 中區分已核准與尚待核准\n- 整合 Triple Passage 中的折扣、抵用額、預算與取消期限\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| compliance | 法規遵循 | regulatory compliance |\n| provision | 條款；規定 | contract provision |\n| stipulate | 明訂 | stipulate a deadline |\n| terminate | 終止 | terminate an agreement |\n| breach | 違反（契約） | breach of contract |\n| liability | 法律責任 | limit liability |\n| disclosure | 揭露 | information disclosure |\n| confidential | 機密的 | confidential records |\n| procurement | 採購 | procurement process |\n| tender | 招標；投標 | submit a tender |\n| bid | 投標；出價 | competitive bid |\n| remittance | 匯款 | remittance advice |\n| settlement | 結算；協議 | final settlement |\n| defer | 延後 | defer payment |\n| expedite | 加速辦理 | expedite a shipment |\n| backorder | 缺貨待補訂單 | place on backorder |\n| dispatch | 發送；派送 | dispatch the order |\n| fulfillment | 訂單履行 | order fulfillment |\n| replenish | 補充庫存 | replenish inventory |\n| inventory | 庫存 | inventory level |\n| lead time | 前置時間 | production lead time |\n| notwithstanding | 儘管；不受…影響 | notwithstanding the delay |\n| subject to | 以…為條件；受…約束 | subject to approval |\n| retroactive | 溯及既往的 | retroactive adjustment |\n| prospective | 未來適用的 | prospective changes |\n| concession | 讓步；優惠 | offer a concession |\n| ratify | 正式批准 | ratify an agreement |\n| implement | 實施 | implement a policy |\n| override | 凌駕；取代 | override an earlier rule |\n| exemption | 豁免 | qualify for an exemption |"
+    },
+    {
+      "title": "② 今日文法｜條件子句：only if / provided that / unless、未來完成式、否定副詞句首倒裝、Despite / Although、篇章指涉與政策優先順序",
+      "markdown": "主題：**條件子句：only if / provided that / unless、未來完成式、否定副詞句首倒裝、Despite / Although、篇章指涉與政策優先順序**\n\n### 規則 1\n\n**條件子句：only if / provided that / unless**\n\nonly if 強調必要條件；provided that 表只要條件成立；unless = if not。\n\n> The slot is available only if Legal approves the appendix.（只有法務核准附錄，時段才可使用。）\n\n> We can dispatch the order provided that payment arrives today.（只要今天收到款項，就能出貨。）\n\n> The contract will expire unless it is renewed.（若未續約，合約將到期。）\n\n### 規則 2\n\n**未來完成式**\n\nBy + 未來時間，描述在該時點前已完成：will have + p.p.\n\n> By Friday, the team will have completed the audit.（到週五前，團隊將已完成稽核。）\n\n### 規則 3\n\n**否定副詞句首倒裝**\n\nNot until / Only after 置於句首時，主句需助動詞倒裝。\n\n> Not until the notice arrived did we update the schedule.（直到通知到達，我們才更新時程。）\n\n### 規則 4\n\n**Despite / Although**\n\nDespite 後接名詞或 V-ing；Although 後接完整子句。\n\n> Despite the delay, the launch proceeded.（儘管延誤，發佈仍繼續。）\n\n> Although delivery was delayed, the launch proceeded.（雖然交貨延遲，發佈仍繼續。）\n\n### 規則 5\n\n**篇章指涉與政策優先順序**\n\nThis change / This sequence 必須指向明確前文；正式新公告若明言 supersede，應依新公告解題。\n\n> The final notice supersedes the earlier estimate.（最終通知取代先前估計。）"
+    },
+    {
+      "title": "03 Listening｜Conditional Contract Approval",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Can we send the final contract to the supplier today? Woman: Not quite. Procurement approved the pricing, but the privacy appendix still needs Legal's signature. The supplier can reserve the installation slot until Wednesday at noon. Man: So the slot is guaranteed as long as we send the contract tomorrow? Woman: Only if Legal signs the appendix before then. I'd rather not promise the date yet. Please ask Legal for an update this afternoon, and keep the backup installation date available."
+    },
+    {
+      "title": "04 Listening｜Temperature-Controlled Delivery",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> We need to send twenty-four temperature-sensitive samples to the research center by nine thirty Thursday morning. Refrigeration and a signed delivery receipt are mandatory. The total shipping budget is three hundred sixty dollars. Service A has enough capacity, but arrives fifteen minutes after our deadline. Service B is on time but does not provide refrigeration. Service D arrives early, although a signature is not included. That leaves Service C, which costs three hundred forty-five dollars. Please book it today."
+    },
+    {
+      "title": "05 Listening｜Revised Compliance Training Notice",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, employees. Monday's compliance-training portal was scheduled to reopen at ten in the morning, but the vendor now expects service to resume at one in the afternoon. You may still read training certificates that you downloaded earlier, but new course completions cannot be recorded during the outage. Employees originally required to finish by Tuesday at four may now complete the training until Wednesday at noon. Automated reminders might still show Tuesday's deadline. The extension in this announcement takes precedence."
+    },
+    {
+      "title": "⑥ Reading｜Tablet Rental, Service Credit and Superseding Notice",
+      "markdown": "限時：**8 分 30 秒**。\n\n### Equipment Rental Terms\n\n> Business tablets rent for $160 per unit per month. Orders of eight or more tablets receive a 10% discount on the equipment rental subtotal only. Optional maintenance coverage costs $18 per tablet per month and is not discounted. A one-time installation fee of $125 applies to the first invoice. If delivery is more than two business days late, the customer receives a $90 service credit on the next month's invoice. The credit cannot be applied to the delivery month's invoice.\n\n用途：policy\n\n### Customer Booking and Internal Note\n\n> Lakeshore Design rented eight tablets with maintenance coverage for all eight units. The confirmed delivery date was Wednesday, November 4, 2026. Actual delivery took place on Monday, November 9, 2026, three business days late. The November equipment-and-service budget is $1,400; the December budget is $1,200. An internal note written before delivery says, 'We expect the $90 delay credit to reduce our November payment.' The customer is considering canceling maintenance for December if needed.\n\n用途：order\n\n### Vendor Final Confirmation — Supersedes Earlier Estimate\n\n> Our final delivery review confirms that Lakeshore Design qualifies for the $90 service credit. Consistent with the rental terms, the credit will appear on the December invoice, not the November invoice. This confirmation supersedes any earlier informal estimate of the credit date. Maintenance will continue unless we receive a cancellation request by November 22. A timely cancellation will remove all eight maintenance charges from December onward. The one-time installation fee will not be charged again in December.\n\n用途：email"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Updated Document-Retention Requirements\n> \n> Starting December 1, all records related to newly signed supplier contracts must be retained for seven years rather than five. [1] _____\n> \n> Records for contracts completed before December 1 are not affected. [2] _____, an amendment signed on or after that date must follow the new retention requirement, even if the original contract was signed earlier.\n> \n> Before the records enter the secure archive, Compliance must verify the contract date and amendment history. Once that review is complete, each file [3] _____ to the archive by the records team.\n> \n> [4] _____\n> \n> Please contact Compliance if the status of a particular amendment is unclear."
+    },
+    {
+      "title": "⑨ Day 40 小考",
+      "markdown": "正式限時：**5 分 30 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 38、Day 39**。\n\n### 複習重點\n- Only if 的必要條件\n- Not until 倒裝\n- Part 6 句子插入與 This sequence 指涉\n- 更新通知覆蓋舊資料\n- 抵用額適用月份\n- 折扣與附加費分開計算\n\n### 加強練習\n- 解釋 L40-1 為何尚不能承諾安裝日期。\n- 重算 11 月與 12 月發票，分清抵用額適用月份。\n- 在 P6-40-04 指出 This review-and-transfer sequence 的完整先行事件。\n\n### 錯題標籤\n- `G`：Grammar\n- `L`：Listening\n- `DETAIL`：Detail\n- `IMP`：Implication\n- `I`：Information Integration\n- `U`：Updated Information\n- `E`：Exception\n- `T`：Timeline\n- `CAL`：Calculation\n- `BUD`：Budget Constraint\n- `N`：Next Action\n- `P`：Part 6 Passage Logic\n- `POLICY`：Policy Conflict\n- `CONDITION`：Conditional Meaning\n- `DISCOUNT`：Discount Threshold\n- `INV`：Inversion\n- `TENSE`：Tense\n- `FORM`：Word Form\n- `CONTRAST`：Contrast\n- `RELATIVE`：Relative Clause\n- `VOC`：Vocabulary\n- `COLLOCATION`：Collocation\n- `REFERENCE`：Reference\n- `AGR`：Agreement\n- `SUBJ`：Subjunctive\n- `CAUSE`：Cause\n- `POS`：Part of Speech\n- `PASSIVE`：Passive Voice"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字分兩輪複習，挑選 8 個造句。\n- Part 5 15 題首次限時 4 分鐘，錯題重做限時 3 分鐘。\n- Part 6 四題各寫一句前後文銜接理由。\n- Listening 三組各聽兩次，第二次用 1.1x TTS 並隱藏 transcript。\n- 重算 11 月 $1,421、12 月保留保養 $1,206、取消保養 $1,062。\n- 正式小考 12 題限時 5 分 30 秒，第二輪 5 分鐘。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "compliance",
+      "meaning": "法規遵循",
+      "phrase": "regulatory compliance"
+    },
+    {
+      "id": 2,
+      "word": "provision",
+      "meaning": "條款；規定",
+      "phrase": "contract provision"
+    },
+    {
+      "id": 3,
+      "word": "stipulate",
+      "meaning": "明訂",
+      "phrase": "stipulate a deadline"
+    },
+    {
+      "id": 4,
+      "word": "terminate",
+      "meaning": "終止",
+      "phrase": "terminate an agreement"
+    },
+    {
+      "id": 5,
+      "word": "breach",
+      "meaning": "違反（契約）",
+      "phrase": "breach of contract"
+    },
+    {
+      "id": 6,
+      "word": "liability",
+      "meaning": "法律責任",
+      "phrase": "limit liability"
+    },
+    {
+      "id": 7,
+      "word": "disclosure",
+      "meaning": "揭露",
+      "phrase": "information disclosure"
+    },
+    {
+      "id": 8,
+      "word": "confidential",
+      "meaning": "機密的",
+      "phrase": "confidential records"
+    },
+    {
+      "id": 9,
+      "word": "procurement",
+      "meaning": "採購",
+      "phrase": "procurement process"
+    },
+    {
+      "id": 10,
+      "word": "tender",
+      "meaning": "招標；投標",
+      "phrase": "submit a tender"
+    },
+    {
+      "id": 11,
+      "word": "bid",
+      "meaning": "投標；出價",
+      "phrase": "competitive bid"
+    },
+    {
+      "id": 12,
+      "word": "remittance",
+      "meaning": "匯款",
+      "phrase": "remittance advice"
+    },
+    {
+      "id": 13,
+      "word": "settlement",
+      "meaning": "結算；協議",
+      "phrase": "final settlement"
+    },
+    {
+      "id": 14,
+      "word": "defer",
+      "meaning": "延後",
+      "phrase": "defer payment"
+    },
+    {
+      "id": 15,
+      "word": "expedite",
+      "meaning": "加速辦理",
+      "phrase": "expedite a shipment"
+    },
+    {
+      "id": 16,
+      "word": "backorder",
+      "meaning": "缺貨待補訂單",
+      "phrase": "place on backorder"
+    },
+    {
+      "id": 17,
+      "word": "dispatch",
+      "meaning": "發送；派送",
+      "phrase": "dispatch the order"
+    },
+    {
+      "id": 18,
+      "word": "fulfillment",
+      "meaning": "訂單履行",
+      "phrase": "order fulfillment"
+    },
+    {
+      "id": 19,
+      "word": "replenish",
+      "meaning": "補充庫存",
+      "phrase": "replenish inventory"
+    },
+    {
+      "id": 20,
+      "word": "inventory",
+      "meaning": "庫存",
+      "phrase": "inventory level"
+    },
+    {
+      "id": 21,
+      "word": "lead time",
+      "meaning": "前置時間",
+      "phrase": "production lead time"
+    },
+    {
+      "id": 22,
+      "word": "notwithstanding",
+      "meaning": "儘管；不受…影響",
+      "phrase": "notwithstanding the delay"
+    },
+    {
+      "id": 23,
+      "word": "subject to",
+      "meaning": "以…為條件；受…約束",
+      "phrase": "subject to approval"
+    },
+    {
+      "id": 24,
+      "word": "retroactive",
+      "meaning": "溯及既往的",
+      "phrase": "retroactive adjustment"
+    },
+    {
+      "id": 25,
+      "word": "prospective",
+      "meaning": "未來適用的",
+      "phrase": "prospective changes"
+    },
+    {
+      "id": 26,
+      "word": "concession",
+      "meaning": "讓步；優惠",
+      "phrase": "offer a concession"
+    },
+    {
+      "id": 27,
+      "word": "ratify",
+      "meaning": "正式批准",
+      "phrase": "ratify an agreement"
+    },
+    {
+      "id": 28,
+      "word": "implement",
+      "meaning": "實施",
+      "phrase": "implement a policy"
+    },
+    {
+      "id": 29,
+      "word": "override",
+      "meaning": "凌駕；取代",
+      "phrase": "override an earlier rule"
+    },
+    {
+      "id": 30,
+      "word": "exemption",
+      "meaning": "豁免",
+      "phrase": "qualify for an exemption"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Conditional Contract Approval",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What has not yet been completed?",
+          "options": {
+            "A": "A review of the installation cost.",
+            "B": "Legal approval of the privacy appendix.",
+            "C": "The supplier’s equipment delivery.",
+            "D": "A customer training session."
+          },
+          "answer": "B",
+          "explanation": "採購價格已核准，但隱私附錄尚待法務簽署。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply about the installation date?",
+          "options": {
+            "A": "It has been permanently reserved.",
+            "B": "It has already been postponed.",
+            "C": "It depends on an outstanding approval.",
+            "D": "It must be moved to next month."
+          },
+          "answer": "C",
+          "explanation": "她說「Only if Legal signs...」且不願先承諾日期，表示安裝時段仍有條件。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the woman ask the man to do?",
+          "options": {
+            "A": "Request an update from Legal and retain a backup date.",
+            "B": "Cancel the contract immediately.",
+            "C": "Increase the installation budget.",
+            "D": "Announce the installation date to all employees."
+          },
+          "answer": "A",
+          "explanation": "明確要求下午向 Legal 追蹤進度，並保留備用安裝日期。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Temperature-Controlled Delivery",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Service A not suitable?",
+          "options": {
+            "A": "It lacks refrigeration.",
+            "B": "It arrives after the deadline.",
+            "C": "It cannot carry 24 samples.",
+            "D": "It exceeds the shipping budget."
+          },
+          "answer": "B",
+          "explanation": "A 於 9:45 抵達，超過 9:30 截止時間 15 分鐘。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which requirement does Service D fail to meet?",
+          "options": {
+            "A": "Temperature control.",
+            "B": "The cost limit.",
+            "C": "Signature confirmation.",
+            "D": "Minimum capacity."
+          },
+          "answer": "C",
+          "explanation": "D 沒有簽收確認，違反必要條件。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which service satisfies every requirement?",
+          "options": {
+            "A": "Service A.",
+            "B": "Service B.",
+            "C": "Service C.",
+            "D": "Service D."
+          },
+          "answer": "C",
+          "explanation": "C：28 件容量、9:20 到達、冷藏、簽收、$345 ≤ $360。"
+        },
+        {
+          "id": 4,
+          "prompt": "How much remains in the shipping budget after booking the suitable service?",
+          "options": {
+            "A": "$15.",
+            "B": "$25.",
+            "C": "$35.",
+            "D": "$45."
+          },
+          "answer": "A",
+          "explanation": "預算 $360 − Service C $345 = $15。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Revised Compliance Training Notice",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When is the portal now expected to reopen?",
+          "options": {
+            "A": "Monday at 10 A.M.",
+            "B": "Monday at noon.",
+            "C": "Monday at 1 P.M.",
+            "D": "Tuesday at 4 P.M."
+          },
+          "answer": "C",
+          "explanation": "公告把原本週一 10:00 更新為週一 13:00。"
+        },
+        {
+          "id": 2,
+          "prompt": "What remains available during the outage?",
+          "options": {
+            "A": "Submitting new completions.",
+            "B": "Reading previously downloaded certificates.",
+            "C": "Updating employee accounts.",
+            "D": "Requesting new training courses."
+          },
+          "answer": "B",
+          "explanation": "仍可閱讀已下載的證書，但無法記錄新的完成紀錄。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the new training deadline?",
+          "options": {
+            "A": "Tuesday at 4 P.M.",
+            "B": "Wednesday at 10 A.M.",
+            "C": "Wednesday at noon.",
+            "D": "Thursday at noon."
+          },
+          "answer": "C",
+          "explanation": "期限由週二 16:00 延至週三中午。"
+        },
+        {
+          "id": 4,
+          "prompt": "How should employees interpret an automatic reminder showing Tuesday?",
+          "options": {
+            "A": "The reminder cancels the extension.",
+            "B": "The reminder indicates an additional fee.",
+            "C": "The training portal has already reopened.",
+            "D": "The newer announcement takes precedence."
+          },
+          "answer": "D",
+          "explanation": "自動提醒可能是舊資料；正式新公告具有優先效力。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Tablet Rental, Service Credit and Superseding Notice",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the discounted monthly equipment rental charge for eight tablets?",
+          "options": {
+            "A": "$1,024.",
+            "B": "$1,152.",
+            "C": "$1,280.",
+            "D": "$1,405."
+          },
+          "answer": "B",
+          "explanation": "8 × $160 = $1,280；符合 8 台以上 10% 折扣，$1,280 × 0.9 = $1,152。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the total November invoice, including maintenance and installation?",
+          "options": {
+            "A": "$1,296.",
+            "B": "$1,331.",
+            "C": "$1,421.",
+            "D": "$1,511."
+          },
+          "answer": "C",
+          "explanation": "設備 $1,152 + 保養 8×$18=$144 + 首月安裝 $125 = $1,421；11 月不能扣 $90。"
+        },
+        {
+          "id": 3,
+          "prompt": "How does the November invoice compare with the November budget?",
+          "options": {
+            "A": "It is $21 over budget.",
+            "B": "It is $21 under budget.",
+            "C": "It is $90 over budget.",
+            "D": "It exactly meets the budget."
+          },
+          "answer": "A",
+          "explanation": "11 月預算 $1,400，發票 $1,421，超出 $21。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why should the internal note about the November credit not be used for billing?",
+          "options": {
+            "A": "The customer did not order enough tablets.",
+            "B": "The vendor canceled the credit.",
+            "C": "The installation fee replaces the credit.",
+            "D": "The final vendor confirmation supersedes the earlier estimate."
+          },
+          "answer": "D",
+          "explanation": "正式供應商確認取代先前非正式估計，$90 抵用額適用 12 月，不適用 11 月。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is the December invoice if maintenance remains active?",
+          "options": {
+            "A": "$1,062.",
+            "B": "$1,152.",
+            "C": "$1,206.",
+            "D": "$1,296."
+          },
+          "answer": "C",
+          "explanation": "12 月設備 $1,152 + 保養 $144 − 抵用額 $90 = $1,206。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is the December invoice if maintenance is canceled on time?",
+          "options": {
+            "A": "$972.",
+            "B": "$1,062.",
+            "C": "$1,116.",
+            "D": "$1,152."
+          },
+          "answer": "B",
+          "explanation": "取消保養後，12 月只收設備 $1,152 − 抵用額 $90 = $1,062。"
+        },
+        {
+          "id": 7,
+          "prompt": "By what date must Lakeshore request cancellation to avoid December maintenance charges?",
+          "options": {
+            "A": "November 9.",
+            "B": "November 20.",
+            "C": "November 22.",
+            "D": "December 1."
+          },
+          "answer": "C",
+          "explanation": "供應商正式通知：取消要求須於 11 月 22 日前收到。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is the most appropriate next action if Lakeshore must stay within the December budget?",
+          "options": {
+            "A": "Ask for timely maintenance cancellation.",
+            "B": "Apply the installation fee again in December.",
+            "C": "Assume the informal November credit estimate is binding.",
+            "D": "Increase the number of rented tablets."
+          },
+          "answer": "A",
+          "explanation": "保留保養時 12 月 $1,206，超出 $1,200；如需符合預算，可在期限內取消保養，12 月降為 $1,062。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "By the time the auditors arrive on Friday, the team _____ all outstanding receipts.",
+          "options": {
+            "A": "reconciles",
+            "B": "had reconciled",
+            "C": "will have reconciled",
+            "D": "has been reconciling"
+          },
+          "answer": "C",
+          "explanation": "by the time + 未來時間，主句可用未來完成式 will have + p.p. 表示屆時已完成。"
+        },
+        {
+          "id": 2,
+          "prompt": "Not until the revised policy was circulated _____ the staff understand the new requirement.",
+          "options": {
+            "A": "did",
+            "B": "has",
+            "C": "was",
+            "D": "does"
+          },
+          "answer": "A",
+          "explanation": "Not until 置句首，主句須倒裝：did + S + 原形動詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "Provided that the supplier _____ the specifications, the order may proceed.",
+          "options": {
+            "A": "meet",
+            "B": "meets",
+            "C": "meeting",
+            "D": "met"
+          },
+          "answer": "B",
+          "explanation": "provided that 引導條件子句，現在時表未來條件；supplier 單數配 meets。"
+        },
+        {
+          "id": 4,
+          "prompt": "Despite _____ several revisions, the editor still identified a formatting error.",
+          "options": {
+            "A": "receive",
+            "B": "received",
+            "C": "having received",
+            "D": "to receive"
+          },
+          "answer": "C",
+          "explanation": "despite 是介系詞，後接名詞或動名詞；having received 表編輯已收到多次修訂稿。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ the quotation is lower, the delivery lead time is considerably longer.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Because of",
+            "D": "In spite of"
+          },
+          "answer": "B",
+          "explanation": "Although + 完整子句；Despite / In spite of 後接名詞或 V-ing。"
+        },
+        {
+          "id": 6,
+          "prompt": "The service agreement, _____ expires in December, must be renewed soon.",
+          "options": {
+            "A": "which",
+            "B": "what",
+            "C": "who",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "非限定關係子句修飾 agreement，使用 which。"
+        },
+        {
+          "id": 7,
+          "prompt": "The supplier agreed to _____ the replacement parts at no additional charge.",
+          "options": {
+            "A": "expedition",
+            "B": "expedite",
+            "C": "expedited",
+            "D": "expediting"
+          },
+          "answer": "B",
+          "explanation": "agree to + 原形動詞 expedite。"
+        },
+        {
+          "id": 8,
+          "prompt": "The two quotations differ _____ approximately $400.",
+          "options": {
+            "A": "with",
+            "B": "at",
+            "C": "by",
+            "D": "from"
+          },
+          "answer": "C",
+          "explanation": "differ by + 差額，表示相差多少金額。"
+        },
+        {
+          "id": 9,
+          "prompt": "The revised instructions supersede _____ issued last month.",
+          "options": {
+            "A": "them",
+            "B": "those",
+            "C": "their",
+            "D": "they"
+          },
+          "answer": "B",
+          "explanation": "those 指代先前發布的 instructions，避免重複名詞。"
+        },
+        {
+          "id": 10,
+          "prompt": "Neither of the invoices _____ been approved for payment.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Neither of + 複數名詞，正式考試通常視為單數主詞，配 has。"
+        },
+        {
+          "id": 11,
+          "prompt": "The chair insisted that the revised summary _____ circulated before noon.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "insist that + 主詞 + 原形動詞；被動形式 be circulated。"
+        },
+        {
+          "id": 12,
+          "prompt": "The inspection was postponed _____ unexpected equipment problems.",
+          "options": {
+            "A": "although",
+            "B": "despite",
+            "C": "due to",
+            "D": "unless"
+          },
+          "answer": "C",
+          "explanation": "due to + 名詞片語，表示因為設備問題而延期。"
+        },
+        {
+          "id": 13,
+          "prompt": "Customers may request an exchange _____ they provide proof of purchase.",
+          "options": {
+            "A": "provided that",
+            "B": "in spite of",
+            "C": "rather than",
+            "D": "regardless of"
+          },
+          "answer": "A",
+          "explanation": "provided that = 只要／以…為條件，後接完整子句。"
+        },
+        {
+          "id": 14,
+          "prompt": "The new system allows orders to be processed more _____ than before.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiency",
+            "C": "efficiently",
+            "D": "efficiencies"
+          },
+          "answer": "C",
+          "explanation": "修飾 processed 需副詞 efficiently。"
+        },
+        {
+          "id": 15,
+          "prompt": "The procurement manager is responsible _____ verifying the vendor certificates.",
+          "options": {
+            "A": "of",
+            "B": "with",
+            "C": "at",
+            "D": "for"
+          },
+          "answer": "D",
+          "explanation": "be responsible for + 名詞/V-ing 是固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "The change replaces the five-year period specified in last month’s memo.",
+            "B": "The company cafeteria will reopen next Monday.",
+            "C": "The supplier meeting has been moved to Room B.",
+            "D": "Travel expenses are reimbursed separately."
+          },
+          "answer": "A",
+          "explanation": "第一段將保留年限由 5 年改為 7 年，選項 A 清楚說明新規定取代舊備忘錄，與上下文一致。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which expression best completes blank [2]?",
+          "options": {
+            "A": "For instance",
+            "B": "Therefore",
+            "C": "However",
+            "D": "Similarly"
+          },
+          "answer": "C",
+          "explanation": "前句說舊合約不受影響，後句說新修訂仍受新規範限制，兩者為轉折關係。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which form best completes blank [3]?",
+          "options": {
+            "A": "transfers",
+            "B": "will be transferred",
+            "C": "has transferred",
+            "D": "transferring"
+          },
+          "answer": "B",
+          "explanation": "file 是被移入檔案庫，且在審查完成後發生，使用未來被動 will be transferred。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "As a result, all records can be deleted immediately.",
+            "B": "The office will replace its conference chairs.",
+            "C": "Employees should submit meal receipts by Friday.",
+            "D": "This review-and-transfer sequence helps prevent records from being archived under the wrong rule."
+          },
+          "answer": "D",
+          "explanation": "This review-and-transfer sequence 指代前文「核對日期與修訂紀錄 → 移入安全檔案庫」的完整程序。"
+        }
+      ]
+    },
+    {
+      "id": "day-40-quiz",
+      "title": "Day 40 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "By next Tuesday, the team _____ the revised compliance report.",
+          "options": {
+            "A": "will complete",
+            "B": "will have completed",
+            "C": "has completing",
+            "D": "completes"
+          },
+          "answer": "B",
+          "explanation": "By + 未來時間，強調屆時已完成，可用未來完成式。"
+        },
+        {
+          "id": 2,
+          "prompt": "Not until the vendor supplied the missing documents _____ the review resume.",
+          "options": {
+            "A": "has",
+            "B": "was",
+            "C": "did",
+            "D": "does"
+          },
+          "answer": "C",
+          "explanation": "Not until 置句首，主句過去式倒裝用 did + S + 原形動詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the high installation cost, the department approved the proposal.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Because",
+            "D": "Unless"
+          },
+          "answer": "A",
+          "explanation": "Despite 後接名詞片語 the high installation cost。"
+        },
+        {
+          "id": 4,
+          "prompt": "The director requested that the revised notice _____ sent before noon.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "being",
+            "D": "be"
+          },
+          "answer": "D",
+          "explanation": "request that + S + 原形動詞，被動用 be sent。"
+        },
+        {
+          "id": 5,
+          "prompt": "What has the committee already approved?",
+          "options": {
+            "A": "The final publication date.",
+            "B": "The printing budget.",
+            "C": "The legal disclaimer.",
+            "D": "The venue contract."
+          },
+          "answer": "B",
+          "explanation": "發言者說已核准 printing budget；disclaimer 尚待 Legal 審查。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does the speaker imply about Friday’s publication?",
+          "options": {
+            "A": "It is conditional on Legal approval.",
+            "B": "It has been canceled permanently.",
+            "C": "It was completed yesterday.",
+            "D": "It requires no further review."
+          },
+          "answer": "A",
+          "explanation": "only if 表必要條件，週五發佈仍不確定。"
+        },
+        {
+          "id": 7,
+          "prompt": "When is the revised pickup time?",
+          "options": {
+            "A": "9:10 A.M.",
+            "B": "9:40 A.M.",
+            "C": "10:10 A.M.",
+            "D": "10:40 A.M."
+          },
+          "answer": "B",
+          "explanation": "取件時間由 9:10 更新為 9:40。"
+        },
+        {
+          "id": 8,
+          "prompt": "What must be sent before pickup?",
+          "options": {
+            "A": "A signed employment contract.",
+            "B": "A new supplier quotation.",
+            "C": "A revised training schedule.",
+            "D": "The packing list."
+          },
+          "answer": "D",
+          "explanation": "發言者要求在 8:30 前把 packing list 送給 Dispatch。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total amount due after the volume discount and fixed handling fee?",
+          "options": {
+            "A": "$1,040.",
+            "B": "$1,100.",
+            "C": "$1,136.",
+            "D": "$1,160."
+          },
+          "answer": "C",
+          "explanation": "16×$75=$1,200；折扣 8% 後 $1,104；加 $32 handling = $1,136。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the budget remains?",
+          "options": {
+            "A": "$14.",
+            "B": "$24.",
+            "C": "$32.",
+            "D": "$46."
+          },
+          "answer": "A",
+          "explanation": "預算 $1,150 − 總額 $1,136 = $14。"
+        },
+        {
+          "id": 11,
+          "prompt": "Which deadline governs the affected attendees’ free changes?",
+          "options": {
+            "A": "December 2.",
+            "B": "December 3.",
+            "C": "December 9.",
+            "D": "December 5."
+          },
+          "answer": "D",
+          "explanation": "更新公告針對受影響學員提供免手續費變更期限至 12/5，取代一般 12/2 後收費規則。"
+        },
+        {
+          "id": 12,
+          "prompt": "How much should Dana pay for the change?",
+          "options": {
+            "A": "$0.",
+            "B": "$15.",
+            "C": "$25.",
+            "D": "$35."
+          },
+          "answer": "A",
+          "explanation": "Dana 12/4 申請，符合受影響學員 12/5 前免收變更費的例外。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "辨認正式更新如何取代非正式估計；理解 only if、provided that、unless 的條件差異；使用未來完成式與倒裝處理 Part 5。",
+  "nextDay": "合約例外條款與條件限制／Part 3/4 間接意圖與否定回應／Part 6 雙層指涉與時間一致性／跨文件折扣與信用額衝突"
+}

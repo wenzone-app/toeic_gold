@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 41,
+  "title": "商務差旅報銷、Part 3/4 隱含意圖與 Part 7 多文件計算",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "使用者提供的 Day 41 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 41 學習概覽",
+      "markdown": "- 掌握差旅報銷、會議與費用上限的商務單字\n- 辨認關係子句、分詞修飾、比較級與未來時間子句\n- 從聽力辨認尚未確認的安排與下一步行動\n- 根據圖表排除不符合時間、設備及預算的場地\n- 整合多文件收據、逐日上限、延期與申請期限\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| itinerary | 行程表 | revised itinerary |\n| reimbursement | 報銷 | request reimbursement |\n| per diem | 每日津貼 | daily per diem |\n| incidental | 雜項的 | incidental expenses |\n| lodging | 住宿 | lodging expenses |\n| fare | 票價 | round-trip fare |\n| mileage | 里程 | mileage allowance |\n| itemized | 逐項列明的 | itemized receipt |\n| receipt | 收據 | retain a receipt |\n| claim | 申請報銷 | file a claim |\n| allowance | 津貼 | travel allowance |\n| deductible | 可扣除的 | deductible expense |\n| cap | 上限 | spending cap |\n| exceed | 超過 | exceed the limit |\n| verify | 核實 | verify the details |\n| roster | 名冊 | attendee roster |\n| attendee | 出席者 | registered attendee |\n| registration | 報名 | registration fee |\n| keynote | 主題演講 | keynote speaker |\n| session | 場次 | training session |\n| venue | 活動場地 | conference venue |\n| capacity | 容納量 | seating capacity |\n| reschedule | 重新安排 | reschedule an event |\n| cancellation | 取消 | cancellation policy |\n| refundable | 可退款的 | refundable deposit |\n| transfer | 轉移 | transfer a booking |\n| complimentary | 免費提供的 | complimentary shuttle |\n| confirmation | 確認通知 | booking confirmation |\n| accommodate | 容納 | accommodate guests |\n| within | 在期限內 | within ten days |"
+    },
+    {
+      "title": "② 今日文法｜關係代名詞與分詞修飾、比較級與 as...as、未來時間子句、介系詞與連接詞、主詞一致與固定搭配",
+      "markdown": "主題：**關係代名詞與分詞修飾、比較級與 as...as、未來時間子句、介系詞與連接詞、主詞一致與固定搭配**\n\n### 規則 1\n\n**關係代名詞與分詞修飾**\n\n指人的主詞關係代名詞使用 who；名詞承受動作時可用過去分詞修飾。\n\n> The forms submitted yesterday will be reviewed.\n\n### 規則 2\n\n**比較級與 as...as**\n\n有 than 用比較級；as...as 中間用原級。\n\n> The meeting ended earlier than expected.\n\n### 規則 3\n\n**未來時間子句**\n\nas soon as / once / when 引導未來時間子句，通常用現在式。\n\n> We will email you once payment arrives.\n\n### 規則 4\n\n**介系詞與連接詞**\n\nAlthough 後接完整子句；despite/due to 後接名詞或名詞片語。\n\n> Although the fare rose, the company kept the budget.\n\n### 規則 5\n\n**主詞一致與固定搭配**\n\nneither...nor 採就近一致；responsible for + V-ing。\n\n> Neither the manager nor the assistants were available."
+    },
+    {
+      "title": "03 Listening｜Product Demonstration and Tentative Schedule",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: I saw that the product demonstration was moved from ten to eleven thirty. Is the client still arriving at ten? Woman: Yes, but their engineer's flight has been delayed. We can start with a showroom tour at ten and begin the live demonstration at eleven thirty. Man: Should I send the revised agenda now? Woman: Wait until the engineer confirms the arrival time. So far, we've only received an airline update. Meanwhile, could you extend our testing-room reservation from noon until one?"
+    },
+    {
+      "title": "04 Listening｜Venue Selection with a Schedule",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: We need a venue for forty-two attendees this Friday, from two to five in the afternoon. The room must be wheelchair accessible and support hybrid video meetings. Our maximum budget is six hundred eighty dollars. Man: Cedar is within budget, but it doesn't support hybrid meetings. Summit has everything we need except the price: it's six hundred ninety dollars. Garden isn't available until three. Woman: Then Harbor is our best choice. Please place a hold on it until Wednesday at four, when the client expects to confirm the attendance list."
+    },
+    {
+      "title": "05 Listening｜Shuttle Service Changes",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, passengers using Route Eight to the Convention Center. On Wednesday only, construction will change the usual departure from eight twenty at Platform Three to eight thirty-five at Platform Five. Route Eight will not stop at Riverside Station that day. Passengers going to Riverside should instead take Route Twelve from Platform Two at eight twenty-five. Monthly passes will be accepted on either route. Please note that some printed signs may still display the old platform number."
+    },
+    {
+      "title": "⑥ Reading｜Conference Travel Reimbursement and Rescheduled Dates",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Employee Conference Expense Policy\n\n> For approved business conferences, the company reimburses hotel charges up to $145 per night for the actual nights stayed. Meal expenses are reimbursed up to $48 per travel day, based on itemized receipts; amounts above the daily limit are not reimbursed. Conference registration is reimbursable at the amount actually paid. Registration booked by May 8 qualifies for the $270 early-bird rate; later registration costs $320. Airport shuttle expenses are reimbursable up to $35 for the entire round trip. Parking expenses are not reimbursable. A claim must be submitted within 10 calendar days after the last day of actual travel. An itemized receipt is required for any single expense exceeding $25.\n\n用途：參考文件\n\n### Avery's Booking and Receipts\n\n> Avery's conference was initially scheduled for June 12–14. Registration was purchased on May 7 for $270. A hotel reservation for two nights costs $138 per night. The actual meal receipts for the three travel days are $40, $52, and $45 respectively. The round-trip airport shuttle receipt is $32. Avery also paid $18 for parking. All reimbursable expenses above $25 have itemized receipts.\n\n用途：參考文件\n\n### Organizer and HR Update\n\n> The organizer has moved the conference to June 19–21. The hotel has transferred Avery's two-night reservation to the new dates at the same $138 nightly rate, with no additional fee. The early-bird registration payment remains valid. HR confirms that the expense-claim deadline is now calculated from the actual final travel day, June 21, making July 1 the final submission date. The parking exclusion remains in force. Avery submitted the claim on June 30.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Updated Visitor Check-In Instructions\n> \n> Starting next Monday, all visitors attending training sessions must check in on the ground floor before going to the meeting rooms. [1] _____\n> \n> Guests who registered online will receive a QR code in their confirmation email. [2] _____\n> \n> After the receptionist verifies a visitor's name, a temporary badge [3] _____. Visitors must wear the badge while inside the building.\n> \n> At the end of the session, visitors should return the badges to the reception desk. [4] _____"
+    },
+    {
+      "title": "⑨ Day 41 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 38、Day 39、Day 40**。\n\n### 複習重點\n- **倒裝與要求式假設語氣**：各寫出 Not until + did 與 request that + be 的例句。\n- **時間與政策更新**：區分 originally / now / instead / remains valid。\n- **跨文件費用計算**：先判定逐項上限、折扣適用項目及不可報銷費用，再加總。\n- **推論與下一步**：區分已確認、尚待確認與被要求採取的行動。\n\n### 錯題標籤\n- `G`：一般文法\n- `REL`：關係子句\n- `COMP`：比較級\n- `TIME`：時間子句或期限\n- `VOC`：字彙搭配\n- `L`：聽力細節\n- `DETAIL`：關鍵細節\n- `IMP`：隱含意圖\n- `I`：資訊整合\n- `U`：更新資訊\n- `E`：例外規則\n- `CAL`：計算\n- `BUD`：預算限制\n- `CAP`：報銷上限"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個商務英文句子。\n- Part 5 15 題首次限時 4 分鐘，重做限時 3 分 30 秒。\n- Part 6 4 題重做，說明每題上下文銜接或指涉對象。\n- 三組 Listening 各練兩次，第二輪使用網站 TTS 1.1 倍速且不看逐字稿。\n- 重新計算 Avery 的住宿、逐日餐費、接駁與總報銷金額。\n- Day 41 小考第二輪限時 5 分 30 秒，保留首次答案、時間與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "itinerary",
+      "meaning": "行程表",
+      "phrase": "revised itinerary"
+    },
+    {
+      "id": 2,
+      "word": "reimbursement",
+      "meaning": "報銷",
+      "phrase": "request reimbursement"
+    },
+    {
+      "id": 3,
+      "word": "per diem",
+      "meaning": "每日津貼",
+      "phrase": "daily per diem"
+    },
+    {
+      "id": 4,
+      "word": "incidental",
+      "meaning": "雜項的",
+      "phrase": "incidental expenses"
+    },
+    {
+      "id": 5,
+      "word": "lodging",
+      "meaning": "住宿",
+      "phrase": "lodging expenses"
+    },
+    {
+      "id": 6,
+      "word": "fare",
+      "meaning": "票價",
+      "phrase": "round-trip fare"
+    },
+    {
+      "id": 7,
+      "word": "mileage",
+      "meaning": "里程",
+      "phrase": "mileage allowance"
+    },
+    {
+      "id": 8,
+      "word": "itemized",
+      "meaning": "逐項列明的",
+      "phrase": "itemized receipt"
+    },
+    {
+      "id": 9,
+      "word": "receipt",
+      "meaning": "收據",
+      "phrase": "retain a receipt"
+    },
+    {
+      "id": 10,
+      "word": "claim",
+      "meaning": "申請報銷",
+      "phrase": "file a claim"
+    },
+    {
+      "id": 11,
+      "word": "allowance",
+      "meaning": "津貼",
+      "phrase": "travel allowance"
+    },
+    {
+      "id": 12,
+      "word": "deductible",
+      "meaning": "可扣除的",
+      "phrase": "deductible expense"
+    },
+    {
+      "id": 13,
+      "word": "cap",
+      "meaning": "上限",
+      "phrase": "spending cap"
+    },
+    {
+      "id": 14,
+      "word": "exceed",
+      "meaning": "超過",
+      "phrase": "exceed the limit"
+    },
+    {
+      "id": 15,
+      "word": "verify",
+      "meaning": "核實",
+      "phrase": "verify the details"
+    },
+    {
+      "id": 16,
+      "word": "roster",
+      "meaning": "名冊",
+      "phrase": "attendee roster"
+    },
+    {
+      "id": 17,
+      "word": "attendee",
+      "meaning": "出席者",
+      "phrase": "registered attendee"
+    },
+    {
+      "id": 18,
+      "word": "registration",
+      "meaning": "報名",
+      "phrase": "registration fee"
+    },
+    {
+      "id": 19,
+      "word": "keynote",
+      "meaning": "主題演講",
+      "phrase": "keynote speaker"
+    },
+    {
+      "id": 20,
+      "word": "session",
+      "meaning": "場次",
+      "phrase": "training session"
+    },
+    {
+      "id": 21,
+      "word": "venue",
+      "meaning": "活動場地",
+      "phrase": "conference venue"
+    },
+    {
+      "id": 22,
+      "word": "capacity",
+      "meaning": "容納量",
+      "phrase": "seating capacity"
+    },
+    {
+      "id": 23,
+      "word": "reschedule",
+      "meaning": "重新安排",
+      "phrase": "reschedule an event"
+    },
+    {
+      "id": 24,
+      "word": "cancellation",
+      "meaning": "取消",
+      "phrase": "cancellation policy"
+    },
+    {
+      "id": 25,
+      "word": "refundable",
+      "meaning": "可退款的",
+      "phrase": "refundable deposit"
+    },
+    {
+      "id": 26,
+      "word": "transfer",
+      "meaning": "轉移",
+      "phrase": "transfer a booking"
+    },
+    {
+      "id": 27,
+      "word": "complimentary",
+      "meaning": "免費提供的",
+      "phrase": "complimentary shuttle"
+    },
+    {
+      "id": 28,
+      "word": "confirmation",
+      "meaning": "確認通知",
+      "phrase": "booking confirmation"
+    },
+    {
+      "id": 29,
+      "word": "accommodate",
+      "meaning": "容納",
+      "phrase": "accommodate guests"
+    },
+    {
+      "id": 30,
+      "word": "within",
+      "meaning": "在期限內",
+      "phrase": "within ten days"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Product Demonstration and Tentative Schedule",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why was the demonstration moved to a later time?",
+          "options": {
+            "A": "The showroom is being renovated.",
+            "B": "A client's engineer has a delayed flight.",
+            "C": "The product is not working.",
+            "D": "The client canceled the visit."
+          },
+          "answer": "B",
+          "explanation": "客戶工程師的班機延誤，因此現場展示改至 11:30。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply about the revised agenda?",
+          "options": {
+            "A": "It has already been confirmed.",
+            "B": "It should not be sent as final yet.",
+            "C": "It will be canceled.",
+            "D": "It has been approved by the engineer."
+          },
+          "answer": "B",
+          "explanation": "女方要求等待工程師本人確認抵達時間，現有資訊只是航空公司更新，不能當成已定案。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the woman ask the man to do?",
+          "options": {
+            "A": "Cancel the showroom tour.",
+            "B": "Reserve a different showroom.",
+            "C": "Extend the testing-room booking until 1 P.M.",
+            "D": "Contact the airline for a refund."
+          },
+          "answer": "C",
+          "explanation": "她請男方將測試室預約由中午延長至下午 1 點。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Venue Selection with a Schedule",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Cedar unsuitable?",
+          "options": {
+            "A": "It cannot seat 42 people.",
+            "B": "It lacks hybrid-video support.",
+            "C": "It is over budget.",
+            "D": "It is not accessible."
+          },
+          "answer": "B",
+          "explanation": "Cedar 容量、預算與無障礙條件符合，但沒有混合視訊設備。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is Summit unsuitable?",
+          "options": {
+            "A": "Its cost exceeds the limit.",
+            "B": "It opens at 3 P.M.",
+            "C": "It lacks wheelchair access.",
+            "D": "It has no video equipment."
+          },
+          "answer": "A",
+          "explanation": "Summit 為 $690，比 $680 預算多 $10。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which room meets every stated requirement?",
+          "options": {
+            "A": "Harbor",
+            "B": "Cedar",
+            "C": "Summit",
+            "D": "Garden"
+          },
+          "answer": "A",
+          "explanation": "Harbor 容量 45、無障礙、支援混合視訊、2–5 P.M. 可用，價格 $650。"
+        },
+        {
+          "id": 4,
+          "prompt": "Until when should the selected room be held?",
+          "options": {
+            "A": "Tuesday at 4 P.M.",
+            "B": "Wednesday at noon.",
+            "C": "Wednesday at 4 P.M.",
+            "D": "Friday at 2 P.M."
+          },
+          "answer": "C",
+          "explanation": "要求保留到星期三下午 4 點，等待客戶確認名冊。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Shuttle Service Changes",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When will Route Eight depart on Wednesday?",
+          "options": {
+            "A": "8:20 A.M.",
+            "B": "8:25 A.M.",
+            "C": "8:35 A.M.",
+            "D": "8:50 A.M."
+          },
+          "answer": "C",
+          "explanation": "週三 Route Eight 改為 8:35，8:20 是原時間。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which platform will Route Eight use on Wednesday?",
+          "options": {
+            "A": "Platform Two",
+            "B": "Platform Three",
+            "C": "Platform Four",
+            "D": "Platform Five"
+          },
+          "answer": "D",
+          "explanation": "週三改用第五月台；第三月台是舊資訊。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should passengers traveling to Riverside do?",
+          "options": {
+            "A": "Take Route Eight from Platform Five.",
+            "B": "Take Route Twelve from Platform Two.",
+            "C": "Wait for a later Route Eight bus.",
+            "D": "Request a taxi voucher."
+          },
+          "answer": "B",
+          "explanation": "Route Eight 週三不停 Riverside，應在第二月台搭 Route Twelve。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is mentioned about monthly passes?",
+          "options": {
+            "A": "They must be replaced.",
+            "B": "They are valid only on Route Eight.",
+            "C": "They can be used on either route.",
+            "D": "They are not accepted on Wednesday."
+          },
+          "answer": "C",
+          "explanation": "公告明說月票可用於兩條路線。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Conference Travel Reimbursement and Rescheduled Dates",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How much did Avery pay for conference registration?",
+          "options": {
+            "A": "$270",
+            "B": "$285",
+            "C": "$320",
+            "D": "$350"
+          },
+          "answer": "A",
+          "explanation": "Avery 5 月 7 日購買，符合 5 月 8 日前早鳥價 $270；更新公告確認仍有效。"
+        },
+        {
+          "id": 2,
+          "prompt": "How much of the hotel charge is reimbursable?",
+          "options": {
+            "A": "$138",
+            "B": "$276",
+            "C": "$290",
+            "D": "$435"
+          },
+          "answer": "B",
+          "explanation": "住宿兩晚，每晚 $138 低於 $145 上限，故 $138×2=$276。"
+        },
+        {
+          "id": 3,
+          "prompt": "How much of the meal expense is reimbursable?",
+          "options": {
+            "A": "$130",
+            "B": "$133",
+            "C": "$137",
+            "D": "$144"
+          },
+          "answer": "B",
+          "explanation": "逐日計算：min(40,48)+min(52,48)+min(45,48)=$40+$48+$45=$133。"
+        },
+        {
+          "id": 4,
+          "prompt": "How much can Avery claim for the airport shuttle?",
+          "options": {
+            "A": "$18",
+            "B": "$32",
+            "C": "$35",
+            "D": "$64"
+          },
+          "answer": "B",
+          "explanation": "接駁實際費用 $32，未超過往返 $35 上限，故可報銷 $32。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is the total reimbursable amount?",
+          "options": {
+            "A": "$693",
+            "B": "$711",
+            "C": "$729",
+            "D": "$747"
+          },
+          "answer": "B",
+          "explanation": "報名 $270＋住宿 $276＋餐費 $133＋接駁 $32＝$711；停車不列入。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which expense is excluded from reimbursement?",
+          "options": {
+            "A": "Conference registration",
+            "B": "Hotel lodging",
+            "C": "Airport shuttle",
+            "D": "Parking"
+          },
+          "answer": "D",
+          "explanation": "政策明定停車費不得報銷，HR 更新也未改變此項。"
+        },
+        {
+          "id": 7,
+          "prompt": "What is the final deadline for Avery's claim?",
+          "options": {
+            "A": "June 21",
+            "B": "June 30",
+            "C": "July 1",
+            "D": "July 10"
+          },
+          "answer": "C",
+          "explanation": "6 月 21 日為實際旅行最後一天，HR 明確確認最後提交日是 7 月 1 日。"
+        },
+        {
+          "id": 8,
+          "prompt": "What can be concluded about Avery's June 30 submission?",
+          "options": {
+            "A": "It was submitted on time.",
+            "B": "It missed the deadline by one day.",
+            "C": "It is invalid because the event was rescheduled.",
+            "D": "It must exclude the hotel charges."
+          },
+          "answer": "A",
+          "explanation": "6 月 30 日在 7 月 1 日截止日之前，提交準時。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The invoices _____ by Friday will be processed next week.",
+          "options": {
+            "A": "receive",
+            "B": "received",
+            "C": "receiving",
+            "D": "receives"
+          },
+          "answer": "B",
+          "explanation": "發票是被收到，使用過去分詞 received，等同 that are received。"
+        },
+        {
+          "id": 2,
+          "prompt": "Participants _____ arrive after 9 A.M. must check in at the reception desk.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "who",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "Participants 指人，且在子句中作主詞，使用 who。"
+        },
+        {
+          "id": 3,
+          "prompt": "The keynote session ended slightly _____ than expected.",
+          "options": {
+            "A": "early",
+            "B": "earlier",
+            "C": "earliest",
+            "D": "earliness"
+          },
+          "answer": "B",
+          "explanation": "than 表示比較，使用 earlier。"
+        },
+        {
+          "id": 4,
+          "prompt": "Neither the travel manager nor the assistants _____ available yesterday.",
+          "options": {
+            "A": "was",
+            "B": "were",
+            "C": "has",
+            "D": "is"
+          },
+          "answer": "B",
+          "explanation": "neither...nor 就近一致，assistants 為複數，且 yesterday 要用 were。"
+        },
+        {
+          "id": 5,
+          "prompt": "The coordinator asked whether the revised itinerary _____ by the director the previous day.",
+          "options": {
+            "A": "approves",
+            "B": "had been approved",
+            "C": "will approve",
+            "D": "has approving"
+          },
+          "answer": "B",
+          "explanation": "比 asked 更早的核准動作使用過去完成被動 had been approved。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ the registration fee includes lunch, it does not cover parking.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Because of",
+            "D": "In spite of"
+          },
+          "answer": "B",
+          "explanation": "後面接完整子句，使用 Although；其餘選項後通常接名詞片語。"
+        },
+        {
+          "id": 7,
+          "prompt": "Please submit all itemized receipts _____ five business days of returning.",
+          "options": {
+            "A": "within",
+            "B": "among",
+            "C": "beside",
+            "D": "throughout"
+          },
+          "answer": "A",
+          "explanation": "within five business days of returning 表示返回後五個工作天內。"
+        },
+        {
+          "id": 8,
+          "prompt": "The new conference hall can _____ up to 150 guests.",
+          "options": {
+            "A": "accommodation",
+            "B": "accommodate",
+            "C": "accommodated",
+            "D": "accommodating"
+          },
+          "answer": "B",
+          "explanation": "can 後接原形動詞 accommodate。"
+        },
+        {
+          "id": 9,
+          "prompt": "The reimbursement form must be completed _____ before payroll closes.",
+          "options": {
+            "A": "accuracy",
+            "B": "accurate",
+            "C": "accurately",
+            "D": "accurateness"
+          },
+          "answer": "C",
+          "explanation": "修飾 completed 的方式要用副詞 accurately。"
+        },
+        {
+          "id": 10,
+          "prompt": "The manager is responsible _____ verifying travel receipts.",
+          "options": {
+            "A": "with",
+            "B": "at",
+            "C": "for",
+            "D": "by"
+          },
+          "answer": "C",
+          "explanation": "固定搭配 be responsible for + V-ing。"
+        },
+        {
+          "id": 11,
+          "prompt": "Employees are encouraged to book flights as _____ as possible.",
+          "options": {
+            "A": "early",
+            "B": "earlier",
+            "C": "earliest",
+            "D": "earliness"
+          },
+          "answer": "A",
+          "explanation": "as...as 中間使用原級 early。"
+        },
+        {
+          "id": 12,
+          "prompt": "The policy applies only to expenses _____ during approved business travel.",
+          "options": {
+            "A": "incur",
+            "B": "incurring",
+            "C": "incurred",
+            "D": "incurs"
+          },
+          "answer": "C",
+          "explanation": "費用是被產生，使用過去分詞 incurred 修飾 expenses。"
+        },
+        {
+          "id": 13,
+          "prompt": "The workshop was postponed _____ a shortage of instructors.",
+          "options": {
+            "A": "although",
+            "B": "because",
+            "C": "due to",
+            "D": "unless"
+          },
+          "answer": "C",
+          "explanation": "a shortage of instructors 為名詞片語，使用 due to。"
+        },
+        {
+          "id": 14,
+          "prompt": "The schedule was revised to make the check-in process more _____.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiently",
+            "C": "efficiency",
+            "D": "efficiencies"
+          },
+          "answer": "A",
+          "explanation": "make + 受詞 + 形容詞，選 efficient。"
+        },
+        {
+          "id": 15,
+          "prompt": "We will issue the booking confirmation as soon as the deposit _____.",
+          "options": {
+            "A": "will arrive",
+            "B": "arrives",
+            "C": "arriving",
+            "D": "had arrived"
+          },
+          "answer": "B",
+          "explanation": "as soon as 引導未來時間子句，使用現在式 arrives。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which phrase best completes blank [1]?",
+          "options": {
+            "A": "This procedure is designed to reduce congestion outside the upstairs classrooms.",
+            "B": "The building will be closed to all visitors next Monday.",
+            "C": "Visitors will no longer need to register for training.",
+            "D": "The training sessions have all been canceled."
+          },
+          "answer": "A",
+          "explanation": "This procedure 指前句一樓報到的新規定；接著說明其目的為避免樓上教室外擁擠。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best completes blank [2]?",
+          "options": {
+            "A": "Visitors without a QR code may instead present their registration details at reception.",
+            "B": "All employees must submit expense claims by Friday.",
+            "C": "The cafeteria menu changes every month.",
+            "D": "Visitors must cancel their reservations immediately."
+          },
+          "answer": "A",
+          "explanation": "前句介紹 QR code，後句補充沒有 QR code 的替代報到方式最連貫。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "issues",
+            "B": "issued",
+            "C": "will issue",
+            "D": "will be issued"
+          },
+          "answer": "D",
+          "explanation": "badge 是被核發，使用未來被動 will be issued。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "This will allow the reception team to reuse them for future events.",
+            "B": "The next speaker has published three books.",
+            "C": "Parking fees are included in all room rentals.",
+            "D": "The visitor website was redesigned last year."
+          },
+          "answer": "A",
+          "explanation": "This 指前句歸還識別證的動作，them 指 badges，因而可重複使用。"
+        }
+      ]
+    },
+    {
+      "id": "day-41-quiz",
+      "title": "Day 41 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The coordinator, _____ oversees registration, will greet the speakers.",
+          "options": {
+            "A": "which",
+            "B": "who",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "coordinator 指人且關係代名詞作主詞，選 who。"
+        },
+        {
+          "id": 2,
+          "prompt": "This year's seminar attracted _____ attendees than last year's.",
+          "options": {
+            "A": "much",
+            "B": "most",
+            "C": "more",
+            "D": "many"
+          },
+          "answer": "C",
+          "explanation": "than 表示比較，可數複數 attendees 使用 more。"
+        },
+        {
+          "id": 3,
+          "prompt": "The refund will be processed once the Finance team _____ the request.",
+          "options": {
+            "A": "will approve",
+            "B": "approves",
+            "C": "approved",
+            "D": "approving"
+          },
+          "answer": "B",
+          "explanation": "once 引導未來時間子句，使用現在式 approves。"
+        },
+        {
+          "id": 4,
+          "prompt": "Receipts must be uploaded _____ seven days of the trip's end.",
+          "options": {
+            "A": "between",
+            "B": "within",
+            "C": "among",
+            "D": "beside"
+          },
+          "answer": "B",
+          "explanation": "within seven days of... 表示在期限內。"
+        },
+        {
+          "id": 5,
+          "prompt": "How many badges can be ready by Tuesday?",
+          "options": {
+            "A": "7",
+            "B": "16",
+            "C": "18",
+            "D": "25"
+          },
+          "answer": "C",
+          "explanation": "週二前可準備 18 張，16 張是活動需求。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is implied about Tuesday's orientation?",
+          "options": {
+            "A": "It must be canceled.",
+            "B": "The first batch of badges is sufficient.",
+            "C": "All 25 badges are needed.",
+            "D": "It will be moved to Wednesday."
+          },
+          "answer": "B",
+          "explanation": "18 張已大於需求 16 張，活動可照常進行。"
+        },
+        {
+          "id": 7,
+          "prompt": "Where should most visitors park starting Thursday?",
+          "options": {
+            "A": "Lot B",
+            "B": "Lot D",
+            "C": "Garage A",
+            "D": "The training center entrance"
+          },
+          "answer": "B",
+          "explanation": "一般訪客自週四起應停 Lot D。"
+        },
+        {
+          "id": 8,
+          "prompt": "Who may continue using Garage A?",
+          "options": {
+            "A": "All visitors",
+            "B": "Shuttle drivers",
+            "C": "Employees with accessible parking permits",
+            "D": "Workshop speakers"
+          },
+          "answer": "C",
+          "explanation": "持有無障礙停車許可的員工可繼續停 Garage A。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost for the six workshop registrations and kits?",
+          "options": {
+            "A": "$918",
+            "B": "$978",
+            "C": "$990",
+            "D": "$1,080"
+          },
+          "answer": "C",
+          "explanation": "6×180×0.85=$918；套件 6×12=$72；合計 $990。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the department's budget remains?",
+          "options": {
+            "A": "$48",
+            "B": "$60",
+            "C": "$72",
+            "D": "$132"
+          },
+          "answer": "B",
+          "explanation": "$1,050−$990=$60。"
+        },
+        {
+          "id": 11,
+          "prompt": "How much of Rina's taxi fare is reimbursable?",
+          "options": {
+            "A": "$25",
+            "B": "$30",
+            "C": "$34",
+            "D": "$39"
+          },
+          "answer": "B",
+          "explanation": "車資實付 $34，但上限 $30，故報銷 $30。"
+        },
+        {
+          "id": 12,
+          "prompt": "Which cost is not reimbursable?",
+          "options": {
+            "A": "The first $25 of the taxi fare",
+            "B": "The taxi fare up to the limit",
+            "C": "The separate $5 tip",
+            "D": "The first $30 of the taxi fare"
+          },
+          "answer": "C",
+          "explanation": "政策明確排除小費，故 $5 tip 不可報銷。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握差旅報銷、會議與費用上限的商務單字；辨認關係子句、分詞修飾、比較級與未來時間子句；從聽力辨認尚未確認的安排與下一步行動。",
+  "nextDay": "Part 7 多文件推論與流程時間軸／Part 3/4 說話者目的與間接回應／Part 5 連接詞與分詞修飾／Part 6 段落銜接"
+}
