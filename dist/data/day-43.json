@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 43,
+  "title": "客訴處理、更新期限、間接問句與跨文件費用整合",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "使用者提供的 Day 43 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 43 學習概覽",
+      "markdown": "- 辨識客服申訴中的確定承諾與條件性回應\n- 從表格判斷時段、設備、預算是否同時符合\n- 跨文件比較原始條款與書面更新期限\n- 分辨 current invoice 與 next invoice 的抵用額\n- 掌握間接問句、過去完成式與篇章指涉\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| resolution | 解決方案 | reach a resolution |\n| grievance | 申訴；不滿 | file a grievance |\n| acknowledge | 確認收到 | acknowledge a complaint |\n| rectify | 改正；補救 | rectify an error |\n| remedy | 補救措施 | propose a remedy |\n| compensation | 補償 | request compensation |\n| courtesy | 出於禮貌的；善意的 | courtesy credit |\n| escalate | 升級處理 | escalate a case |\n| investigate | 調查 | investigate a complaint |\n| inquiry | 詢問 | respond to an inquiry |\n| backlog | 待處理積壓 | clear a backlog |\n| outage | 服務中斷 | system outage |\n| disruption | 中斷；干擾 | service disruption |\n| discrepancy | 差異；不一致 | report a discrepancy |\n| omission | 遺漏 | correct an omission |\n| misleading | 易誤導的 | misleading information |\n| supersede | 取代 | supersede a notice |\n| amendment | 修正條款 | contract amendment |\n| exception | 例外 | qualify for an exception |\n| eligibility | 資格 | confirm eligibility |\n| deadline | 截止期限 | extend a deadline |\n| grace period | 寬限期 | grant a grace period |\n| shortage | 短缺 | report a shortage |\n| backordered | 缺貨待補的 | backordered item |\n| replacement | 替換品 | send a replacement |\n| tracking number | 追蹤號碼 | provide a tracking number |\n| dispatch | 發送；出貨 | dispatch a parcel |\n| credit memo | 貸項通知單 | apply a credit memo |\n| invoice | 發票；帳單 | reconcile an invoice |\n| provisional | 暫定的 | provisional arrangement |"
+    },
+    {
+      "title": "② 今日文法｜間接問句與陳述語序、讓步與例外連接詞、過去完成式與時間先後、條件句與 unless、名詞子句與一致性",
+      "markdown": "主題：**間接問句與陳述語序、讓步與例外連接詞、過去完成式與時間先後、條件句與 unless、名詞子句與一致性**\n\n### 規則 1｜間接問句與陳述語序\n\nCould you tell me + 疑問詞 + 主詞 + 動詞；間接問句不使用疑問句倒裝。\n\n> Could you tell me when the replacement will arrive?\n\n易錯點：when will the replacement arrive（放在間接問句內不正確）\n\n### 規則 2｜讓步與例外連接詞\n\nAlthough/Even though 後接子句；despite/in spite of 後接名詞或 V-ing；unless 表「除非」。\n\n> Although the package arrived late, the items were undamaged.\n\n易錯點：despite the package arrived（despite 後不可直接接完整子句）\n\n### 規則 3｜過去完成式與時間先後\n\n若過去某事件之前已有另一動作完成，較早動作用 had + p.p.。\n\n> By the time the agent called, the customer had submitted the photos.\n\n易錯點：不要將兩個先後發生的過去動作都機械地用過去完成式。\n\n### 規則 4｜條件句與 unless\n\n未來真實條件句 if/unless 子句通常用現在式，主句可用 will。\n\n> We will waive the fee if the customer submits proof by Friday.\n\n易錯點：if the customer will submit（一般未來條件句避免這樣寫）\n\n### 規則 5｜名詞子句與一致性\n\nwhether 可表示是否；the number of + 複數名詞搭配單數動詞；each of + 複數名詞搭配單數動詞。\n\n> The number of unresolved complaints has declined.\n\n易錯點：The number of ... have（主詞是 number，應用 has）"
+    },
+    {
+      "title": "03 Listening｜Customer Complaint and Conditional Remedy",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: I received the replacement monitor, but the stand wasn't in the box. Can you send one today? Man: I'm sorry about that. Our warehouse shows the stand as packed, so I'll need to open a shortage investigation. Woman: Does that mean I have to return the monitor? Man: Not at all. You can keep using it. I can arrange a separate shipment once the warehouse confirms the missing part. That usually takes one business day. Woman: Please email me the case number. Man: Certainly. I'll send it as soon as I finish this call."
+    },
+    {
+      "title": "04 Listening｜Rescheduled Client Workshop and Venue Options",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: The client moved the workshop to Wednesday, from one to four. We expect thirty-two attendees and need video recording and wheelchair access. The room budget is five hundred dollars. Woman: Lake is inexpensive but doesn't have recording equipment. Hill is available only from two. River has everything except the price; it costs five hundred fifteen dollars. Man: So Elm is our only option. Can we reserve it now? Woman: We can place a provisional hold until Monday at three. The client hasn't confirmed the attendee list yet."
+    },
+    {
+      "title": "05 Listening｜Updated Return Counter and Extended Deadline",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, customers who purchased appliances at our Central branch. The service counter will be closed on Friday for a system upgrade. Returns originally due Friday may instead be brought to the temporary counter on Saturday before four P.M. Customers whose products are defective can also upload photographs through the online portal until Sunday at six P.M. This extension applies only to returns affected by Friday's closure. Refunds will still be issued to the original payment method. Please disregard automated reminders showing the earlier deadline."
+    },
+    {
+      "title": "⑥ Reading｜Customer Complaint, Late Delivery, Shortage Deadline and Invoice Credit",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Northlake Media — Supplier Pricing and Shortage Policy\n\n> Each commercial display unit costs $210. Orders of at least eight units receive a 10% discount on the display-unit subtotal only. Optional calibration kits cost $22 per unit and are not discounted. Standard freight costs $60 per order. Express freight would add $95, but it is optional. If delivery occurs at least four calendar days after the confirmed delivery date for reasons attributable to the supplier or carrier, the customer qualifies for a $150 service credit. The credit is applied to the NEXT invoice, not the current one. Customers must normally report missing accessories within five calendar days after actual delivery. The supplier may extend this deadline in writing.\n\n用途：參考文件\n\n### Northlake Media — Purchase Summary and Delivery Record\n\n> Northlake Media ordered eight commercial display units at $210 each, plus one $22 calibration kit for each unit. The company selected standard freight only. The confirmed delivery date was November 10, but the shipment arrived on November 15 because the carrier's truck broke down. The purchasing department set a $1,750 budget for the current invoice. When unpacking the shipment, the team discovered that two calibration kits were missing. No customer-requested delivery-date change was made.\n\n用途：參考文件\n\n### Supplier Follow-up Email — November 16\n\n> We apologize for the delivery delay and the two missing calibration kits. Because the delay was five calendar days and was caused by our carrier, Northlake Media qualifies for a $150 service credit on its NEXT invoice. The current invoice will not be reduced. We will ship the two missing kits separately, without additional freight charges, for delivery on November 19. To accommodate the shortage, we are extending the deadline for reporting missing accessories to November 22. Northlake Media submitted its shortage report on November 21. All eight display units and eight calibration kits remain on the original invoice.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Updated Customer Complaint Escalation Procedure\n> \n> Beginning Monday, complaints involving missing parts must be logged in the new service portal rather than emailed directly to the warehouse.\n> \n> [1] _____\n> \n> The reference number generated by the portal allows the support and warehouse teams to track the same case.\n> \n> Customers who already reported a missing part before Monday do not need to submit another report. [2] _____, any new issue discovered after Monday must be entered in the portal, even if it relates to an older order.\n> \n> Once the warehouse verifies the missing item, a replacement [3] _____ within two business days.\n> \n> [4] _____\n> \n> This will help customers know when to expect delivery."
+    },
+    {
+      "title": "⑨ Day 43 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 40、Day 41、Day 42**。\n\n### 複習重點\n- **Day 40 合約條款與費用抵用**：解釋 credit on next invoice 為何不可從本次帳單扣除。\n- **Day 41 差旅報銷逐日上限**：複習每個旅行日單獨套用餐費上限的算法。\n- **Day 42 條件式出貨與 provisional**：區分 may/can if、confirmed、provisional 的確定程度。\n- **Day 42 Part 6 指涉**：說明 This change/This will 的先行事件，而不只找最近的名詞。\n\n### 錯題標籤\n- `G`：一般文法\n- `INDQ`：間接問句\n- `PASTPERF`：過去完成式\n- `AGR`：主詞一致\n- `VOC`：詞彙與固定搭配\n- `L`：聽力\n- `DETAIL`：關鍵細節\n- `IMP`：隱含推論\n- `CONDITION`：條件性承諾\n- `U`：更新資訊\n- `TIME`：時間軸與期限\n- `E`：例外規則\n- `I`：跨資訊整合\n- `CAL`：數字計算\n- `THRESHOLD`：折扣門檻\n- `BUD`：預算限制"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字分兩輪複習，選 8 個造句並標註詞性。\n- Listening 3 組各聽 2 次，第二輪 TTS 1.1 倍速不看逐字稿。\n- Reading 8 題限時 10 分鐘；手算設備折扣、套件、運費與預算餘額。\n- Part 5 首次限時 4 分鐘，第二次限時 3 分 30 秒，說明每題文法線索。\n- Part 6 4 題重做，標出 This change、This 與 However 的邏輯指涉。\n- 正式小考 12 題限時 6 分鐘；保存首次答案、正確題數、耗時與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "resolution",
+      "meaning": "解決方案",
+      "phrase": "reach a resolution"
+    },
+    {
+      "id": 2,
+      "word": "grievance",
+      "meaning": "申訴；不滿",
+      "phrase": "file a grievance"
+    },
+    {
+      "id": 3,
+      "word": "acknowledge",
+      "meaning": "確認收到",
+      "phrase": "acknowledge a complaint"
+    },
+    {
+      "id": 4,
+      "word": "rectify",
+      "meaning": "改正；補救",
+      "phrase": "rectify an error"
+    },
+    {
+      "id": 5,
+      "word": "remedy",
+      "meaning": "補救措施",
+      "phrase": "propose a remedy"
+    },
+    {
+      "id": 6,
+      "word": "compensation",
+      "meaning": "補償",
+      "phrase": "request compensation"
+    },
+    {
+      "id": 7,
+      "word": "courtesy",
+      "meaning": "出於禮貌的；善意的",
+      "phrase": "courtesy credit"
+    },
+    {
+      "id": 8,
+      "word": "escalate",
+      "meaning": "升級處理",
+      "phrase": "escalate a case"
+    },
+    {
+      "id": 9,
+      "word": "investigate",
+      "meaning": "調查",
+      "phrase": "investigate a complaint"
+    },
+    {
+      "id": 10,
+      "word": "inquiry",
+      "meaning": "詢問",
+      "phrase": "respond to an inquiry"
+    },
+    {
+      "id": 11,
+      "word": "backlog",
+      "meaning": "待處理積壓",
+      "phrase": "clear a backlog"
+    },
+    {
+      "id": 12,
+      "word": "outage",
+      "meaning": "服務中斷",
+      "phrase": "system outage"
+    },
+    {
+      "id": 13,
+      "word": "disruption",
+      "meaning": "中斷；干擾",
+      "phrase": "service disruption"
+    },
+    {
+      "id": 14,
+      "word": "discrepancy",
+      "meaning": "差異；不一致",
+      "phrase": "report a discrepancy"
+    },
+    {
+      "id": 15,
+      "word": "omission",
+      "meaning": "遺漏",
+      "phrase": "correct an omission"
+    },
+    {
+      "id": 16,
+      "word": "misleading",
+      "meaning": "易誤導的",
+      "phrase": "misleading information"
+    },
+    {
+      "id": 17,
+      "word": "supersede",
+      "meaning": "取代",
+      "phrase": "supersede a notice"
+    },
+    {
+      "id": 18,
+      "word": "amendment",
+      "meaning": "修正條款",
+      "phrase": "contract amendment"
+    },
+    {
+      "id": 19,
+      "word": "exception",
+      "meaning": "例外",
+      "phrase": "qualify for an exception"
+    },
+    {
+      "id": 20,
+      "word": "eligibility",
+      "meaning": "資格",
+      "phrase": "confirm eligibility"
+    },
+    {
+      "id": 21,
+      "word": "deadline",
+      "meaning": "截止期限",
+      "phrase": "extend a deadline"
+    },
+    {
+      "id": 22,
+      "word": "grace period",
+      "meaning": "寬限期",
+      "phrase": "grant a grace period"
+    },
+    {
+      "id": 23,
+      "word": "shortage",
+      "meaning": "短缺",
+      "phrase": "report a shortage"
+    },
+    {
+      "id": 24,
+      "word": "backordered",
+      "meaning": "缺貨待補的",
+      "phrase": "backordered item"
+    },
+    {
+      "id": 25,
+      "word": "replacement",
+      "meaning": "替換品",
+      "phrase": "send a replacement"
+    },
+    {
+      "id": 26,
+      "word": "tracking number",
+      "meaning": "追蹤號碼",
+      "phrase": "provide a tracking number"
+    },
+    {
+      "id": 27,
+      "word": "dispatch",
+      "meaning": "發送；出貨",
+      "phrase": "dispatch a parcel"
+    },
+    {
+      "id": 28,
+      "word": "credit memo",
+      "meaning": "貸項通知單",
+      "phrase": "apply a credit memo"
+    },
+    {
+      "id": 29,
+      "word": "invoice",
+      "meaning": "發票；帳單",
+      "phrase": "reconcile an invoice"
+    },
+    {
+      "id": 30,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional arrangement"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Customer Complaint and Conditional Remedy",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the woman contacting the company?",
+          "options": {
+            "A": "Her monitor stopped working.",
+            "B": "A monitor stand was missing.",
+            "C": "She received the wrong invoice.",
+            "D": "Her shipment arrived early."
+          },
+          "answer": "B",
+          "explanation": "她說 replacement monitor 已收到，但盒內沒有 stand，因此申訴缺件。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the man imply about sending the missing item?",
+          "options": {
+            "A": "It has already been shipped.",
+            "B": "It requires a warehouse confirmation first.",
+            "C": "It will cost an additional fee.",
+            "D": "It requires the monitor to be returned."
+          },
+          "answer": "B",
+          "explanation": "男方表示倉庫確認缺件後才能安排單獨寄送，並非當下已寄出。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man most likely do immediately after the call?",
+          "options": {
+            "A": "Issue a full refund.",
+            "B": "Send a new monitor.",
+            "C": "Email a case number.",
+            "D": "Cancel the investigation."
+          },
+          "answer": "C",
+          "explanation": "男方承諾通話結束後立即寄出案件編號。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Rescheduled Client Workshop and Venue Options",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Lake unsuitable?",
+          "options": {
+            "A": "It has too few seats.",
+            "B": "It has no recording equipment.",
+            "C": "It is not wheelchair accessible.",
+            "D": "It costs more than $500."
+          },
+          "answer": "B",
+          "explanation": "Lake 有足夠座位且符合預算，但沒有錄影設備。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the problem with Hill?",
+          "options": {
+            "A": "It opens one hour too late.",
+            "B": "It is too expensive.",
+            "C": "It has no wheelchair access.",
+            "D": "It cannot seat 32 people."
+          },
+          "answer": "A",
+          "explanation": "需求是下午 1–4 點；Hill 只能 2–5 點使用，因此晚一小時。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which room satisfies all the requirements?",
+          "options": {
+            "A": "Elm",
+            "B": "Lake",
+            "C": "Hill",
+            "D": "River"
+          },
+          "answer": "A",
+          "explanation": "Elm 34 席、有錄影與無障礙，1–4 可用，價格 $470 ≤ $500。"
+        },
+        {
+          "id": 4,
+          "prompt": "Until when can the room be held provisionally?",
+          "options": {
+            "A": "Monday at 3 P.M.",
+            "B": "Tuesday at 3 P.M.",
+            "C": "Wednesday at 1 P.M.",
+            "D": "Friday at 4 P.M."
+          },
+          "answer": "A",
+          "explanation": "女方說可暫時保留至星期一下午 3 點，出席名冊尚未確認。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Updated Return Counter and Extended Deadline",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why will the service counter be closed on Friday?",
+          "options": {
+            "A": "A staff meeting is scheduled.",
+            "B": "The store is relocating.",
+            "C": "The system is being upgraded.",
+            "D": "The building has lost power."
+          },
+          "answer": "C",
+          "explanation": "公告明確指出週五關閉是因為 system upgrade。"
+        },
+        {
+          "id": 2,
+          "prompt": "When can affected customers visit the temporary counter?",
+          "options": {
+            "A": "Friday before 4 P.M.",
+            "B": "Saturday before 4 P.M.",
+            "C": "Sunday before 6 P.M.",
+            "D": "Monday before noon."
+          },
+          "answer": "B",
+          "explanation": "週五到期的退貨可在星期六下午 4 點前到臨時櫃台。"
+        },
+        {
+          "id": 3,
+          "prompt": "What may customers with defective products do?",
+          "options": {
+            "A": "Upload photos through Sunday at 6 P.M.",
+            "B": "Request a cash refund on Friday.",
+            "C": "Exchange items without any proof.",
+            "D": "Use the online portal until Monday morning."
+          },
+          "answer": "A",
+          "explanation": "瑕疵商品顧客可於週日下午 6 點前上傳照片。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should customers understand about automatic reminders?",
+          "options": {
+            "A": "They reflect the extended deadline.",
+            "B": "They cancel the temporary counter.",
+            "C": "They may display the previous deadline.",
+            "D": "They require payment by credit card."
+          },
+          "answer": "C",
+          "explanation": "公告要求忽略仍顯示舊截止日的自動提醒，延長規則仍有效。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Customer Complaint, Late Delivery, Shortage Deadline and Invoice Credit",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the display-unit subtotal before the volume discount?",
+          "options": {
+            "A": "$1,512",
+            "B": "$1,680",
+            "C": "$1,748",
+            "D": "$1,840"
+          },
+          "answer": "B",
+          "explanation": "8 台 × $210 = $1,680；此為折扣前設備小計。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the discounted cost of the eight display units?",
+          "options": {
+            "A": "$1,496",
+            "B": "$1,512",
+            "C": "$1,680",
+            "D": "$1,748"
+          },
+          "answer": "B",
+          "explanation": "8 台達 10% 折扣門檻：$1,680 × 0.90 = $1,512。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the total amount on the current invoice?",
+          "options": {
+            "A": "$1,598",
+            "B": "$1,688",
+            "C": "$1,748",
+            "D": "$1,843"
+          },
+          "answer": "C",
+          "explanation": "設備 $1,512 + 校準套件 8×$22=$176 + 標準運費 $60 = $1,748；下一張帳單的 $150 抵用額不能先扣。"
+        },
+        {
+          "id": 4,
+          "prompt": "How much of the $1,750 current-invoice budget remains?",
+          "options": {
+            "A": "$2",
+            "B": "$22",
+            "C": "$62",
+            "D": "$152"
+          },
+          "answer": "A",
+          "explanation": "$1,750 − $1,748 = $2。"
+        },
+        {
+          "id": 5,
+          "prompt": "What caused the shipment to arrive late?",
+          "options": {
+            "A": "A change requested by the buyer.",
+            "B": "A carrier vehicle breakdown.",
+            "C": "An unpaid express-shipping fee.",
+            "D": "A shortage of display units."
+          },
+          "answer": "B",
+          "explanation": "第二份文件指出貨運車輛故障造成延遲，且並非客戶要求改期。"
+        },
+        {
+          "id": 6,
+          "prompt": "How will the $150 service credit be used?",
+          "options": {
+            "A": "It will reduce the current invoice.",
+            "B": "It will cover the calibration kits only.",
+            "C": "It will be applied to the next invoice.",
+            "D": "It will be paid in cash immediately."
+          },
+          "answer": "C",
+          "explanation": "第一與第三份文件均明示 credit applies to NEXT invoice。"
+        },
+        {
+          "id": 7,
+          "prompt": "What is the revised deadline for reporting missing accessories?",
+          "options": {
+            "A": "November 15",
+            "B": "November 19",
+            "C": "November 20",
+            "D": "November 22"
+          },
+          "answer": "D",
+          "explanation": "一般期限是到貨後 5 個日曆天，但供應商以書面將期限延長至 11 月 22 日。"
+        },
+        {
+          "id": 8,
+          "prompt": "What can be concluded about the shortage report filed on November 21?",
+          "options": {
+            "A": "It was filed within the extended deadline.",
+            "B": "It was late under the updated policy.",
+            "C": "It automatically canceled the entire order.",
+            "D": "It required an additional freight payment."
+          },
+          "answer": "A",
+          "explanation": "11 月 21 日早於更新後的 11 月 22 日截止日，且缺件補寄免額外運費。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Could you tell me when _____?",
+          "options": {
+            "A": "will arrive",
+            "B": "will they arrive",
+            "C": "they will arrive",
+            "D": "arriving"
+          },
+          "answer": "C",
+          "explanation": "間接問句需陳述語序：when + 主詞 + will + 原形動詞。"
+        },
+        {
+          "id": 2,
+          "prompt": "The customer requested that the incorrect charge _____ immediately.",
+          "options": {
+            "A": "is removed",
+            "B": "be removed",
+            "C": "was removed",
+            "D": "removing"
+          },
+          "answer": "B",
+          "explanation": "request that + 主詞 + 原形動詞；被動為 be removed。"
+        },
+        {
+          "id": 3,
+          "prompt": "By the time the agent called, the customer _____ the photographs.",
+          "options": {
+            "A": "submits",
+            "B": "will submit",
+            "C": "had submitted",
+            "D": "has submitting"
+          },
+          "answer": "C",
+          "explanation": "電話是過去時間；照片在電話之前已提交，使用過去完成式 had submitted。"
+        },
+        {
+          "id": 4,
+          "prompt": "The supplier will waive the fee _____ the customer provides proof by Friday.",
+          "options": {
+            "A": "if",
+            "B": "despite",
+            "C": "because of",
+            "D": "whereas"
+          },
+          "answer": "A",
+          "explanation": "if + 完整條件子句，表示提供證明是豁免費用的條件。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ the package arrived late, all items were in good condition.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "In spite of",
+            "D": "Due to"
+          },
+          "answer": "B",
+          "explanation": "後面是完整子句 the package arrived late，因此用 Although。"
+        },
+        {
+          "id": 6,
+          "prompt": "The number of unresolved complaints _____ fallen this month.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "The number of + 複數名詞作單數主詞，現在完成式用 has fallen。"
+        },
+        {
+          "id": 7,
+          "prompt": "Each of the service representatives _____ assigned a separate case.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "has been",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "Each of 作單數主詞，且代表人員「被分派」案件，選 has been assigned。"
+        },
+        {
+          "id": 8,
+          "prompt": "The revised notice _____ the original return instructions.",
+          "options": {
+            "A": "supersede",
+            "B": "supersedes",
+            "C": "superseding",
+            "D": "to supersede"
+          },
+          "answer": "B",
+          "explanation": "主詞 The revised notice 為單數，現在式用 supersedes。"
+        },
+        {
+          "id": 9,
+          "prompt": "The agent apologized _____ the inconvenience caused by the delay.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "A",
+          "explanation": "固定搭配 apologize for + 事情。"
+        },
+        {
+          "id": 10,
+          "prompt": "Please keep the case number _____ you need to contact us again.",
+          "options": {
+            "A": "unless",
+            "B": "in case",
+            "C": "despite",
+            "D": "even though"
+          },
+          "answer": "B",
+          "explanation": "in case 表示「以防萬一」，保存案件編號是預防後續聯繫需要。"
+        },
+        {
+          "id": 11,
+          "prompt": "The replacement was dispatched _____ the warehouse completed its inspection.",
+          "options": {
+            "A": "as soon as",
+            "B": "because of",
+            "C": "in spite of",
+            "D": "rather than"
+          },
+          "answer": "A",
+          "explanation": "as soon as 後可接完整子句，表示檢驗一完成就寄出。"
+        },
+        {
+          "id": 12,
+          "prompt": "The company has received _____ complaints this month than last month.",
+          "options": {
+            "A": "less",
+            "B": "few",
+            "C": "fewer",
+            "D": "fewest"
+          },
+          "answer": "C",
+          "explanation": "complaints 為可數複數，與 than 比較時用 fewer。"
+        },
+        {
+          "id": 13,
+          "prompt": "The photographs _____ with the complaint helped the technician identify the defect.",
+          "options": {
+            "A": "submitting",
+            "B": "submitted",
+            "C": "submit",
+            "D": "submits"
+          },
+          "answer": "B",
+          "explanation": "照片是被附在申訴中，使用過去分詞 submitted 修飾 photographs。"
+        },
+        {
+          "id": 14,
+          "prompt": "The supervisor is responsible for _____ disputed invoices.",
+          "options": {
+            "A": "review",
+            "B": "reviews",
+            "C": "reviewing",
+            "D": "reviewed"
+          },
+          "answer": "C",
+          "explanation": "responsible for 後接動名詞 reviewing。"
+        },
+        {
+          "id": 15,
+          "prompt": "Only after the inspection was completed _____ the supplier authorize a replacement.",
+          "options": {
+            "A": "does",
+            "B": "did",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Only after 置句首觸發主句倒裝；過去事件用 did + 主詞 + 原形動詞。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "This change is intended to prevent different teams from processing duplicate requests.",
+            "B": "The cafeteria will begin serving breakfast next month.",
+            "C": "The annual budget was approved in March.",
+            "D": "The warehouse will be painted over the weekend."
+          },
+          "answer": "A",
+          "explanation": "This change 指前句改用新客服入口網站登錄缺件申訴的流程，與後句跨團隊追蹤相呼應。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "For instance",
+            "B": "However",
+            "C": "Therefore",
+            "D": "Likewise"
+          },
+          "answer": "B",
+          "explanation": "舊申訴不用重送，但週一後發現的新問題仍需登錄；兩者形成轉折，使用 However。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "dispatches",
+            "B": "will dispatch",
+            "C": "will be dispatched",
+            "D": "has dispatching"
+          },
+          "answer": "C",
+          "explanation": "replacement 是被寄送，描述驗證後的未來動作，使用 will be dispatched。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "The support team will then email the customer a tracking link.",
+            "B": "The office will close for a holiday in December.",
+            "C": "The new uniforms are available in three sizes.",
+            "D": "The finance director approved the travel budget."
+          },
+          "answer": "A",
+          "explanation": "後句 This 指寄送追蹤連結這個動作，讓顧客掌握預計送達時間。"
+        }
+      ]
+    },
+    {
+      "id": "day-43-quiz",
+      "title": "Day 43 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Could you explain why the delivery _____?",
+          "options": {
+            "A": "was delayed",
+            "B": "was it delayed",
+            "C": "delay",
+            "D": "will delaying"
+          },
+          "answer": "A",
+          "explanation": "間接問句 why the delivery was delayed 使用陳述語序。"
+        },
+        {
+          "id": 2,
+          "prompt": "By the time we received the complaint, the customer _____ the item.",
+          "options": {
+            "A": "returns",
+            "B": "had returned",
+            "C": "will return",
+            "D": "returning"
+          },
+          "answer": "B",
+          "explanation": "收到申訴之前已退回商品，較早過去事件用 had returned。"
+        },
+        {
+          "id": 3,
+          "prompt": "The number of outstanding cases _____ decreased since Monday.",
+          "options": {
+            "A": "have",
+            "B": "were",
+            "C": "has",
+            "D": "are"
+          },
+          "answer": "C",
+          "explanation": "The number of 是單數主詞，搭配 has decreased。"
+        },
+        {
+          "id": 4,
+          "prompt": "Please keep the receipt _____ you need to request a refund.",
+          "options": {
+            "A": "unless",
+            "B": "in case",
+            "C": "despite",
+            "D": "whereas"
+          },
+          "answer": "B",
+          "explanation": "保留收據是以防未來需要申請退款，使用 in case。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is missing from the customer's order?",
+          "options": {
+            "A": "The headset",
+            "B": "The carrying case",
+            "C": "The charger",
+            "D": "The invoice"
+          },
+          "answer": "B",
+          "explanation": "顧客收到耳機，但缺少 carrying case。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why can the missing item not be sent immediately?",
+          "options": {
+            "A": "The customer must return the headset.",
+            "B": "A supervisor must approve a refund.",
+            "C": "The warehouse must verify the packing record.",
+            "D": "The customer has not paid the shipping fee."
+          },
+          "answer": "C",
+          "explanation": "客服說必須先由倉庫核對裝箱紀錄，通常需要一個工作天。"
+        },
+        {
+          "id": 7,
+          "prompt": "When will the webinar now take place?",
+          "options": {
+            "A": "Tuesday at 3 P.M.",
+            "B": "Wednesday at 3 P.M.",
+            "C": "Tuesday at 11 A.M.",
+            "D": "Wednesday at 11 A.M."
+          },
+          "answer": "D",
+          "explanation": "原訂週二下午 3 點，更新後為週三上午 11 點。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is true about existing registrations?",
+          "options": {
+            "A": "They remain valid.",
+            "B": "They must be canceled.",
+            "C": "They require a new payment.",
+            "D": "They are valid only for the old time."
+          },
+          "answer": "A",
+          "explanation": "公告明確指出 existing registrations are still valid。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total price of six licenses including the activation fee?",
+          "options": {
+            "A": "$600",
+            "B": "$630",
+            "C": "$670",
+            "D": "$750"
+          },
+          "answer": "C",
+          "explanation": "6×$125=$750；打 8 折後 $600；再加啟用費 $70＝$670。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the $700 budget remains?",
+          "options": {
+            "A": "$20",
+            "B": "$30",
+            "C": "$50",
+            "D": "$70"
+          },
+          "answer": "B",
+          "explanation": "$700 − $670＝$30。"
+        },
+        {
+          "id": 11,
+          "prompt": "What is the updated deadline for eligible warranty claims?",
+          "options": {
+            "A": "April 9",
+            "B": "April 12",
+            "C": "April 14",
+            "D": "April 15"
+          },
+          "answer": "D",
+          "explanation": "系統中斷造成符合條件的申訴截止延長至 4 月 15 日。"
+        },
+        {
+          "id": 12,
+          "prompt": "What can be concluded about Mina's claim?",
+          "options": {
+            "A": "It qualifies under the extended submission rule.",
+            "B": "It was filed after the new deadline.",
+            "C": "It is invalid because photos were not attached.",
+            "D": "It requires a new purchase."
+          },
+          "answer": "A",
+          "explanation": "4 月 14 日在 4 月 15 日之前，且已附照片，符合延長規則。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "辨識客服申訴中的確定承諾與條件性回應；從表格判斷時段、設備、預算是否同時符合；跨文件比較原始條款與書面更新期限。",
+  "nextDay": "Part 7 郵件往返與契約例外／Part 3/4 間接拒絕與推論／Part 5 介系詞/連接詞與時態／Part 6 句子插入與指涉"
+}

@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 42,
+  "title": "供應鏈延遲、Part 3/4 間接回應、Part 7 跨文件條款衝突",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "使用者提供的 Day 42 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 42 學習概覽",
+      "markdown": "- 掌握出貨、品質檢驗與退貨字彙\n- 熟悉 have/get 使役、must have p.p. 與目的子句\n- 辨認間接拒絕保證與下一步\n- 使用圖表排除不符合必要條件的選項\n- 整合折扣門檻、交期與抵用額適用期\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| allocation | 分配 | inventory allocation |\n| consignment | 託運貨物 | track a consignment |\n| consignee | 收貨人 | notify the consignee |\n| manifest | 貨物清單 | shipping manifest |\n| pallet | 棧板 | load a pallet |\n| carton | 紙箱 | damaged carton |\n| dispatch | 發貨 | dispatch an order |\n| fulfill | 履行訂單 | fulfill an order |\n| backlog | 積壓訂單 | order backlog |\n| defective | 有瑕疵的 | defective unit |\n| calibration | 校準 | calibration kit |\n| inspection | 檢驗 | quality inspection |\n| specification | 規格 | technical specification |\n| discrepancy | 差異 | quantity discrepancy |\n| shortfall | 不足 | supply shortfall |\n| surplus | 剩餘 | surplus inventory |\n| procure | 採購 | procure components |\n| quotation | 報價單 | revised quotation |\n| purchase order | 採購訂單 | issue a purchase order |\n| lead time | 交期 | shorten lead time |\n| expedite | 加速處理 | expedite delivery |\n| waive | 免除 | waive a fee |\n| restocking fee | 重新入庫費 | charge a restocking fee |\n| credit memo | 貸項通知單 | issue a credit memo |\n| provisional | 暫定的 | provisional hold |\n| contingent | 視條件而定的 | contingent on approval |\n| override | 取代；凌駕 | override an earlier notice |\n| authorize | 授權 | authorize a return |\n| escalation | 升級處理 | escalation procedure |\n| traceability | 可追溯性 | product traceability |"
+    },
+    {
+      "title": "② 今日文法｜使役動詞 have/get、過去推論 must have + p.p.、目的子句 so that、時間子句 as soon as / until、主詞一致與分詞修飾",
+      "markdown": "主題：**使役動詞 have/get、過去推論 must have + p.p.、目的子句 so that、時間子句 as soon as / until、主詞一致與分詞修飾**\n\n### 規則 1｜使役動詞 have/get\n\nhave + object + past participle；get + person + to V。\n\n> We had the sensors repaired. / We got the carrier to send a notice.\n\n練習：`We had the faulty units _____ yesterday.`\n\n答案：**replaced**。faulty units 被更換，用過去分詞。\n\n### 規則 2｜過去推論 must have + p.p.\n\nmust have + 過去分詞表示對過去的強烈推論。\n\n> The driver must have taken the wrong exit.\n\n練習：`The engineer must have _____ the file.`\n\n答案：**overlooked**。must have 後接過去分詞。\n\n### 規則 3｜目的子句 so that\n\nso that + 主詞 + 動詞表示目的。\n\n> We updated the tracker so that customers could see the status.\n\n練習：`The labels were printed early so that parcels _____ be shipped on time.`\n\n答案：**could**。so that 後接完整子句。\n\n### 規則 4｜時間子句 as soon as / until\n\n談未來時，as soon as/when/until 的時間子句通常用現在式。\n\n> We will dispatch the order as soon as testing is complete.\n\n練習：`We will call once the shipment _____.`\n\n答案：**arrives**。時間子句用現在式 arrives。\n\n### 規則 5｜主詞一致與分詞修飾\n\ntogether with 不改變主要主詞單複數；過去分詞可作被動修飾。\n\n> The shipment, together with two samples, is ready.\n\n練習：`The shipment, along with spare parts, _____ ready.`\n\n答案：**is**。主要主詞 shipment 為單數。"
+    },
+    {
+      "title": "03 Listening｜Replacement Units and Unconfirmed Dispatch",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Have you finished testing the replacement units? Woman: Not all of them. Six passed inspection, but two are still undergoing battery checks. Man: The distributor asked whether all eight can ship tomorrow. Woman: I'd rather not promise that. If the remaining tests pass by four this afternoon, shipping can collect all eight tomorrow morning. Otherwise, we'll send the six cleared units and tell the distributor the other two will follow on Friday. Man: Should I update the delivery tracker now? Woman: Add a provisional note, but don't mark the order complete."
+    },
+    {
+      "title": "04 Listening｜Equipment Training Room Comparison",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Our training session has twenty-eight participants and must run Thursday from nine until noon. We also need wheelchair access and equipment to record the session. We can't spend more than five hundred forty dollars. Man: Birch is affordable, but it has no recording equipment. Lotus meets the budget, though it isn't available until ten. Summit has all the facilities, but its fee is five hundred sixty-five dollars. Woman: Then Orion looks right. Please hold it until Tuesday at noon, when our trainer will confirm the agenda."
+    },
+    {
+      "title": "05 Listening｜Updated Mandatory Orientation",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, new employees. Due to a temporary registration-portal outage, the deadline for signing up for the mandatory orientation has been extended from Tuesday at five P.M. to Wednesday at noon. The orientation itself has also been rescheduled from Thursday at three P.M. to Friday at nine A.M. If you have already registered, you do not need to register again. Updated course materials will be available for download after two P.M. on Thursday. Some automatic reminders may still show the original schedule; please follow this announcement instead."
+    },
+    {
+      "title": "⑥ Reading｜Discount Threshold, Delivery Delay, and Credit Memo",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Northline Components — Standard Sales Terms\n\n> Standard filter cartridges cost $85 each. Orders of 20 or more cartridges receive a 12% discount on the cartridge subtotal only. A calibration kit costs $160 and is never discounted. Standard freight is $75 per shipment. Rush handling adds $45, but only if the order is marked RUSH. When a shipment arrives more than two business days after its promised delivery date, the buyer receives a $100 credit on the next invoice, not on the delayed shipment's invoice. Customers may change quantities without an administrative fee through March 10. Later changes normally incur a $30 administrative fee unless the vendor initiates a delivery-schedule change.\n\n用途：參考文件\n\n### Westbridge Laboratory — Purchase Summary\n\n> On March 6, Westbridge Laboratory ordered 20 filter cartridges and one calibration kit with standard freight; rush handling was not requested. The original promised delivery date was March 18. Westbridge's budget for this invoice is $1,750. On March 11, the purchasing team considered reducing the cartridge count to 18, but did not submit a change request. The team is comparing the two possible order totals before deciding whether a quantity revision would be worthwhile.\n\n用途：參考文件\n\n### Vendor Update and Delivery Confirmation\n\n> On March 12, Northline notified Westbridge that delivery would be delayed until March 24. Because this change was initiated by Northline, Westbridge could confirm a revised quantity through March 13 without paying the usual $30 administrative fee. Northline would keep the original order of 20 cartridges unless Westbridge confirmed a change. No quantity change was received. All 20 cartridges and the calibration kit arrived on March 24, four business days after the original promised date. Northline confirmed that a $100 credit memo will be applied to Westbridge's next invoice. The current invoice will not be reduced.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Revised Return Authorization Process\n> \n> Starting Monday, customers requesting replacements must submit photographs of the damaged items before a return label is issued. [1] _____\n> \n> Once the service team verifies a claim, a return authorization number [2] _____. Customers should write this number on the outside of the package.\n> \n> The new policy applies to requests submitted on or after Monday. [3] _____, labels issued before Monday remain valid through the end of this month. New requests after the policy takes effect must follow the revised procedure.\n> \n> Please keep a copy of the authorization email. [4] _____"
+    },
+    {
+      "title": "⑨ Day 42 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 39、Day 40、Day 41**。\n\n### 複習重點\n- **更新公告**：區分 originally / revised / still valid / supersedes。\n- **折扣門檻**：比較 20 件打折與 18 件不打折，另外計算套件與運費。\n- **抵用額適用期**：區分 current invoice 與 next invoice。\n- **時間子句**：使用 as soon as / once / until 各造兩句。\n- **間接回應**：說明 I'd rather not promise that 的含義與下一步。\n\n### 錯題標籤\n- `G`：一般文法\n- `CAUS`：使役動詞\n- `MODAL`：情態動詞與過去推論\n- `TIME`：時間與期限\n- `PURPOSE`：目的子句\n- `L`：聽力理解\n- `DETAIL`：細節\n- `IMP`：隱含意圖\n- `I`：跨句整合\n- `U`：更新公告\n- `N`：下一步行動\n- `CAL`：費用計算\n- `THRESHOLD`：折扣門檻\n- `BUD`：預算限制\n- `E`：例外條款"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，選 8 個造句。\n- Listening 三組各聽兩次，第二輪 TTS 1.1 倍速且不看逐字稿。\n- Part 5 15 題首次限時 4 分鐘，第二次 3 分 30 秒。\n- Part 6 4 題重做並說明指涉與轉折。\n- 重算 18 與 20 件完整帳單並說明 $100 為何不可提前扣除。\n- Day 42 小考首次限時 6 分鐘，保留答案、耗時與 errorTags；第二次 5 分 30 秒。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "allocation",
+      "meaning": "分配",
+      "phrase": "inventory allocation"
+    },
+    {
+      "id": 2,
+      "word": "consignment",
+      "meaning": "託運貨物",
+      "phrase": "track a consignment"
+    },
+    {
+      "id": 3,
+      "word": "consignee",
+      "meaning": "收貨人",
+      "phrase": "notify the consignee"
+    },
+    {
+      "id": 4,
+      "word": "manifest",
+      "meaning": "貨物清單",
+      "phrase": "shipping manifest"
+    },
+    {
+      "id": 5,
+      "word": "pallet",
+      "meaning": "棧板",
+      "phrase": "load a pallet"
+    },
+    {
+      "id": 6,
+      "word": "carton",
+      "meaning": "紙箱",
+      "phrase": "damaged carton"
+    },
+    {
+      "id": 7,
+      "word": "dispatch",
+      "meaning": "發貨",
+      "phrase": "dispatch an order"
+    },
+    {
+      "id": 8,
+      "word": "fulfill",
+      "meaning": "履行訂單",
+      "phrase": "fulfill an order"
+    },
+    {
+      "id": 9,
+      "word": "backlog",
+      "meaning": "積壓訂單",
+      "phrase": "order backlog"
+    },
+    {
+      "id": 10,
+      "word": "defective",
+      "meaning": "有瑕疵的",
+      "phrase": "defective unit"
+    },
+    {
+      "id": 11,
+      "word": "calibration",
+      "meaning": "校準",
+      "phrase": "calibration kit"
+    },
+    {
+      "id": 12,
+      "word": "inspection",
+      "meaning": "檢驗",
+      "phrase": "quality inspection"
+    },
+    {
+      "id": 13,
+      "word": "specification",
+      "meaning": "規格",
+      "phrase": "technical specification"
+    },
+    {
+      "id": 14,
+      "word": "discrepancy",
+      "meaning": "差異",
+      "phrase": "quantity discrepancy"
+    },
+    {
+      "id": 15,
+      "word": "shortfall",
+      "meaning": "不足",
+      "phrase": "supply shortfall"
+    },
+    {
+      "id": 16,
+      "word": "surplus",
+      "meaning": "剩餘",
+      "phrase": "surplus inventory"
+    },
+    {
+      "id": 17,
+      "word": "procure",
+      "meaning": "採購",
+      "phrase": "procure components"
+    },
+    {
+      "id": 18,
+      "word": "quotation",
+      "meaning": "報價單",
+      "phrase": "revised quotation"
+    },
+    {
+      "id": 19,
+      "word": "purchase order",
+      "meaning": "採購訂單",
+      "phrase": "issue a purchase order"
+    },
+    {
+      "id": 20,
+      "word": "lead time",
+      "meaning": "交期",
+      "phrase": "shorten lead time"
+    },
+    {
+      "id": 21,
+      "word": "expedite",
+      "meaning": "加速處理",
+      "phrase": "expedite delivery"
+    },
+    {
+      "id": 22,
+      "word": "waive",
+      "meaning": "免除",
+      "phrase": "waive a fee"
+    },
+    {
+      "id": 23,
+      "word": "restocking fee",
+      "meaning": "重新入庫費",
+      "phrase": "charge a restocking fee"
+    },
+    {
+      "id": 24,
+      "word": "credit memo",
+      "meaning": "貸項通知單",
+      "phrase": "issue a credit memo"
+    },
+    {
+      "id": 25,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional hold"
+    },
+    {
+      "id": 26,
+      "word": "contingent",
+      "meaning": "視條件而定的",
+      "phrase": "contingent on approval"
+    },
+    {
+      "id": 27,
+      "word": "override",
+      "meaning": "取代；凌駕",
+      "phrase": "override an earlier notice"
+    },
+    {
+      "id": 28,
+      "word": "authorize",
+      "meaning": "授權",
+      "phrase": "authorize a return"
+    },
+    {
+      "id": 29,
+      "word": "escalation",
+      "meaning": "升級處理",
+      "phrase": "escalation procedure"
+    },
+    {
+      "id": 30,
+      "word": "traceability",
+      "meaning": "可追溯性",
+      "phrase": "product traceability"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Replacement Units and Unconfirmed Dispatch",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is still being checked?",
+          "options": {
+            "A": "The shipping address",
+            "B": "Two units' batteries",
+            "C": "The distributor's payment",
+            "D": "Six replacement units"
+          },
+          "answer": "B",
+          "explanation": "六台已通過檢驗，另外兩台仍在進行電池檢查。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply about shipping all eight units tomorrow?",
+          "options": {
+            "A": "It is guaranteed.",
+            "B": "It depends on the remaining test results.",
+            "C": "It has been canceled.",
+            "D": "It requires a new purchase order."
+          },
+          "answer": "B",
+          "explanation": "I'd rather not promise that 表示尚不能保證；需等下午四點前的測試結果。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should the man do next?",
+          "options": {
+            "A": "Mark the order as complete.",
+            "B": "Cancel the distributor's order.",
+            "C": "Add a provisional note to the tracker.",
+            "D": "Arrange a Friday pickup for all eight units."
+          },
+          "answer": "C",
+          "explanation": "應先在追蹤系統加暫定註記，但不可標記完成。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Equipment Training Room Comparison",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Birch unsuitable?",
+          "options": {
+            "A": "It is too small.",
+            "B": "It has no recording equipment.",
+            "C": "It is not accessible.",
+            "D": "It is unavailable on Thursday."
+          },
+          "answer": "B",
+          "explanation": "Birch 符合容量、時段與預算，但缺少錄影設備。"
+        },
+        {
+          "id": 2,
+          "prompt": "What prevents the group from booking Lotus?",
+          "options": {
+            "A": "It is available too late.",
+            "B": "It exceeds the budget.",
+            "C": "It cannot seat 28 people.",
+            "D": "It has no wheelchair access."
+          },
+          "answer": "A",
+          "explanation": "Lotus 上午十點才開放，不符合九點開始的要求。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which room meets all the requirements?",
+          "options": {
+            "A": "Orion",
+            "B": "Birch",
+            "C": "Lotus",
+            "D": "Summit"
+          },
+          "answer": "A",
+          "explanation": "Orion 可容納 32 人、有無障礙與錄影設備、時段符合，$520 在 $540 預算內。"
+        },
+        {
+          "id": 4,
+          "prompt": "Until when should the room be held?",
+          "options": {
+            "A": "Monday at noon",
+            "B": "Tuesday at noon",
+            "C": "Thursday at 9 A.M.",
+            "D": "Friday at noon"
+          },
+          "answer": "B",
+          "explanation": "女方要求暫時保留至星期二中午。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Updated Mandatory Orientation",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When will the orientation now take place?",
+          "options": {
+            "A": "Thursday at 3 P.M.",
+            "B": "Thursday at 9 A.M.",
+            "C": "Friday at 9 A.M.",
+            "D": "Friday at 3 P.M."
+          },
+          "answer": "C",
+          "explanation": "活動由週四下午三點改為週五上午九點。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the new registration deadline?",
+          "options": {
+            "A": "Tuesday at 5 P.M.",
+            "B": "Wednesday at noon",
+            "C": "Thursday at 2 P.M.",
+            "D": "Friday at 9 A.M."
+          },
+          "answer": "B",
+          "explanation": "報名截止日延長至週三中午。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should employees who have already registered do?",
+          "options": {
+            "A": "Register again immediately.",
+            "B": "Pay an additional fee.",
+            "C": "Keep their existing registration.",
+            "D": "Call the trainer to cancel."
+          },
+          "answer": "C",
+          "explanation": "公告明確指出已報名者不必重新註冊。"
+        },
+        {
+          "id": 4,
+          "prompt": "When will updated course materials become available?",
+          "options": {
+            "A": "Tuesday after 5 P.M.",
+            "B": "Wednesday at noon",
+            "C": "Thursday after 2 P.M.",
+            "D": "Friday after 9 A.M."
+          },
+          "answer": "C",
+          "explanation": "教材於週四下午兩點後開放下載。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Discount Threshold, Delivery Delay, and Credit Memo",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the cartridge subtotal for 20 units before the discount?",
+          "options": {
+            "A": "$1,496",
+            "B": "$1,530",
+            "C": "$1,700",
+            "D": "$1,735"
+          },
+          "answer": "C",
+          "explanation": "20 × $85 = $1,700，是折扣前商品小計。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the discounted price of the 20 cartridges?",
+          "options": {
+            "A": "$1,496",
+            "B": "$1,530",
+            "C": "$1,600",
+            "D": "$1,700"
+          },
+          "answer": "A",
+          "explanation": "20 件達 12% 折扣門檻：$1,700 × 0.88 = $1,496。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the current invoice total for the unchanged order?",
+          "options": {
+            "A": "$1,656",
+            "B": "$1,686",
+            "C": "$1,731",
+            "D": "$1,776"
+          },
+          "answer": "C",
+          "explanation": "濾芯 $1,496＋套件 $160＋運費 $75＝$1,731。沒有急件費，$100 用於下一張帳單。"
+        },
+        {
+          "id": 4,
+          "prompt": "What would the total have been for 18 cartridges, one kit, and standard freight, excluding any administrative fee?",
+          "options": {
+            "A": "$1,661",
+            "B": "$1,731",
+            "C": "$1,750",
+            "D": "$1,765"
+          },
+          "answer": "D",
+          "explanation": "18 件不享折扣：18 × $85＋$160＋$75＝$1,765；題目已排除行政費。"
+        },
+        {
+          "id": 5,
+          "prompt": "Which quantity would result in the lower invoice total, assuming the same kit and freight?",
+          "options": {
+            "A": "18 cartridges, by $34",
+            "B": "20 cartridges, by $34",
+            "C": "18 cartridges, by $100",
+            "D": "Both totals are equal"
+          },
+          "answer": "B",
+          "explanation": "20 件 $1,731 比 18 件 $1,765 便宜 $34。"
+        },
+        {
+          "id": 6,
+          "prompt": "How much of the $1,750 budget remains for the unchanged order?",
+          "options": {
+            "A": "$19",
+            "B": "$34",
+            "C": "$75",
+            "D": "$100"
+          },
+          "answer": "A",
+          "explanation": "$1,750 − $1,731 = $19；不能先扣除下一張發票的 $100。"
+        },
+        {
+          "id": 7,
+          "prompt": "What was the last day to confirm a quantity change without the administrative fee?",
+          "options": {
+            "A": "March 10",
+            "B": "March 11",
+            "C": "March 13",
+            "D": "March 24"
+          },
+          "answer": "C",
+          "explanation": "供應商主動更改交期，免行政費期限延至 3 月 13 日。"
+        },
+        {
+          "id": 8,
+          "prompt": "How will the $100 credit be handled?",
+          "options": {
+            "A": "It will reduce the current invoice.",
+            "B": "It will be paid in cash on March 24.",
+            "C": "It will replace the freight charge.",
+            "D": "It will be applied to the next invoice."
+          },
+          "answer": "D",
+          "explanation": "抵用額適用下一張發票，不減少目前帳單。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "We had the damaged sensors _____ by a certified technician.",
+          "options": {
+            "A": "repair",
+            "B": "repaired",
+            "C": "repairing",
+            "D": "to repair"
+          },
+          "answer": "B",
+          "explanation": "have + 受詞 + 過去分詞：had the sensors repaired。"
+        },
+        {
+          "id": 2,
+          "prompt": "The manager got the carrier _____ the revised tracking number.",
+          "options": {
+            "A": "send",
+            "B": "sent",
+            "C": "to send",
+            "D": "sending"
+          },
+          "answer": "C",
+          "explanation": "get + 人 + to V：got the carrier to send。"
+        },
+        {
+          "id": 3,
+          "prompt": "The warehouse has _____ space for an additional pallet.",
+          "options": {
+            "A": "sufficiency",
+            "B": "sufficient",
+            "C": "sufficiently",
+            "D": "suffice"
+          },
+          "answer": "B",
+          "explanation": "名詞 space 前使用形容詞 sufficient。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the updated manifest, the delivery includes 24 cartons.",
+          "options": {
+            "A": "According to",
+            "B": "Because",
+            "C": "Although",
+            "D": "Despite of"
+          },
+          "answer": "A",
+          "explanation": "According to + 名詞片語表示「根據」。"
+        },
+        {
+          "id": 5,
+          "prompt": "The team completed the inspection _____ the goods could be released.",
+          "options": {
+            "A": "despite",
+            "B": "so that",
+            "C": "because of",
+            "D": "unless"
+          },
+          "answer": "B",
+          "explanation": "so that + 完整子句表目的。"
+        },
+        {
+          "id": 6,
+          "prompt": "The engineer must have _____ the attachment; the signature page is missing.",
+          "options": {
+            "A": "overlook",
+            "B": "overlooks",
+            "C": "overlooking",
+            "D": "overlooked"
+          },
+          "answer": "D",
+          "explanation": "must have + p.p. 表示對過去的推測。"
+        },
+        {
+          "id": 7,
+          "prompt": "The shipment, together with two spare parts, _____ scheduled to arrive Friday.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "主要主詞 shipment 為單數；together with 不改變主詞數量。"
+        },
+        {
+          "id": 8,
+          "prompt": "Several replacement parts _____ already been dispatched.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "主詞 parts 為複數，現在完成被動為 have been dispatched。"
+        },
+        {
+          "id": 9,
+          "prompt": "Please notify the client as soon as the test results _____ available.",
+          "options": {
+            "A": "will become",
+            "B": "become",
+            "C": "became",
+            "D": "becoming"
+          },
+          "answer": "B",
+          "explanation": "未來時間子句使用現在式 become。"
+        },
+        {
+          "id": 10,
+          "prompt": "The operator is responsible _____ calibrating the device.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "for",
+            "D": "to"
+          },
+          "answer": "C",
+          "explanation": "固定搭配 responsible for + V-ing。"
+        },
+        {
+          "id": 11,
+          "prompt": "The updated checklist is more _____ than the previous version.",
+          "options": {
+            "A": "comprehensively",
+            "B": "comprehensive",
+            "C": "comprehension",
+            "D": "comprehend"
+          },
+          "answer": "B",
+          "explanation": "more + 形容詞 comprehensive。"
+        },
+        {
+          "id": 12,
+          "prompt": "The goods were stored in a secure area _____ they could be inspected.",
+          "options": {
+            "A": "until",
+            "B": "although",
+            "C": "despite",
+            "D": "because of"
+          },
+          "answer": "A",
+          "explanation": "until + 子句表示暫存至可以檢驗為止。"
+        },
+        {
+          "id": 13,
+          "prompt": "We need a supplier _____ can deliver by Thursday.",
+          "options": {
+            "A": "whom",
+            "B": "whose",
+            "C": "that",
+            "D": "where"
+          },
+          "answer": "C",
+          "explanation": "指 supplier 的關係代名詞在子句中作主詞，可用 that。"
+        },
+        {
+          "id": 14,
+          "prompt": "The parts were labeled clearly to prevent them from _____ mixed up.",
+          "options": {
+            "A": "be",
+            "B": "being",
+            "C": "been",
+            "D": "to be"
+          },
+          "answer": "B",
+          "explanation": "prevent ... from + V-ing；被混淆用 being mixed up。"
+        },
+        {
+          "id": 15,
+          "prompt": "The purchase order cannot be finalized _____ the finance director signs it.",
+          "options": {
+            "A": "whereas",
+            "B": "until",
+            "C": "despite",
+            "D": "because of"
+          },
+          "answer": "B",
+          "explanation": "not ... until 表示在簽署前不能完成訂單。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "This will help the team assess eligibility before unnecessary items are shipped.",
+            "B": "The annual staff picnic will take place on Saturday.",
+            "C": "The office cafeteria has introduced a new menu.",
+            "D": "The warehouse was painted last winter."
+          },
+          "answer": "A",
+          "explanation": "This 指先上傳照片的要求；可預先判定換貨資格。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which phrase best completes blank [2]?",
+          "options": {
+            "A": "sends",
+            "B": "sent",
+            "C": "will send",
+            "D": "will be sent"
+          },
+          "answer": "D",
+          "explanation": "授權編號是被寄送，需用未來被動 will be sent。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which transition best completes blank [3]?",
+          "options": {
+            "A": "Therefore",
+            "B": "However",
+            "C": "For example",
+            "D": "Similarly"
+          },
+          "answer": "B",
+          "explanation": "新規定適用週一起的新申請，但舊標籤仍暫時有效，用 However。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "The meeting room can hold thirty people.",
+            "B": "The replacement item is always free of charge.",
+            "C": "It may be needed if the package is delayed or misplaced.",
+            "D": "The delivery company changed its logo last year."
+          },
+          "answer": "C",
+          "explanation": "It 指 authorization email 的副本；包裹延誤或遺失時可能需要。"
+        }
+      ]
+    },
+    {
+      "id": "day-42-quiz",
+      "title": "Day 42 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "We had the equipment _____ before the inspection.",
+          "options": {
+            "A": "calibrate",
+            "B": "calibrated",
+            "C": "calibrating",
+            "D": "to calibrate"
+          },
+          "answer": "B",
+          "explanation": "have + 物 + p.p. 表示安排別人校準。"
+        },
+        {
+          "id": 2,
+          "prompt": "The carrier must have _____ the wrong label on the package.",
+          "options": {
+            "A": "attach",
+            "B": "attaches",
+            "C": "attaching",
+            "D": "attached"
+          },
+          "answer": "D",
+          "explanation": "must have + p.p. 推測過去事件。"
+        },
+        {
+          "id": 3,
+          "prompt": "The replacement will be shipped as soon as the inspection _____ complete.",
+          "options": {
+            "A": "is",
+            "B": "will be",
+            "C": "being",
+            "D": "was"
+          },
+          "answer": "A",
+          "explanation": "未來時間子句 as soon as 用現在式 is。"
+        },
+        {
+          "id": 4,
+          "prompt": "The report was written _____ the client could review the results.",
+          "options": {
+            "A": "because of",
+            "B": "so that",
+            "C": "despite",
+            "D": "until of"
+          },
+          "answer": "B",
+          "explanation": "so that + 完整子句表示目的。"
+        },
+        {
+          "id": 5,
+          "prompt": "How many pumps passed the initial inspection?",
+          "options": {
+            "A": "3",
+            "B": "11",
+            "C": "14",
+            "D": "17"
+          },
+          "answer": "B",
+          "explanation": "14 台中 11 台通過，3 台需重測。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is implied about shipping all fourteen pumps today?",
+          "options": {
+            "A": "It has been guaranteed.",
+            "B": "The client has canceled the shipment.",
+            "C": "Only the cleared pumps should leave today.",
+            "D": "All pumps must wait until Thursday."
+          },
+          "answer": "C",
+          "explanation": "主管表示今天只能出貨已通過檢驗的設備。"
+        },
+        {
+          "id": 7,
+          "prompt": "When is the webinar now scheduled?",
+          "options": {
+            "A": "Tuesday at 2 P.M.",
+            "B": "Tuesday at noon",
+            "C": "Wednesday at 2 P.M.",
+            "D": "Wednesday at 3:30 P.M."
+          },
+          "answer": "D",
+          "explanation": "更新後為週三下午 3:30。"
+        },
+        {
+          "id": 8,
+          "prompt": "What will happen for people who have already registered?",
+          "options": {
+            "A": "They will receive an updated link automatically.",
+            "B": "They must register again by noon.",
+            "C": "They will receive a refund.",
+            "D": "They must contact the speaker."
+          },
+          "answer": "A",
+          "explanation": "已報名者會自動收到新連結。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost for eight seats including onboarding?",
+          "options": {
+            "A": "$864",
+            "B": "$909",
+            "C": "$929",
+            "D": "$960"
+          },
+          "answer": "C",
+          "explanation": "8×$120=$960，九折=$864，加 $65 得 $929。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the department’s budget remains?",
+          "options": {
+            "A": "$11",
+            "B": "$21",
+            "C": "$35",
+            "D": "$86"
+          },
+          "answer": "B",
+          "explanation": "$950−$929=$21。"
+        },
+        {
+          "id": 11,
+          "prompt": "Why is Mina eligible for the special fee exception?",
+          "options": {
+            "A": "She returned the item within seven days.",
+            "B": "She purchased more than one item.",
+            "C": "The seller incorrectly labeled the item.",
+            "D": "She paid for expedited delivery."
+          },
+          "answer": "C",
+          "explanation": "商品是賣家標示錯誤的受影響訂單，符合特殊豁免條款。"
+        },
+        {
+          "id": 12,
+          "prompt": "What restocking fee should Mina pay?",
+          "options": {
+            "A": "$0",
+            "B": "$10",
+            "C": "$20",
+            "D": "$25"
+          },
+          "answer": "A",
+          "explanation": "7/18 超過一般 14 天免收費期間，但在特別豁免期限 7/20 之前，故 $0。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握出貨、品質檢驗與退貨字彙；熟悉 have/get 使役、must have p.p. 與目的子句；辨認間接拒絕保證與下一步。",
+  "nextDay": "Part 7 跨文件時程衝突與客訴處理／Part 3/4 間接回答與說話者目的／Part 5 分詞構句與動詞搭配／Part 6 轉折與指涉"
+}

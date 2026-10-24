@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 44,
+  "title": "跨文件時程衝突、IT 維護與間接拒絕",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "使用者提供的 Day 44 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 44 學習概覽",
+      "markdown": "- 辨識 I wish I could / That would be a stretch 等委婉拒絕\n- 使用 Part 3 圖表推算先後依賴與活動時間\n- 整合三份文件判斷設施封閉、工作時間與先決條件\n- 熟悉未來完成式、過去進行被動、否定副詞倒裝與條件連接詞\n- 透過首次正式小考的實際成績與 errorTags 調整 Day 45 難度\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| accreditation | 資格認證 | obtain accreditation |\n| access credential | 出入憑證 | renew access credentials |\n| barricade | 路障；封鎖 | place a barricade |\n| blueprint | 藍圖；設計圖 | review a blueprint |\n| contingency | 應變方案 | contingency plan |\n| cordon off | 封鎖區域 | cordon off a corridor |\n| designate | 指定 | designate an entrance |\n| downtime | 停機時間 | minimize downtime |\n| escort | 陪同；護送 | escort a visitor |\n| evacuation | 疏散 | evacuation route |\n| facility | 設施；場所 | facility manager |\n| floor plan | 樓層平面圖 | updated floor plan |\n| freight elevator | 貨梯 | reserve the freight elevator |\n| handover | 交接 | project handover |\n| infrastructure | 基礎設施 | network infrastructure |\n| installation | 安裝 | complete installation |\n| interim | 臨時的；過渡期間的 | interim arrangement |\n| maintenance window | 維護時段 | scheduled maintenance window |\n| milestone | 里程碑 | meet a milestone |\n| notification | 通知 | advance notification |\n| permit | 許可證；准許 | obtain a permit |\n| prerequisite | 先決條件 | a prerequisite for |\n| premises | 營業場所；建物範圍 | enter the premises |\n| relocate | 搬遷；改設 | relocate equipment |\n| reroute | 改道 | reroute deliveries |\n| restoration | 恢復 | service restoration |\n| safety clearance | 安全核准 | receive safety clearance |\n| signage | 標示；指示牌 | temporary signage |\n| site inspection | 現場檢查 | conduct a site inspection |\n| stakeholder | 利害關係人 | notify stakeholders |"
+    },
+    {
+      "title": "② 今日文法｜Future Perfect｜未來完成式、Past Continuous Passive｜過去進行被動、No sooner / Not until｜否定副詞倒裝、Although / Provided that / So that、時間與主詞一致",
+      "markdown": "主題：**Future Perfect｜未來完成式、Past Continuous Passive｜過去進行被動、No sooner / Not until｜否定副詞倒裝、Although / Provided that / So that、時間與主詞一致**\n\n### 規則 1｜Future Perfect｜未來完成式\n\nby + 未來時間點，強調該時間之前已完成：will have + 過去分詞。\n\n> By Friday morning, the team will have finished the network test.\n\n易錯點：不要將 by Friday 與 on Friday 視為完全相同。\n\n### 規則 2｜Past Continuous Passive｜過去進行被動\n\n描述過去某時正在被執行的動作：was/were being + 過去分詞。\n\n> The files were being uploaded when the server restarted.\n\n易錯點：was uploaded 只陳述過去完成或發生，不強調當時進行中。\n\n### 規則 3｜No sooner / Not until｜否定副詞倒裝\n\nNo sooner + had + 主詞 + p.p. + than...；Not until 置句首時，主句需倒裝。\n\n> No sooner had the meeting begun than the alarm sounded.\n\n易錯點：than 與 no sooner 搭配；when 通常與 hardly/scarcely 搭配。\n\n### 規則 4｜Although / Provided that / So that\n\nAlthough 表讓步；provided that 表必要條件；so that 表目的。\n\n> The demo will proceed provided that the safety inspection passes.\n\n易錯點：不能把目的 so that 當成原因 because。\n\n### 規則 5｜時間與主詞一致\n\nonce/when/as soon as 引導未來時間子句常用現在式；插入語 along with 不改變主要主詞單複數。\n\n> The documents, along with the floor plan, are attached.\n\n易錯點：動詞需與 documents 而非 floor plan 一致。"
+    },
+    {
+      "title": "03 Listening｜Indirect Refusal and a Printing Deadline",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Could you sign off on the revised brochure by noon? The printer needs the file by two. Woman: I wish I could, but Legal hasn't cleared the rights to two photographs. I'd be more comfortable approving the final version tomorrow morning. Man: That would miss today's printing slot. Could we print text-only copies for Friday's event and distribute the illustrated version digitally later? Woman: That would work, provided Marketing checks the captions first. Please tell the printer to hold the color run, not cancel it."
+    },
+    {
+      "title": "04 Listening｜IT Maintenance Timeline and Task Dependencies",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: The loading crew will arrive ninety minutes late, so I've moved the server-rack move to nine thirty. The network test can now start at eleven thirty and should finish at one. Man: Then the security audit can still begin at one, right? Woman: Not quite. The auditor needs the test results at least thirty minutes before the audit. Could we move it to one thirty? It takes forty-five minutes. Man: That means the client walkthrough at two won't work either. I'll ask the client to start at two thirty instead. Woman: Good. Please label both changes as proposed until the auditor and client confirm."
+    },
+    {
+      "title": "05 Listening｜Temporary Entrance and Delivery Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Good morning, everyone. Beginning Monday, November sixteenth, the east entrance will be closed for three days while new doors are installed. Most staff and visitors should use the south entrance during this period. The north entrance will remain available for anyone who needs step-free access. Existing employee ID badges will continue to work at both entrances. Deliveries must go to Loading Bay Two between seven and eleven in the morning. To help with the change, the reception desk will open at seven thirty instead of eight. Please follow the temporary signs, as some permanent signs may still point toward the east entrance."
+    },
+    {
+      "title": "⑥ Reading｜Building Access, IT Deployment and Revised Email Thread",
+      "markdown": "限時：**11 分 0 秒**。\n\n### Building Management — Temporary Access and Work Rules\n\n> Notice issued Friday, November 6. The west wing will be inaccessible on Tuesday, November 10, from 8:00 A.M. to 6:00 P.M. for fire-system work. During that closure, anyone who must enter the building may obtain a temporary access pass at Lobby C; the pass does not authorize entry into the closed west wing. The freight elevator may be used for equipment transfers on Thursday, November 12, from 7:00 to 9:00 A.M., provided a reservation is made at least 48 hours before the requested start time. Drilling is prohibited from 9:00 A.M. to 5:00 P.M. on business days. After-hours drilling is permitted if Facilities receives notice by 5:00 P.M. on the preceding business day. New visitor badges become available at Lobby C on Wednesday, November 11. Existing visitor badges will no longer be accepted starting that date.\n\n用途：參考文件\n\n### IT Deployment Plan — Original Milestones\n\n> Monday, November 9, 2:00–4:00 P.M.: inventory network equipment. Tuesday, November 10, 9:00 A.M.–noon: install network cabling in the west wing, including drilling. Wednesday, November 11, 10:00 A.M.–noon: configure routers; cabling must be completed before router configuration begins. Thursday, November 12, 7:00–9:00 A.M.: move heavy equipment using the freight elevator. Friday, November 13, 10:00–11:00 A.M.: demonstrate the new network to a visiting client. The demonstration requires completed router configuration and a successful network test.\n\n用途：參考文件\n\n### Revised Email Thread — Facilities, IT, and Client Services\n\n> Monday, November 9, 4:15 P.M. — Facilities to IT: Because the west wing will be closed on Tuesday, the cabling work must move to Thursday, November 12, 6:00–8:00 P.M. Facilities confirms that the freight-elevator reservation was submitted Monday at 4:00 P.M. and approved at 4:10 P.M. Facilities plans to submit the required after-hours drilling notice on Tuesday.\n\nTuesday, November 10, 3:30 P.M. — IT to Client Services: Facilities confirms that the after-hours drilling notice was submitted today at 2:00 P.M. and accepted this afternoon. Router configuration has been moved to Friday, November 13, 8:00–9:00 A.M., after Thursday evening cabling. A network test is scheduled for 9:00–9:30 A.M. The 10:00 A.M. client demonstration remains tentative until the network test passes.\n\nWednesday, November 11, 11:00 A.M. — Client Services to IT: Friday visitors will collect the new visitor badges at Lobby C. Their existing meeting registrations remain valid; they do not need to register again.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Temporary Access Procedures\n> \n> From December 1, the north lobby will be closed for flooring repairs. [1] _____\n> \n> During this period, staff should use the south lobby, which will open at 7 A.M. The temporary entrance is clearly marked. [2] _____ Visitors must show photo identification before a temporary badge [3] _____.\n> \n> We expect the north lobby to reopen on December 4, provided the inspection is completed on time. [4] _____\n> \n> Thank you for helping us maintain a safe and orderly entrance process."
+    },
+    {
+      "title": "⑨ Day 44 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 40、Day 41、Day 42、Day 43**。\n\n### 複習重點\n- **間接回應**：辨認 I wish I could、That would be a stretch 與 Not quite 的實際含意。\n- **更新公告**：用表格列出 original、revised、pending confirmation 三種狀態。\n- **跨文件條款**：先找禁止條款，再找例外與更新通知，最後確認適用日期。\n- **文法時態**：各寫一個 will have + p.p.、was being + p.p.、No sooner had...than 句子。\n- **篇章指涉**：Part 6 每題說明空格前後句的主題、時間與因果關係。\n\n### 錯題標籤\n- `G`：一般文法\n- `FUTPERF`：未來完成式\n- `CONJ`：連接詞\n- `TIME`：時間邏輯\n- `COND`：條件句\n- `INV`：否定副詞倒裝\n- `L`：聽力理解\n- `IMP`：間接拒絕或推論\n- `NEXT`：下一步行動\n- `DETAIL`：資訊細節\n- `UPDATE`：新舊資訊更新\n- `CALC`：計算\n- `DISCOUNT`：折扣適用範圍\n- `BUDGET`：預算\n- `EXCEPTION`：例外條款\n- `POLICY`：規章適用"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，選 8 個撰寫工作情境例句。\n- Listening 三組各聽兩次，第二次使用 TTS 1.1 倍速並隱藏逐字稿。\n- 重畫 L44-2 的網路測試、稽核與客戶導覽更新時間軸，標出待確認事項。\n- Reading 八題限時 11 分鐘，整理 11/10、11/11、11/12、11/13 的工作依賴。\n- Part 5 十五題限時 4 分鐘，Part 6 四題限時 3 分鐘，錯題需寫出排除其他選項的理由。\n- 正式小考第一次限時 6 分鐘，保留首次答案、正確題數、作答秒數及錯題標籤；第二次限時 5 分 30 秒。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "accreditation",
+      "meaning": "資格認證",
+      "phrase": "obtain accreditation"
+    },
+    {
+      "id": 2,
+      "word": "access credential",
+      "meaning": "出入憑證",
+      "phrase": "renew access credentials"
+    },
+    {
+      "id": 3,
+      "word": "barricade",
+      "meaning": "路障；封鎖",
+      "phrase": "place a barricade"
+    },
+    {
+      "id": 4,
+      "word": "blueprint",
+      "meaning": "藍圖；設計圖",
+      "phrase": "review a blueprint"
+    },
+    {
+      "id": 5,
+      "word": "contingency",
+      "meaning": "應變方案",
+      "phrase": "contingency plan"
+    },
+    {
+      "id": 6,
+      "word": "cordon off",
+      "meaning": "封鎖區域",
+      "phrase": "cordon off a corridor"
+    },
+    {
+      "id": 7,
+      "word": "designate",
+      "meaning": "指定",
+      "phrase": "designate an entrance"
+    },
+    {
+      "id": 8,
+      "word": "downtime",
+      "meaning": "停機時間",
+      "phrase": "minimize downtime"
+    },
+    {
+      "id": 9,
+      "word": "escort",
+      "meaning": "陪同；護送",
+      "phrase": "escort a visitor"
+    },
+    {
+      "id": 10,
+      "word": "evacuation",
+      "meaning": "疏散",
+      "phrase": "evacuation route"
+    },
+    {
+      "id": 11,
+      "word": "facility",
+      "meaning": "設施；場所",
+      "phrase": "facility manager"
+    },
+    {
+      "id": 12,
+      "word": "floor plan",
+      "meaning": "樓層平面圖",
+      "phrase": "updated floor plan"
+    },
+    {
+      "id": 13,
+      "word": "freight elevator",
+      "meaning": "貨梯",
+      "phrase": "reserve the freight elevator"
+    },
+    {
+      "id": 14,
+      "word": "handover",
+      "meaning": "交接",
+      "phrase": "project handover"
+    },
+    {
+      "id": 15,
+      "word": "infrastructure",
+      "meaning": "基礎設施",
+      "phrase": "network infrastructure"
+    },
+    {
+      "id": 16,
+      "word": "installation",
+      "meaning": "安裝",
+      "phrase": "complete installation"
+    },
+    {
+      "id": 17,
+      "word": "interim",
+      "meaning": "臨時的；過渡期間的",
+      "phrase": "interim arrangement"
+    },
+    {
+      "id": 18,
+      "word": "maintenance window",
+      "meaning": "維護時段",
+      "phrase": "scheduled maintenance window"
+    },
+    {
+      "id": 19,
+      "word": "milestone",
+      "meaning": "里程碑",
+      "phrase": "meet a milestone"
+    },
+    {
+      "id": 20,
+      "word": "notification",
+      "meaning": "通知",
+      "phrase": "advance notification"
+    },
+    {
+      "id": 21,
+      "word": "permit",
+      "meaning": "許可證；准許",
+      "phrase": "obtain a permit"
+    },
+    {
+      "id": 22,
+      "word": "prerequisite",
+      "meaning": "先決條件",
+      "phrase": "a prerequisite for"
+    },
+    {
+      "id": 23,
+      "word": "premises",
+      "meaning": "營業場所；建物範圍",
+      "phrase": "enter the premises"
+    },
+    {
+      "id": 24,
+      "word": "relocate",
+      "meaning": "搬遷；改設",
+      "phrase": "relocate equipment"
+    },
+    {
+      "id": 25,
+      "word": "reroute",
+      "meaning": "改道",
+      "phrase": "reroute deliveries"
+    },
+    {
+      "id": 26,
+      "word": "restoration",
+      "meaning": "恢復",
+      "phrase": "service restoration"
+    },
+    {
+      "id": 27,
+      "word": "safety clearance",
+      "meaning": "安全核准",
+      "phrase": "receive safety clearance"
+    },
+    {
+      "id": 28,
+      "word": "signage",
+      "meaning": "標示；指示牌",
+      "phrase": "temporary signage"
+    },
+    {
+      "id": 29,
+      "word": "site inspection",
+      "meaning": "現場檢查",
+      "phrase": "conduct a site inspection"
+    },
+    {
+      "id": 30,
+      "word": "stakeholder",
+      "meaning": "利害關係人",
+      "phrase": "notify stakeholders"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Indirect Refusal and a Printing Deadline",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the woman unable to approve the brochure now?",
+          "options": {
+            "A": "The printer is closed.",
+            "B": "The event was canceled.",
+            "C": "Legal has not cleared two photographs.",
+            "D": "Marketing has already rejected the captions."
+          },
+          "answer": "C",
+          "explanation": "女方說法務尚未核准兩張照片的使用權，因此不能在中午前核准最終版本。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman mean when she says, \"I wish I could\"?",
+          "options": {
+            "A": "She has already signed the brochure.",
+            "B": "She cannot meet the requested approval time.",
+            "C": "She wants the event moved to next week.",
+            "D": "She prefers paper copies to digital copies."
+          },
+          "answer": "B",
+          "explanation": "I wish I could 是禮貌而間接的拒絕；後句指出她要等法務審查，最快明早才核准。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should the man tell the printer?",
+          "options": {
+            "A": "Cancel all printing permanently.",
+            "B": "Print the illustrated version immediately.",
+            "C": "Move the event to tomorrow.",
+            "D": "Keep the color-printing slot on hold."
+          },
+          "answer": "D",
+          "explanation": "女方說 hold the color run, not cancel it，意即暫時保留彩色印刷安排而非取消。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "IT Maintenance Timeline and Task Dependencies",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why was the server-rack move delayed?",
+          "options": {
+            "A": "The loading crew will arrive late.",
+            "B": "The client requested a later start.",
+            "C": "The network test failed.",
+            "D": "The security audit was canceled."
+          },
+          "answer": "A",
+          "explanation": "對話一開始說 loading crew will arrive ninety minutes late，因此貨架搬移延後。"
+        },
+        {
+          "id": 2,
+          "prompt": "When is the network test expected to finish?",
+          "options": {
+            "A": "11:00 A.M.",
+            "B": "11:30 A.M.",
+            "C": "1:00 P.M.",
+            "D": "1:30 P.M."
+          },
+          "answer": "C",
+          "explanation": "更新後網路測試 11:30 開始，持續 90 分鐘，預計下午 1 點結束。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why is the original security-audit time unsuitable?",
+          "options": {
+            "A": "The auditor is unavailable on Tuesdays.",
+            "B": "The audit requires two hours.",
+            "C": "The client has already left.",
+            "D": "The auditor needs the test results 30 minutes in advance."
+          },
+          "answer": "D",
+          "explanation": "網路測試 1 點才結束，稽核員需提前 30 分鐘拿到結果，因此 1 點不能直接開始。"
+        },
+        {
+          "id": 4,
+          "prompt": "What new start time will the man propose for the client walkthrough?",
+          "options": {
+            "A": "1:30 P.M.",
+            "B": "2:30 P.M.",
+            "C": "3:30 P.M.",
+            "D": "4:00 P.M."
+          },
+          "answer": "B",
+          "explanation": "稽核改為 1:30–2:15，男方提議客戶導覽延至 2:30，且仍須等待確認。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Temporary Entrance and Delivery Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which entrance should most staff and visitors use?",
+          "options": {
+            "A": "The east entrance",
+            "B": "The north entrance",
+            "C": "The south entrance",
+            "D": "The loading-bay entrance"
+          },
+          "answer": "C",
+          "explanation": "公告明確要求一般員工與訪客改走 south entrance；東側入口暫時關閉。"
+        },
+        {
+          "id": 2,
+          "prompt": "Who may use the north entrance?",
+          "options": {
+            "A": "People who need step-free access",
+            "B": "Only delivery drivers",
+            "C": "Only new employees",
+            "D": "People without ID badges"
+          },
+          "answer": "A",
+          "explanation": "north entrance 為需要無階梯通行者保留的例外入口。"
+        },
+        {
+          "id": 3,
+          "prompt": "When can deliveries arrive at Loading Bay Two?",
+          "options": {
+            "A": "6–9 A.M.",
+            "B": "7–11 A.M.",
+            "C": "8 A.M.–noon",
+            "D": "11 A.M.–3 P.M."
+          },
+          "answer": "B",
+          "explanation": "貨物需在早上 7 點到 11 點之間送到第二裝卸區。"
+        },
+        {
+          "id": 4,
+          "prompt": "What time will reception open during the temporary arrangement?",
+          "options": {
+            "A": "7:00 A.M.",
+            "B": "7:15 A.M.",
+            "C": "8:00 A.M.",
+            "D": "7:30 A.M."
+          },
+          "answer": "D",
+          "explanation": "櫃台從原本 8 點提早至 7:30 開放。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Building Access, IT Deployment and Revised Email Thread",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which activity in the original IT plan directly conflicts with the building closure?",
+          "options": {
+            "A": "Monday inventory",
+            "B": "Tuesday west-wing cabling",
+            "C": "Thursday equipment move",
+            "D": "Friday client demonstration"
+          },
+          "answer": "B",
+          "explanation": "西翼在 11/10 週二 08:00–18:00 關閉，原訂當天 09:00–12:00 的西翼佈線無法進行。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the original IT plan, what must happen before router configuration?",
+          "options": {
+            "A": "Visitor badges must be renewed.",
+            "B": "The freight elevator must be inspected.",
+            "C": "Network cabling must be completed.",
+            "D": "The client must arrive."
+          },
+          "answer": "C",
+          "explanation": "IT 原始計畫明列 cabling must be completed before router configuration begins。"
+        },
+        {
+          "id": 3,
+          "prompt": "When is router configuration scheduled in the revised plan?",
+          "options": {
+            "A": "Wednesday, November 11, 10 A.M.–noon",
+            "B": "Thursday, November 12, 7–9 A.M.",
+            "C": "Thursday, November 12, 6–8 P.M.",
+            "D": "Friday, November 13, 8–9 A.M."
+          },
+          "answer": "D",
+          "explanation": "11/10 IT 更新郵件將路由器設定改到 11/13 週五上午 8–9 點。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why is the Friday client demonstration still tentative?",
+          "options": {
+            "A": "A network test must pass first.",
+            "B": "The visitor badges will not arrive until Saturday.",
+            "C": "The freight elevator is unavailable Friday.",
+            "D": "The west wing remains closed until Monday."
+          },
+          "answer": "A",
+          "explanation": "週五 9:00–9:30 的網路測試須成功，10 點示範才能正式確認。"
+        },
+        {
+          "id": 5,
+          "prompt": "Does the freight-elevator reservation satisfy the 48-hour advance requirement?",
+          "options": {
+            "A": "No, because it was submitted Wednesday.",
+            "B": "No, because it was submitted after the equipment move.",
+            "C": "Yes, because it was submitted on Monday afternoon for Thursday morning.",
+            "D": "Yes, because advance booking is not required."
+          },
+          "answer": "C",
+          "explanation": "貨梯週四 07:00 使用，最晚須週二 07:00 前預約；週一 16:00 已提交，早於截止時間。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is the latest deadline for the after-hours drilling notice for Thursday evening work?",
+          "options": {
+            "A": "Tuesday, November 10, 5 P.M.",
+            "B": "Wednesday, November 11, 5 P.M.",
+            "C": "Thursday, November 12, 5 P.M.",
+            "D": "Friday, November 13, 9 A.M."
+          },
+          "answer": "B",
+          "explanation": "規則為前一個工作日下午 5 點前，因此週四晚間施工最晚須在週三 11/11 下午 5 點前通知。"
+        },
+        {
+          "id": 7,
+          "prompt": "Where should Friday visitors collect their new badges?",
+          "options": {
+            "A": "The west-wing office",
+            "B": "The freight elevator",
+            "C": "The south loading dock",
+            "D": "Lobby C"
+          },
+          "answer": "D",
+          "explanation": "新訪客證 11/11 起在 Lobby C 提供；客戶服務郵件也指定週五訪客到 Lobby C 領取。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which statement is supported by all three documents?",
+          "options": {
+            "A": "The revised cabling time avoids the daytime drilling restriction and has the required notice.",
+            "B": "The client demonstration is already confirmed.",
+            "C": "The original Tuesday cabling schedule can be kept.",
+            "D": "Visitors must submit a new registration for Friday."
+          },
+          "answer": "A",
+          "explanation": "佈線改為週四 18–20 點，避開 09–17 點鑽孔禁令，且週二已提前通知；其他選項與更新文件矛盾。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "By next Monday, the facilities team _____ all access cards.",
+          "options": {
+            "A": "replaces",
+            "B": "had replaced",
+            "C": "will have replaced",
+            "D": "has replacing"
+          },
+          "answer": "C",
+          "explanation": "By next Monday 指未來某時間點之前已完成，使用未來完成式 will have replaced。"
+        },
+        {
+          "id": 2,
+          "prompt": "The report _____ when the power went out.",
+          "options": {
+            "A": "was being uploaded",
+            "B": "is uploading",
+            "C": "will upload",
+            "D": "has upload"
+          },
+          "answer": "A",
+          "explanation": "停電發生時報告「正在被上傳」，需用過去進行被動 was being uploaded。"
+        },
+        {
+          "id": 3,
+          "prompt": "The meeting will start once the presenter _____.",
+          "options": {
+            "A": "will arrive",
+            "B": "arriving",
+            "C": "had arrived",
+            "D": "arrives"
+          },
+          "answer": "D",
+          "explanation": "once 引導未來時間子句，使用現在式 arrives 表示未來。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the shipment was delayed, the installation team kept its original schedule.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Due to",
+            "D": "In spite of"
+          },
+          "answer": "B",
+          "explanation": "後方 the shipment was delayed 是完整子句，因此使用 Although。"
+        },
+        {
+          "id": 5,
+          "prompt": "The manager requested that the documents _____ before noon.",
+          "options": {
+            "A": "are submitted",
+            "B": "submitted",
+            "C": "be submitted",
+            "D": "will be submitted"
+          },
+          "answer": "C",
+          "explanation": "request that 引導要求式假設語氣，使用原形 be submitted。"
+        },
+        {
+          "id": 6,
+          "prompt": "Not until the technician arrived _____ the cause of the outage.",
+          "options": {
+            "A": "did we identify",
+            "B": "we identified",
+            "C": "we did identified",
+            "D": "identified we"
+          },
+          "answer": "A",
+          "explanation": "Not until 位於句首，主句倒裝 did + 主詞 + 原形動詞 identify。"
+        },
+        {
+          "id": 7,
+          "prompt": "The revised schedule is _____ to change if the inspection takes longer.",
+          "options": {
+            "A": "subjection",
+            "B": "subject",
+            "C": "subjecting",
+            "D": "subjected"
+          },
+          "answer": "B",
+          "explanation": "固定搭配 be subject to change 表示可能變更。"
+        },
+        {
+          "id": 8,
+          "prompt": "The temporary entrance will remain open _____ construction is completed.",
+          "options": {
+            "A": "because of",
+            "B": "despite",
+            "C": "although",
+            "D": "until"
+          },
+          "answer": "D",
+          "explanation": "until + 子句，表示入口會一直開放到施工完成為止。"
+        },
+        {
+          "id": 9,
+          "prompt": "The plan is practical; _____, it requires written approval.",
+          "options": {
+            "A": "however",
+            "B": "because",
+            "C": "unless",
+            "D": "therefore of"
+          },
+          "answer": "A",
+          "explanation": "前後語意轉折，分號後用 however 並加逗號。"
+        },
+        {
+          "id": 10,
+          "prompt": "The team postponed the launch _____ the vendor could complete testing.",
+          "options": {
+            "A": "even though",
+            "B": "unless",
+            "C": "so that",
+            "D": "despite"
+          },
+          "answer": "C",
+          "explanation": "延後上市的目的是讓供應商完成測試，使用 so that 表目的。"
+        },
+        {
+          "id": 11,
+          "prompt": "The engineer said the issue _____ the previous evening.",
+          "options": {
+            "A": "occurs",
+            "B": "had occurred",
+            "C": "will occur",
+            "D": "has occurring"
+          },
+          "answer": "B",
+          "explanation": "said 為過去式，the previous evening 指更早的過去，用 had occurred。"
+        },
+        {
+          "id": 12,
+          "prompt": "Either the supervisor or the assistants _____ responsible for updating the roster.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "has",
+            "D": "are"
+          },
+          "answer": "D",
+          "explanation": "either...or 就近一致；assistants 為複數，使用 are。"
+        },
+        {
+          "id": 13,
+          "prompt": "The device should be inspected _____ it is returned to service.",
+          "options": {
+            "A": "before",
+            "B": "unless of",
+            "C": "despite",
+            "D": "in addition"
+          },
+          "answer": "A",
+          "explanation": "應在重新投入服務「之前」檢查，before 引導時間子句。"
+        },
+        {
+          "id": 14,
+          "prompt": "The new badges are available to employees _____ IDs expire this month.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "whose 表所有關係，修飾 employees 的 IDs。"
+        },
+        {
+          "id": 15,
+          "prompt": "The documents, along with the revised map, _____ attached to the email.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "主要主詞 documents 是複數，along with 不影響動詞一致，故用 are。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "The repair work is expected to take three business days.",
+            "B": "The annual sales report was published yesterday.",
+            "C": "All parking permits have expired permanently.",
+            "D": "The company will relocate its headquarters next year."
+          },
+          "answer": "A",
+          "explanation": "前句說 12/1 起北大廳整修，接著交代預計施工三個工作天，與後文 12/4 重開相呼應。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best completes blank [2]?",
+          "options": {
+            "A": "All employees should attend the annual awards ceremony.",
+            "B": "For visitors, a separate check-in desk will operate just inside the south lobby.",
+            "C": "The elevator maintenance contract expires in January.",
+            "D": "Visitors should enter through the closed north lobby."
+          },
+          "answer": "B",
+          "explanation": "後句說訪客需出示照片證件才能領臨時證，前面先介紹南大廳的訪客報到櫃台最連貫。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "issues",
+            "B": "issuing",
+            "C": "is issued",
+            "D": "has issued"
+          },
+          "answer": "C",
+          "explanation": "badge 是「被核發」，且表示一般程序，使用現在簡單被動 is issued。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "The cafeteria serves hot lunches every weekday.",
+            "B": "All employees received a bonus last month.",
+            "C": "The printer is located on the third floor.",
+            "D": "If the inspection is delayed, an updated notice will be sent."
+          },
+          "answer": "D",
+          "explanation": "前句說重開取決於檢查準時完成，後句補充檢查延誤時會更新通知，條件銜接正確。"
+        }
+      ]
+    },
+    {
+      "id": "day-44-quiz",
+      "title": "Day 44 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "By the time the client arrives tomorrow, the technicians _____ the final test.",
+          "options": {
+            "A": "completed",
+            "B": "will have completed",
+            "C": "had completed",
+            "D": "are completing"
+          },
+          "answer": "B",
+          "explanation": "到明天客戶抵達時測試將已完成，使用未來完成式 will have completed。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ the printer received the corrected file, production could not begin.",
+          "options": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "Until",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "在印刷廠收到修正檔之前無法開工，Until + 完整子句最符合時間邏輯。"
+        },
+        {
+          "id": 3,
+          "prompt": "The launch will proceed _____ the inspection report is approved.",
+          "options": {
+            "A": "provided that",
+            "B": "despite",
+            "C": "because of",
+            "D": "in addition to"
+          },
+          "answer": "A",
+          "explanation": "provided that + 完整子句表示在檢驗報告核准的條件下才會進行。"
+        },
+        {
+          "id": 4,
+          "prompt": "No sooner _____ the notice been posted than the staff began asking questions.",
+          "options": {
+            "A": "did",
+            "B": "has",
+            "C": "was",
+            "D": "had"
+          },
+          "answer": "D",
+          "explanation": "No sooner had + 主詞 + p.p. + than...，此句用過去完成倒裝 had。"
+        },
+        {
+          "id": 5,
+          "prompt": "What does the designer imply about the permanent signs?",
+          "options": {
+            "A": "They were finished last week.",
+            "B": "They cannot be ready by Thursday.",
+            "C": "They will be installed on Wednesday morning.",
+            "D": "They require no floor plan."
+          },
+          "answer": "B",
+          "explanation": "That would be a stretch 為委婉表示難以做到，且永久指示牌預計週一才完成。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does the manager request by Wednesday at noon?",
+          "options": {
+            "A": "A final floor plan",
+            "B": "Permanent signs",
+            "C": "A temporary-sign layout",
+            "D": "A printed annual report"
+          },
+          "answer": "C",
+          "explanation": "主管要求週三中午前寄送臨時指示牌配置圖，不是永久指示牌。"
+        },
+        {
+          "id": 7,
+          "prompt": "Where and when will the annex shuttle depart tomorrow?",
+          "options": {
+            "A": "8:35 A.M. from Gate Two",
+            "B": "8:15 A.M. from Gate Four",
+            "C": "5:10 P.M. from Gate Two",
+            "D": "8:35 A.M. from Gate Four"
+          },
+          "answer": "A",
+          "explanation": "明天單日調整為 08:35 從 Gate Two 出發；08:15/Gate Four 為原時刻與地點。"
+        },
+        {
+          "id": 8,
+          "prompt": "Which shuttle detail will remain unchanged?",
+          "options": {
+            "A": "The morning departure gate",
+            "B": "The morning departure time",
+            "C": "The accessible-service request deadline",
+            "D": "The 5:10 P.M. return departure"
+          },
+          "answer": "D",
+          "explanation": "公告說回程接駁仍在 17:10 從附屬館入口出發，其他為變更或另行要求。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total rental cost including setup?",
+          "options": {
+            "A": "$379.50",
+            "B": "$409.50",
+            "C": "$419.50",
+            "D": "$459.50"
+          },
+          "answer": "C",
+          "explanation": "投影機 3×$90=$270，折扣後 $229.50；麥克風 2×3×$25=$150；安裝 $40；合計 $419.50。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the $430 budget will remain?",
+          "options": {
+            "A": "$0.50",
+            "B": "$10.50",
+            "C": "$20.50",
+            "D": "$40.50"
+          },
+          "answer": "B",
+          "explanation": "預算 $430－總費用 $419.50＝$10.50。"
+        },
+        {
+          "id": 11,
+          "prompt": "Which entrance may authorized employees use during Friday evening maintenance?",
+          "options": {
+            "A": "The north door",
+            "B": "The east lobby",
+            "C": "The south emergency exit",
+            "D": "Any entrance with a visitor pass"
+          },
+          "answer": "A",
+          "explanation": "持有效員工識別證者在維護時段可由 north door 進入。"
+        },
+        {
+          "id": 12,
+          "prompt": "What restriction applies to visitor passes during the maintenance window?",
+          "options": {
+            "A": "They must be renewed on Saturday.",
+            "B": "They are accepted at the south door.",
+            "C": "They are valid only for delivery drivers.",
+            "D": "They cannot be used for entry during the window."
+          },
+          "answer": "D",
+          "explanation": "公告明定 Visitor passes are not valid for entry during the window。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "辨識 I wish I could / That would be a stretch 等委婉拒絕；使用 Part 3 圖表推算先後依賴與活動時間；整合三份文件判斷設施封閉、工作時間與先決條件。",
+  "nextDay": "Part 7 多文件決策與矛盾資訊／Part 3/4 言外之意與說話者態度／Part 5 時態整合與連接副詞／Part 6 篇章連貫及句子插入"
+}

@@ -206,18 +206,18 @@
   },
   {
     "day": 42,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "供應鏈延遲、Part 3/4 間接回應、Part 7 跨文件條款衝突"
   },
   {
     "day": 43,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "客訴處理、更新期限、間接問句與跨文件費用整合"
   },
   {
     "day": 44,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "跨文件時程衝突、IT 維護與間接拒絕"
   },
   {
     "day": 45,
