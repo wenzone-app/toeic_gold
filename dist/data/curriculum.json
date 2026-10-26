@@ -221,13 +221,13 @@
   },
   {
     "day": 45,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "採購合約例外、條件性核准與跨文件決策"
   },
   {
     "day": 46,
-    "available": false,
-    "title": "教材待匯入"
+    "available": true,
+    "title": "跨部門產品發表、時程依賴、資料隱私與書面核准"
   },
   {
     "day": 47,

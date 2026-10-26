@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 46,
+  "title": "跨部門產品發表、時程依賴、資料隱私與書面核准",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860–900+ baseline",
+  "source": "使用者提供的 Day 46 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 46 學習概覽",
+      "markdown": "- 掌握跨部門協作、資料隱私、上市流程相關詞彙 30 個\n- 熟悉否定副詞倒裝、就近一致、分詞被動、截止時間及間接引述\n- Listening 判斷有條件發布、時間依賴與更新公告的例外\n- Reading 整合三份文件的預算、改期費及核准狀態\n- Part 6 判斷資料保留例外與句子插入邏輯\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| alignment | 協調一致 | cross-functional alignment |\n| stakeholder | 利害關係人 | stakeholder briefing |\n| deliverable | 交付成果 | final deliverable |\n| dependency | 前置依賴 | critical dependency |\n| bottleneck | 瓶頸 | production bottleneck |\n| milestone | 里程碑 | project milestone |\n| rollout | 正式推出 | phased rollout |\n| contingency | 應變措施 | contingency arrangement |\n| feasibility | 可行性 | assess feasibility |\n| tentative | 暫定的 | tentative schedule |\n| clearance | 核准、許可 | compliance clearance |\n| disclosure | 揭露資訊 | privacy disclosure |\n| consent | 同意 | written consent |\n| redact | 遮蔽敏感資訊 | redact personal details |\n| anonymize | 匿名化 | anonymize responses |\n| retention | 保留 | data retention period |\n| confidential | 機密的 | confidential material |\n| compliant | 符合規範的 | remain compliant |\n| endorsement | 核可 | final endorsement |\n| provisional | 暫時的 | provisional booking |\n| reconcile | 核對 | reconcile the figures |\n| overrun | 超支 | budget overrun |\n| allocation | 分配 | resource allocation |\n| quotation | 報價單 | revised quotation |\n| surcharge | 附加費 | rescheduling surcharge |\n| sign-off | 正式簽核 | obtain sign-off |\n| turnaround | 處理所需時間 | editing turnaround |\n| fallback | 備用方案 | fallback option |\n| supersede | 取代先前版本 | supersede the schedule |\n| viable | 可行的 | viable alternative |"
+    },
+    {
+      "title": "② 今日文法｜Seldom / Rarely / Under no circumstances 倒裝、Not only ... but also 的主詞一致、Whatever / Whichever / Whether、完成被動分詞與邏輯主詞、By / Until / No later than",
+      "markdown": "主題：**Seldom / Rarely / Under no circumstances 倒裝、Not only ... but also 的主詞一致、Whatever / Whichever / Whether、完成被動分詞與邏輯主詞、By / Until / No later than**\n\n### 規則 1｜Seldom / Rarely / Under no circumstances 倒裝\n\n否定或限制性副詞片語置句首，主句使用助動詞＋主詞＋原形動詞，或 be 動詞倒裝。\n\n> Under no circumstances should confidential files be shared externally.\n\n### 規則 2｜Not only ... but also 的主詞一致\n\nNot only A but also B 作並列主詞時，動詞通常與較近的 B 一致。\n\n> Not only the designers but also the project manager is attending.\n\n### 規則 3｜Whatever / Whichever / Whether\n\nWhatever 表不限定的任何事物；whichever 表在已知選項中任選；whether 表是否或兩者之間的選擇。\n\n> Whichever option the team selects, Finance must approve the cost.\n\n### 規則 4｜完成被動分詞與邏輯主詞\n\nHaving been + p.p. 表示在主句動作之前已被完成的事件，邏輯主詞必須一致。\n\n> Having been approved by Legal, the notice was published.\n\n### 規則 5｜By / Until / No later than\n\nBy 或 no later than 表截止前完成；until 表持續到某時間；區分狀態持續與一次性動作。\n\n> Please submit the revised layout by 4 P.M., and keep the old page online until approval."
+    },
+    {
+      "title": "03 Listening｜Customer Testimonials and Conditional Publication",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: The campaign page is ready. Can we publish the customer testimonials before lunch?\n> Woman: I'd hold off for now. Two customers agreed to be interviewed, but they haven't approved the quotations we plan to display.\n> Man: Could we post the page without those quotations?\n> Woman: Yes, provided the privacy disclosure stays visible and the product specifications have been checked by Engineering.\n> Man: Engineering signed off on the specifications yesterday. I'll remove the quotations and send you a preview link.\n> Woman: Great. I'll check the disclosure and reply before noon."
+    },
+    {
+      "title": "04 Listening｜Shipment, Inspection, Photography and Website Release",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Our demonstration tablets are due Wednesday at two thirty. Quality Control needs ninety minutes after delivery.\n> Man: So inspection should finish at four, assuming the shipment arrives on time. The photo studio is booked from four thirty to five fifteen.\n> Woman: Right. The designer needs another forty-five minutes to edit the pictures. Marketing can review them Thursday morning, but the final sign-off must arrive by ten for the eleven o'clock website release.\n> Man: And if any tablet fails inspection?\n> Woman: We can use the product diagram for Thursday's internal briefing, but the public website must wait for approved photographs."
+    },
+    {
+      "title": "05 Listening｜Updated Customer Analytics Webinar Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, registered participants. The customer analytics webinar originally scheduled for Friday, October thirtieth, at ten in the morning will now begin at two in the afternoon on the same day. Your existing registration link will continue to work, so please do not register again. The recording will be available in the learning portal on Monday, November second, at nine A.M. However, questions submitted through the live Q-and-A panel will only be answered during Friday's session. Clients who cannot attend live may email questions by Thursday at five P.M.; the speakers will address selected questions during the broadcast. Please note that the change does not affect next Tuesday's separate administrator workshop."
+    },
+    {
+      "title": "⑥ Reading｜Product Launch Schedule Dependencies and Budget Authorization",
+      "markdown": "限時：**12 分 0 秒**。\n\n### Linden Expo Center — Product Launch Services\n\n> Linden Expo Center — Product Launch Services (issued October 20, 2026)\nThe exhibition booth rental is $620 for the October 30 launch. Demo tablets cost $110 each. Orders of at least eight tablets qualify for a 10 percent discount on the tablet subtotal only. Printed brochures cost $0.70 each. Standard transport is $55 per order. An audiovisual (AV) technician is available for a fixed $180 setup charge. A change to an agreed technician appointment incurs a $65 rescheduling fee. No other charges are discounted. All schedule changes require written approval from the venue and the purchasing department before becoming final.\n\n用途：參考文件\n\n### Orion Product Team — Purchase Request and Launch Plan\n\n> Orion Product Team — Purchase Request and Launch Plan (October 23)\nEvent: Friday, October 30, doors open at 9:30 A.M.\nRequested services: one exhibition booth; eight demo tablets; 200 printed brochures; standard transport; one AV technician appointment on Thursday, October 29, from 3:30 to 4:30 P.M.\nApproved project spending limit: $1,850, including any rescheduling fees.\nThe purchasing department has accepted the original quotation. Marketing plans to test the interactive display immediately after the AV technician finishes setup. The team has not requested a change to the tablet quantity.\n\n用途：參考文件\n\n### Cross-Department Email Thread — October 27\n\n> Email thread — Tuesday, October 27\n09:10, Logistics to Operations: “The demo tablets are now expected at 4:30 P.M. on Thursday, October 29, rather than at noon. The AV technician needs the tablets on site to complete setup. The original 3:30–4:30 slot therefore cannot be relied on.”\n10:05, Venue to Operations: “We can offer an alternative technician appointment on Friday, October 30, from 8:00 to 9:00 A.M. The $65 rescheduling fee applies. Early access from 8:00 A.M. has been confirmed. Please obtain written purchasing approval by Wednesday, October 28, at noon.”\n11:20, Purchasing to Operations: “We are reviewing the additional fee because it may exceed the $1,850 project limit. Do not treat the new appointment as confirmed until we issue written approval.”\n11:35, Operations to Marketing: “If Purchasing approves the fee, setup could finish at 9:00 A.M., leaving thirty minutes before doors open. We have not received that approval yet.”\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Employee Training Survey — Data Handling Update\n> \n> Thank you for completing the annual training survey. Beginning November 3, survey responses will be stored in a restricted reporting system. [1] _____\n> \n> Before the results are distributed to department heads, all personal identifiers [2] _____. The summary will show group-level trends rather than individual comments.\n> \n> Most survey data will be deleted ninety days after the final report is issued. [3] _____ Records that must be retained for a legally required audit will remain in a separate protected archive for the required period.\n> \n> Employees may request a copy of the privacy notice from Human Resources. [4] _____ This will help us answer questions without exposing other employees' responses."
+    },
+    {
+      "title": "⑨ Day 46 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 43、Day 44、Day 45**。\n\n### 複習重點\n- **Day 43：更新期限與例外**：比較一般截止時間與例外適用對象，寫出誰能使用延長期限。\n- **Day 44：時間依賴**：將「到貨→檢驗→拍攝→核准→發布」標成時間軸，計算緩衝時間。\n- **Day 45：書面核准**：將 proposed、pending、approved 分成三類，勿將申請視為生效。\n- **Day 46：隱私與授權**：分辨受訪同意、引言刊登同意、工程規格核准是不同條件。\n\n### 錯題標籤\n- `DETAIL`：明示細節\n- `CONSENT`：授權與同意範圍\n- `IMPLICATION`：言外之意\n- `CONDITION`：條件性承諾\n- `NEXT_ACTION`：下一步行動\n- `TIMELINE`：時間軸計算\n- `CALC`：數字計算\n- `INFERENCE`：推論\n- `DEADLINE`：截止期限\n- `DEPENDENCY`：前置依賴\n- `EXCEPTION`：例外條款\n- `UPDATE`：更新資訊\n- `TIME`：時間資訊\n- `DISCOUNT`：折扣\n- `BUDGET`：預算限制\n- `INTEGRATION`：跨文件整合\n- `APPROVAL`：書面核准狀態\n- `INVERSION`：否定副詞倒裝\n- `PRIVACY`：資料隱私\n- `AGREEMENT`：主詞一致\n- `PRONOUN`：代名詞選擇\n- `WORD_FORM`：詞性\n- `CONJUNCTION`：連接詞\n- `PREPOSITION`：介系詞搭配\n- `PARTICIPLE`：分詞構句\n- `PASSIVE`：被動語態\n- `COMPARISON`：比較級\n- `INDIRECT_QUESTION`：間接問句\n- `POLICY`：政策規定\n- `RELATIVE_CLAUSE`：關係子句\n- `REPORTED_SPEECH`：間接引述\n- `TENSE`：時態\n- `COHESION`：篇章銜接\n- `REFERENCE`：指涉關係"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習 30 個單字並用 alignment、clearance、dependency、overrun 等任選 8 個造句。\n- Listening 三組各聽兩遍：第一次隱藏 transcript，第二次對照稿件並標記條件性表達。\n- 畫出週三到週五的到貨→品管→拍照→修圖→簽核→網站發布時間軸。\n- Reading 限時 12 分鐘；獨立算出 $1,787、$63、$1,852 與超支 $2 的來源。\n- Part 5 限時 4 分鐘、Part 6 限時 3 分鐘；逐題寫下正確文法或篇章線索。\n- 正式小考 12 題首次限時 6 分鐘，提交首次答案、分數、耗時及 errorTags；複習後再進行第二次測驗。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "alignment",
+      "meaning": "協調一致",
+      "phrase": "cross-functional alignment"
+    },
+    {
+      "id": 2,
+      "word": "stakeholder",
+      "meaning": "利害關係人",
+      "phrase": "stakeholder briefing"
+    },
+    {
+      "id": 3,
+      "word": "deliverable",
+      "meaning": "交付成果",
+      "phrase": "final deliverable"
+    },
+    {
+      "id": 4,
+      "word": "dependency",
+      "meaning": "前置依賴",
+      "phrase": "critical dependency"
+    },
+    {
+      "id": 5,
+      "word": "bottleneck",
+      "meaning": "瓶頸",
+      "phrase": "production bottleneck"
+    },
+    {
+      "id": 6,
+      "word": "milestone",
+      "meaning": "里程碑",
+      "phrase": "project milestone"
+    },
+    {
+      "id": 7,
+      "word": "rollout",
+      "meaning": "正式推出",
+      "phrase": "phased rollout"
+    },
+    {
+      "id": 8,
+      "word": "contingency",
+      "meaning": "應變措施",
+      "phrase": "contingency arrangement"
+    },
+    {
+      "id": 9,
+      "word": "feasibility",
+      "meaning": "可行性",
+      "phrase": "assess feasibility"
+    },
+    {
+      "id": 10,
+      "word": "tentative",
+      "meaning": "暫定的",
+      "phrase": "tentative schedule"
+    },
+    {
+      "id": 11,
+      "word": "clearance",
+      "meaning": "核准、許可",
+      "phrase": "compliance clearance"
+    },
+    {
+      "id": 12,
+      "word": "disclosure",
+      "meaning": "揭露資訊",
+      "phrase": "privacy disclosure"
+    },
+    {
+      "id": 13,
+      "word": "consent",
+      "meaning": "同意",
+      "phrase": "written consent"
+    },
+    {
+      "id": 14,
+      "word": "redact",
+      "meaning": "遮蔽敏感資訊",
+      "phrase": "redact personal details"
+    },
+    {
+      "id": 15,
+      "word": "anonymize",
+      "meaning": "匿名化",
+      "phrase": "anonymize responses"
+    },
+    {
+      "id": 16,
+      "word": "retention",
+      "meaning": "保留",
+      "phrase": "data retention period"
+    },
+    {
+      "id": 17,
+      "word": "confidential",
+      "meaning": "機密的",
+      "phrase": "confidential material"
+    },
+    {
+      "id": 18,
+      "word": "compliant",
+      "meaning": "符合規範的",
+      "phrase": "remain compliant"
+    },
+    {
+      "id": 19,
+      "word": "endorsement",
+      "meaning": "核可",
+      "phrase": "final endorsement"
+    },
+    {
+      "id": 20,
+      "word": "provisional",
+      "meaning": "暫時的",
+      "phrase": "provisional booking"
+    },
+    {
+      "id": 21,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile the figures"
+    },
+    {
+      "id": 22,
+      "word": "overrun",
+      "meaning": "超支",
+      "phrase": "budget overrun"
+    },
+    {
+      "id": 23,
+      "word": "allocation",
+      "meaning": "分配",
+      "phrase": "resource allocation"
+    },
+    {
+      "id": 24,
+      "word": "quotation",
+      "meaning": "報價單",
+      "phrase": "revised quotation"
+    },
+    {
+      "id": 25,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "rescheduling surcharge"
+    },
+    {
+      "id": 26,
+      "word": "sign-off",
+      "meaning": "正式簽核",
+      "phrase": "obtain sign-off"
+    },
+    {
+      "id": 27,
+      "word": "turnaround",
+      "meaning": "處理所需時間",
+      "phrase": "editing turnaround"
+    },
+    {
+      "id": 28,
+      "word": "fallback",
+      "meaning": "備用方案",
+      "phrase": "fallback option"
+    },
+    {
+      "id": 29,
+      "word": "supersede",
+      "meaning": "取代先前版本",
+      "phrase": "supersede the schedule"
+    },
+    {
+      "id": 30,
+      "word": "viable",
+      "meaning": "可行的",
+      "phrase": "viable alternative"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Customer Testimonials and Conditional Publication",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why does the woman want to delay publishing the testimonials?",
+          "options": {
+            "A": "The product specifications are inaccurate.",
+            "B": "The customers have not approved the quoted wording.",
+            "C": "The website server is unavailable.",
+            "D": "The campaign has been canceled."
+          },
+          "answer": "B",
+          "explanation": "兩位顧客同意受訪，但尚未核准將公開的引言；同意受訪不等於同意刊登文字。"
+        },
+        {
+          "id": 2,
+          "prompt": "Under what condition may the page be posted without testimonials?",
+          "options": {
+            "A": "If the disclosure remains visible and Engineering has checked the specifications.",
+            "B": "If the customers agree to a new interview date.",
+            "C": "If the designer removes the product specifications.",
+            "D": "If the launch is postponed until next week."
+          },
+          "answer": "A",
+          "explanation": "女方以 provided 指出兩項必要條件：保留隱私揭露、工程部已確認規格。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man do next?",
+          "options": {
+            "A": "Call the interviewed customers.",
+            "B": "Publish the original page immediately.",
+            "C": "Schedule another engineering review.",
+            "D": "Remove the quotations and send a preview link."
+          },
+          "answer": "D",
+          "explanation": "男方最後說會移除引言並寄送預覽連結；尚未表示直接發布。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Shipment, Inspection, Photography and Website Release",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "At what time should the inspection finish if delivery is on schedule?",
+          "options": {
+            "A": "3:30 P.M.",
+            "B": "4:00 P.M.",
+            "C": "4:30 P.M.",
+            "D": "5:15 P.M."
+          },
+          "answer": "B",
+          "explanation": "14:30 到貨加上 90 分鐘品管，預計 16:00 結束。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is the four-thirty photo session feasible?",
+          "options": {
+            "A": "The studio has already received edited pictures.",
+            "B": "The inspection can be skipped.",
+            "C": "The planned inspection should finish before the studio session.",
+            "D": "The website release was moved to Friday."
+          },
+          "answer": "C",
+          "explanation": "預計 16:00 完成品管，16:30 開始拍攝，中間有半小時；這取決於準時到貨。"
+        },
+        {
+          "id": 3,
+          "prompt": "What must happen by ten o’clock Thursday morning?",
+          "options": {
+            "A": "Marketing must give final approval of the images.",
+            "B": "The shipment must leave the warehouse.",
+            "C": "The internal briefing must begin.",
+            "D": "The photographer must arrive at the studio."
+          },
+          "answer": "A",
+          "explanation": "為了週四 11 點網站發布，Marketing 必須在週四上午 10 點前完成最終簽核。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is true about the product diagram?",
+          "options": {
+            "A": "It has already replaced all website photographs.",
+            "B": "It is approved for public advertising.",
+            "C": "It eliminates the need for quality inspection.",
+            "D": "It may be used for the internal briefing, but not as a substitute for approved website photos."
+          },
+          "answer": "D",
+          "explanation": "圖示只可作為內部簡報備案；公開網站仍必須等待核准照片。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Updated Customer Analytics Webinar Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When will the customer analytics webinar now take place?",
+          "options": {
+            "A": "Friday at 10 A.M.",
+            "B": "Thursday at 5 P.M.",
+            "C": "Friday at 2 P.M.",
+            "D": "Monday at 9 A.M."
+          },
+          "answer": "C",
+          "explanation": "新時間為 10/30（週五）下午 2 點；上午 10 點是舊時間。"
+        },
+        {
+          "id": 2,
+          "prompt": "What should people who have already registered do?",
+          "options": {
+            "A": "Use their existing registration link.",
+            "B": "Register again before Thursday.",
+            "C": "Request a new password by phone.",
+            "D": "Attend the administrator workshop instead."
+          },
+          "answer": "A",
+          "explanation": "公告明確說 existing registration link will continue to work，不需要重新報名。"
+        },
+        {
+          "id": 3,
+          "prompt": "When will the recording be available?",
+          "options": {
+            "A": "Friday at 2 P.M.",
+            "B": "Monday at 9 A.M.",
+            "C": "Thursday at 5 P.M.",
+            "D": "Tuesday at 10 A.M."
+          },
+          "answer": "B",
+          "explanation": "錄影於 11/2（週一）上午 9 點放上學習平台。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which statement about questions is correct?",
+          "options": {
+            "A": "All emailed questions are guaranteed a reply.",
+            "B": "Questions can be submitted in the live panel on Monday.",
+            "C": "The administrator workshop has been canceled.",
+            "D": "Questions emailed by Thursday at 5 P.M. may be selected for discussion during the broadcast."
+          },
+          "answer": "D",
+          "explanation": "無法參加直播者可在週四 17:00 前寄問題，但只會挑選部分在直播中回應，非保證全數答覆。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Product Launch Schedule Dependencies and Budget Authorization",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the discounted subtotal for the eight demo tablets?",
+          "options": {
+            "A": "$704",
+            "B": "$792",
+            "C": "$880",
+            "D": "$990"
+          },
+          "answer": "B",
+          "explanation": "8 × $110 = $880；達 8 台門檻，僅平板小計打九折：$880 × 0.9 = $792。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the total cost of the original purchase request?",
+          "options": {
+            "A": "$1,722",
+            "B": "$1,752",
+            "C": "$1,787",
+            "D": "$1,852"
+          },
+          "answer": "C",
+          "explanation": "攤位 $620＋平板 $792＋手冊 200 × $0.70 = $140＋運輸 $55＋AV $180＝$1,787。"
+        },
+        {
+          "id": 3,
+          "prompt": "How much remains under the spending limit before any schedule change?",
+          "options": {
+            "A": "$63",
+            "B": "$65",
+            "C": "$98",
+            "D": "$113"
+          },
+          "answer": "A",
+          "explanation": "$1,850 − $1,787 = $63。"
+        },
+        {
+          "id": 4,
+          "prompt": "What would the total be if the alternative technician appointment were approved?",
+          "options": {
+            "A": "$1,787",
+            "B": "$1,825",
+            "C": "$1,850",
+            "D": "$1,852"
+          },
+          "answer": "D",
+          "explanation": "原費用 $1,787＋改期費 $65＝$1,852；原技師費 $180 已含在原價中，不應重複加。"
+        },
+        {
+          "id": 5,
+          "prompt": "By how much would the revised total exceed the spending limit?",
+          "options": {
+            "A": "$1",
+            "B": "$2",
+            "C": "$15",
+            "D": "$65"
+          },
+          "answer": "B",
+          "explanation": "新總額 $1,852 − 預算 $1,850 = 超支 $2。"
+        },
+        {
+          "id": 6,
+          "prompt": "Why is the original Thursday AV appointment no longer dependable?",
+          "options": {
+            "A": "The venue is closed on Thursday.",
+            "B": "The brochures cannot be delivered.",
+            "C": "The tablets are expected to arrive as the appointment ends.",
+            "D": "Marketing withdrew the entire purchase request."
+          },
+          "answer": "C",
+          "explanation": "原技師時段 15:30–16:30，但平板預計 16:30 才到，技師需先拿到平板才能安裝。"
+        },
+        {
+          "id": 7,
+          "prompt": "What is preventing the Friday appointment from becoming final?",
+          "options": {
+            "A": "The purchasing department has not issued written approval for the extra fee.",
+            "B": "The venue has refused early access.",
+            "C": "The event has been moved to Saturday.",
+            "D": "The tablet quantity has fallen below eight."
+          },
+          "answer": "A",
+          "explanation": "場地方已確認 08:00 提早進場，但採購部仍在審查超支費用，尚未書面核准。"
+        },
+        {
+          "id": 8,
+          "prompt": "Assuming the revised appointment is approved and setup finishes on time, how long is the interval before doors open?",
+          "options": {
+            "A": "No time remains.",
+            "B": "Fifteen minutes.",
+            "C": "One hour.",
+            "D": "Thirty minutes."
+          },
+          "answer": "D",
+          "explanation": "新技師時段至週五 09:00，開門 09:30，相隔 30 分鐘；題目已明確假設核准且準時完成。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Under no circumstances _____ customer contact details outside the approved system.",
+          "options": {
+            "A": "employees should share",
+            "B": "should employees share",
+            "C": "employees sharing",
+            "D": "do employees shared"
+          },
+          "answer": "B",
+          "explanation": "否定介系詞片語 Under no circumstances 置句首，主句採 should + 主詞 + 原形動詞。"
+        },
+        {
+          "id": 2,
+          "prompt": "Not only the designers but also the project manager _____ attending the briefing.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "is",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "not only...but also 連接主詞，動詞依靠近的 project manager（單數）使用 is。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ of the two layouts the team chooses, it must display the privacy notice.",
+          "options": {
+            "A": "Whichever",
+            "B": "Whenever",
+            "C": "Whoever",
+            "D": "However"
+          },
+          "answer": "A",
+          "explanation": "在兩個明確版型中選任一個，用 Whichever；後句說不論選哪個都要顯示隱私公告。"
+        },
+        {
+          "id": 4,
+          "prompt": "The supplier has agreed to replace the parts at no _____ cost.",
+          "options": {
+            "A": "addition",
+            "B": "additional",
+            "C": "additionally",
+            "D": "addedly"
+          },
+          "answer": "B",
+          "explanation": "cost 前需要形容詞 additional；at no additional cost 為固定搭配。"
+        },
+        {
+          "id": 5,
+          "prompt": "Please keep the temporary banner online _____ the revised page has been approved.",
+          "options": {
+            "A": "by",
+            "B": "during",
+            "C": "until",
+            "D": "since"
+          },
+          "answer": "C",
+          "explanation": "保持上線是持續狀態，直到新版獲核准為止，用 until。"
+        },
+        {
+          "id": 6,
+          "prompt": "The analytics team is responsible _____ removing identifying information from survey responses.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "with",
+            "D": "of"
+          },
+          "answer": "A",
+          "explanation": "固定搭配 be responsible for + V-ing。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ by the compliance department, the disclosure was added to the public website.",
+          "options": {
+            "A": "Having approve",
+            "B": "Having approved",
+            "C": "Have been approved",
+            "D": "Having been approved"
+          },
+          "answer": "D",
+          "explanation": "disclosure 是被核准，且核准先於上線，使用 Having been approved。"
+        },
+        {
+          "id": 8,
+          "prompt": "The revised brochure contains fewer technical errors _____ the previous edition.",
+          "options": {
+            "A": "as",
+            "B": "than",
+            "C": "that",
+            "D": "from"
+          },
+          "answer": "B",
+          "explanation": "fewer 為比較級，搭配 than。"
+        },
+        {
+          "id": 9,
+          "prompt": "The team cannot finalize the release date _____ the vendor confirms delivery in writing.",
+          "options": {
+            "A": "unless",
+            "B": "despite",
+            "C": "whereas",
+            "D": "in order to"
+          },
+          "answer": "A",
+          "explanation": "unless = if not；沒有書面交期確認就不能定案。"
+        },
+        {
+          "id": 10,
+          "prompt": "The report explains _____ the initial forecast differed from the final sales figures.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "why",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "explain why + 完整子句，說明為何預測與實績不同。"
+        },
+        {
+          "id": 11,
+          "prompt": "All contractors must work in accordance _____ the venue’s safety policy.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "at",
+            "D": "with"
+          },
+          "answer": "D",
+          "explanation": "固定搭配 in accordance with。"
+        },
+        {
+          "id": 12,
+          "prompt": "The launch team will select the proposal _____ best satisfies the accessibility requirements.",
+          "options": {
+            "A": "who",
+            "B": "that",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "proposal 為事物，關係子句缺主詞，that 最合適。"
+        },
+        {
+          "id": 13,
+          "prompt": "The final artwork should be submitted _____ 3 P.M. so the printer can begin on time.",
+          "options": {
+            "A": "by",
+            "B": "until",
+            "C": "since",
+            "D": "throughout"
+          },
+          "answer": "A",
+          "explanation": "一次性動作 submit 需在截止時間前完成，用 by。"
+        },
+        {
+          "id": 14,
+          "prompt": "The manager asked whether the replacement units _____ ready for inspection the following morning.",
+          "options": {
+            "A": "are",
+            "B": "will be",
+            "C": "would be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "asked 是過去時，the following morning 表相對過去的未來，常用 would be。"
+        },
+        {
+          "id": 15,
+          "prompt": "The survey results will be shared only after all personal identifiers have been _____.",
+          "options": {
+            "A": "remove",
+            "B": "removing",
+            "C": "removal",
+            "D": "removed"
+          },
+          "answer": "D",
+          "explanation": "現在完成被動 have been + p.p.，用 removed。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "This change limits access to staff who are authorized to prepare the report.",
+            "B": "The company will cancel all future training sessions.",
+            "C": "Most employees prefer a longer lunch break.",
+            "D": "The survey questions were printed in color."
+          },
+          "answer": "A",
+          "explanation": "前句提及 restricted reporting system，接著說明存取僅限獲授權的報告製作人員，前後語意連貫。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which phrase best completes blank [2]?",
+          "options": {
+            "A": "will remove",
+            "B": "will be removed",
+            "C": "have removing",
+            "D": "are removing by"
+          },
+          "answer": "B",
+          "explanation": "identifiers 是被移除，且動作將在發送前完成，使用 will be removed。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which sentence best completes blank [3]?",
+          "options": {
+            "A": "Every employee must complete the survey again.",
+            "B": "The final report will include employees’ full names.",
+            "C": "An exception applies to records that must be kept for legal audits.",
+            "D": "No documents will ever be stored in an archive."
+          },
+          "answer": "C",
+          "explanation": "前句為一般 90 天刪除規則，後句為依法稽核資料的例外，插入例外提示句最恰當。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "The venue’s parking area will close early.",
+            "B": "All employees must publish their responses online.",
+            "C": "The reporting system will be replaced by paper forms.",
+            "D": "When contacting HR, please refer to the survey title rather than another employee’s name."
+          },
+          "answer": "D",
+          "explanation": "後句 This will help us answer questions without exposing others’ responses，故應先提出避免提及他人姓名的聯絡指引。"
+        }
+      ]
+    },
+    {
+      "id": "day-46-quiz",
+      "title": "Day 46 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Seldom _____ such a detailed privacy notice in a product preview.",
+          "options": {
+            "A": "we see",
+            "B": "do we see",
+            "C": "we are seeing",
+            "D": "have see"
+          },
+          "answer": "B",
+          "explanation": "Seldom 置於句首，主句要助動詞倒裝 do we see。"
+        },
+        {
+          "id": 2,
+          "prompt": "Not only the trainers but also the coordinator _____ responsible for the final attendance list.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "A",
+          "explanation": "就近一致，coordinator 單數，選 is。"
+        },
+        {
+          "id": 3,
+          "prompt": "Please submit the consent form _____ Friday at noon.",
+          "options": {
+            "A": "until",
+            "B": "during",
+            "C": "by",
+            "D": "since"
+          },
+          "answer": "C",
+          "explanation": "submit 是一次性動作，表示截止前交件用 by。"
+        },
+        {
+          "id": 4,
+          "prompt": "The client asked whether the prototype _____ available the following week.",
+          "options": {
+            "A": "will be",
+            "B": "is",
+            "C": "being",
+            "D": "would be"
+          },
+          "answer": "D",
+          "explanation": "過去敘述 asked 搭配相對過去的未來 the following week，用 would be。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why has the updated price list not been sent?",
+          "options": {
+            "A": "The regional director has not reviewed the discount notes.",
+            "B": "Finance has rejected the figures.",
+            "C": "The retailers requested a delay.",
+            "D": "The email server is down."
+          },
+          "answer": "A",
+          "explanation": "Finance 已查核數字，但區域主管尚未檢查折扣說明，所以尚未寄出。"
+        },
+        {
+          "id": 6,
+          "prompt": "What will the man do next?",
+          "options": {
+            "A": "Delete the price list.",
+            "B": "Call every retailer.",
+            "C": "Save the message as a draft.",
+            "D": "Publish the list on the website."
+          },
+          "answer": "C",
+          "explanation": "女方要求先存為草稿，男方表示會照辦。"
+        },
+        {
+          "id": 7,
+          "prompt": "When will the equipment orientation now start?",
+          "options": {
+            "A": "Tuesday at 11 A.M.",
+            "B": "Wednesday at 1 P.M.",
+            "C": "Wednesday at 1:30 P.M.",
+            "D": "Thursday at 1 P.M."
+          },
+          "answer": "B",
+          "explanation": "新時間是週三下午 1 點；1:30 是設備示範開始時間。"
+        },
+        {
+          "id": 8,
+          "prompt": "Who may obtain a temporary badge at west reception?",
+          "options": {
+            "A": "All employees attending the orientation.",
+            "B": "Only trainers from the company.",
+            "C": "Anyone who registered before Tuesday.",
+            "D": "External contractors."
+          },
+          "answer": "D",
+          "explanation": "公告指出臨時證僅提供外部承包商，員工應帶公司識別證。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost of the current order with standard delivery?",
+          "options": {
+            "A": "$602",
+            "B": "$650",
+            "C": "$710",
+            "D": "$675"
+          },
+          "answer": "B",
+          "explanation": "4 × $78 = $312；2 × $145 = $290；加標準運費 $48，共 $650。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the workshop budget remains for the current order?",
+          "options": {
+            "A": "$25",
+            "B": "$35",
+            "C": "$48",
+            "D": "$60"
+          },
+          "answer": "A",
+          "explanation": "$675 − $650 = $25。尚未核准的急件費不能算入現有訂單。"
+        },
+        {
+          "id": 11,
+          "prompt": "Which order can use the Wednesday cancellation deadline?",
+          "options": {
+            "A": "Any order placed before October 26.",
+            "B": "Only an order with expedited delivery.",
+            "C": "An order affected by the vendor’s changed delivery date.",
+            "D": "Every order that includes a projector."
+          },
+          "answer": "C",
+          "explanation": "延長期限只適用於受到供應商變更交期影響的訂單；不是所有訂單皆適用。"
+        },
+        {
+          "id": 12,
+          "prompt": "What is the status of the requested expedited delivery?",
+          "options": {
+            "A": "It has been confirmed by the purchasing officer.",
+            "B": "It was canceled by the vendor.",
+            "C": "It is automatically included in the quote.",
+            "D": "It is still awaiting written approval."
+          },
+          "answer": "D",
+          "explanation": "Operations Note 明確說提出改急件要求，但採購尚未核准，因此目前仍為標準運送。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握跨部門協作、資料隱私、上市流程相關詞彙 30 個；熟悉否定副詞倒裝、就近一致、分詞被動、截止時間及間接引述；Listening 判斷有條件發布、時間依賴與更新公告的例外。",
+  "nextDay": "合規公告、跨國會議協調、Part 7 多文件推論與 Listening 不確定性判讀"
+}
