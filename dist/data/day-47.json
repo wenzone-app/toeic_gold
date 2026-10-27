@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 47,
+  "title": "合規公告、跨國會議協調、Part 7 多文件推論與 Listening 不確定性判讀",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860–900+ baseline",
+  "source": "使用者提供的 Day 47 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 47 學習概覽",
+      "markdown": "- 掌握合規申報、跨時區會議與書面授權 30 個詞彙\n- 辨識 be subject to、due to、whether、by/within 與反事實被動\n- Listening 整合跨時區、供應商限制與公告例外\n- Reading 區分人數變更與取消期限、正式核准及錄影同意\n- 完成 50 題實際可作答練習並記錄首次小考成績\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| declaration | 申報、聲明 | submit a declaration |\n| conflict of interest | 利益衝突 | disclose a conflict of interest |\n| disclosure | 揭露 | mandatory disclosure |\n| attestation | 正式證明、聲明 | sign an attestation |\n| jurisdiction | 司法管轄區 | local jurisdiction |\n| regulator | 主管機關 | notify the regulator |\n| audit trail | 稽核軌跡 | maintain an audit trail |\n| due diligence | 盡職調查 | conduct due diligence |\n| noncompliance | 不合規 | report noncompliance |\n| exemption | 豁免 | request an exemption |\n| eligibility | 資格 | verify eligibility |\n| acknowledgment | 確認收悉 | receive an acknowledgment |\n| endorse | 核可、支持 | endorse a proposal |\n| authorize | 正式授權 | authorize distribution |\n| ratify | 正式追認 | ratify an agreement |\n| minutes | 會議紀錄 | circulate meeting minutes |\n| agenda | 議程 | reorder the agenda |\n| time-zone difference | 時差 | account for the time-zone difference |\n| availability | 可出席時間 | confirm availability |\n| overlap | 重疊時段 | find an overlap |\n| facilitator | 會議主持人 | assign a facilitator |\n| captioning | 即時字幕 | provide live captioning |\n| interpretation | 口譯 | simultaneous interpretation |\n| transcription | 逐字稿製作 | request transcription |\n| consent form | 同意書 | return a consent form |\n| retention period | 保存期限 | extend the retention period |\n| redaction | 遮蔽敏感內容 | complete redaction |\n| restricted access | 限制存取 | enforce restricted access |\n| contingency slot | 備用時段 | reserve a contingency slot |\n| written confirmation | 書面確認 | obtain written confirmation |"
+    },
+    {
+      "title": "② 今日文法｜Subject to + noun / be subject to、Be due to + V / due to + noun、Whether + 陳述句語序、By / Within / No later than、Would have been + past participle",
+      "markdown": "主題：**Subject to + noun / be subject to、Be due to + V / due to + noun、Whether + 陳述句語序、By / Within / No later than、Would have been + past participle**\n\n### 規則 1｜Subject to + noun / be subject to\n\nsubject to 後面接名詞或 V-ing，表示取決於、須經過某條件；不可直接接原形動詞。\n\n> The schedule is subject to written approval.\n\n### 規則 2｜Be due to + V / due to + noun\n\nbe due to + 原形動詞表示預計做某事；due to + 名詞表示原因。\n\n> The call is due to begin at nine, but the delay was due to a network outage.\n\n### 規則 3｜Whether + 陳述句語序\n\nwhether 引導名詞子句，後面使用主詞＋動詞；可表「是否」，不使用疑問句倒裝。\n\n> Please confirm whether the Berlin team can join the call.\n\n### 規則 4｜By / Within / No later than\n\nby/no later than 表指定截止時點；within + 一段時間表示自某起算點起的期限。\n\n> Send the form by Friday, and expect a reply within two business days.\n\n### 規則 5｜Would have been + past participle\n\nwould have been + p.p. 表過去反事實條件下「本來會被……」的被動結果。\n\n> Had the speakers withheld consent, the replay would not have been published."
+    },
+    {
+      "title": "03 Listening｜Cross-Time-Zone Compliance Review",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: The regional review is scheduled for Wednesday, November fourth, at four p.m. Taipei time. That is five in Tokyo and nine in Berlin, correct?\n> Woman: Correct, but our Berlin legal counsel can attend only the first twenty minutes. I would avoid putting the contract discussion at the end.\n> Man: We can begin with the compliance questions. Should I record the call for colleagues who cannot attend?\n> Woman: Not until every participant has agreed to the recording. Please send the consent request with the revised agenda today.\n> Man: I will move the legal review to the top and circulate the consent form this afternoon."
+    },
+    {
+      "title": "04 Listening｜Interpretation Provider and Tentative Hold",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: We need Japanese interpretation and live captions for twenty-four people on Tuesday from three to four thirty, Taipei time. The provider must sign a nondisclosure agreement, and our limit is nine hundred dollars.\n> Man: PacificLingua can cover the full ninety minutes, provide both services, and sign the agreement for eight hundred forty dollars. GlobalVoice charges seven hundred sixty, but it cannot provide live captions.\n> Woman: What about BridgeWorks and Summit?\n> Man: BridgeWorks costs eight hundred twenty, but its interpreter cannot begin until four. Summit meets the service requirements, but its fee is nine hundred twenty.\n> Woman: So PacificLingua is the only match. Can we confirm it now?\n> Man: Finance has not approved the expense. PacificLingua can hold the slot until Monday at noon.\n> Woman: Please place the tentative hold and request written approval from Finance today."
+    },
+    {
+      "title": "05 Listening｜Compliance Portal Deadline Extension",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, employees. The annual conflict-of-interest declaration was originally due Friday, November sixth, at five p.m. Because the compliance portal was inaccessible to some staff on Friday, affected employees may submit their declarations until Monday, November ninth, at noon. This extension applies only to employees who were prevented from accessing the portal during Friday's outage. Employees who have already submitted a declaration do not need to submit it again. Please upload supporting documents as PDF files rather than image files. If you miss the revised deadline, your manager may request an exception by Tuesday, November tenth, at ten a.m. An exception request does not guarantee approval. For assistance, contact the compliance help desk."
+    },
+    {
+      "title": "⑥ Reading｜International Forum Registration, Updated Deadlines, and Recording Consent",
+      "markdown": "限時：**12 分 0 秒**。\n\n### Global Forum — Registration and Recording Policy (October 22, 2026)\n\n> Global Forum — Registration and Recording Policy (issued October 22, 2026)\nThe International Operations Forum will be held online on Wednesday, November 18, from 2:00 to 4:00 P.M. Taipei time. Virtual admission costs $140 per participant. A confirmed booking of at least ten participants receives a 15 percent discount on the admission subtotal only. Live captioning costs $180 per booking, interpretation costs $260, and the administrative processing fee is $50. These three charges are not discounted.\nRequests to change participant numbers and requests to cancel a booking must ordinarily reach the organizer by Friday, November 6, at 5:00 P.M. Taipei time. Any participant-number change takes effect only when the organizer issues written acceptance. The discount is recalculated using the final confirmed number of participants. A later written notice may extend the participant-change request deadline without extending the cancellation deadline.\nRecordings may be distributed outside the host organization only after written consent has been received from every speaker.\n\n用途：參考文件\n\n### Harbor Analytics — Purchase Request and Confirmation\n\n> Harbor Analytics — Purchase Request (November 3, 2026)\nRequested services for the International Operations Forum:\n- Ten virtual admissions at $140 each\n- Live captioning package: $180\n- Interpretation package: $260\n- Administrative processing: $50\nDepartment budget: $1,700. The team needs interpretation during the opening hour of the event and would like to send a recording to overseas colleagues afterward.\nOrganizer's written booking confirmation, November 3, 2026, 4:20 P.M.: Ten admissions and the listed services have been confirmed. The 15 percent admission discount applies. Total confirmed charge: $1,680. The interpretation slot is 2:00–3:00 P.M. Taipei time.\n\n用途：參考文件\n\n### Organizer Follow-up — Participant Changes and Speaker Consent\n\n> Email thread — Saturday, November 7, 2026\nFrom: Forum Registration Office\nTo: Harbor Analytics Event Team\nSubject: Request to Reduce Attendance\nWe received your November 5 request to reduce attendance from ten participants to nine. However, the request has not been approved, and your confirmed booking remains for ten participants. With nine admissions, the group discount would no longer apply. A revised nine-person booking would cost $1,260 in admission charges, plus $180 for captioning, $260 for interpretation, and $50 for processing, for a total of $1,750.\nAs a one-time accommodation, the deadline for submitting participant-number change requests has been extended to Tuesday, November 10, at noon Taipei time. This extension does not change the original cancellation deadline of Friday, November 6, at 5:00 P.M. Written acceptance is still required for any revised booking.\nThe Berlin keynote speaker has not returned the recording consent form. Therefore, please do not distribute the event recording outside your organization unless written consent from every speaker is on file.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: International Meeting Records Policy\n> \n> Starting November 12, meeting organizers must upload approved agendas at least twenty-four hours before each session. [1] _____ This gives remote participants enough time to review topics and submit questions.\n> \n> To protect confidentiality, participant names [2] _____ before the minutes are shared with outside consultants. The internal version may retain names if the project team is authorized to view them.\n> \n> Ordinary meeting notes may be kept in the team workspace for thirty days. [3] _____ Such audit records must remain in a restricted archive for twelve months.\n> \n> After uploading the minutes, the coordinator must verify the file's access permissions. [4] _____ This check helps prevent unintended disclosure."
+    },
+    {
+      "title": "⑨ Day 47 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 44、Day 45、Day 46**。\n\n### 複習重點\n- **Day 44：時間軸與核准**：比較「已提出的時程」與「正式核准的時程」，指出差異。\n- **Day 45：折扣門檻與書面接受**：重新說明 12 台與 11 台的費用差異，以及未核准變更為何不生效。\n- **Day 46：隱私同意**：區分受訪同意、引用文字同意與錄影對外公開同意。\n- **Day 47：更新公告**：列出誰可享延長期限、何時截止，以及例外申請不等於自動核准。\n\n### 錯題標籤\n- `DETAIL`：明示細節\n- `TIME`：時間換算與時間資訊\n- `IMPLICATION`：言外之意\n- `TIMELINE`：時程與前置依賴\n- `NEXT_ACTION`：下一步行動\n- `CONSENT`：書面同意與授權\n- `REQUIREMENT`：服務需求\n- `CONSTRAINT`：限制條件\n- `INTEGRATION`：整合多項條件或文件\n- `BUDGET`：預算判斷\n- `APPROVAL`：正式核准狀態\n- `UPDATE`：更新資訊\n- `DEADLINE`：截止期限\n- `EXCEPTION`：例外規則\n- `ELIGIBILITY`：適用資格\n- `POLICY`：政策條款\n- `CALC`：數字計算\n- `DISCOUNT`：折扣計算\n- `THRESHOLD`：折扣門檻\n- `INFERENCE`：跨文件推論\n- `PREPOSITION`：介系詞搭配\n- `CONDITION`：條件句與條件性核准\n- `GRAMMAR`：文法結構\n- `SCHEDULE`：預定安排\n- `CAUSE`：原因表達\n- `RELATIVE_CLAUSE`：關係子句\n- `NOUN_CLAUSE`：名詞子句\n- `INDIRECT_QUESTION`：間接問句\n- `CONDITIONAL`：反事實條件句\n- `PASSIVE`：被動語態\n- `WORD_FORM`：詞性\n- `GERUND`：動名詞\n- `TIME_CLAUSE`：時間子句\n- `TENSE`：時態\n- `COHESION`：篇章連貫\n- `PURPOSE`：目的表達\n- `REFERENCE`：代名詞或指涉\n- `PRIVACY`：隱私與資料存取"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，使用 audit trail、attestation、overlap、written confirmation 等任選 8 個造句。\n- Listening 三組先遮蔽逐字稿用 TTS 1.0 倍速作答，再以 1.1 倍速重聽並標記 only、not until、tentative、written。\n- 以台北 16:00、東京 17:00、柏林 09:00 畫出跨時區會議時間軸，並安排前 20 分鐘法務議題。\n- Reading 八題限時 12 分鐘，獨立算出十人 $1,680 與九人 $1,750，解釋取消期限為何沒有延長。\n- Part 5 限時 4 分鐘、Part 6 限時 3 分鐘；每題標註文法依據或前後文線索。\n- Day 47 正式小考首次限時 6 分鐘；提交 12 題答案、首次得分、耗時與錯題 errorTags，第二次練習與首次成績分開記錄。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "declaration",
+      "meaning": "申報、聲明",
+      "phrase": "submit a declaration"
+    },
+    {
+      "id": 2,
+      "word": "conflict of interest",
+      "meaning": "利益衝突",
+      "phrase": "disclose a conflict of interest"
+    },
+    {
+      "id": 3,
+      "word": "disclosure",
+      "meaning": "揭露",
+      "phrase": "mandatory disclosure"
+    },
+    {
+      "id": 4,
+      "word": "attestation",
+      "meaning": "正式證明、聲明",
+      "phrase": "sign an attestation"
+    },
+    {
+      "id": 5,
+      "word": "jurisdiction",
+      "meaning": "司法管轄區",
+      "phrase": "local jurisdiction"
+    },
+    {
+      "id": 6,
+      "word": "regulator",
+      "meaning": "主管機關",
+      "phrase": "notify the regulator"
+    },
+    {
+      "id": 7,
+      "word": "audit trail",
+      "meaning": "稽核軌跡",
+      "phrase": "maintain an audit trail"
+    },
+    {
+      "id": 8,
+      "word": "due diligence",
+      "meaning": "盡職調查",
+      "phrase": "conduct due diligence"
+    },
+    {
+      "id": 9,
+      "word": "noncompliance",
+      "meaning": "不合規",
+      "phrase": "report noncompliance"
+    },
+    {
+      "id": 10,
+      "word": "exemption",
+      "meaning": "豁免",
+      "phrase": "request an exemption"
+    },
+    {
+      "id": 11,
+      "word": "eligibility",
+      "meaning": "資格",
+      "phrase": "verify eligibility"
+    },
+    {
+      "id": 12,
+      "word": "acknowledgment",
+      "meaning": "確認收悉",
+      "phrase": "receive an acknowledgment"
+    },
+    {
+      "id": 13,
+      "word": "endorse",
+      "meaning": "核可、支持",
+      "phrase": "endorse a proposal"
+    },
+    {
+      "id": 14,
+      "word": "authorize",
+      "meaning": "正式授權",
+      "phrase": "authorize distribution"
+    },
+    {
+      "id": 15,
+      "word": "ratify",
+      "meaning": "正式追認",
+      "phrase": "ratify an agreement"
+    },
+    {
+      "id": 16,
+      "word": "minutes",
+      "meaning": "會議紀錄",
+      "phrase": "circulate meeting minutes"
+    },
+    {
+      "id": 17,
+      "word": "agenda",
+      "meaning": "議程",
+      "phrase": "reorder the agenda"
+    },
+    {
+      "id": 18,
+      "word": "time-zone difference",
+      "meaning": "時差",
+      "phrase": "account for the time-zone difference"
+    },
+    {
+      "id": 19,
+      "word": "availability",
+      "meaning": "可出席時間",
+      "phrase": "confirm availability"
+    },
+    {
+      "id": 20,
+      "word": "overlap",
+      "meaning": "重疊時段",
+      "phrase": "find an overlap"
+    },
+    {
+      "id": 21,
+      "word": "facilitator",
+      "meaning": "會議主持人",
+      "phrase": "assign a facilitator"
+    },
+    {
+      "id": 22,
+      "word": "captioning",
+      "meaning": "即時字幕",
+      "phrase": "provide live captioning"
+    },
+    {
+      "id": 23,
+      "word": "interpretation",
+      "meaning": "口譯",
+      "phrase": "simultaneous interpretation"
+    },
+    {
+      "id": 24,
+      "word": "transcription",
+      "meaning": "逐字稿製作",
+      "phrase": "request transcription"
+    },
+    {
+      "id": 25,
+      "word": "consent form",
+      "meaning": "同意書",
+      "phrase": "return a consent form"
+    },
+    {
+      "id": 26,
+      "word": "retention period",
+      "meaning": "保存期限",
+      "phrase": "extend the retention period"
+    },
+    {
+      "id": 27,
+      "word": "redaction",
+      "meaning": "遮蔽敏感內容",
+      "phrase": "complete redaction"
+    },
+    {
+      "id": 28,
+      "word": "restricted access",
+      "meaning": "限制存取",
+      "phrase": "enforce restricted access"
+    },
+    {
+      "id": 29,
+      "word": "contingency slot",
+      "meaning": "備用時段",
+      "phrase": "reserve a contingency slot"
+    },
+    {
+      "id": 30,
+      "word": "written confirmation",
+      "meaning": "書面確認",
+      "phrase": "obtain written confirmation"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Cross-Time-Zone Compliance Review",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "At what time will the meeting begin in Berlin?",
+          "options": {
+            "A": "8 A.M.",
+            "B": "9 A.M.",
+            "C": "4 P.M.",
+            "D": "5 P.M."
+          },
+          "answer": "B",
+          "explanation": "台北 16:00 對應柏林冬令時間 09:00；男方也明確說 nine in Berlin。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the woman suggest discussing the contract first?",
+          "options": {
+            "A": "The contract has already been signed.",
+            "B": "The Tokyo team will arrive late.",
+            "C": "The legal counsel can attend for only twenty minutes.",
+            "D": "The recording equipment is unavailable."
+          },
+          "answer": "C",
+          "explanation": "柏林法務只能參加前 20 分鐘，因此應把合規與合約議題提前；不是合約已簽。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man most likely do this afternoon?",
+          "options": {
+            "A": "Send a revised agenda and consent form.",
+            "B": "Publish the meeting recording.",
+            "C": "Cancel the Berlin participant’s invitation.",
+            "D": "Move the meeting to Thursday."
+          },
+          "answer": "A",
+          "explanation": "男方表示會調整議程並傳送同意書；所有人同意前不能錄影。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Interpretation Provider and Tentative Hold",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is GlobalVoice unsuitable?",
+          "options": {
+            "A": "It refuses to sign an agreement.",
+            "B": "Its price exceeds the budget.",
+            "C": "It cannot provide Japanese interpretation.",
+            "D": "It does not offer live captioning."
+          },
+          "answer": "D",
+          "explanation": "GlobalVoice 雖便宜，但無法提供必要的即時字幕。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the problem with BridgeWorks?",
+          "options": {
+            "A": "It is unavailable on Tuesday.",
+            "B": "Its interpreter cannot start until 4 P.M.",
+            "C": "It can serve only ten participants.",
+            "D": "It charges more than $900."
+          },
+          "answer": "B",
+          "explanation": "BridgeWorks 的口譯員 16:00 才能開始，晚於需求的 15:00。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which provider satisfies all the stated service, time, and budget requirements?",
+          "options": {
+            "A": "PacificLingua",
+            "B": "GlobalVoice",
+            "C": "BridgeWorks",
+            "D": "Summit"
+          },
+          "answer": "A",
+          "explanation": "PacificLingua $840、具日文口譯、字幕、保密協議，且能完整涵蓋 15:00–16:30。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the woman ask the man to do?",
+          "options": {
+            "A": "Pay the provider immediately.",
+            "B": "Cancel the interpretation service.",
+            "C": "Place a tentative hold and seek written financial approval.",
+            "D": "Change the session to 4 P.M."
+          },
+          "answer": "C",
+          "explanation": "尚未取得財務核准，因此只能暫時保留時段並申請書面核准。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Compliance Portal Deadline Extension",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the extended declaration deadline for eligible employees?",
+          "options": {
+            "A": "Friday at 5 P.M.",
+            "B": "Monday at 5 P.M.",
+            "C": "Monday at noon",
+            "D": "Tuesday at 10 A.M."
+          },
+          "answer": "C",
+          "explanation": "符合資格者的申報截止延至 11 月 9 日週一中午；週二 10:00 是例外申請期限。"
+        },
+        {
+          "id": 2,
+          "prompt": "Who qualifies for the deadline extension?",
+          "options": {
+            "A": "Employees who could not access the portal during Friday’s outage.",
+            "B": "All employees in every department.",
+            "C": "Only managers who submitted early.",
+            "D": "Employees who forgot their declarations before Friday."
+          },
+          "answer": "A",
+          "explanation": "延長僅適用週五因系統故障而無法登入的員工，不是所有人。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should employees who already submitted their declarations do?",
+          "options": {
+            "A": "Upload an image copy.",
+            "B": "Ask their managers for an exception.",
+            "C": "Submit a revised form on Tuesday.",
+            "D": "They do not need to resubmit."
+          },
+          "answer": "D",
+          "explanation": "公告明確表示已提交者不需重新提交。"
+        },
+        {
+          "id": 4,
+          "prompt": "What does the speaker say about an exception requested by a manager?",
+          "options": {
+            "A": "It is automatically approved.",
+            "B": "Approval is not guaranteed.",
+            "C": "It must be submitted as an image file.",
+            "D": "It replaces all earlier declarations."
+          },
+          "answer": "B",
+          "explanation": "經理可以在週二 10:00 前提出例外申請，但不保證核准。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "International Forum Registration, Updated Deadlines, and Recording Consent",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the discounted admission subtotal for the confirmed ten-person booking?",
+          "options": {
+            "A": "$1,190",
+            "B": "$1,260",
+            "C": "$1,400",
+            "D": "$1,610"
+          },
+          "answer": "A",
+          "explanation": "10 × $140 = $1,400；十人符合 15% 折扣，$1,400 × 0.85 = $1,190。折扣僅適用入場費。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the total charge for the currently confirmed booking?",
+          "options": {
+            "A": "$1,630",
+            "B": "$1,750",
+            "C": "$1,680",
+            "D": "$1,790"
+          },
+          "answer": "C",
+          "explanation": "入場費 $1,190，加字幕 $180、口譯 $260、處理費 $50，合計 $1,680。"
+        },
+        {
+          "id": 3,
+          "prompt": "What would the nine-person booking cost if the organizer approved it?",
+          "options": {
+            "A": "$1,610",
+            "B": "$1,680",
+            "C": "$1,700",
+            "D": "$1,750"
+          },
+          "answer": "D",
+          "explanation": "9 × $140 = $1,260，未達十人折扣門檻；再加 $180 + $260 + $50 = $1,750。"
+        },
+        {
+          "id": 4,
+          "prompt": "How much more would nine admissions cost overall than the confirmed ten-admission booking?",
+          "options": {
+            "A": "$20",
+            "B": "$70",
+            "C": "$90",
+            "D": "$140"
+          },
+          "answer": "B",
+          "explanation": "九人方案 $1,750 減去十人方案 $1,680 = $70；少一人卻失去團體折扣。"
+        },
+        {
+          "id": 5,
+          "prompt": "How many participants are currently included in the effective booking?",
+          "options": {
+            "A": "Ten",
+            "B": "Nine",
+            "C": "Eight",
+            "D": "Eleven"
+          },
+          "answer": "A",
+          "explanation": "九人變更尚未取得主辦方書面接受；正式有效的仍是 11 月 3 日確認的十人訂單。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is the revised deadline for submitting a participant-number change request?",
+          "options": {
+            "A": "November 6 at 5 P.M.",
+            "B": "November 9 at 5 P.M.",
+            "C": "November 10 at noon",
+            "D": "November 18 at 2 P.M."
+          },
+          "answer": "C",
+          "explanation": "11 月 7 日更新信只延長「人數變更申請」至 11 月 10 日中午。"
+        },
+        {
+          "id": 7,
+          "prompt": "Which statement about cancellation is correct as of November 7?",
+          "options": {
+            "A": "Cancellation is allowed until November 10 at noon.",
+            "B": "Cancellation automatically follows a participant reduction.",
+            "C": "The cancellation deadline was never specified.",
+            "D": "The original November 6 cancellation deadline has not been extended."
+          },
+          "answer": "D",
+          "explanation": "郵件明確區分人數變更與取消：延長前者，不延長 11 月 6 日 17:00 的取消期限。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why should the event recording not yet be distributed to overseas colleagues?",
+          "options": {
+            "A": "The interpretation service has been canceled.",
+            "B": "Written consent from the Berlin keynote speaker is still missing.",
+            "C": "The event has been postponed to December.",
+            "D": "The registration fee has not been paid."
+          },
+          "answer": "B",
+          "explanation": "D1 規定所有講者書面同意後才可對外分發；D3 指柏林講者尚未交回同意書。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The revised agenda is subject _____ final approval from the regional director.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "with",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "be subject to + 名詞，表示須經最終核准。"
+        },
+        {
+          "id": 2,
+          "prompt": "The conference is due _____ at 9 A.M. Berlin time.",
+          "options": {
+            "A": "begin",
+            "B": "beginning",
+            "C": "to begin",
+            "D": "began"
+          },
+          "answer": "C",
+          "explanation": "be due to + 原形動詞，表示預計開始。"
+        },
+        {
+          "id": 3,
+          "prompt": "The briefing was postponed _____ a network interruption.",
+          "options": {
+            "A": "due to",
+            "B": "in order to",
+            "C": "so that",
+            "D": "despite of"
+          },
+          "answer": "A",
+          "explanation": "due to + 名詞表示原因；network interruption 是名詞片語。"
+        },
+        {
+          "id": 4,
+          "prompt": "The minutes will be circulated on Thursday, by _____ time all speakers will have reviewed the summary.",
+          "options": {
+            "A": "what",
+            "B": "whose",
+            "C": "that",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "by which time 為關係詞結構，指到星期四這個時間點。"
+        },
+        {
+          "id": 5,
+          "prompt": "The coordinator asked _____ the Tokyo team could join the earlier session.",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "which",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "whether 引導「是否」的間接疑問子句；後接陳述語序。"
+        },
+        {
+          "id": 6,
+          "prompt": "Had the speakers withheld consent, the replay _____ released.",
+          "options": {
+            "A": "would not have been",
+            "B": "will not be",
+            "C": "has not been",
+            "D": "was not being"
+          },
+          "answer": "A",
+          "explanation": "過去反事實條件句的被動結果：would not have been released。"
+        },
+        {
+          "id": 7,
+          "prompt": "All participants must complete the declaration _____ Friday at 5 P.M.",
+          "options": {
+            "A": "during",
+            "B": "until",
+            "C": "by",
+            "D": "since"
+          },
+          "answer": "C",
+          "explanation": "一次性完成的截止時間用 by；until 表持續。"
+        },
+        {
+          "id": 8,
+          "prompt": "Employees must report any conflict _____ five business days of becoming aware of it.",
+          "options": {
+            "A": "by",
+            "B": "until",
+            "C": "since",
+            "D": "within"
+          },
+          "answer": "D",
+          "explanation": "within + 一段時間，表示從知悉日起五個工作天內。"
+        },
+        {
+          "id": 9,
+          "prompt": "Please forward the revised file to the colleague _____ name appears on the distribution list.",
+          "options": {
+            "A": "whose",
+            "B": "who",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "whose + 名詞 name 表所有關係，修飾 colleague。"
+        },
+        {
+          "id": 10,
+          "prompt": "In the event _____ a system outage, the deadline may be extended.",
+          "options": {
+            "A": "at",
+            "B": "of",
+            "C": "to",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "固定片語 in the event of + 名詞，表示萬一發生。"
+        },
+        {
+          "id": 11,
+          "prompt": "The policy applies to all contractors, _____ their department.",
+          "options": {
+            "A": "excepting",
+            "B": "in spite",
+            "C": "regardless of",
+            "D": "rather than"
+          },
+          "answer": "C",
+          "explanation": "regardless of + 名詞，表示不論所屬部門。"
+        },
+        {
+          "id": 12,
+          "prompt": "The summary must be written _____ enough for nontechnical staff to understand.",
+          "options": {
+            "A": "clear",
+            "B": "clearness",
+            "C": "clarity",
+            "D": "clearly"
+          },
+          "answer": "D",
+          "explanation": "修飾 written 需副詞 clearly；clearly enough 表足夠清楚。"
+        },
+        {
+          "id": 13,
+          "prompt": "The audit team found the report _____ because it omitted two required signatures.",
+          "options": {
+            "A": "incomplete",
+            "B": "incompletely",
+            "C": "completion",
+            "D": "completing"
+          },
+          "answer": "A",
+          "explanation": "find + 受詞 + 形容詞作受詞補語：found the report incomplete。"
+        },
+        {
+          "id": 14,
+          "prompt": "The coordinator is responsible for _____ the meeting link to registered attendees.",
+          "options": {
+            "A": "distribute",
+            "B": "distributing",
+            "C": "distributed",
+            "D": "to distribute"
+          },
+          "answer": "B",
+          "explanation": "be responsible for 後接名詞或 V-ing。"
+        },
+        {
+          "id": 15,
+          "prompt": "Once the legal team _____ the notice, we can send it to clients.",
+          "options": {
+            "A": "will approve",
+            "B": "approved",
+            "C": "approves",
+            "D": "approving"
+          },
+          "answer": "C",
+          "explanation": "Once 引導未來時間子句，用現在簡單式 approves。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "The early upload is intended to give attendees time to prepare.",
+            "B": "The office cafeteria will change its menu next week.",
+            "C": "All meetings will be canceled immediately.",
+            "D": "Speakers should avoid reviewing the agenda."
+          },
+          "answer": "A",
+          "explanation": "前句要求至少提前 24 小時上傳議程，後句 This gives... 說明事前準備的好處，A 承接最自然。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which phrase best completes blank [2]?",
+          "options": {
+            "A": "have redacting",
+            "B": "must redact",
+            "C": "must be redacted",
+            "D": "redacted by themselves"
+          },
+          "answer": "C",
+          "explanation": "participant names 是被遮蔽，且政策要求如此，故用 must be redacted。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which sentence best completes blank [3]?",
+          "options": {
+            "A": "No records may ever be retained longer.",
+            "B": "However, records needed for a formal audit are exempt from this limit.",
+            "C": "All notes must be sent to outside consultants.",
+            "D": "Employees should replace all notes with photographs."
+          },
+          "answer": "B",
+          "explanation": "一般紀錄保存 30 天，後句卻說稽核資料保存 12 個月，因此需例外轉折句。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "The meeting room will be cleaned every Friday.",
+            "B": "All documents must be made public immediately.",
+            "C": "The company plans to replace its printers.",
+            "D": "Only staff listed on the access roster should be able to open the file."
+          },
+          "answer": "D",
+          "explanation": "後句 This check 指檢查檔案權限；只有名單上人員能開啟檔案，才可避免意外揭露。"
+        }
+      ]
+    },
+    {
+      "id": "day-47-quiz",
+      "title": "Day 47 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The venue is subject _____ inspection before it can reopen.",
+          "options": {
+            "A": "at",
+            "B": "to",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "be subject to + 名詞 inspection，表示重新開放前須接受檢查。"
+        },
+        {
+          "id": 2,
+          "prompt": "The team will provide a response _____ three working days of receiving the request.",
+          "options": {
+            "A": "within",
+            "B": "by",
+            "C": "until",
+            "D": "since"
+          },
+          "answer": "A",
+          "explanation": "within three working days of... 表收到請求後三個工作天內；by 後通常需明確時點。"
+        },
+        {
+          "id": 3,
+          "prompt": "The director asked _____ the figures had been verified.",
+          "options": {
+            "A": "which",
+            "B": "what",
+            "C": "whether",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "whether 表「是否」，had been verified 為陳述句語序。"
+        },
+        {
+          "id": 4,
+          "prompt": "The notice is scheduled _____ posted tomorrow morning.",
+          "options": {
+            "A": "for",
+            "B": "being",
+            "C": "to",
+            "D": "to be"
+          },
+          "answer": "D",
+          "explanation": "be scheduled to be + p.p. 表預定被張貼；to be posted 正確。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why will the man delay sending the presentation externally?",
+          "options": {
+            "A": "The partners have canceled their meeting.",
+            "B": "A chart has not been approved by Legal.",
+            "C": "The file cannot be opened internally.",
+            "D": "The market-share figures were deleted."
+          },
+          "answer": "B",
+          "explanation": "法務尚未核准市占率圖表，男方因此暫緩外部郵件，並非取消會議。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does the man say he will do immediately?",
+          "options": {
+            "A": "Publish the presentation on the website.",
+            "B": "Replace the chart with a new one.",
+            "C": "Ask the partners to call Legal.",
+            "D": "Send an internal preview."
+          },
+          "answer": "D",
+          "explanation": "男方說 I will send an internal preview now；請法務明早前回覆是女方的後續要求。"
+        },
+        {
+          "id": 7,
+          "prompt": "When will the webinar now begin?",
+          "options": {
+            "A": "Friday at 4 P.M.",
+            "B": "Friday at 3 P.M.",
+            "C": "Monday at noon",
+            "D": "Thursday at 4 P.M."
+          },
+          "answer": "A",
+          "explanation": "公告指出改為同一個星期五下午 4 點；週一中午是簡報上線時間。"
+        },
+        {
+          "id": 8,
+          "prompt": "What should people who already registered do?",
+          "options": {
+            "A": "Register again before noon.",
+            "B": "Ask for a refund.",
+            "C": "Keep their existing registrations.",
+            "D": "Wait for a recording instead."
+          },
+          "answer": "C",
+          "explanation": "Existing registrations remain valid，已報名者不需重新報名。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the total cost of the original nine-subscription request?",
+          "options": {
+            "A": "$855",
+            "B": "$986",
+            "C": "$1,000",
+            "D": "$1,005"
+          },
+          "answer": "D",
+          "explanation": "9 × $95 = $855；未達十人折扣門檻，加 $120 + $30 = $1,005。"
+        },
+        {
+          "id": 10,
+          "prompt": "If the department orders ten subscriptions instead, how much of the $1,000 budget will remain?",
+          "options": {
+            "A": "$5",
+            "B": "$14",
+            "C": "$19",
+            "D": "$30"
+          },
+          "answer": "B",
+          "explanation": "10 × $95 = $950；折扣後 $950 × 0.88 = $836；加 $150 = $986；預算剩 $14。"
+        },
+        {
+          "id": 11,
+          "prompt": "Why should the public replay not be uploaded on Thursday?",
+          "options": {
+            "A": "The event has not been scheduled.",
+            "B": "Audit records must be destroyed immediately.",
+            "C": "One speaker has not provided written consent.",
+            "D": "The recording must be translated first."
+          },
+          "answer": "C",
+          "explanation": "對外發布需所有講者書面同意，第三位講者尚未簽署；預計週五審查不等於已同意。"
+        },
+        {
+          "id": 12,
+          "prompt": "For how long must formal audit records be retained?",
+          "options": {
+            "A": "Twelve months",
+            "B": "Thirty days",
+            "C": "Two weeks",
+            "D": "Indefinitely"
+          },
+          "answer": "A",
+          "explanation": "政策將正式稽核紀錄列為例外，保存十二個月，而非一般的三十天。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握合規申報、跨時區會議與書面授權 30 個詞彙；辨識 be subject to、due to、whether、by/within 與反事實被動；Listening 整合跨時區、供應商限制與公告例外。",
+  "nextDay": "合約修訂通知、海外客戶服務、Part 7 例外條款優先順序與 Listening 回應意圖"
+}
