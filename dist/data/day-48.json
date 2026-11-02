@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 48,
+  "title": "合約修訂通知、海外客戶服務、Part 7 條款優先順序與 Listening 回應意圖",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860–900+ baseline",
+  "source": "使用者提供的 Day 48 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 48 學習概覽",
+      "markdown": "- 掌握合約修訂、售後保固與海外客戶服務 30 個單字\n- 練習 unless otherwise stated、未來時間子句、要求式假設語氣與主詞一致\n- Listening 辨識間接拒絕、條件性出貨與限定延期\n- Reading 比對原條款與修正案的優先順序、折扣門檻及書面核准\n- 完成 50 題原創題目並保留首次作答紀錄\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| amendment | 修正條款 | approve an amendment |\n| supersede | 取代先前版本 | supersede a provision |\n| provision | 條款、規定 | contract provision |\n| prevail | 優先適用 | prevail over earlier terms |\n| stipulation | 明訂條件 | contractual stipulation |\n| validity | 有效性 | confirm validity |\n| authorization | 授權、核准 | written authorization |\n| acknowledgment | 收悉確認 | send an acknowledgment |\n| endorsement | 正式支持、核可 | obtain endorsement |\n| claimant | 提出申請者 | eligible claimant |\n| warranty | 保固 | warranty coverage |\n| coverage | 保障範圍 | extend coverage |\n| defective | 有瑕疵的 | defective component |\n| malfunction | 故障 | report a malfunction |\n| diagnostic | 診斷用的 | diagnostic report |\n| remediation | 補救處理 | remediation plan |\n| escalation | 升級處理 | escalation procedure |\n| turnaround time | 處理所需時間 | shorten turnaround time |\n| dispatch | 出貨、派送 | authorize dispatch |\n| consignment | 託運貨物 | track a consignment |\n| proof of purchase | 購買證明 | provide proof of purchase |\n| reimbursement | 費用償還 | request reimbursement |\n| surcharge | 附加費 | expedited-service surcharge |\n| waive | 免除（費用） | waive a fee |\n| prorated | 按比例計算的 | prorated refund |\n| discrepancy | 不一致、差異 | resolve a discrepancy |\n| eligibility | 資格 | verify eligibility |\n| exception | 例外 | limited exception |\n| contingent | 取決於條件的 | contingent on inspection |\n| reconcile | 核對帳目 | reconcile an invoice |"
+    },
+    {
+      "title": "② 今日文法｜Unless otherwise stated / specified、Once / As soon as + 現在式、Require / insist / recommend that + 原形動詞、Neither...nor 的就近一致、過去反事實倒裝與情態完成式",
+      "markdown": "主題：**Unless otherwise stated / specified、Once / As soon as + 現在式、Require / insist / recommend that + 原形動詞、Neither...nor 的就近一致、過去反事實倒裝與情態完成式**\n\n### 規則 1｜Unless otherwise stated / specified\n\nunless otherwise stated 表示「除非另有說明」，常置於句首或句末；stated 為過去分詞。\n\n> Unless otherwise stated, the original cancellation deadline remains in effect.\n\n### 規則 2｜Once / As soon as + 現在式\n\n表未來時間的 once / as soon as 子句通常用現在式，主句可用 will。\n\n> The replacement will be dispatched once the warehouse receives the photos.\n\n### 規則 3｜Require / insist / recommend that + 原形動詞\n\n表示要求、堅持或建議時，that 子句用原形動詞；被動用 be + p.p.。\n\n> The supervisor insisted that every claim be reviewed individually.\n\n### 規則 4｜Neither...nor 的就近一致\n\nneither A nor B 作主詞時，動詞通常與靠近的 B 一致。\n\n> Neither the manager nor the agents are available this afternoon.\n\n### 規則 5｜過去反事實倒裝與情態完成式\n\nHad + 主詞 + p.p. 可取代 If + 主詞 + had + p.p.；結果用 would/could have + p.p.。\n\n> Had the shipment arrived on time, we would not have paid the storage fee."
+    },
+    {
+      "title": "03 Listening｜Overseas Replacement — Indirect Refusal",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Customer: I ordered a replacement sensor for our Osaka office. Can you guarantee delivery by Friday morning?\n> Agent: I wouldn't count on Friday morning just yet. The warehouse has not confirmed that the part is in stock.\n> Customer: We have a demonstration at noon. Is there anything I can do to speed things up?\n> Agent: If you send the serial-number photo by two this afternoon, I can request priority dispatch. That would still be a request, not a delivery guarantee.\n> Customer: Should I return the faulty sensor now?\n> Agent: Please keep it until we email you a return label. I'll check the inventory and send you an update before five."
+    },
+    {
+      "title": "04 Listening｜Support Plan Comparison and Conditional Activation",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: We need a support plan for six regional offices starting Monday, November second. It must include weekend coverage and a response within four hours, and our monthly cap is twelve hundred dollars.\n> Man: The Essential plan is eight hundred forty dollars, but it responds within eight hours and excludes weekends. Flex is one thousand fifty dollars with a four-hour response, but no weekend support.\n> Woman: What about Premier and Elite?\n> Man: Premier costs eleven hundred eighty dollars, covers weekends, and promises a response within four hours. Elite has a two-hour response and weekend coverage, but costs twelve hundred sixty dollars.\n> Woman: Premier seems to fit. Can we activate it today?\n> Man: We can reserve the price, but activation for Monday requires a signed order form by Thursday at four. I haven't received it yet."
+    },
+    {
+      "title": "05 Listening｜Limited Return-Claim Deadline Extension",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Announcer: This is an update for customers affected by the parcel-tracking outage on October twenty-sixth and twenty-seventh. The original return-claim deadline of Friday, October thirtieth, at five p.m. has been extended to Tuesday, November third, at noon, but only for customers who could not submit a claim during the outage. Eligible customers must upload photographs of the damaged item by Monday, November second, at six p.m. Customers who submitted a claim successfully before the outage do not need to submit it again. The standard return policy for other orders has not changed. For urgent safety concerns, call the product-safety team rather than using the online form."
+    },
+    {
+      "title": "⑥ Reading｜Service Agreement Amendments, Invoice Calculation and Written Acceptance",
+      "markdown": "限時：**12 分 0 秒**。\n\n### Harborline Solutions — Service Terms (issued October 12, 2026)\n\n> HARBORLINE SOLUTIONS — REGIONAL SUPPORT AGREEMENT\nIssued: October 12, 2026\n\nFirst-month support is $190 per branch. A confirmed order covering six or more branches receives a 20% discount on the first-month support subtotal only. The discount does not apply to one-time charges: onboarding ($260), data migration ($180), or standard processing ($45). These charges appear on the first invoice. Subsequent monthly invoices cover support services according to the confirmed number of branches.\n\nThe service start date is Thursday, November 12. The standard deadline for a request to change the branch count is Tuesday, November 3, at 5 P.M. The deadline to cancel the agreement is also November 3 at 5 P.M. A branch-count change becomes effective only after Harborline issues written acceptance; sending a request or receiving an automated acknowledgment is not sufficient.\n\nA later written amendment may supersede a specifically identified provision. Unless that amendment expressly says otherwise, every other provision of this agreement remains in effect. All dates and times in this agreement use Taipei time.\n\n用途：參考文件\n\n### Riverton Group — Confirmed Purchase Request (October 20, 2026)\n\n> RIVERTON GROUP — PURCHASE REQUEST AND CONFIRMATION\nPurchase request submitted: October 20, 2026\nConfirmation received: October 21, 2026\n\nConfirmed coverage: SIX regional branches, first month beginning November 12.\nServices selected: standard onboarding, data migration, and standard processing.\nOptional expedited onboarding: NOT selected.\n\nThe procurement team has approved a first-invoice budget of $1,450. Finance has asked the project lead to keep any additional charges within that amount. A manager has proposed reducing the coverage to five branches, but no accepted change is recorded in the purchasing system.\n\nThe original six-branch order is the only order currently marked CONFIRMED.\n\n用途：參考文件\n\n### Email Thread — Amendment and Optional Rush Service (October 28, 2026)\n\n> FROM: contracts@harborline.example\nTO: operations@riverton.example\nDATE: Wednesday, October 28, 2026, 9:15 A.M.\nSUBJECT: Amendment A — branch-count requests\n\nWe are extending ONLY the deadline to REQUEST A CHANGE IN BRANCH COUNT to Friday, November 6, at 3 P.M. Taipei time. This amendment supersedes the November 3 branch-count request deadline in the original agreement. The cancellation deadline remains November 3 at 5 P.M., and the service start date remains November 12. A change in branch count still requires our written acceptance.\n\nWe can also offer expedited onboarding on November 10 for an additional $75, which is not discounted. This option is available only after we receive your signed authorization. No rush service has been added to your confirmed order.\n\nFROM: operations@riverton.example\nTO: contracts@harborline.example\nDATE: Wednesday, October 28, 2026, 10:05 A.M.\nSUBJECT: RE: Amendment A\n\nThank you. We submitted a request to reduce the branch count to five, and the portal sent an automatic acknowledgment. Please confirm whether the change has been accepted. We are also considering expedited onboarding, but Finance has not authorized the additional charge.\n\nFROM: contracts@harborline.example\nTO: operations@riverton.example\nDATE: Wednesday, October 28, 2026, 11:10 A.M.\nSUBJECT: RE: Amendment A\n\nThe five-branch request is under review and has NOT been accepted. Your confirmed order remains at six branches. We will send a separate written acceptance if the request is approved. No expedited onboarding has been booked.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Updated procedure for international warranty claims\n> \n> Beginning November 2, overseas customers should submit warranty claims through the service portal rather than by ordinary email. [1] _____ The portal creates a case number that customers can use when contacting our support team.\n> \n> Claims received before November 2 will remain in the existing system. Customers do not need to submit them again. If additional evidence is required, the customer [2] _____ by email within two business days.\n> \n> The standard review period remains five business days after all required documents have been received. [3] _____ Urgent safety reports are handled separately and should be made by telephone as soon as possible.\n> \n> Once a claim is approved, the customer will receive a shipping label and instructions for returning the faulty item. [4] _____ Please do not send any equipment before receiving those instructions.\n> \n> Thank you for your cooperation.\n> International Customer Care"
+    },
+    {
+      "title": "⑨ Day 48 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 45、Day 46、Day 47**。\n\n### 複習重點\n- **Day 45：書面接受**：區分 portal acknowledgment 與正式 written acceptance，說明哪個會使變更生效。\n- **Day 46：跨部門核准**：列出未取得財務核准時，不能把加急費視為已確認服務的原因。\n- **Day 47：限定期限延長**：比較「申請變更期限」與「取消期限」，辨認只被修正其中一項的情境。\n- **Day 48：折扣與例外**：重算六間 $1,397、五間 $1,435、六間加急 $1,472；並標出哪一個方案目前有效。\n\n### 錯題標籤\n- `DETAIL`：明示細節辨認\n- `IMPLICATION`：言外之意與間接拒絕\n- `UNCERTAINTY`：尚未確認與不確定性\n- `CONDITION`：條件成立才執行\n- `NEXT_ACTION`：下一步行動\n- `REQUIREMENT`：必要條件\n- `CONSTRAINT`：限制條件\n- `INTEGRATION`：跨來源資訊整合\n- `BUDGET`：預算判斷\n- `CALC`：金額計算\n- `APPROVAL`：書面核准與生效\n- `DEADLINE`：截止期限\n- `UPDATE`：更新通知\n- `TIME`：時間資訊\n- `CAUSE`：事件原因\n- `EXCEPTION`：例外適用\n- `POLICY`：規章條款\n- `DISCOUNT`：折扣範圍\n- `THRESHOLD`：數量門檻\n- `INFERENCE`：跨文件推論\n- `WORD_FORM`：詞性與分詞\n- `TIME_CLAUSE`：時間子句\n- `TENSE`：時態\n- `CONJUNCTION`：連接詞\n- `PURPOSE`：目的\n- `SUBJUNCTIVE`：要求式假設語氣\n- `PASSIVE`：被動語態\n- `PREPOSITION`：介系詞\n- `CONTRAST`：轉折對比\n- `SEQUENCE`：動作先後\n- `PARTICIPLE`：分詞修飾\n- `GERUND`：動名詞\n- `AGREEMENT`：主詞動詞一致\n- `GRAMMAR`：文法\n- `ADVERB`：副詞\n- `INFINITIVE`：不定詞\n- `REPORTED_SPEECH`：間接引述\n- `CONDITIONAL`：反事實條件句\n- `INVERSION`：倒裝\n- `COHESION`：篇章銜接\n- `REFERENCE`：指涉關係\n- `ELIGIBILITY`：適用資格"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，選擇 amendment、claimant、turnaround time、contingent 等 8 個撰寫商務例句。\n- Listening 三組各練兩次；第一次不看逐字稿，第二次用 TTS 1.1 倍速並標記間接拒絕及 only if 等條件語。\n- Reading 三份文件限時 12 分鐘，整理原條款、修正案、已確認訂單、待核准變更四欄。\n- 重算六間／五間方案及加急服務費，說明 $75 為何不能直接列入已確認帳單。\n- Part 5 15 題限時 4 分鐘，Part 6 4 題限時 3 分鐘；每題寫出支持答案的語法或篇章線索。\n- 正式小考 12 題首次限時 6 分鐘，保留首次答案、正確題數、耗時及錯題 errorTags，供 Day 49 調整難度。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "amendment",
+      "meaning": "修正條款",
+      "phrase": "approve an amendment"
+    },
+    {
+      "id": 2,
+      "word": "supersede",
+      "meaning": "取代先前版本",
+      "phrase": "supersede a provision"
+    },
+    {
+      "id": 3,
+      "word": "provision",
+      "meaning": "條款、規定",
+      "phrase": "contract provision"
+    },
+    {
+      "id": 4,
+      "word": "prevail",
+      "meaning": "優先適用",
+      "phrase": "prevail over earlier terms"
+    },
+    {
+      "id": 5,
+      "word": "stipulation",
+      "meaning": "明訂條件",
+      "phrase": "contractual stipulation"
+    },
+    {
+      "id": 6,
+      "word": "validity",
+      "meaning": "有效性",
+      "phrase": "confirm validity"
+    },
+    {
+      "id": 7,
+      "word": "authorization",
+      "meaning": "授權、核准",
+      "phrase": "written authorization"
+    },
+    {
+      "id": 8,
+      "word": "acknowledgment",
+      "meaning": "收悉確認",
+      "phrase": "send an acknowledgment"
+    },
+    {
+      "id": 9,
+      "word": "endorsement",
+      "meaning": "正式支持、核可",
+      "phrase": "obtain endorsement"
+    },
+    {
+      "id": 10,
+      "word": "claimant",
+      "meaning": "提出申請者",
+      "phrase": "eligible claimant"
+    },
+    {
+      "id": 11,
+      "word": "warranty",
+      "meaning": "保固",
+      "phrase": "warranty coverage"
+    },
+    {
+      "id": 12,
+      "word": "coverage",
+      "meaning": "保障範圍",
+      "phrase": "extend coverage"
+    },
+    {
+      "id": 13,
+      "word": "defective",
+      "meaning": "有瑕疵的",
+      "phrase": "defective component"
+    },
+    {
+      "id": 14,
+      "word": "malfunction",
+      "meaning": "故障",
+      "phrase": "report a malfunction"
+    },
+    {
+      "id": 15,
+      "word": "diagnostic",
+      "meaning": "診斷用的",
+      "phrase": "diagnostic report"
+    },
+    {
+      "id": 16,
+      "word": "remediation",
+      "meaning": "補救處理",
+      "phrase": "remediation plan"
+    },
+    {
+      "id": 17,
+      "word": "escalation",
+      "meaning": "升級處理",
+      "phrase": "escalation procedure"
+    },
+    {
+      "id": 18,
+      "word": "turnaround time",
+      "meaning": "處理所需時間",
+      "phrase": "shorten turnaround time"
+    },
+    {
+      "id": 19,
+      "word": "dispatch",
+      "meaning": "出貨、派送",
+      "phrase": "authorize dispatch"
+    },
+    {
+      "id": 20,
+      "word": "consignment",
+      "meaning": "託運貨物",
+      "phrase": "track a consignment"
+    },
+    {
+      "id": 21,
+      "word": "proof of purchase",
+      "meaning": "購買證明",
+      "phrase": "provide proof of purchase"
+    },
+    {
+      "id": 22,
+      "word": "reimbursement",
+      "meaning": "費用償還",
+      "phrase": "request reimbursement"
+    },
+    {
+      "id": 23,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "expedited-service surcharge"
+    },
+    {
+      "id": 24,
+      "word": "waive",
+      "meaning": "免除（費用）",
+      "phrase": "waive a fee"
+    },
+    {
+      "id": 25,
+      "word": "prorated",
+      "meaning": "按比例計算的",
+      "phrase": "prorated refund"
+    },
+    {
+      "id": 26,
+      "word": "discrepancy",
+      "meaning": "不一致、差異",
+      "phrase": "resolve a discrepancy"
+    },
+    {
+      "id": 27,
+      "word": "eligibility",
+      "meaning": "資格",
+      "phrase": "verify eligibility"
+    },
+    {
+      "id": 28,
+      "word": "exception",
+      "meaning": "例外",
+      "phrase": "limited exception"
+    },
+    {
+      "id": 29,
+      "word": "contingent",
+      "meaning": "取決於條件的",
+      "phrase": "contingent on inspection"
+    },
+    {
+      "id": 30,
+      "word": "reconcile",
+      "meaning": "核對帳目",
+      "phrase": "reconcile an invoice"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Overseas Replacement — Indirect Refusal",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What does the agent imply about delivery by Friday morning?",
+          "options": {
+            "A": "It has already been guaranteed.",
+            "B": "It is unlikely to be confirmed at this point.",
+            "C": "The customer must collect the part in person.",
+            "D": "It is scheduled for Thursday evening."
+          },
+          "answer": "B",
+          "explanation": "「I wouldn’t count on Friday morning」表示現在不能指望或保證週五上午送達，因為庫存尚未確認。"
+        },
+        {
+          "id": 2,
+          "prompt": "What must the customer do to request priority dispatch?",
+          "options": {
+            "A": "Pay a surcharge before noon.",
+            "B": "Return the faulty sensor immediately.",
+            "C": "Send a serial-number photo by 2 P.M.",
+            "D": "Call the Osaka office after 5 P.M."
+          },
+          "answer": "C",
+          "explanation": "客服明確說明下午兩點前提供序號照片，才可提出優先出貨申請；申請不等於保證到貨。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the agent most likely do before 5 P.M.?",
+          "options": {
+            "A": "Issue a full refund.",
+            "B": "Deliver the sensor personally.",
+            "C": "Cancel the demonstration.",
+            "D": "Check inventory and provide an update."
+          },
+          "answer": "D",
+          "explanation": "最後一句承諾查詢庫存並在五點前回覆，並未承諾立即出貨。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Support Plan Comparison and Conditional Activation",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the Flex plan unsuitable?",
+          "options": {
+            "A": "It does not include weekend support.",
+            "B": "It exceeds the monthly budget.",
+            "C": "Its response time is eight hours.",
+            "D": "It cannot serve six offices."
+          },
+          "answer": "A",
+          "explanation": "Flex 雖符合四小時回覆與預算，但沒有週末支援。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which plan satisfies all the client’s service and budget requirements?",
+          "options": {
+            "A": "Essential",
+            "B": "Flex",
+            "C": "Premier",
+            "D": "Elite"
+          },
+          "answer": "C",
+          "explanation": "Premier 每月 $1,180，週末支援且四小時內回覆；Elite $1,260 超過 $1,200 預算。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why is the Elite plan not recommended?",
+          "options": {
+            "A": "It excludes regional offices.",
+            "B": "It costs $60 more than the budget allows.",
+            "C": "It does not cover weekends.",
+            "D": "It requires an eight-hour response time."
+          },
+          "answer": "B",
+          "explanation": "$1,260 − $1,200 = $60，雖然功能符合但超出預算。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is needed for the Premier plan to begin on Monday?",
+          "options": {
+            "A": "A new price quotation on Friday.",
+            "B": "A telephone confirmation on Monday.",
+            "C": "A demonstration of the software.",
+            "D": "A signed order form by Thursday at 4 P.M."
+          },
+          "answer": "D",
+          "explanation": "客服指出須於週四 16:00 前收到簽署訂單；保留價格不代表服務已啟用。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Limited Return-Claim Deadline Extension",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What caused the company to issue this announcement?",
+          "options": {
+            "A": "A change in product prices.",
+            "B": "A planned store opening.",
+            "C": "A parcel-tracking system outage.",
+            "D": "A new overseas tax."
+          },
+          "answer": "C",
+          "explanation": "公告第一句指出 10 月 26–27 日的包裹追蹤系統中斷。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the extended deadline for eligible return claims?",
+          "options": {
+            "A": "October 30 at 5 P.M.",
+            "B": "November 3 at noon.",
+            "C": "November 2 at 6 P.M.",
+            "D": "November 3 at 6 P.M."
+          },
+          "answer": "B",
+          "explanation": "正式申訴延至 11/3 中午 12 點；11/2 18:00 是照片上傳期限，兩者不能混淆。"
+        },
+        {
+          "id": 3,
+          "prompt": "What must eligible customers upload by November 2 at 6 P.M.?",
+          "options": {
+            "A": "Photographs of the damaged item.",
+            "B": "A signed purchase contract.",
+            "C": "A copy of their travel itinerary.",
+            "D": "A new registration form."
+          },
+          "answer": "A",
+          "explanation": "公告明確要求符合資格者於 11/2 18:00 前上傳受損物品照片。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should customers do if they already submitted a claim successfully?",
+          "options": {
+            "A": "File a new claim with a different account.",
+            "B": "Visit a branch to verify the claim.",
+            "C": "Wait until November 3 and resubmit.",
+            "D": "Keep the original claim; no resubmission is required."
+          },
+          "answer": "D",
+          "explanation": "先前已成功提交的申訴不必重新送件，延長也非全面適用。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Service Agreement Amendments, Invoice Calculation and Written Acceptance",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the first-month support subtotal for the confirmed six-branch order after the discount?",
+          "options": {
+            "A": "$912",
+            "B": "$950",
+            "C": "$1,140",
+            "D": "$1,397"
+          },
+          "answer": "A",
+          "explanation": "6 × $190 = $1,140；達六間門檻享 20% 折扣，$1,140 × 0.8 = $912。"
+        },
+        {
+          "id": 2,
+          "prompt": "How much is the confirmed first invoice, including all selected one-time charges?",
+          "options": {
+            "A": "$1,352",
+            "B": "$1,397",
+            "C": "$1,435",
+            "D": "$1,472"
+          },
+          "answer": "B",
+          "explanation": "折扣後支援 $912 + onboarding $260 + migration $180 + processing $45 = $1,397。"
+        },
+        {
+          "id": 3,
+          "prompt": "If the five-branch change were accepted, what would the first invoice total be?",
+          "options": {
+            "A": "$1,235",
+            "B": "$1,397",
+            "C": "$1,435",
+            "D": "$1,488"
+          },
+          "answer": "C",
+          "explanation": "五間不符合六間以上 20% 折扣：5 × $190 = $950；加 $260 + $180 + $45 = $1,435。此為假設，尚非正式帳單。"
+        },
+        {
+          "id": 4,
+          "prompt": "How much would the confirmed six-branch first invoice be WITH expedited onboarding, if that option were authorized?",
+          "options": {
+            "A": "$1,397",
+            "B": "$1,435",
+            "C": "$1,450",
+            "D": "$1,472"
+          },
+          "answer": "D",
+          "explanation": "現有第一張帳單 $1,397 + 未折扣的加急費 $75 = $1,472，超過 $1,450 預算 $22；但目前尚未核准。"
+        },
+        {
+          "id": 5,
+          "prompt": "Which branch count is currently binding for the order?",
+          "options": {
+            "A": "Six, because the five-branch request has not been accepted in writing.",
+            "B": "Five, because the portal acknowledged the request.",
+            "C": "Five, because Amendment A automatically approves reductions.",
+            "D": "Neither, because the service start date has changed."
+          },
+          "answer": "A",
+          "explanation": "自動回執僅代表收到申請，供應商明確表示五間申請仍在審查，已確認訂單仍為六間。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is the new deadline to request a change in branch count?",
+          "options": {
+            "A": "November 3 at 5 P.M.",
+            "B": "November 6 at 3 P.M.",
+            "C": "November 10 at noon.",
+            "D": "November 12 at 5 P.M."
+          },
+          "answer": "B",
+          "explanation": "Amendment A 僅將「變更分店數申請」期限改為 11/6 15:00。"
+        },
+        {
+          "id": 7,
+          "prompt": "What is the deadline to cancel the agreement?",
+          "options": {
+            "A": "November 6 at 3 P.M.",
+            "B": "November 10 at 5 P.M.",
+            "C": "November 3 at 5 P.M.",
+            "D": "November 12 at 3 P.M."
+          },
+          "answer": "C",
+          "explanation": "新版通知只取代變更分店數申請期限，明言取消期限仍為 11/3 17:00。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why has expedited onboarding not been added to the confirmed order?",
+          "options": {
+            "A": "It is no longer offered.",
+            "B": "It is included free of charge.",
+            "C": "The service start date has been canceled.",
+            "D": "The signed authorization has not been received."
+          },
+          "answer": "D",
+          "explanation": "加急服務需簽署授權；郵件指出財務部未核准額外費用、供應商尚未排定加急服務。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Unless otherwise _____, the original cancellation deadline will remain in effect.",
+          "options": {
+            "A": "state",
+            "B": "stated",
+            "C": "stating",
+            "D": "statement"
+          },
+          "answer": "B",
+          "explanation": "固定片語 unless otherwise stated，意為「除非另有說明」。"
+        },
+        {
+          "id": 2,
+          "prompt": "The revised agreement will take effect once both parties _____ it.",
+          "options": {
+            "A": "sign",
+            "B": "will sign",
+            "C": "signed",
+            "D": "signing"
+          },
+          "answer": "A",
+          "explanation": "once 引導未來時間子句時用現在簡單式 sign。"
+        },
+        {
+          "id": 3,
+          "prompt": "Please keep a copy of the receipt _____ a refund is requested later.",
+          "options": {
+            "A": "although",
+            "B": "unless",
+            "C": "in case",
+            "D": "despite"
+          },
+          "answer": "C",
+          "explanation": "in case 表「以防萬一」，保留收據以備日後申請退款。"
+        },
+        {
+          "id": 4,
+          "prompt": "The director insisted that each complaint _____ reviewed within two business days.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "being",
+            "D": "be"
+          },
+          "answer": "D",
+          "explanation": "insist that 表要求時用原形動詞；被動為 be reviewed。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ the shipping delay, the replacement parts arrived before the inspection.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Because",
+            "D": "Unless"
+          },
+          "answer": "A",
+          "explanation": "despite 後接名詞片語 the shipping delay；although 後需完整子句。"
+        },
+        {
+          "id": 6,
+          "prompt": "The warranty can be extended, _____ the customer registers the product within 30 days.",
+          "options": {
+            "A": "whereas",
+            "B": "provided that",
+            "C": "even though",
+            "D": "rather than"
+          },
+          "answer": "B",
+          "explanation": "provided that 後接條件子句，表示只要在 30 天內註冊即可延長保固。"
+        },
+        {
+          "id": 7,
+          "prompt": "The technician explained why the unit _____ functioning before the inspection.",
+          "options": {
+            "A": "stops",
+            "B": "has stopped",
+            "C": "had stopped",
+            "D": "will stop"
+          },
+          "answer": "C",
+          "explanation": "故障先於過去的 explained，使用過去完成式 had stopped。"
+        },
+        {
+          "id": 8,
+          "prompt": "The revised return conditions apply to all orders _____ after October 15.",
+          "options": {
+            "A": "place",
+            "B": "placing",
+            "C": "to place",
+            "D": "placed"
+          },
+          "answer": "D",
+          "explanation": "orders placed 為過去分詞後位修飾，表示「在 10/15 之後下的訂單」。"
+        },
+        {
+          "id": 9,
+          "prompt": "The representative apologized _____ providing an incorrect tracking number.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "with",
+            "D": "at"
+          },
+          "answer": "A",
+          "explanation": "固定搭配 apologize for + V-ing。"
+        },
+        {
+          "id": 10,
+          "prompt": "Neither the regional manager nor the service agents _____ authorized to waive the charge.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "be"
+          },
+          "answer": "B",
+          "explanation": "neither...nor 的動詞與較近主詞 agents（複數）一致。"
+        },
+        {
+          "id": 11,
+          "prompt": "The updated form allows customers to submit claims more _____.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiency",
+            "C": "efficiently",
+            "D": "efficiencies"
+          },
+          "answer": "C",
+          "explanation": "修飾動詞 submit 需副詞 efficiently。"
+        },
+        {
+          "id": 12,
+          "prompt": "The replacement parts are expected _____ at the distribution center by Friday.",
+          "options": {
+            "A": "arrive",
+            "B": "arriving",
+            "C": "arrived",
+            "D": "to arrive"
+          },
+          "answer": "D",
+          "explanation": "be expected to + 原形動詞，表示預計到達。"
+        },
+        {
+          "id": 13,
+          "prompt": "The customer asked whether the additional fee _____ on the next invoice.",
+          "options": {
+            "A": "would appear",
+            "B": "will appearing",
+            "C": "appear",
+            "D": "had appear"
+          },
+          "answer": "A",
+          "explanation": "過去時 asked 的間接引述，從當時看未來通常用 would appear。"
+        },
+        {
+          "id": 14,
+          "prompt": "The agent suggested that the faulty device _____ at the customer’s office until pickup.",
+          "options": {
+            "A": "remains",
+            "B": "remain",
+            "C": "remaining",
+            "D": "remained"
+          },
+          "answer": "B",
+          "explanation": "suggest that 表建議時用原形動詞 remain。"
+        },
+        {
+          "id": 15,
+          "prompt": "Had the shipment arrived on time, the warehouse _____ extra storage fees.",
+          "options": {
+            "A": "does not incur",
+            "B": "will not incur",
+            "C": "would not have incurred",
+            "D": "had not incurring"
+          },
+          "answer": "C",
+          "explanation": "Had + 主詞 + p.p. 為過去反事實倒裝，主句用 would not have incurred。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "Our office cafeteria will be closed for repairs.",
+            "B": "This change will give customers one place to track the status of their requests.",
+            "C": "The warranty period ended for all customers yesterday.",
+            "D": "Employees should book their annual leave through the portal."
+          },
+          "answer": "B",
+          "explanation": "前句改用客服入口網站，後句說入口網站會產生案件編號，B 承接「集中追蹤」目的。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which phrase best completes blank [2]?",
+          "options": {
+            "A": "notified",
+            "B": "is notifying",
+            "C": "will be notified",
+            "D": "has notifying"
+          },
+          "answer": "C",
+          "explanation": "顧客是被通知的對象，未來會被 email 通知，因此用 will be notified。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which word best completes blank [3]?",
+          "options": {
+            "A": "However,",
+            "B": "Therefore,",
+            "C": "Similarly,",
+            "D": "For example,"
+          },
+          "answer": "A",
+          "explanation": "前句說一般案件審查五個工作天，後句轉向緊急安全通報的特殊處理方式，需轉折 However。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "All customers must pay for a new device before filing a claim.",
+            "B": "The company no longer offers return shipping labels.",
+            "C": "The claim will be automatically rejected after one day.",
+            "D": "These instructions will explain how to package the item and arrange collection."
+          },
+          "answer": "D",
+          "explanation": "前句提及 shipping label and instructions，後句禁止未收到說明前寄送；D 補足 instructions 的用途。"
+        }
+      ]
+    },
+    {
+      "id": "day-48-quiz",
+      "title": "Day 48 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Unless otherwise _____ in the amendment, the original terms remain valid.",
+          "options": {
+            "A": "stating",
+            "B": "stated",
+            "C": "state",
+            "D": "statement"
+          },
+          "answer": "B",
+          "explanation": "unless otherwise stated 為固定結構，指「除非修正案另有說明」。"
+        },
+        {
+          "id": 2,
+          "prompt": "The revised plan will be activated as soon as Finance _____ the request.",
+          "options": {
+            "A": "will approve",
+            "B": "approved",
+            "C": "approves",
+            "D": "approving"
+          },
+          "answer": "C",
+          "explanation": "as soon as 引導未來時間子句時使用現在式 approves。"
+        },
+        {
+          "id": 3,
+          "prompt": "The supervisor requested that the damaged units _____ inspected before dispatch.",
+          "options": {
+            "A": "be",
+            "B": "are",
+            "C": "were",
+            "D": "being"
+          },
+          "answer": "A",
+          "explanation": "request that 的要求式假設語氣，使用 be inspected。"
+        },
+        {
+          "id": 4,
+          "prompt": "Neither the supplier nor the warehouse employees _____ available after 6 P.M.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "are"
+          },
+          "answer": "D",
+          "explanation": "neither...nor 就近一致，employees 為複數，故 are。"
+        },
+        {
+          "id": 5,
+          "prompt": "What does the woman mean by “I wouldn’t pencil that in yet”?",
+          "options": {
+            "A": "The delivery time is already confirmed.",
+            "B": "The schedule should remain tentative.",
+            "C": "The order has been canceled.",
+            "D": "The meeting must begin immediately."
+          },
+          "answer": "B",
+          "explanation": "pencil in 表暫定安排；I wouldn’t ... yet 暗示不要當成確定時間。"
+        },
+        {
+          "id": 6,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Approve the refund without review.",
+            "B": "Return the package himself.",
+            "C": "Ask the customer to send a serial-number photo.",
+            "D": "Cancel the customer’s warranty."
+          },
+          "answer": "C",
+          "explanation": "男方說會先索取序號照片，再提交升級處理申請。"
+        },
+        {
+          "id": 7,
+          "prompt": "When will the online training now begin?",
+          "options": {
+            "A": "At 3 P.M. on Thursday.",
+            "B": "At 2 P.M. on Thursday.",
+            "C": "At 2 P.M. on Friday.",
+            "D": "At 3 P.M. on Friday."
+          },
+          "answer": "D",
+          "explanation": "公告將原訂週五 14:00 改至週五 15:00。"
+        },
+        {
+          "id": 8,
+          "prompt": "What should people who have already registered do?",
+          "options": {
+            "A": "Use their existing registration; no new sign-up is needed.",
+            "B": "Register again with a different email address.",
+            "C": "Request a refund before Thursday.",
+            "D": "Attend the session in person."
+          },
+          "answer": "A",
+          "explanation": "公告說 existing registrations remain valid，已報名者不用重新註冊。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the first-invoice total for the seven-license order?",
+          "options": {
+            "A": "$714",
+            "B": "$799",
+            "C": "$834",
+            "D": "$960"
+          },
+          "answer": "C",
+          "explanation": "7 × $120 = $840；授權費折扣後 $840 × 0.85 = $714；加設定費 $85、運費 $35，合計 $834。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much of the approved budget remains?",
+          "options": {
+            "A": "$14",
+            "B": "$16",
+            "C": "$35",
+            "D": "$136"
+          },
+          "answer": "B",
+          "explanation": "預算 $850 − 正式訂單 $834 = $16。"
+        },
+        {
+          "id": 11,
+          "prompt": "What is the extended claim-completion deadline for eligible customers?",
+          "options": {
+            "A": "October 27 at noon.",
+            "B": "October 29 at 5 P.M.",
+            "C": "November 2 at 5 P.M.",
+            "D": "November 2 at noon."
+          },
+          "answer": "D",
+          "explanation": "只有符合例外資格者可延至 11/2 12:00，並非所有人都可延長。"
+        },
+        {
+          "id": 12,
+          "prompt": "Which customer may use the extension, assuming the outage prevented evidence upload?",
+          "options": {
+            "A": "A customer whose case number was issued on October 26.",
+            "B": "A customer whose case number was issued on October 28.",
+            "C": "A customer who has not opened a case.",
+            "D": "A customer who first files a claim on November 3."
+          },
+          "answer": "A",
+          "explanation": "資格要求在 10/27「之前」取得案件編號且因中斷無法上傳；10/26 符合。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握合約修訂、售後保固與海外客戶服務 30 個單字；練習 unless otherwise stated、未來時間子句、要求式假設語氣與主詞一致；Listening 辨識間接拒絕、條件性出貨與限定延期。",
+  "nextDay": "跨境物流與售後補償、Part 7 多文件例外、Listening 立場轉變與 Part 6 篇章推論"
+}

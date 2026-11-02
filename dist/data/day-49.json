@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 49,
+  "title": "跨境物流與售後補償、Part 7 多文件例外、Listening 立場轉變與 Part 6 篇章推論",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860–900+ baseline",
+  "source": "使用者提供的 Day 49 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 49 學習概覽",
+      "markdown": "- 熟悉跨境物流、通關、補償與保險 30 個核心字彙\n- 掌握 notwithstanding、Only after 倒裝、whether or not 與 would rather\n- Listening 辨識說話者立場轉變、暫定航班與服務例外\n- Reading 跨三文件計算費用、辨識晚交文件的例外限制與待核准事項\n- 完成 50 題並保留首次小考成績與 errorTags\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| consignment | 託運貨物 | track a consignment |\n| consignee | 收貨人 | notify the consignee |\n| consignor | 託運人 | contact the consignor |\n| customs clearance | 通關 | obtain customs clearance |\n| declaration | 申報文件 | file a customs declaration |\n| tariff | 關稅稅率 | review the tariff |\n| brokerage | 報關服務 | brokerage service |\n| manifest | 貨物清單 | check the cargo manifest |\n| waybill | 運單 | issue an air waybill |\n| bill of lading | 提單 | review the bill of lading |\n| transshipment | 轉運 | arrange transshipment |\n| consolidate | 併貨、整合 | consolidate shipments |\n| expedite | 加速處理 | expedite clearance |\n| hold | 扣留、暫停 | place a shipment on hold |\n| release | 放行 | authorize release |\n| proof of delivery | 送達證明 | request proof of delivery |\n| discrepancy | 不符之處 | resolve a discrepancy |\n| shortage | 短少 | report a shortage |\n| damage assessment | 損壞鑑定 | complete a damage assessment |\n| compensation | 補償 | claim compensation |\n| indemnity | 賠償保障 | indemnity provision |\n| deductible | 自負額 | insurance deductible |\n| liability | 責任 | limit carrier liability |\n| exclusion | 除外條款 | policy exclusion |\n| waiver | 豁免 | request a waiver |\n| reimburse | 償還費用 | reimburse an expense |\n| surcharge | 附加費 | express-clearance surcharge |\n| provisional | 暫定的 | provisional arrival time |\n| contingent | 取決於條件的 | contingent on inspection |\n| reconcile | 核對 | reconcile an invoice |"
+    },
+    {
+      "title": "② 今日文法｜Notwithstanding + 名詞／名詞片語、Only after + 子句／片語置首的倒裝、Whether or not / Even if、Would rather + 原形動詞 + than + 原形動詞、No later than / No earlier than",
+      "markdown": "主題：**Notwithstanding + 名詞／名詞片語、Only after + 子句／片語置首的倒裝、Whether or not / Even if、Would rather + 原形動詞 + than + 原形動詞、No later than / No earlier than**\n\n### 規則 1｜Notwithstanding + 名詞／名詞片語\n\nnotwithstanding 表示「儘管」，正式商務文件常見；可置於名詞片語前，與 although + 完整子句區分。\n\n> Notwithstanding the delay, the original payment terms remain valid.\n\n### 規則 2｜Only after + 子句／片語置首的倒裝\n\nOnly after 引導的時間限制片語置於句首時，主句通常使用助動詞倒裝。\n\n> Only after the broker submitted the permit did customs release the cargo.\n\n### 規則 3｜Whether or not / Even if\n\nwhether or not 表示「不論是否」；even if 表示「即使」，可用來強調條件不影響主句結果。\n\n> The inspection fee is payable whether or not the shipment is released.\n\n### 規則 4｜Would rather + 原形動詞 + than + 原形動詞\n\nwould rather 後接原形動詞；比較兩種行動時可用 than + 原形動詞。\n\n> We would rather wait for clearance than pay an unapproved surcharge.\n\n### 規則 5｜No later than / No earlier than\n\nno later than 表示最晚期限；no earlier than 表示最早不得早於的時點，意思不同。\n\n> Submit the permit no later than Friday; collection cannot begin earlier than Monday."
+    },
+    {
+      "title": "03 Listening｜Damage Claim — Change of Position and Conditional Credit",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Customer: The replacement monitors arrived with cracked screens. Can you waive the inspection charge right away?\n> Agent: Under our standard policy, the charge cannot be waived before the damage is verified.\n> Customer: That is disappointing. The boxes were damaged when the courier handed them over.\n> Agent: In that case, there may be another option. My supervisor can consider a one-time $35 credit if you email the delivery photos by 3 P.M. and the inspection confirms damage on arrival.\n> Customer: So the credit is guaranteed once I send the photos?\n> Agent: Not quite. The photos allow us to review the request; the inspection result and supervisor's approval are still required.\n> Customer: Understood. I'll send the photos and keep the packaging."
+    },
+    {
+      "title": "04 Listening｜Customs Release — Flight Hold and Backup",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Logistics Coordinator: We cannot use Monday's 9 A.M. flight. Customs still needs the import permit, and the broker expects to receive it at noon Monday.\n> Warehouse Manager: The carrier offered Tuesday at 2 P.M., but the customs release must be confirmed by 4 P.M. Monday to keep that space.\n> Logistics Coordinator: Once release is confirmed, packing takes ninety minutes. The temperature logger also needs to be activated before loading.\n> Warehouse Manager: Then do not confirm Tuesday yet. Put it on a temporary hold and ask the broker for an update at 3 P.M. Monday.\n> Logistics Coordinator: If clearance takes longer, Wednesday at 11 A.M. is the next available flight.\n> Warehouse Manager: Good. Please note that Wednesday is a backup, not a new confirmed departure."
+    },
+    {
+      "title": "05 Listening｜Claims Hotline — Processing Time and Exceptions",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Announcer: Thank you for calling Northbridge International Service. From Monday, November 2, through Friday, November 6, our claims desk will operate from 8 A.M. to 6 P.M. local time. Domestic repair estimates are normally sent within two business days after inspection; international estimates require up to five business days. Emergency replacement requests must be approved by the claims team and cannot be authorized by the telephone agent. Customers with a prepaid return label should use the link in their case email. If you have not received a label, please do not ship the item yet. For product-safety concerns, press 2 to speak with our safety desk. For all other claims, use the online case portal."
+    },
+    {
+      "title": "⑥ Reading｜Cross-Border Shipment Terms, Import Documents and Provisional Customs Release",
+      "markdown": "限時：**12 分 0 秒**。\n\n### Arbor Freight — Cross-Border Shipment Terms (October 20, 2026)\n\n> ARBOR FREIGHT — CROSS-BORDER SHIPMENT TERMS\nIssued: October 20, 2026\n\nBase freight: $145 per insulated crate. Confirmed shipments of eight or more crates receive a 12% discount on the base freight subtotal only.\nOther first-invoice charges: customs documentation $95; cold-chain handling $180; cargo insurance $70. These charges are not discountable.\nThe planned delivery deadline is Wednesday, November 4, 2026, at 6 P.M.\nAn $80 late-delivery credit may be granted only if (a) the carrier misses the delivery deadline AND (b) the consignee provided ALL required import documents by Friday, October 30, at 3 P.M. An approved credit appears on the NEXT invoice, not the current invoice.\nRequests to change crate quantities require written carrier acceptance by Friday, October 30, at 5 P.M. Cancellation requests must be received by Friday, October 30, at noon. A quantity-change extension does not extend the cancellation deadline unless explicitly stated.\nThe carrier is not responsible for customs holds caused by incomplete import documentation. An express-clearance surcharge requires separate written customer authorization.\n\n用途：參考文件\n\n### Eastmere Labs — Confirmed Order and Document Log\n\n> EASTMERE LABS — SHIPMENT PURCHASE ORDER\nConfirmed October 22, 2026\nOrder: eight insulated crates of demonstration materials, customs documentation, cold-chain handling, and cargo insurance.\nApproved budget for the first invoice: $1,400.\nOrder status: CONFIRMED — eight crates. No express-clearance service included.\n\nIMPORT DOCUMENT LOG\nOctober 29, 11:00 A.M.: Commercial invoice and packing list uploaded; import permit missing.\nNovember 2, 10:00 A.M.: Import permit received and complete document package confirmed by the broker.\nNote: An automated portal receipt confirms upload only; it does not establish that the package was complete.\n\n用途：參考文件\n\n### Broker and Customer Email Thread — November 3, 2026\n\n> From: Nia Chen, Customs Broker\nDate: Tuesday, November 3, 2026, 8:20 A.M.\nSubject: Eastmere shipment — revised clearance estimate\nThe missing permit arrived yesterday at 10 A.M. Customs may release the shipment on Thursday, November 5, but that estimate is provisional. Delivery on November 4 is no longer realistic. Because the complete documentation was received after the October 30 deadline, the contractual $80 late-delivery credit does not automatically apply. The customer may request an exception, but no waiver has been approved.\n\nFrom: Owen Reed, Eastmere Labs\nDate: Tuesday, November 3, 2026, 9:05 A.M.\nSubject: Re: revised clearance estimate\nCould you reduce the order to seven crates and add the $45 express-clearance option? Our budget remains $1,400. Please do not activate any extra-cost service until Finance authorizes it.\n\nFrom: Mina Shah, Arbor Freight\nDate: Tuesday, November 3, 2026, 9:30 A.M.\nSubject: Re: revised clearance estimate\nWe have recorded the request but have NOT accepted a quantity change or activated express clearance. The original cancellation deadline was not amended. I can ask Finance about the extra charge, but the existing eight-crate order remains in force until any change is accepted in writing.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Updated handling of international delivery discrepancies\n> \n> Beginning November 9, customers who report missing or damaged items must use the claims portal. [1] _____ Each submission receives a case number and a checklist of supporting documents.\n> \n> Customers should upload photographs of the outer packaging and the delivery label within three business days. If additional evidence is needed, they [2] _____ by the claims team through the portal.\n> \n> A delivery delay alone does not establish eligibility for compensation. [3] _____ The claims team must also verify that the customer's documents were submitted by the contractual deadline.\n> \n> Please keep the original packaging until the investigation is closed. [4] _____ This helps the inspector assess whether damage occurred during transport."
+    },
+    {
+      "title": "⑨ Day 49 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 46、Day 47、Day 48**。\n\n### 複習重點\n- **Day 46：跨部門核准**：辨認物流提出加急方案與財務核准之間的差異，說明哪個狀態可計入正式帳單。\n- **Day 47：例外資格**：比較原截止日與只對特定受影響者開放的延長期限。\n- **Day 48：合約修訂**：分別指出被新通知改動的條款，以及仍有效的原條款。\n- **Day 49：立場轉變**：從客服「無法直接豁免」到「可考慮條件性抵用額」的變化中，辨認所有核准條件。\n\n### 錯題標籤\n- `DETAIL`：明示細節\n- `IMPLICATION`：言外之意\n- `STANCE_CHANGE`：立場改變\n- `CONDITION`：條件判斷\n- `APPROVAL`：書面／主管核准\n- `NEXT_ACTION`：下一步行動\n- `CAUSE`：原因辨識\n- `DEADLINE`：期限辨識\n- `TIME`：時間資訊\n- `UNCERTAINTY`：尚未確定\n- `FALLBACK`：備用方案\n- `DATE`：日期資訊\n- `COMPARISON`：比較辨識\n- `EXCEPTION`：例外條款\n- `INSTRUCTION`：指示辨識\n- `CALC`：數字計算\n- `DISCOUNT`：折扣門檻\n- `INVOICE`：帳單整合\n- `BUDGET`：預算餘額\n- `INTEGRATION`：跨文件整合\n- `STATUS`：目前有效狀態\n- `POLICY`：政策條款\n- `INFERENCE`：推論\n- `WORD_FORM`：詞性選擇\n- `CONCESSION`：讓步關係\n- `INVERSION`：倒裝句\n- `PASSIVE`：被動語態\n- `CONJUNCTION`：連接詞\n- `VERB_PATTERN`：動詞句型\n- `PREPOSITION`：介系詞\n- `GERUND`：動名詞\n- `CONTRAST`：對比\n- `TIME_CLAUSE`：時間子句\n- `SUBJUNCTIVE`：要求式假設語氣\n- `PERFECT_PASSIVE`：完成被動\n- `WORD_ORDER`：語序\n- `RELATIVE_CLAUSE`：關係子句\n- `GRAMMAR`：文法\n- `INDIRECT_QUESTION`：間接問句\n- `NOUN_CLAUSE`：名詞子句\n- `COLLOCATION`：固定搭配\n- `SEQUENCE`：順序\n- `COUNTERFACTUAL`：反事實假設\n- `COHESION`：篇章銜接\n- `PURPOSE`：目的\n- `TENSE`：時態\n- `REFERENCE`：代名詞指涉\n- `UPDATE`：資訊更新\n- `ELIGIBILITY`：適用資格"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 30 個單字複習兩輪，選 consignee、manifest、waiver、provisional 等 8 個寫出商務例句。\n- Listening 三組先不看逐字稿作答，再以 1.1 倍 TTS 複聽，標記立場轉變與不確定性。\n- Reading 八題限時 12 分鐘，標出文件期限、正式訂單、尚未核准的變更與抵用額條件。\n- 重算 $1,365.80 現有帳單、$34.20 預算餘額，以及選配後 $1,410.80。\n- Part 5 限時 4 分鐘、Part 6 限時 3 分鐘，寫出每題判斷線索。\n- 正式小考 12 題首次限時 6 分鐘，記錄 answers、score、durationSeconds、submittedAt、errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "consignment",
+      "meaning": "託運貨物",
+      "phrase": "track a consignment"
+    },
+    {
+      "id": 2,
+      "word": "consignee",
+      "meaning": "收貨人",
+      "phrase": "notify the consignee"
+    },
+    {
+      "id": 3,
+      "word": "consignor",
+      "meaning": "託運人",
+      "phrase": "contact the consignor"
+    },
+    {
+      "id": 4,
+      "word": "customs clearance",
+      "meaning": "通關",
+      "phrase": "obtain customs clearance"
+    },
+    {
+      "id": 5,
+      "word": "declaration",
+      "meaning": "申報文件",
+      "phrase": "file a customs declaration"
+    },
+    {
+      "id": 6,
+      "word": "tariff",
+      "meaning": "關稅稅率",
+      "phrase": "review the tariff"
+    },
+    {
+      "id": 7,
+      "word": "brokerage",
+      "meaning": "報關服務",
+      "phrase": "brokerage service"
+    },
+    {
+      "id": 8,
+      "word": "manifest",
+      "meaning": "貨物清單",
+      "phrase": "check the cargo manifest"
+    },
+    {
+      "id": 9,
+      "word": "waybill",
+      "meaning": "運單",
+      "phrase": "issue an air waybill"
+    },
+    {
+      "id": 10,
+      "word": "bill of lading",
+      "meaning": "提單",
+      "phrase": "review the bill of lading"
+    },
+    {
+      "id": 11,
+      "word": "transshipment",
+      "meaning": "轉運",
+      "phrase": "arrange transshipment"
+    },
+    {
+      "id": 12,
+      "word": "consolidate",
+      "meaning": "併貨、整合",
+      "phrase": "consolidate shipments"
+    },
+    {
+      "id": 13,
+      "word": "expedite",
+      "meaning": "加速處理",
+      "phrase": "expedite clearance"
+    },
+    {
+      "id": 14,
+      "word": "hold",
+      "meaning": "扣留、暫停",
+      "phrase": "place a shipment on hold"
+    },
+    {
+      "id": 15,
+      "word": "release",
+      "meaning": "放行",
+      "phrase": "authorize release"
+    },
+    {
+      "id": 16,
+      "word": "proof of delivery",
+      "meaning": "送達證明",
+      "phrase": "request proof of delivery"
+    },
+    {
+      "id": 17,
+      "word": "discrepancy",
+      "meaning": "不符之處",
+      "phrase": "resolve a discrepancy"
+    },
+    {
+      "id": 18,
+      "word": "shortage",
+      "meaning": "短少",
+      "phrase": "report a shortage"
+    },
+    {
+      "id": 19,
+      "word": "damage assessment",
+      "meaning": "損壞鑑定",
+      "phrase": "complete a damage assessment"
+    },
+    {
+      "id": 20,
+      "word": "compensation",
+      "meaning": "補償",
+      "phrase": "claim compensation"
+    },
+    {
+      "id": 21,
+      "word": "indemnity",
+      "meaning": "賠償保障",
+      "phrase": "indemnity provision"
+    },
+    {
+      "id": 22,
+      "word": "deductible",
+      "meaning": "自負額",
+      "phrase": "insurance deductible"
+    },
+    {
+      "id": 23,
+      "word": "liability",
+      "meaning": "責任",
+      "phrase": "limit carrier liability"
+    },
+    {
+      "id": 24,
+      "word": "exclusion",
+      "meaning": "除外條款",
+      "phrase": "policy exclusion"
+    },
+    {
+      "id": 25,
+      "word": "waiver",
+      "meaning": "豁免",
+      "phrase": "request a waiver"
+    },
+    {
+      "id": 26,
+      "word": "reimburse",
+      "meaning": "償還費用",
+      "phrase": "reimburse an expense"
+    },
+    {
+      "id": 27,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "express-clearance surcharge"
+    },
+    {
+      "id": 28,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional arrival time"
+    },
+    {
+      "id": 29,
+      "word": "contingent",
+      "meaning": "取決於條件的",
+      "phrase": "contingent on inspection"
+    },
+    {
+      "id": 30,
+      "word": "reconcile",
+      "meaning": "核對",
+      "phrase": "reconcile an invoice"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Damage Claim — Change of Position and Conditional Credit",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How does the agent’s position change during the conversation?",
+          "options": {
+            "A": "She agrees to waive all fees immediately.",
+            "B": "She offers a possible exception after learning about the damaged boxes.",
+            "C": "She decides the customer must purchase new monitors.",
+            "D": "She transfers the claim to the courier without reviewing it."
+          },
+          "answer": "B",
+          "explanation": "客服一開始依標準政策無法直接免除費用；得知外箱受損後，提出可能的單次 $35 抵用額，但需條件成立。"
+        },
+        {
+          "id": 2,
+          "prompt": "What must happen before the $35 credit can be approved?",
+          "options": {
+            "A": "The customer must pay the courier again.",
+            "B": "The monitors must be returned by noon.",
+            "C": "Photos must arrive by 3 P.M., damage on arrival must be confirmed, and a supervisor must approve.",
+            "D": "The customer must buy an extended warranty."
+          },
+          "answer": "C",
+          "explanation": "照片需下午三點前寄達，檢驗確認到貨時受損，並由主管核准；寄照片本身不構成保證。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the customer most likely do next?",
+          "options": {
+            "A": "Send photographs and retain the packaging.",
+            "B": "Discard the damaged boxes immediately.",
+            "C": "Cancel the inspection appointment.",
+            "D": "Request a refund from the bank."
+          },
+          "answer": "A",
+          "explanation": "顧客最後說會寄送照片並保留包裝。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Customs Release — Flight Hold and Backup",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the Monday morning flight no longer possible?",
+          "options": {
+            "A": "The temperature logger has failed.",
+            "B": "The airline has canceled every flight.",
+            "C": "The warehouse has no packing materials.",
+            "D": "The required import permit is not yet available."
+          },
+          "answer": "D",
+          "explanation": "進口許可證預計週一中午才取得，無法搭乘週一上午九點航班。"
+        },
+        {
+          "id": 2,
+          "prompt": "By when must customs release be confirmed to retain the Tuesday flight space?",
+          "options": {
+            "A": "Monday at noon.",
+            "B": "Monday at 4 P.M.",
+            "C": "Tuesday at 9 A.M.",
+            "D": "Tuesday at 2 P.M."
+          },
+          "answer": "B",
+          "explanation": "承運商要求週一下午四點前確認海關放行，才可保留週二下午兩點機位。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the manager ask the coordinator to do?",
+          "options": {
+            "A": "Pay the express surcharge.",
+            "B": "Confirm the Wednesday flight immediately.",
+            "C": "Temporarily hold Tuesday’s space and seek a broker update at 3 P.M. Monday.",
+            "D": "Begin loading without the logger."
+          },
+          "answer": "C",
+          "explanation": "主管要求先暫時保留週二機位，週一下午三點詢問報關行，尚不可正式確認。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is implied about the Wednesday flight?",
+          "options": {
+            "A": "It is only a fallback if customs clearance is delayed.",
+            "B": "It is already confirmed for all shipments.",
+            "C": "It departs before Tuesday’s option.",
+            "D": "It requires no customs documents."
+          },
+          "answer": "A",
+          "explanation": "週三上午十一點只是備援選項，並非正式改期確認。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Claims Hotline — Processing Time and Exceptions",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When will the temporary claims-desk hours be in effect?",
+          "options": {
+            "A": "October 29 through October 30.",
+            "B": "November 1 through November 3.",
+            "C": "November 2 through November 6.",
+            "D": "November 9 through November 13."
+          },
+          "answer": "C",
+          "explanation": "公告指出週一 11/2 至週五 11/6，08:00–18:00。"
+        },
+        {
+          "id": 2,
+          "prompt": "How long may an international repair estimate take after inspection?",
+          "options": {
+            "A": "One calendar day.",
+            "B": "Up to five business days.",
+            "C": "Exactly two business days.",
+            "D": "Ten calendar days."
+          },
+          "answer": "B",
+          "explanation": "國際維修估價最多五個工作天；兩個工作天是國內案件。"
+        },
+        {
+          "id": 3,
+          "prompt": "Who can approve an emergency replacement?",
+          "options": {
+            "A": "The telephone agent.",
+            "B": "The courier driver.",
+            "C": "The website administrator.",
+            "D": "The claims team."
+          },
+          "answer": "D",
+          "explanation": "緊急替換須由理賠／申訴團隊核准，電話客服不能授權。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should a customer do if no prepaid return label has been received?",
+          "options": {
+            "A": "Wait and avoid shipping the item for now.",
+            "B": "Mail the item without tracking.",
+            "C": "Use another customer’s return label.",
+            "D": "Send the item directly to the safety desk."
+          },
+          "answer": "A",
+          "explanation": "公告明確要求未收到預付退貨標籤前先不要寄出商品。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Cross-Border Shipment Terms, Import Documents and Provisional Customs Release",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the discounted base freight subtotal for the confirmed shipment?",
+          "options": {
+            "A": "$1,020.80",
+            "B": "$1,160.00",
+            "C": "$1,065.80",
+            "D": "$1,365.80"
+          },
+          "answer": "A",
+          "explanation": "8 × $145 = $1,160；八箱符合 12% 折扣，$1,160 × 0.88 = $1,020.80。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is the total amount of the currently confirmed first invoice?",
+          "options": {
+            "A": "$1,320.80",
+            "B": "$1,365.80",
+            "C": "$1,410.80",
+            "D": "$1,435.00"
+          },
+          "answer": "B",
+          "explanation": "$1,020.80 + $95 + $180 + $70 = $1,365.80；尚未核准的加急費不可計入。"
+        },
+        {
+          "id": 3,
+          "prompt": "How much of the approved budget remains under the current order?",
+          "options": {
+            "A": "$10.80",
+            "B": "$45.00",
+            "C": "$34.20",
+            "D": "$80.00"
+          },
+          "answer": "C",
+          "explanation": "$1,400 − $1,365.80 = $34.20。"
+        },
+        {
+          "id": 4,
+          "prompt": "If the $45 express-clearance service were authorized without any other changes, what would the new total be?",
+          "options": {
+            "A": "$1,365.80",
+            "B": "$1,390.80",
+            "C": "$1,400.00",
+            "D": "$1,410.80"
+          },
+          "answer": "D",
+          "explanation": "$1,365.80 + $45 = $1,410.80，超出預算 $10.80；此為假設核准後金額，非現有帳單。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why does the shipment not automatically qualify for the $80 late-delivery credit?",
+          "options": {
+            "A": "The complete import documents were confirmed after October 30 at 3 P.M.",
+            "B": "The order contains fewer than eight crates.",
+            "C": "The customer refused cargo insurance.",
+            "D": "The credit is available only for domestic shipments."
+          },
+          "answer": "A",
+          "explanation": "進口許可證直到 11/2 10:00 才補齊，晚於 10/30 15:00；因此即使延遲送達，也不自動符合抵用額資格。"
+        },
+        {
+          "id": 6,
+          "prompt": "Which statement best describes the current status of the shipment?",
+          "options": {
+            "A": "Seven crates have been confirmed.",
+            "B": "Eight crates remain confirmed; the reduction request is pending.",
+            "C": "Express clearance has already been activated.",
+            "D": "The entire shipment has been canceled."
+          },
+          "answer": "B",
+          "explanation": "原訂八箱仍有效，七箱變更僅被記錄、尚未書面接受；加急服務也未啟用。"
+        },
+        {
+          "id": 7,
+          "prompt": "What was the original deadline for submitting a cancellation request?",
+          "options": {
+            "A": "October 30 at 3 P.M.",
+            "B": "October 30 at 5 P.M.",
+            "C": "October 30 at noon.",
+            "D": "November 3 at 9:30 A.M."
+          },
+          "answer": "C",
+          "explanation": "取消申請原期限是 10/30 12:00；不可與文件 15:00、數量變更 17:00 混淆。"
+        },
+        {
+          "id": 8,
+          "prompt": "What can be inferred about the broker’s November 5 estimate?",
+          "options": {
+            "A": "It guarantees delivery by November 5.",
+            "B": "It is an approved replacement for the cancellation deadline.",
+            "C": "It means customs has already released the shipment.",
+            "D": "It is provisional and depends on customs clearance."
+          },
+          "answer": "D",
+          "explanation": "信件說 customs may release on Nov 5，且 estimate is provisional，表示尚未保證放行或送達。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Notwithstanding the unexpected customs delay, the payment terms will remain _____.",
+          "options": {
+            "A": "effect",
+            "B": "effective",
+            "C": "effectively",
+            "D": "effectiveness"
+          },
+          "answer": "B",
+          "explanation": "remain 後需形容詞 effective，表示條款仍有效。"
+        },
+        {
+          "id": 2,
+          "prompt": "Only after the broker submitted the permit _____ the shipment released.",
+          "options": {
+            "A": "was",
+            "B": "it was",
+            "C": "did",
+            "D": "has"
+          },
+          "answer": "A",
+          "explanation": "Only after 置首造成主句倒裝；被動語態用 was the shipment released。"
+        },
+        {
+          "id": 3,
+          "prompt": "The inspection fee is payable _____ the shipment is released on schedule.",
+          "options": {
+            "A": "despite",
+            "B": "unless",
+            "C": "whether or not",
+            "D": "because of"
+          },
+          "answer": "C",
+          "explanation": "whether or not + 子句表示不論是否準時放行都須付費。"
+        },
+        {
+          "id": 4,
+          "prompt": "The manager would rather _____ for written approval than authorize an unbudgeted fee.",
+          "options": {
+            "A": "waiting",
+            "B": "waited",
+            "C": "to wait",
+            "D": "wait"
+          },
+          "answer": "D",
+          "explanation": "would rather + 原形動詞 wait，than 後也可接原形。"
+        },
+        {
+          "id": 5,
+          "prompt": "The completed import declaration must arrive no _____ than 3 P.M. on Friday.",
+          "options": {
+            "A": "later",
+            "B": "late",
+            "C": "latest",
+            "D": "lately"
+          },
+          "answer": "A",
+          "explanation": "固定片語 no later than 表示最晚期限。"
+        },
+        {
+          "id": 6,
+          "prompt": "The consignee is responsible _____ submitting the import permit.",
+          "options": {
+            "A": "to",
+            "B": "for",
+            "C": "at",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "固定搭配 be responsible for + V-ing。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ the shipment was insured, the policy excluded damage caused by improper packing.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Although",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "後面是完整子句，使用 Although；Despite/In spite of 後需名詞或動名詞。"
+        },
+        {
+          "id": 8,
+          "prompt": "The invoice will be revised once the quantity change _____ in writing.",
+          "options": {
+            "A": "will accept",
+            "B": "has accepting",
+            "C": "accept",
+            "D": "is accepted"
+          },
+          "answer": "D",
+          "explanation": "once 未來時間子句使用現在式；變更「被接受」用 is accepted。"
+        },
+        {
+          "id": 9,
+          "prompt": "The customs officer requested that the corrected manifest _____ immediately.",
+          "options": {
+            "A": "be submitted",
+            "B": "is submitted",
+            "C": "was submitted",
+            "D": "submitting"
+          },
+          "answer": "A",
+          "explanation": "request that + 主詞 + 原形動詞；被動為 be submitted。"
+        },
+        {
+          "id": 10,
+          "prompt": "The broker sent a second reminder because the required certificate had not _____ received.",
+          "options": {
+            "A": "yet been",
+            "B": "been yet",
+            "C": "yet",
+            "D": "being"
+          },
+          "answer": "A",
+          "explanation": "過去完成被動為 had not yet been received。"
+        },
+        {
+          "id": 11,
+          "prompt": "The carrier will reimburse only those expenses _____ were approved in advance.",
+          "options": {
+            "A": "who",
+            "B": "that",
+            "C": "whose",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "先行詞 expenses 為物，關係代名詞 that 作主詞。"
+        },
+        {
+          "id": 12,
+          "prompt": "The customer asked _____ the express-clearance option would affect the original insurance coverage.",
+          "options": {
+            "A": "that",
+            "B": "what",
+            "C": "whether",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "間接疑問句「是否」用 whether，後接陳述語序。"
+        },
+        {
+          "id": 13,
+          "prompt": "The revised arrival estimate is _____ on customs releasing the cargo by Thursday.",
+          "options": {
+            "A": "contingency",
+            "B": "contingently",
+            "C": "contingent upon to",
+            "D": "contingent"
+          },
+          "answer": "D",
+          "explanation": "be contingent on 表示取決於；句中後接 on。"
+        },
+        {
+          "id": 14,
+          "prompt": "The finance team will review the surcharge _____ the broker confirms the final amount.",
+          "options": {
+            "A": "as soon as",
+            "B": "in spite of",
+            "C": "regardless of",
+            "D": "owing to"
+          },
+          "answer": "A",
+          "explanation": "as soon as + 子句，表示報關行確認金額後即審核。"
+        },
+        {
+          "id": 15,
+          "prompt": "Had the import permit been submitted on time, the customer _____ eligible for the delay credit, provided the carrier also missed the deadline.",
+          "options": {
+            "A": "will have been",
+            "B": "might have been",
+            "C": "is",
+            "D": "would be"
+          },
+          "answer": "B",
+          "explanation": "過去反事實條件：Had ... been submitted，結果用 might have been；仍須符合承運商延誤條件。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "The previous email-only process made it difficult to match evidence with individual claims.",
+            "B": "Our sales team has expanded its showroom opening hours.",
+            "C": "The company will stop offering international deliveries next month.",
+            "D": "The new product catalog will be printed in December."
+          },
+          "answer": "A",
+          "explanation": "前句改用 portal，後句有案件編號與文件清單，A 說明舊 email 流程難追蹤的原因，語意最連貫。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which phrase best completes blank [2]?",
+          "options": {
+            "A": "have notified",
+            "B": "will be notified",
+            "C": "notifying",
+            "D": "were notify"
+          },
+          "answer": "B",
+          "explanation": "If additional evidence is needed，客戶將「被通知」；未來被動 will be notified。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which sentence best completes blank [3]?",
+          "options": {
+            "A": "The office cafeteria accepts credit cards.",
+            "B": "All customers will receive a refund without inspection.",
+            "C": "For example, a shipment may arrive late because customs is waiting for missing import paperwork.",
+            "D": "The new brochure is available in three languages."
+          },
+          "answer": "C",
+          "explanation": "前句說單純延誤不足以取得補償，後句要求核實文件期限；C 的海關缺件例子連接兩者。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "It is acceptable to discard the box immediately.",
+            "B": "The customer should contact the airline about seat assignments.",
+            "C": "No photographs are necessary for a damage claim.",
+            "D": "Do not remove shipping labels or protective inserts before taking photographs."
+          },
+          "answer": "D",
+          "explanation": "保留包裝後接 This helps the inspector，D 提供具體保存標籤與防護材料的作法，指涉清楚。"
+        }
+      ]
+    },
+    {
+      "id": "day-49-quiz",
+      "title": "Day 49 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Notwithstanding the delay, the original insurance policy remains _____.",
+          "options": {
+            "A": "effectively",
+            "B": "effective",
+            "C": "effect",
+            "D": "effectiveness"
+          },
+          "answer": "B",
+          "explanation": "remain 後用形容詞 effective；notwithstanding + 名詞表示儘管。"
+        },
+        {
+          "id": 2,
+          "prompt": "Only after the documents were verified _____ the broker authorize release.",
+          "options": {
+            "A": "the broker did",
+            "B": "the broker",
+            "C": "did",
+            "D": "does"
+          },
+          "answer": "C",
+          "explanation": "Only after 置首，主句用 did + 主詞 + 原形動詞；過去情境選 did。"
+        },
+        {
+          "id": 3,
+          "prompt": "The manager would rather _____ for approval than pay the fee immediately.",
+          "options": {
+            "A": "wait",
+            "B": "waiting",
+            "C": "to wait",
+            "D": "waited"
+          },
+          "answer": "A",
+          "explanation": "would rather + 原形動詞 wait。"
+        },
+        {
+          "id": 4,
+          "prompt": "The revised form must be submitted no _____ than Friday at noon.",
+          "options": {
+            "A": "late",
+            "B": "latest",
+            "C": "lately",
+            "D": "later"
+          },
+          "answer": "D",
+          "explanation": "no later than 表示最晚期限。"
+        },
+        {
+          "id": 5,
+          "prompt": "What does the agent imply about Monday delivery?",
+          "options": {
+            "A": "It is guaranteed if the customer pays immediately.",
+            "B": "It is not guaranteed because customs has not released the shipment.",
+            "C": "It was canceled by the customer.",
+            "D": "It will happen before the inspection."
+          },
+          "answer": "B",
+          "explanation": "客服可以申請優先檢查，但海關尚未放行，因此無法保證週一到貨。"
+        },
+        {
+          "id": 6,
+          "prompt": "What will the agent do before the customer pays the priority fee?",
+          "options": {
+            "A": "Cancel the order.",
+            "B": "Issue a prepaid return label.",
+            "C": "Wait for Finance authorization and send an email.",
+            "D": "Book a second shipment."
+          },
+          "answer": "C",
+          "explanation": "客服說財務必須先核准，審核後才會寄 email。"
+        },
+        {
+          "id": 7,
+          "prompt": "When will the tracking portal be unavailable?",
+          "options": {
+            "A": "Thursday, November 5, from 6 to 8 P.M.",
+            "B": "Wednesday, November 4, from 6 to 8 A.M.",
+            "C": "Thursday, November 5, from 8 to 10 P.M.",
+            "D": "Friday, November 6, from 6 to 8 P.M."
+          },
+          "answer": "A",
+          "explanation": "公告明確指出 11/5（週四）18:00–20:00。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is true about new pickup requests made by phone during the outage?",
+          "options": {
+            "A": "They will be rejected automatically.",
+            "B": "They will be confirmed immediately.",
+            "C": "They will require an express-service surcharge.",
+            "D": "They can be submitted, but confirmation comes after restoration."
+          },
+          "answer": "D",
+          "explanation": "可電話提出新取件要求，但系統恢復後才會收到確認。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the quoted total before any optional priority fee?",
+          "options": {
+            "A": "$729",
+            "B": "$834",
+            "C": "$850",
+            "D": "$859"
+          },
+          "answer": "B",
+          "explanation": "6 × $135 = $810；折扣 10% 後 $729；加 $65 與 $40 = $834。"
+        },
+        {
+          "id": 10,
+          "prompt": "How much budget remains under the standard quote?",
+          "options": {
+            "A": "$9",
+            "B": "$25",
+            "C": "$16",
+            "D": "$21"
+          },
+          "answer": "C",
+          "explanation": "$850 − $834 = $16；選配 $25 尚未核准，不列入標準報價。"
+        },
+        {
+          "id": 11,
+          "prompt": "Who qualifies for the November 6 claims deadline?",
+          "options": {
+            "A": "Customers who attempted submission during the October 27 outage and received an error notice.",
+            "B": "All customers who placed orders in October.",
+            "C": "Only customers who paid the optional priority fee.",
+            "D": "Anyone who received an acknowledgment email."
+          },
+          "answer": "A",
+          "explanation": "新期限只適用於 10/27 系統中斷時嘗試提交且收到錯誤通知者。"
+        },
+        {
+          "id": 12,
+          "prompt": "What does a claim acknowledgment indicate?",
+          "options": {
+            "A": "Reimbursement has been approved.",
+            "B": "The customer may ignore the deadline.",
+            "C": "The shipment has cleared customs.",
+            "D": "The claim was received, but reimbursement is not yet approved."
+          },
+          "answer": "D",
+          "explanation": "Acknowledgment 只代表收悉，不能推論補償已核准。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "熟悉跨境物流、通關、補償與保險 30 個核心字彙；掌握 notwithstanding、Only after 倒裝、whether or not 與 would rather；Listening 辨識說話者立場轉變、暫定航班與服務例外。",
+  "nextDay": "物流索賠證據鏈、跨文件補償決策、Listening 立場修正與 Part 7 高階推論"
+}
