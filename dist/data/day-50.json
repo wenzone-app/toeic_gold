@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 50,
+  "title": "物流索賠證據鏈、補償決策與 Listening 立場修正",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "使用者提供的 Day 50 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 50 學習概覽",
+      "markdown": "- 掌握物流索賠、責任認定與補償相關字彙\n- 複習倒裝、要求式假設語氣與過去反事實條件句\n- 辨認 Listening 中 under review、conditional approval 與 next action\n- 整合 Triple Passage 中的證據、責任、費用豁免與下一張發票抵用額\n- 強化 Part 6 流程銜接與新舊規則判讀\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| evidence | 證據 | supporting evidence |\n| documentation | 文件資料 | complete documentation |\n| claimant | 申請人 | eligible claimant |\n| carrier | 承運商 | shipping carrier |\n| custody | 保管責任 | chain of custody |\n| tamper | 竄改 | tamper with a package |\n| sealed | 密封的 | sealed container |\n| inspection | 檢驗 | inspection report |\n| assessment | 評估 | damage assessment |\n| liability | 責任 | carrier liability |\n| exclusion | 除外條款 | policy exclusion |\n| deductible | 自負額 | insurance deductible |\n| reimburse | 償還 | reimburse expenses |\n| settlement | 理賠結算 | claim settlement |\n| compensation | 補償 | claim compensation |\n| substantiated | 有充分證據支持的 | substantiated claim |\n| dispute | 爭議 | billing dispute |\n| appeal | 申訴 | file an appeal |\n| escalation | 升級處理 | escalation path |\n| resolution | 解決 | final resolution |\n| warehouse | 倉庫 | warehouse record |\n| handover | 交接 | handover record |\n| signature | 簽名 | delivery signature |\n| timestamp | 時間戳記 | system timestamp |\n| photographic | 照片的 | photographic evidence |\n| corroborate | 佐證 | corroborate a statement |\n| invalidate | 使失效 | invalidate a claim |\n| pending | 待處理的 | pending review |\n| waiver | 豁免 | fee waiver |\n| provisional | 暫定的 | provisional decision |"
+    },
+    {
+      "title": "② 今日文法｜Only after 倒裝、要求式假設語氣、過去反事實條件句、未來時間子句、主詞一致",
+      "markdown": "主題：**Only after 倒裝、要求式假設語氣、過去反事實條件句、未來時間子句、主詞一致**\n\n### 規則 1｜Only after 倒裝\n\nOnly after 置於句首時，主句使用助動詞倒裝。\n\n> Only after the inspection ended did the carrier accept liability.\n\n### 規則 2｜要求式假設語氣\n\nrecommend/request/insist + that + S + 原形動詞；被動為 be + p.p.\n\n> The supervisor recommended that the item be inspected again.\n\n### 規則 3｜過去反事實條件句\n\nHad + S + p.p., S + would have + p.p.\n\n> Had the customer discarded the packaging, the investigation would have been harder.\n\n### 規則 4｜未來時間子句\n\nas soon as / once / when 引導未來時間子句時用現在式。\n\n> We will ship the replacement as soon as the warehouse confirms the address.\n\n### 規則 5｜主詞一致\n\ntogether with 不改變主要主詞的單複數。\n\n> The receipt, together with the photographs, is attached."
+    },
+    {
+      "title": "03 Listening｜Damage Claim Evidence",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Customer: I uploaded the photos yesterday. Can the claim be approved now? Agent: The photos help, but the warehouse handover record still shows the cartons as undamaged. We need the carrier's delivery scan before we can make a final decision. Customer: So the claim was rejected? Agent: Not at all. It is still under review. If the scan shows damage at delivery, the inspection fee may be waived. Customer: What should I do now? Agent: Keep the original packaging and do not return anything until we send written instructions."
+    },
+    {
+      "title": "04 Listening｜Replacement Shipping Options",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: The replacement parts must arrive by ten fifteen Tuesday morning. We also need signature confirmation and insurance. The shipping budget is one hundred sixty dollars. Man: Option A arrives too late. Option B has no signature confirmation, and Option D has no insurance. Woman: Then Option C is the only one that meets all requirements. Please book it and email the tracking number to the client."
+    },
+    {
+      "title": "05 Listening｜Claim Portal Update",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, customers. The claims portal will undergo maintenance on Thursday from 6 P.M. to 9 P.M. Claims already submitted will remain in the system. Customers whose filing deadline falls on Thursday may submit supporting documents until Friday at noon. This extension applies only to documents that could not be uploaded during the maintenance window. Automatic reminders may still show the original deadline."
+    },
+    {
+      "title": "⑥ Reading｜Cargo Damage Claim Evidence and Compensation",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Cargo Damage Claim Policy\n\n> A claim for damaged cargo must include a delivery receipt, photographs of the outer packaging, and an inspection report. Claims submitted within five calendar days of delivery are eligible for standard review. If damage is documented at the time of delivery, the inspection fee may be waived. A $120 compensation credit is available only when carrier liability is confirmed. Credits are applied to the next invoice, not the current one.\n\n用途：參考文件\n\n### Shipment Record\n\n> Seaview Components received a shipment on November 3. The delivery receipt was signed at 10:12 A.M. and noted that two cartons were crushed. Photographs were uploaded on November 4. The inspection report, completed November 5, confirmed damage to four units. Seaview submitted its claim on November 6. The current invoice total is $1,460.\n\n用途：參考文件\n\n### Carrier Review Update\n\n> The carrier confirms that the cartons were damaged before handover to Seaview Components. Liability is therefore accepted. The inspection fee will be waived, and a $120 compensation credit will appear on the next invoice. The current invoice remains $1,460. Seaview does not need to resubmit the claim. A replacement shipment is scheduled for November 9.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Revised Claim Evidence Procedure\n> \n> Beginning Monday, customers reporting damaged deliveries must upload both package photographs and the signed delivery receipt through the claims portal.\n> \n> [1] _____\n> \n> If any required document is missing, the claim [2] _____ as incomplete and the customer will receive an email notice.\n> \n> Claims already accepted before Monday do not need to be resubmitted. [3] _____, any new evidence added after Monday must be uploaded through the portal rather than sent by email.\n> \n> Customers should keep the original packaging until the investigation is complete.\n> \n> [4] _____"
+    },
+    {
+      "title": "⑨ Day 50 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 47、Day 48、Day 49**。\n\n### 複習重點\n- Requested ≠ Approved\n- Provisional ≠ Confirmed\n- Carrier liability 與 compensation qualification\n- Current invoice 與 next invoice credit 的區分\n- Listening 中 under review 與 rejected 的差異\n\n### 錯題標籤\n- `G`：Grammar\n- `INV`：Inversion\n- `SUBJ`：Subjunctive\n- `TIME`：Timeline/Time Clause\n- `COND`：Conditional\n- `L`：Listening\n- `DETAIL`：Key Detail\n- `IMP`：Implication\n- `I`：Information Integration\n- `BUD`：Budget Constraint\n- `E`：Exception\n- `U`：Updated Information\n- `T`：Timeline"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個商務句子。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒。\n- Part 6 4 題重做，說明每題的上下文邏輯。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿。\n- 重新整理 Seaview claim 的證據鏈：delivery receipt → photos → inspection → carrier liability → waiver/credit。\n- Day 50 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "evidence",
+      "meaning": "證據",
+      "phrase": "supporting evidence"
+    },
+    {
+      "id": 2,
+      "word": "documentation",
+      "meaning": "文件資料",
+      "phrase": "complete documentation"
+    },
+    {
+      "id": 3,
+      "word": "claimant",
+      "meaning": "申請人",
+      "phrase": "eligible claimant"
+    },
+    {
+      "id": 4,
+      "word": "carrier",
+      "meaning": "承運商",
+      "phrase": "shipping carrier"
+    },
+    {
+      "id": 5,
+      "word": "custody",
+      "meaning": "保管責任",
+      "phrase": "chain of custody"
+    },
+    {
+      "id": 6,
+      "word": "tamper",
+      "meaning": "竄改",
+      "phrase": "tamper with a package"
+    },
+    {
+      "id": 7,
+      "word": "sealed",
+      "meaning": "密封的",
+      "phrase": "sealed container"
+    },
+    {
+      "id": 8,
+      "word": "inspection",
+      "meaning": "檢驗",
+      "phrase": "inspection report"
+    },
+    {
+      "id": 9,
+      "word": "assessment",
+      "meaning": "評估",
+      "phrase": "damage assessment"
+    },
+    {
+      "id": 10,
+      "word": "liability",
+      "meaning": "責任",
+      "phrase": "carrier liability"
+    },
+    {
+      "id": 11,
+      "word": "exclusion",
+      "meaning": "除外條款",
+      "phrase": "policy exclusion"
+    },
+    {
+      "id": 12,
+      "word": "deductible",
+      "meaning": "自負額",
+      "phrase": "insurance deductible"
+    },
+    {
+      "id": 13,
+      "word": "reimburse",
+      "meaning": "償還",
+      "phrase": "reimburse expenses"
+    },
+    {
+      "id": 14,
+      "word": "settlement",
+      "meaning": "理賠結算",
+      "phrase": "claim settlement"
+    },
+    {
+      "id": 15,
+      "word": "compensation",
+      "meaning": "補償",
+      "phrase": "claim compensation"
+    },
+    {
+      "id": 16,
+      "word": "substantiated",
+      "meaning": "有充分證據支持的",
+      "phrase": "substantiated claim"
+    },
+    {
+      "id": 17,
+      "word": "dispute",
+      "meaning": "爭議",
+      "phrase": "billing dispute"
+    },
+    {
+      "id": 18,
+      "word": "appeal",
+      "meaning": "申訴",
+      "phrase": "file an appeal"
+    },
+    {
+      "id": 19,
+      "word": "escalation",
+      "meaning": "升級處理",
+      "phrase": "escalation path"
+    },
+    {
+      "id": 20,
+      "word": "resolution",
+      "meaning": "解決",
+      "phrase": "final resolution"
+    },
+    {
+      "id": 21,
+      "word": "warehouse",
+      "meaning": "倉庫",
+      "phrase": "warehouse record"
+    },
+    {
+      "id": 22,
+      "word": "handover",
+      "meaning": "交接",
+      "phrase": "handover record"
+    },
+    {
+      "id": 23,
+      "word": "signature",
+      "meaning": "簽名",
+      "phrase": "delivery signature"
+    },
+    {
+      "id": 24,
+      "word": "timestamp",
+      "meaning": "時間戳記",
+      "phrase": "system timestamp"
+    },
+    {
+      "id": 25,
+      "word": "photographic",
+      "meaning": "照片的",
+      "phrase": "photographic evidence"
+    },
+    {
+      "id": 26,
+      "word": "corroborate",
+      "meaning": "佐證",
+      "phrase": "corroborate a statement"
+    },
+    {
+      "id": 27,
+      "word": "invalidate",
+      "meaning": "使失效",
+      "phrase": "invalidate a claim"
+    },
+    {
+      "id": 28,
+      "word": "pending",
+      "meaning": "待處理的",
+      "phrase": "pending review"
+    },
+    {
+      "id": 29,
+      "word": "waiver",
+      "meaning": "豁免",
+      "phrase": "fee waiver"
+    },
+    {
+      "id": 30,
+      "word": "provisional",
+      "meaning": "暫定的",
+      "phrase": "provisional decision"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Damage Claim Evidence",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why can the claim not be approved yet?",
+          "options": {
+            "A": "The photos are unclear.",
+            "B": "The carrier delivery scan is still needed.",
+            "C": "The inspection fee was unpaid.",
+            "D": "The customer returned the packaging."
+          },
+          "answer": "B",
+          "explanation": "仍需要承運商的 delivery scan 才能作出最終決定。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the agent imply about the claim?",
+          "options": {
+            "A": "It has been rejected.",
+            "B": "It has already been approved.",
+            "C": "It remains under review.",
+            "D": "It will automatically receive a refund."
+          },
+          "answer": "C",
+          "explanation": "客服明確表示案件仍在審查中。"
+        },
+        {
+          "id": 3,
+          "prompt": "What should the customer do next?",
+          "options": {
+            "A": "Return the goods immediately.",
+            "B": "Discard the damaged packaging.",
+            "C": "Keep the packaging and wait for written instructions.",
+            "D": "Pay the inspection fee now."
+          },
+          "answer": "C",
+          "explanation": "客服要求保留包裝並等待書面指示。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Replacement Shipping Options",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is Option A unsuitable?",
+          "options": {
+            "A": "It is uninsured.",
+            "B": "It arrives too late.",
+            "C": "It costs too much.",
+            "D": "It has no signature confirmation."
+          },
+          "answer": "B",
+          "explanation": "Option A 在 10:30 到貨，晚於 10:15。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why is Option D unsuitable?",
+          "options": {
+            "A": "It is uninsured.",
+            "B": "It arrives too late.",
+            "C": "It is over budget.",
+            "D": "It lacks capacity."
+          },
+          "answer": "A",
+          "explanation": "Option D 沒有保險。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option should be selected?",
+          "options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "answer": "C",
+          "explanation": "只有 Option C 同時符合所有條件。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do next?",
+          "options": {
+            "A": "Cancel the shipment.",
+            "B": "Request more budget.",
+            "C": "Book Option C and send tracking information.",
+            "D": "Ask the client to collect the package."
+          },
+          "answer": "C",
+          "explanation": "女方要求預訂 Option C 並寄出 tracking number。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Claim Portal Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When will the portal be unavailable?",
+          "options": {
+            "A": "Thursday 3–6 P.M.",
+            "B": "Thursday 6–9 P.M.",
+            "C": "Friday 6–9 P.M.",
+            "D": "Friday until noon"
+          },
+          "answer": "B",
+          "explanation": "維護時間為 Thursday 6–9 P.M.。"
+        },
+        {
+          "id": 2,
+          "prompt": "What happens to claims already submitted?",
+          "options": {
+            "A": "They are deleted.",
+            "B": "They must be resubmitted.",
+            "C": "They remain in the system.",
+            "D": "They are automatically approved."
+          },
+          "answer": "C",
+          "explanation": "已提交案件會留在系統內。"
+        },
+        {
+          "id": 3,
+          "prompt": "Who qualifies for the deadline extension?",
+          "options": {
+            "A": "All customers.",
+            "B": "Only customers with Thursday deadlines affected by maintenance.",
+            "C": "Only first-time users.",
+            "D": "Anyone who misses a deadline."
+          },
+          "answer": "B",
+          "explanation": "只適用於週四截止且受維護影響者。"
+        },
+        {
+          "id": 4,
+          "prompt": "What should customers know about automatic reminders?",
+          "options": {
+            "A": "They may show the original deadline.",
+            "B": "They cancel the extension.",
+            "C": "They confirm claim approval.",
+            "D": "They include a new fee."
+          },
+          "answer": "A",
+          "explanation": "提醒可能仍顯示舊期限。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Cargo Damage Claim Evidence and Compensation",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Was Seaview's claim submitted within the standard review period?",
+          "options": {
+            "A": "Yes, within five calendar days.",
+            "B": "No, it was one day late.",
+            "C": "No, it was two days late.",
+            "D": "It cannot be determined."
+          },
+          "answer": "A",
+          "explanation": "11/3 到貨、11/6 提交，仍在五個日曆天內。"
+        },
+        {
+          "id": 2,
+          "prompt": "What evidence showed that damage existed at delivery?",
+          "options": {
+            "A": "The replacement schedule.",
+            "B": "The signed delivery receipt noting crushed cartons.",
+            "C": "The current invoice.",
+            "D": "The inspection fee."
+          },
+          "answer": "B",
+          "explanation": "送貨收據記載兩個紙箱在交付時已壓壞。"
+        },
+        {
+          "id": 3,
+          "prompt": "How many units were confirmed damaged by inspection?",
+          "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+          },
+          "answer": "C",
+          "explanation": "檢驗報告確認四個單位受損。"
+        },
+        {
+          "id": 4,
+          "prompt": "What happens to the inspection fee?",
+          "options": {
+            "A": "It must be paid immediately.",
+            "B": "It is doubled.",
+            "C": "It is waived.",
+            "D": "It is moved to the next invoice."
+          },
+          "answer": "C",
+          "explanation": "承運商接受責任，因此檢驗費被免除。"
+        },
+        {
+          "id": 5,
+          "prompt": "What amount remains due on the current invoice?",
+          "options": {
+            "A": "$1,220",
+            "B": "$1,340",
+            "C": "$1,460",
+            "D": "$1,580"
+          },
+          "answer": "C",
+          "explanation": "current invoice remains $1,460。"
+        },
+        {
+          "id": 6,
+          "prompt": "When will the $120 credit be applied?",
+          "options": {
+            "A": "To the current invoice.",
+            "B": "To the next invoice.",
+            "C": "As a cash refund.",
+            "D": "To the inspection fee only."
+          },
+          "answer": "B",
+          "explanation": "抵用額適用下一張發票。"
+        },
+        {
+          "id": 7,
+          "prompt": "Why does Seaview qualify for the compensation credit?",
+          "options": {
+            "A": "The claim was expensive.",
+            "B": "Carrier liability was confirmed.",
+            "C": "The replacement shipment was delayed.",
+            "D": "The customer requested an appeal."
+          },
+          "answer": "B",
+          "explanation": "Carrier liability 已正式確認。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is scheduled for November 9?",
+          "options": {
+            "A": "A new inspection.",
+            "B": "A replacement shipment.",
+            "C": "A claim appeal.",
+            "D": "An invoice payment."
+          },
+          "answer": "B",
+          "explanation": "11/9 安排替換貨件。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The claim cannot be finalized _____ the carrier provides the delivery scan.",
+          "options": {
+            "A": "unless",
+            "B": "despite",
+            "C": "because of",
+            "D": "during"
+          },
+          "answer": "A",
+          "explanation": "Unless 表示必要條件。"
+        },
+        {
+          "id": 2,
+          "prompt": "The photographs _____ yesterday clearly show damage to the cartons.",
+          "options": {
+            "A": "upload",
+            "B": "uploaded",
+            "C": "uploading",
+            "D": "uploads"
+          },
+          "answer": "B",
+          "explanation": "照片是被上傳，使用 uploaded。"
+        },
+        {
+          "id": 3,
+          "prompt": "Only after the inspection was completed _____ the carrier accept liability.",
+          "options": {
+            "A": "did",
+            "B": "does",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "A",
+          "explanation": "Only after 句首倒裝：did + 主詞 + 原形動詞。"
+        },
+        {
+          "id": 4,
+          "prompt": "The agent asked whether the customer _____ the original packaging.",
+          "options": {
+            "A": "keeps",
+            "B": "had kept",
+            "C": "will keep",
+            "D": "keeping"
+          },
+          "answer": "B",
+          "explanation": "描述更早之前已保留，使用過去完成式。"
+        },
+        {
+          "id": 5,
+          "prompt": "The supervisor recommended that the claim _____ reviewed again.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommend that + be reviewed。"
+        },
+        {
+          "id": 6,
+          "prompt": "The package was returned _____ the inspection had been completed.",
+          "options": {
+            "A": "after",
+            "B": "despite",
+            "C": "because of",
+            "D": "unless"
+          },
+          "answer": "A",
+          "explanation": "完整子句且表示先後順序，使用 after。"
+        },
+        {
+          "id": 7,
+          "prompt": "The customer is eligible _____ compensation if liability is confirmed.",
+          "options": {
+            "A": "at",
+            "B": "for",
+            "C": "with",
+            "D": "on"
+          },
+          "answer": "B",
+          "explanation": "固定搭配 eligible for。"
+        },
+        {
+          "id": 8,
+          "prompt": "Neither the warehouse manager nor the inspectors _____ available yesterday.",
+          "options": {
+            "A": "was",
+            "B": "were",
+            "C": "is",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "就近一致：inspectors → were。"
+        },
+        {
+          "id": 9,
+          "prompt": "The claim was processed more _____ than expected.",
+          "options": {
+            "A": "quick",
+            "B": "quickly",
+            "C": "quicker",
+            "D": "quickness"
+          },
+          "answer": "B",
+          "explanation": "修飾 processed 使用副詞 quickly。"
+        },
+        {
+          "id": 10,
+          "prompt": "The company agreed to _____ the inspection fee.",
+          "options": {
+            "A": "waiver",
+            "B": "waive",
+            "C": "waived",
+            "D": "waiving"
+          },
+          "answer": "B",
+          "explanation": "agree to + 原形動詞。"
+        },
+        {
+          "id": 11,
+          "prompt": "The replacement will be shipped as soon as the warehouse _____ the address.",
+          "options": {
+            "A": "confirms",
+            "B": "will confirm",
+            "C": "confirmed",
+            "D": "confirming"
+          },
+          "answer": "A",
+          "explanation": "未來時間子句使用現在式。"
+        },
+        {
+          "id": 12,
+          "prompt": "The delivery receipt, together with the photographs, _____ attached to the claim.",
+          "options": {
+            "A": "are",
+            "B": "is",
+            "C": "have",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "主要主詞 receipt 為單數。"
+        },
+        {
+          "id": 13,
+          "prompt": "Had the customer discarded the packaging, the investigation _____ more difficult.",
+          "options": {
+            "A": "will be",
+            "B": "would have been",
+            "C": "is",
+            "D": "has been"
+          },
+          "answer": "B",
+          "explanation": "過去反事實條件句。"
+        },
+        {
+          "id": 14,
+          "prompt": "The carrier accepted liability; _____, the compensation credit was approved.",
+          "options": {
+            "A": "therefore",
+            "B": "however",
+            "C": "meanwhile",
+            "D": "otherwise"
+          },
+          "answer": "A",
+          "explanation": "前後為因果關係。"
+        },
+        {
+          "id": 15,
+          "prompt": "Please retain all records _____ the claim is fully resolved.",
+          "options": {
+            "A": "until",
+            "B": "despite",
+            "C": "because of",
+            "D": "among"
+          },
+          "answer": "A",
+          "explanation": "retain...until 表示持續到某時點。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "This change is intended to create a single evidence record for each claim.",
+            "B": "The cafeteria will close early on Friday.",
+            "C": "The carrier changed its logo last month.",
+            "D": "Customers should pay every invoice in cash."
+          },
+          "answer": "A",
+          "explanation": "A 說明新流程的目的。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "will mark",
+            "B": "will be marked",
+            "C": "marked",
+            "D": "is marking"
+          },
+          "answer": "B",
+          "explanation": "claim 是被標記，使用未來被動。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which transition best completes blank [3]?",
+          "options": {
+            "A": "Therefore",
+            "B": "However",
+            "C": "For example",
+            "D": "Similarly"
+          },
+          "answer": "B",
+          "explanation": "舊案件免重送，但新證據要走新流程，形成轉折。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "The investigation team may request the packaging for further inspection.",
+            "B": "The accounting department closes at five.",
+            "C": "The company picnic is next month.",
+            "D": "The customer survey has ten questions."
+          },
+          "answer": "A",
+          "explanation": "前句要求保留包裝，A 說明原因。"
+        }
+      ]
+    },
+    {
+      "id": "day-50-quiz",
+      "title": "Day 50 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Only after the evidence was verified _____ the supervisor approve compensation.",
+          "options": {
+            "A": "did",
+            "B": "does",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "A",
+          "explanation": "Only after 句首倒裝。"
+        },
+        {
+          "id": 2,
+          "prompt": "The agent recommended that the damaged item _____ inspected again.",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "recommend that + be inspected。"
+        },
+        {
+          "id": 3,
+          "prompt": "The customer kept the packaging _____ the investigation was complete.",
+          "options": {
+            "A": "until",
+            "B": "despite",
+            "C": "because of",
+            "D": "among"
+          },
+          "answer": "A",
+          "explanation": "until 表示持續到某時間。"
+        },
+        {
+          "id": 4,
+          "prompt": "Had the carrier denied liability, the credit _____ approved.",
+          "options": {
+            "A": "will not be",
+            "B": "would not have been",
+            "C": "is not",
+            "D": "has not"
+          },
+          "answer": "B",
+          "explanation": "過去反事實條件句。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is still needed before the claim can be finalized?",
+          "options": {
+            "A": "A new invoice",
+            "B": "The carrier's delivery scan",
+            "C": "A cash payment",
+            "D": "A replacement order"
+          },
+          "answer": "B",
+          "explanation": "仍需要 carrier delivery scan。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is implied about the claim?",
+          "options": {
+            "A": "It is rejected.",
+            "B": "It is approved.",
+            "C": "It remains under review.",
+            "D": "It requires no more evidence."
+          },
+          "answer": "C",
+          "explanation": "客服說案件仍在審查中。"
+        },
+        {
+          "id": 7,
+          "prompt": "Which shipping option should be selected?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "answer": "C",
+          "explanation": "Option C 唯一符合全部條件。"
+        },
+        {
+          "id": 8,
+          "prompt": "Who qualifies for the portal deadline extension?",
+          "options": {
+            "A": "All customers",
+            "B": "Customers with Thursday deadlines affected by maintenance",
+            "C": "Only first-time users",
+            "D": "Anyone who misses a deadline"
+          },
+          "answer": "B",
+          "explanation": "只適用於週四截止且受維護影響者。"
+        },
+        {
+          "id": 9,
+          "prompt": "What is the current invoice amount?",
+          "options": {
+            "A": "$1,220",
+            "B": "$1,340",
+            "C": "$1,460",
+            "D": "$1,580"
+          },
+          "answer": "C",
+          "explanation": "目前帳單仍為 $1,460。"
+        },
+        {
+          "id": 10,
+          "prompt": "When will the $120 compensation credit be applied?",
+          "options": {
+            "A": "Current invoice",
+            "B": "Next invoice",
+            "C": "Cash refund",
+            "D": "Inspection fee only"
+          },
+          "answer": "B",
+          "explanation": "抵用額適用下一張發票。"
+        },
+        {
+          "id": 11,
+          "prompt": "Why is the inspection fee waived?",
+          "options": {
+            "A": "The customer requested it.",
+            "B": "Damage at delivery was documented and liability accepted.",
+            "C": "The invoice was paid early.",
+            "D": "The replacement was delayed."
+          },
+          "answer": "B",
+          "explanation": "到貨受損有紀錄且承運商接受責任。"
+        },
+        {
+          "id": 12,
+          "prompt": "What is scheduled for November 9?",
+          "options": {
+            "A": "An appeal",
+            "B": "A replacement shipment",
+            "C": "A new inspection",
+            "D": "A payment deadline"
+          },
+          "answer": "B",
+          "explanation": "11/9 排定 replacement shipment。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握物流索賠、責任認定與補償相關字彙；複習倒裝、要求式假設語氣與過去反事實條件句；辨認 Listening 中 under review、conditional approval 與 next action。",
+  "nextDay": "Part 7 證據衝突與例外判讀／Part 3/4 說話者立場改變／Part 5 條件與倒裝混合／Part 6 流程銜接與代名詞指涉"
+}
