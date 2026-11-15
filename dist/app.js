@@ -129,7 +129,7 @@ function annotationTools(key, meta, options = {}) {
 }
 
 function navigate(nextView) {
-  if ('speechSynthesis' in window) speechSynthesis.cancel();
+  stopSpeech();
   view = nextView;
   document.querySelectorAll('.nav').forEach(button => button.classList.toggle('active', button.dataset.view === view));
   render();
@@ -235,11 +235,62 @@ function render() {
   bind();
 }
 
+// Chrome 不會依 lang 自動挑英文語音（常改用系統預設的中文語音或 macOS 的特效語音），
+// 語音清單也是非同步載入；Google 線上語音朗讀超過約 15 秒會中斷。
+// 因此明確挑選英文語音，並把長文拆成句子逐句排入佇列。
+const NOVELTY_VOICES = /albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|organ|superstar|trinoids|whisper|wobble|zarvox|pipe|grandma|grandpa|eddy|flo|reed|rocko|sandy|shelley/i;
+const PREFERRED_VOICES = ['Samantha', 'Microsoft Aria', 'Microsoft Jenny', 'Microsoft Guy', 'Google US English', 'Microsoft Zira', 'Microsoft David', 'Alex', 'Ava', 'Allison', 'Susan', 'Tom'];
+let englishVoice = null, speechQueue = [], speechTimer = null;
+
+function stopSpeech() {
+  clearTimeout(speechTimer); speechQueue = [];
+  if ('speechSynthesis' in window) speechSynthesis.cancel();
+}
+
+function pickEnglishVoice() {
+  const voices = speechSynthesis.getVoices().filter(voice => /^en[-_]/i.test(voice.lang) && !NOVELTY_VOICES.test(voice.name));
+  if (!voices.length) return null;
+  const isUS = voice => /^en[-_]US$/i.test(voice.lang);
+  for (const name of PREFERRED_VOICES) {
+    const match = voices.find(voice => isUS(voice) && voice.name.startsWith(name));
+    if (match) return match;
+  }
+  return voices.find(voice => isUS(voice) && voice.localService) || voices.find(isUS) || voices.find(voice => voice.localService) || voices[0];
+}
+
+if ('speechSynthesis' in window) {
+  englishVoice = pickEnglishVoice();
+  speechSynthesis.addEventListener?.('voiceschanged', () => { englishVoice = pickEnglishVoice(); });
+}
+
+function splitForSpeech(text) {
+  const sentences = text.replace(/[*_`#]/g, '').replace(/\s+/g, ' ').trim().match(/[^.!?]+[.!?]+["')\]]*|[^.!?]+$/g) || [];
+  const chunks = [];
+  for (const sentence of sentences.map(item => item.trim()).filter(Boolean)) {
+    if (sentence.length <= 220) { chunks.push(sentence); continue; }
+    let rest = sentence;
+    while (rest.length > 220) {
+      const cut = Math.max(rest.lastIndexOf(',', 220), rest.lastIndexOf(' ', 220));
+      const at = cut > 40 ? cut + 1 : 220;
+      chunks.push(rest.slice(0, at).trim()); rest = rest.slice(at).trim();
+    }
+    if (rest) chunks.push(rest);
+  }
+  return chunks;
+}
+
 function speak(text) {
   if (!('speechSynthesis' in window)) { alert('此瀏覽器不支援語音朗讀。'); return; }
-  speechSynthesis.cancel();
-  const utterance = new SpeechSynthesisUtterance(text); utterance.lang = 'en-US'; utterance.rate = .88;
-  speechSynthesis.speak(utterance);
+  stopSpeech();
+  if (!englishVoice) englishVoice = pickEnglishVoice();
+  speechQueue = splitForSpeech(text).map(chunk => {
+    const utterance = new SpeechSynthesisUtterance(chunk);
+    utterance.lang = englishVoice?.lang || 'en-US'; utterance.rate = .9; utterance.pitch = 1;
+    if (englishVoice) utterance.voice = englishVoice;
+    return utterance;
+  });
+  // Chrome 在 cancel() 後立刻 speak() 偶爾會吞字或卡住，稍等一下再開始。
+  speechTimer = setTimeout(() => { speechQueue.forEach(utterance => speechSynthesis.speak(utterance)); }, 60);
 }
 
 async function loadDay(day, nextView = 'lesson') {
@@ -336,7 +387,7 @@ function bind() {
   document.querySelectorAll('[data-open-day]').forEach(button => button.onclick = () => loadDay(Number(button.dataset.openDay)));
   document.querySelectorAll('[data-word]').forEach(button => button.onclick = () => speak(lesson.vocabulary[Number(button.dataset.word)].word));
   document.querySelectorAll('[data-speak]').forEach(button => button.onclick = () => { const markdown = lesson.sections[Number(button.dataset.speak)].markdown; const script = markdown.split('聽力稿：')[1]?.split('答案：')[0] || markdown; speak(script.replace(/^>\s?/gm, '').trim()); });
-  document.querySelectorAll('[data-stop]').forEach(button => button.onclick = () => speechSynthesis.cancel());
+  document.querySelectorAll('[data-stop]').forEach(button => button.onclick = stopSpeech);
   document.querySelectorAll('[data-quiz]').forEach(button => button.onclick = () => { quizIndex = Number(button.dataset.quiz); render(); });
   document.querySelectorAll('[data-favorite]').forEach(button => button.onclick = () => { const key = button.dataset.favorite, current = getAnnotation(key); updateAnnotation(key, {favorite: !current?.favorite}, renderedAnnotations.get(key)); render(); scrollToKey(key); });
   document.querySelectorAll('[data-note-toggle]').forEach(button => button.onclick = () => { const key = button.dataset.noteToggle; if (openNotes.has(key)) openNotes.delete(key); else openNotes.add(key); render(); scrollToKey(key); if (openNotes.has(key)) requestAnimationFrame(() => document.querySelector(`[data-note-editor="${CSS.escape(key)}"]`)?.focus()); });
