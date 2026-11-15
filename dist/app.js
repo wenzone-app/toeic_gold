@@ -148,7 +148,7 @@ function updateLessonHeader() {
 
 function renderSection(section, index, showTitle = true) {
   const canSpeak = /listening|聽力/i.test(section.title) && /聽力稿：/.test(section.markdown);
-  const controls = canSpeak ? `<div class="listen"><button class="secondary" data-speak="${index}">▶ 朗讀聽力稿</button><button class="secondary" data-stop>停止</button></div>` : '';
+  const controls = canSpeak ? `<div class="listen"><button class="secondary" data-speak="${index}">▶ 朗讀聽力稿</button><button class="secondary" data-stop>停止</button><span class="voice-cast" data-voice-cast></span></div>` : '';
   const title = showTitle ? `<h3>${esc(section.title)}</h3>` : '';
   const key = annotationKey('section', index);
   const meta = {type: 'section', day: currentDay, ref: {sectionIndex: index}, title: section.title, summary: stripMarkdown(section.markdown).slice(0, 180)};
@@ -238,17 +238,40 @@ function render() {
 // Chrome 不會依 lang 自動挑英文語音（常改用系統預設的中文語音或 macOS 的特效語音），
 // 語音清單也是非同步載入；Google 線上語音朗讀超過約 15 秒會中斷。
 // 因此明確挑選英文語音，並把長文拆成句子逐句排入佇列。
-const NOVELTY_VOICES = /albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|organ|superstar|trinoids|whisper|wobble|zarvox|pipe|grandma|grandpa|eddy|flo|reed|rocko|sandy|shelley/i;
+// 聽力稿會依說話者（Woman: / Man: / Agent: …）輪流使用美、英、澳、加口音，模擬多益聽力。
+const NOVELTY_VOICES = /albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|organ|superstar|trinoids|whisper|wobble|zarvox|pipe|grandma|grandpa|eddy|flo\b|reed|rocko|sandy|shelley/i;
 const PREFERRED_VOICES = ['Samantha', 'Microsoft Aria', 'Microsoft Jenny', 'Microsoft Guy', 'Google US English', 'Microsoft Zira', 'Microsoft David', 'Alex', 'Ava', 'Allison', 'Susan', 'Tom'];
-let englishVoice = null, speechQueue = [], speechTimer = null;
+const FEMALE_VOICE = /female|samantha|karen|moira|tessa|fiona|victoria|allison|\bava\b|susan|zoe|serena|kate|catherine|veena|aria|jenny|zira|libby|sonia|maisie|natasha|clara|emily|hazel|heera|linda|michelle|nancy|sara|jane|neerja|molly|leah|isla|annette|elsie|freya|joanne|\bkim\b|tina|emma|ashley|cora|elizabeth|monica|amber|aubrey|kiri|luna|nova|sienna/i;
+const MALE_VOICE = /\bmale|daniel|\balex\b|\btom\b|fred|rishi|oliver|arthur|gordon|\blee\b|aaron|\bguy\b|david|\bmark\b|ryan|thomas|george|william|liam|christopher|eric|roger|brian|andrew|davis|jason|tony|brandon|\bken\b|prabhat|ravi|mitchell|connor|duncan|elliot|ethan|noah|alfie|ollie|darren|neil|\btim\b|jacob|evan|james/i;
+const ACCENTS = [
+  { label: '美式', test: /^en[-_]US$/i },
+  { label: '英式', test: /^en[-_]GB$/i },
+  { label: '澳式', test: /^en[-_]AU$/i },
+  { label: '加拿大', test: /^en[-_]CA$/i },
+  { label: '其他英語', test: /^en[-_](IE|NZ|ZA|IN|SG)$/i }
+];
+// 每位說話者的語速／音高小幅不同，讓對話更有層次。
+const SPEAKER_STYLES = [{ rate: .92, pitch: 1 }, { rate: .88, pitch: .96 }, { rate: .95, pitch: 1.04 }, { rate: .9, pitch: .98 }];
+let englishVoices = [], englishVoice = null, speechQueue = [], speechTimer = null;
 
 function stopSpeech() {
   clearTimeout(speechTimer); speechQueue = [];
   if ('speechSynthesis' in window) speechSynthesis.cancel();
 }
 
+function voiceGender(voice) {
+  if (FEMALE_VOICE.test(voice.name)) return 'female';
+  if (MALE_VOICE.test(voice.name)) return 'male';
+  return '';
+}
+
+function loadVoices() {
+  englishVoices = speechSynthesis.getVoices().filter(voice => /^en[-_]/i.test(voice.lang) && !NOVELTY_VOICES.test(voice.name));
+  englishVoice = pickEnglishVoice();
+}
+
 function pickEnglishVoice() {
-  const voices = speechSynthesis.getVoices().filter(voice => /^en[-_]/i.test(voice.lang) && !NOVELTY_VOICES.test(voice.name));
+  const voices = englishVoices;
   if (!voices.length) return null;
   const isUS = voice => /^en[-_]US$/i.test(voice.lang);
   for (const name of PREFERRED_VOICES) {
@@ -259,8 +282,8 @@ function pickEnglishVoice() {
 }
 
 if ('speechSynthesis' in window) {
-  englishVoice = pickEnglishVoice();
-  speechSynthesis.addEventListener?.('voiceschanged', () => { englishVoice = pickEnglishVoice(); });
+  loadVoices();
+  speechSynthesis.addEventListener?.('voiceschanged', loadVoices);
 }
 
 function splitForSpeech(text) {
@@ -279,18 +302,89 @@ function splitForSpeech(text) {
   return chunks;
 }
 
+// 把聽力稿切成說話者段落：「Woman: … Man: …」→ [{ speaker: 'Woman', text: '…' }, …]
+function splitSpeakers(text) {
+  const clean = text.replace(/[*_`#]/g, '').replace(/\s+/g, ' ').trim();
+  const label = /(^|[.!?]["')\]]?\s+)((?:[A-Z][A-Za-z]*\s?){1,3}?\d?):\s+/g;
+  const turns = []; let match, last = 0, speaker = '';
+  while ((match = label.exec(clean))) {
+    const at = match.index + match[1].length;
+    const before = clean.slice(last, at).trim();
+    if (before) turns.push({ speaker, text: before });
+    speaker = match[2].trim(); last = label.lastIndex;
+  }
+  const rest = clean.slice(last).trim();
+  if (rest) turns.push({ speaker, text: rest });
+  return turns;
+}
+
+function speakerGender(speaker) {
+  if (/\b(woman|female|lady|mrs|ms|miss)\b/i.test(speaker)) return 'female';
+  if (/\b(man|male|gentleman|mr)\b/i.test(speaker)) return 'male';
+  return '';
+}
+
+// 依說話者順序輪流分配口音；裝置沒有的口音會自動跳過，相同性別優先。
+function castVoices(speakers, seed) {
+  const accents = ACCENTS.map(accent => ({ ...accent, voices: englishVoices.filter(voice => accent.test.test(voice.lang)) })).filter(accent => accent.voices.length);
+  const used = new Set(), cast = new Map();
+  speakers.forEach((speaker, index) => {
+    if (!accents.length) { cast.set(speaker, { voice: null, label: '' }); return; }
+    const gender = speakerGender(speaker);
+    let choice = null, label = '';
+    for (let step = 0; step < accents.length && !choice; step++) {
+      const accent = accents[(seed + index + step) % accents.length];
+      const options = accent.voices.filter(voice => !used.has(voice));
+      const ranked = options.filter(voice => !gender || voiceGender(voice) === gender);
+      const pool = ranked.length ? ranked : (step === accents.length - 1 ? options : []);
+      choice = pool.find(voice => voice.localService) || pool[0] || null;
+      if (choice) label = accent.label;
+    }
+    if (!choice) { choice = englishVoice; label = ACCENTS.find(accent => choice && accent.test.test(choice.lang))?.label || ''; }
+    if (choice) used.add(choice);
+    cast.set(speaker, { voice: choice, label });
+  });
+  return cast;
+}
+
+function makeUtterance(text, voice, style = SPEAKER_STYLES[0]) {
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = voice?.lang || 'en-US'; utterance.rate = style.rate; utterance.pitch = style.pitch;
+  if (voice) utterance.voice = voice;
+  return utterance;
+}
+
+function startQueue(queue) {
+  speechQueue = queue;
+  // Chrome 在 cancel() 後立刻 speak() 偶爾會吞字或卡住，稍等一下再開始。
+  speechTimer = setTimeout(() => { speechQueue.forEach(utterance => speechSynthesis.speak(utterance)); }, 60);
+}
+
 function speak(text) {
   if (!('speechSynthesis' in window)) { alert('此瀏覽器不支援語音朗讀。'); return; }
   stopSpeech();
-  if (!englishVoice) englishVoice = pickEnglishVoice();
-  speechQueue = splitForSpeech(text).map(chunk => {
-    const utterance = new SpeechSynthesisUtterance(chunk);
-    utterance.lang = englishVoice?.lang || 'en-US'; utterance.rate = .9; utterance.pitch = 1;
-    if (englishVoice) utterance.voice = englishVoice;
-    return utterance;
+  if (!englishVoices.length) loadVoices();
+  startQueue(splitForSpeech(text).map(chunk => makeUtterance(chunk, englishVoice)));
+}
+
+// 朗讀聽力稿：每位說話者一種口音，不念出「Woman:」等標籤。回傳使用的口音說明。
+function speakScript(text, seed = 0) {
+  if (!('speechSynthesis' in window)) { alert('此瀏覽器不支援語音朗讀。'); return ''; }
+  stopSpeech();
+  if (!englishVoices.length) loadVoices();
+  const turns = splitSpeakers(text);
+  const speakers = [...new Set(turns.map(turn => turn.speaker))];
+  const cast = castVoices(speakers, seed);
+  const queue = [];
+  turns.forEach(turn => {
+    const style = SPEAKER_STYLES[speakers.indexOf(turn.speaker) % SPEAKER_STYLES.length];
+    splitForSpeech(turn.text).forEach(chunk => queue.push(makeUtterance(chunk, cast.get(turn.speaker).voice, style)));
   });
-  // Chrome 在 cancel() 後立刻 speak() 偶爾會吞字或卡住，稍等一下再開始。
-  speechTimer = setTimeout(() => { speechQueue.forEach(utterance => speechSynthesis.speak(utterance)); }, 60);
+  startQueue(queue);
+  return speakers.map(speaker => {
+    const { label } = cast.get(speaker);
+    return speaker ? `${speaker}：${label || '預設'}` : (label || '預設');
+  }).join('　');
 }
 
 async function loadDay(day, nextView = 'lesson') {
@@ -386,7 +480,7 @@ function bind() {
   $('#next')?.addEventListener('click', () => { if (part < groups.length - 1) part++; else if (!isCompleted(currentDay)) { state.completedDays.push(currentDay); save(); } render(); window.scrollTo({top: 240, behavior: 'smooth'}); });
   document.querySelectorAll('[data-open-day]').forEach(button => button.onclick = () => loadDay(Number(button.dataset.openDay)));
   document.querySelectorAll('[data-word]').forEach(button => button.onclick = () => speak(lesson.vocabulary[Number(button.dataset.word)].word));
-  document.querySelectorAll('[data-speak]').forEach(button => button.onclick = () => { const markdown = lesson.sections[Number(button.dataset.speak)].markdown; const script = markdown.split('聽力稿：')[1]?.split('答案：')[0] || markdown; speak(script.replace(/^>\s?/gm, '').trim()); });
+  document.querySelectorAll('[data-speak]').forEach(button => button.onclick = () => { const index = Number(button.dataset.speak); const markdown = lesson.sections[index].markdown; const script = markdown.split('聽力稿：')[1]?.split('答案：')[0] || markdown; const cast = speakScript(script.replace(/^>\s?/gm, '').trim(), currentDay * 7 + index); const status = button.parentElement.querySelector('[data-voice-cast]'); if (status) status.textContent = cast ? `口音　${cast}` : ''; });
   document.querySelectorAll('[data-stop]').forEach(button => button.onclick = stopSpeech);
   document.querySelectorAll('[data-quiz]').forEach(button => button.onclick = () => { quizIndex = Number(button.dataset.quiz); render(); });
   document.querySelectorAll('[data-favorite]').forEach(button => button.onclick = () => { const key = button.dataset.favorite, current = getAnnotation(key); updateAnnotation(key, {favorite: !current?.favorite}, renderedAnnotations.get(key)); render(); scrollToKey(key); });

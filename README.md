@@ -20,7 +20,7 @@ python3 -m http.server 8000 --directory dist
 - dist/data/day-N.json：各日教材
 - dist/data/curriculum.json：90 天目錄與各日開放狀態
 
-進度、成績、收藏與筆記皆保存在瀏覽器 `localStorage`，不會自動跨裝置同步。朗讀使用瀏覽器語音合成。
+進度、成績、收藏與筆記皆保存在瀏覽器 `localStorage`，不會自動跨裝置同步。朗讀使用瀏覽器語音合成；聽力稿會依說話者輪流使用裝置上可用的美、英、澳、加口音英文語音。
 
 ## 收藏與筆記
 
