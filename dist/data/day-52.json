@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 52,
+  "title": "人資招募與入職、Part 7 文字訊息串意圖題與 Part 2 反問間接回應",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 52 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 52 學習概覽",
+      "markdown": "- 掌握招募、面試、錄取談判與新人入職相關字彙\n- 熟練名詞子句 what / that / whether 與關係詞 whose、whoever、介系詞 + which 混合判斷\n- 辨認 Part 2 反問與間接回應：用問題回答問題、用事實暗示答案\n- 解讀 Part 7 文字訊息串意圖題，並整合職缺公告、訊息串與錄取信計算總額\n- 強化 Part 6 入職通知信的非限定關係子句與篇章收尾\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| job posting | 職缺公告 | publish a job posting |\n| applicant | 應徵者 | qualified applicant |\n| shortlist | 入圍名單；列入候選 | shortlist candidates |\n| screening | 篩選 | initial phone screening |\n| panel interview | 小組面試 | schedule a panel interview |\n| credentials | 資歷證明 | verify credentials |\n| reference check | 推薦人查核 | conduct a reference check |\n| background check | 背景調查 | pass a background check |\n| offer letter | 錄取通知書 | sign the offer letter |\n| counteroffer | 還價；反提案 | make a counteroffer |\n| starting salary | 起薪 | negotiate a starting salary |\n| benefits package | 福利方案 | comprehensive benefits package |\n| signing bonus | 簽約獎金 | a one-time signing bonus |\n| relocation allowance | 搬遷津貼 | receive a relocation allowance |\n| probationary period | 試用期 | a three-month probationary period |\n| onboarding | 新人入職流程 | onboarding checklist |\n| orientation | 新人說明會 | attend new-hire orientation |\n| mentor | 導師 | be assigned a mentor |\n| headcount | 人員編制 | approved headcount |\n| vacancy | 職缺 | fill a vacancy |\n| recruiter | 招募人員 | in-house recruiter |\n| referral | 推薦 | employee referral program |\n| turnover | 人員流動率 | reduce staff turnover |\n| retention | 留任 | employee retention rate |\n| payroll | 薪資名冊；薪資作業 | be added to payroll |\n| enroll | 登記加入 | enroll in the health plan |\n| start date | 到職日 | confirm a start date |\n| conditional offer | 附條件錄用 | extend a conditional offer |\n| tactful | 委婉的；得體的 | a tactful response |\n| noncommittal | 不表態的 | a noncommittal answer |"
+    },
+    {
+      "title": "② 今日文法｜名詞子句 what / that / whether 與關係詞 whose、whoever、介系詞 + which 混合",
+      "markdown": "主題：**名詞子句 what / that / whether 與關係詞 whose、whoever、介系詞 + which 混合**\n\n### 規則 1｜what 與 that 引導名詞子句\n\nwhat = the thing(s) that，子句內本身缺主詞或受詞；that 後接完整子句，本身不當成分。\n\n> What the hiring manager values most is reliability.\n\n### 規則 2｜whether 與 if 的差別\n\n兩者都表「是否」，但放句首當主詞、接在介系詞後、或直接接 or not 時，只能用 whether。\n\n> Whether the candidate accepts depends on the signing bonus.\n\n### 規則 3｜whoever / whomever / whichever\n\n複合關係詞的格由「子句內」角色決定，不看前面的介系詞或動詞。\n\n> The bonus will go to whoever refers the successful applicant.\n\n### 規則 4｜所有格關係代名詞 whose\n\nwhose + 名詞，先行詞可以是人或物；most of whose、all of whose 等數量詞用法常見於 Part 5。\n\n> The panel, most of whose members are directors, approved the offer.\n\n### 規則 5｜介系詞 + which / whom；逗號後不用 that\n\n介系詞後只能接 which / whom；非限定子句（逗號後）不可用 that。\n\n> The orientation, during which badges are issued, starts at nine."
+    },
+    {
+      "title": "03 Listening｜Scheduling Candidate Interviews",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Alana, have you finished screening the applicants for the logistics analyst position? Woman: Didn't you see the shortlist I sent last night? Man: Oh, I haven't checked my e-mail since this morning's meeting. How many made it? Woman: Five. But one of them, Mr. Osei, wants to know whether we can hold the panel interview remotely. Man: Isn't he relocating from Halifax? Woman: Yes, which is why he'd prefer not to fly in twice. Man: Then a video interview for the first round should be fine. Should we invite the other four in person? Woman: Wouldn't it be fairer to interview everyone the same way? Man: Good point. Let's do all five by video and bring the finalists in afterward."
+    },
+    {
+      "title": "04 Listening｜Negotiating a Job Offer",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Daniel, Ms. Okafor responded to our offer letter. She's excited about the role, but she asked whether we could raise the starting salary from sixty-eight thousand to seventy-four thousand dollars. Man: Seventy-four is above the approved range for that position. The ceiling is seventy-one. Woman: I know. I was going to tell her we couldn't move at all, but she mentioned she has a competing offer. Man: In that case, let's not lose her over a few thousand dollars. Offer seventy-one, plus a one-time signing bonus of three thousand. The bonus comes out of a separate recruiting budget. Woman: That would bring her first-year total to seventy-four thousand, which is exactly what she asked for. Man: Right. And remind her that the relocation allowance is paid separately. Woman: I'll call her this afternoon, and if she agrees, I'll send a revised offer letter by tomorrow."
+    },
+    {
+      "title": "05 Listening｜New-Hire Orientation Briefing",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Welcome to Brightwater Analytics, and thank you for joining us for new-hire orientation. Before we begin, there's one change to today's schedule. The building tour, originally set for eleven o'clock, will now take place right after lunch, because the security office needs the morning to print your ID badges. So this morning, you'll complete your payroll paperwork and enroll in the company health plan. Please note that the enrollment deadline is thirty days from your start date. If you miss it, you'll have to wait until the next open enrollment period in November. Each of you has also been assigned a mentor from your department, who will meet you here at three o'clock. During your ninety-day probationary period, you and your mentor will meet every two weeks. Finally, if you have questions about benefits, please e-mail the HR help desk rather than your manager."
+    },
+    {
+      "title": "⑥ Reading｜Hiring Process: Job Posting, Text Messages, and Offer E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Job Posting\n\n> Kestrel Biomedical is seeking a Clinical Data Coordinator for its Boston office. Requirements: a bachelor's degree in a related field, at least three years of experience managing clinical trial data, and proficiency in statistical software. Certification as a Clinical Data Manager is preferred but not required. Salary range: $62,000–$70,000. Candidates who accept an offer within seven days of receiving it will receive a $2,500 signing bonus. A relocation allowance of up to $4,000 is available to candidates moving more than 50 miles. Applications close March 14. All offers are conditional upon a satisfactory background check.\n\n用途：參考文件\n\n### Text Message Chain\n\n> Rita Gomez [10:31 A.M.]: Just got off the phone with Lena Park. She loved the panel interview and will accept if we can offer $68,000.\n> Tom Haley [10:33 A.M.]: That's within range. Did she say when she could start?\n> Rita Gomez [10:34 A.M.]: April 7. She needs to give notice at her current job first.\n> Tom Haley [10:36 A.M.]: Her references came back strong. Has the background check cleared?\n> Rita Gomez [10:37 A.M.]: Not yet. The agency expects to finish this week.\n> Mei Chen [10:39 A.M.]: Quick question. Is she moving from Hartford? That's about 115 miles.\n> Rita Gomez [10:40 A.M.]: She is.\n> Mei Chen [10:41 A.M.]: Then she qualifies for the relocation allowance. I'll add it to the offer letter and send it out this afternoon.\n> Tom Haley [10:42 A.M.]: Let's not get ahead of ourselves.\n> Tom Haley [10:43 A.M.]: Nothing goes out until the background check clears. And since you'll be her mentor, Mei, please block out time on April 7.\n\n用途：參考文件\n\n### Offer E-mail\n\n> From: Rita Gomez, Human Resources\n> To: Lena Park\n> Date: March 24\n>\n> Dear Ms. Park, I am pleased to confirm that your background check was completed on March 23. Kestrel Biomedical is offering you the position of Clinical Data Coordinator at an annual salary of $68,000, beginning April 7. Because you are relocating from more than 50 miles away, you will receive a relocation allowance of $3,500, based on the moving estimate you submitted. In addition, if you sign and return the attached offer letter by March 31, you will receive the signing bonus described in our job posting. Your first three months will be a probationary period, during which you will meet regularly with your mentor.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: Your First Day at Halvorsen Design\n> \n> Dear Mr. Alvarez,\n> \n> We are delighted that you have accepted our offer, and we look forward to welcoming you on Monday, June 2.\n> \n> [1] _____\n> \n> Please bring two forms of identification, [2] _____ are required to complete your payroll and tax paperwork.\n> \n> During your first week, you will meet with your mentor, Ms. Fujita, [3] _____ will help you become familiar with our project management tools.\n> \n> [4] _____, if you have not yet submitted your direct deposit form, please do so before your start date."
+    },
+    {
+      "title": "⑨ Day 52 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 49、Day 50、Day 51**。\n\n### 複習重點\n- 訊息串意圖題：引號句要看「前一則在說什麼」與「下一則補充什麼」\n- Part 2 反問（Didn't you...? / Isn't it...?）常是正確答案，字音重複的選項多為陷阱\n- what 子句缺成分、that 子句完整；句首或介系詞後用 whether 不用 if\n- whoever / whomever 看子句內角色\n- Preferred ≠ Required；up to $4,000 ≠ 一定拿到 $4,000\n- 複習 Day 51：Should 倒裝條件、I was going to... but... 立場改變\n\n### 錯題標籤\n- `G`：Grammar\n- `NC`：Noun Clause\n- `REL`：Relative Pronoun\n- `L`：Listening\n- `IND`：Indirect Response\n- `SHIFT`：Speaker Position Shift\n- `INT`：Intent（引號句意圖）\n- `DETAIL`：Key Detail\n- `I`：Information Integration\n- `CALC`：Calculation\n- `E`：Exception / Requirement vs Preference\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個招募或入職情境的句子。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒。\n- Part 6 4 題重做，說明 [2]、[3] 為何選 which / who。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿，寫下第一組每個反問句真正要表達的意思。\n- 重新整理 Kestrel 錄取流程：職缺條件 → 訊息串決定 → 錄取信金額與期限，並驗算 $74,000。\n- Day 52 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "job posting",
+      "meaning": "職缺公告",
+      "phrase": "publish a job posting"
+    },
+    {
+      "id": 2,
+      "word": "applicant",
+      "meaning": "應徵者",
+      "phrase": "qualified applicant"
+    },
+    {
+      "id": 3,
+      "word": "shortlist",
+      "meaning": "入圍名單；列入候選",
+      "phrase": "shortlist candidates"
+    },
+    {
+      "id": 4,
+      "word": "screening",
+      "meaning": "篩選",
+      "phrase": "initial phone screening"
+    },
+    {
+      "id": 5,
+      "word": "panel interview",
+      "meaning": "小組面試",
+      "phrase": "schedule a panel interview"
+    },
+    {
+      "id": 6,
+      "word": "credentials",
+      "meaning": "資歷證明",
+      "phrase": "verify credentials"
+    },
+    {
+      "id": 7,
+      "word": "reference check",
+      "meaning": "推薦人查核",
+      "phrase": "conduct a reference check"
+    },
+    {
+      "id": 8,
+      "word": "background check",
+      "meaning": "背景調查",
+      "phrase": "pass a background check"
+    },
+    {
+      "id": 9,
+      "word": "offer letter",
+      "meaning": "錄取通知書",
+      "phrase": "sign the offer letter"
+    },
+    {
+      "id": 10,
+      "word": "counteroffer",
+      "meaning": "還價；反提案",
+      "phrase": "make a counteroffer"
+    },
+    {
+      "id": 11,
+      "word": "starting salary",
+      "meaning": "起薪",
+      "phrase": "negotiate a starting salary"
+    },
+    {
+      "id": 12,
+      "word": "benefits package",
+      "meaning": "福利方案",
+      "phrase": "comprehensive benefits package"
+    },
+    {
+      "id": 13,
+      "word": "signing bonus",
+      "meaning": "簽約獎金",
+      "phrase": "a one-time signing bonus"
+    },
+    {
+      "id": 14,
+      "word": "relocation allowance",
+      "meaning": "搬遷津貼",
+      "phrase": "receive a relocation allowance"
+    },
+    {
+      "id": 15,
+      "word": "probationary period",
+      "meaning": "試用期",
+      "phrase": "a three-month probationary period"
+    },
+    {
+      "id": 16,
+      "word": "onboarding",
+      "meaning": "新人入職流程",
+      "phrase": "onboarding checklist"
+    },
+    {
+      "id": 17,
+      "word": "orientation",
+      "meaning": "新人說明會",
+      "phrase": "attend new-hire orientation"
+    },
+    {
+      "id": 18,
+      "word": "mentor",
+      "meaning": "導師",
+      "phrase": "be assigned a mentor"
+    },
+    {
+      "id": 19,
+      "word": "headcount",
+      "meaning": "人員編制",
+      "phrase": "approved headcount"
+    },
+    {
+      "id": 20,
+      "word": "vacancy",
+      "meaning": "職缺",
+      "phrase": "fill a vacancy"
+    },
+    {
+      "id": 21,
+      "word": "recruiter",
+      "meaning": "招募人員",
+      "phrase": "in-house recruiter"
+    },
+    {
+      "id": 22,
+      "word": "referral",
+      "meaning": "推薦",
+      "phrase": "employee referral program"
+    },
+    {
+      "id": 23,
+      "word": "turnover",
+      "meaning": "人員流動率",
+      "phrase": "reduce staff turnover"
+    },
+    {
+      "id": 24,
+      "word": "retention",
+      "meaning": "留任",
+      "phrase": "employee retention rate"
+    },
+    {
+      "id": 25,
+      "word": "payroll",
+      "meaning": "薪資名冊；薪資作業",
+      "phrase": "be added to payroll"
+    },
+    {
+      "id": 26,
+      "word": "enroll",
+      "meaning": "登記加入",
+      "phrase": "enroll in the health plan"
+    },
+    {
+      "id": 27,
+      "word": "start date",
+      "meaning": "到職日",
+      "phrase": "confirm a start date"
+    },
+    {
+      "id": 28,
+      "word": "conditional offer",
+      "meaning": "附條件錄用",
+      "phrase": "extend a conditional offer"
+    },
+    {
+      "id": 29,
+      "word": "tactful",
+      "meaning": "委婉的；得體的",
+      "phrase": "a tactful response"
+    },
+    {
+      "id": 30,
+      "word": "noncommittal",
+      "meaning": "不表態的",
+      "phrase": "a noncommittal answer"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Scheduling Candidate Interviews",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When the woman says, \"Didn't you see the shortlist I sent last night?\", what does she imply?",
+          "options": {
+            "A": "She forgot to send the shortlist.",
+            "B": "She has already finished screening the applicants.",
+            "C": "She wants the man to choose the candidates.",
+            "D": "She thinks the shortlist contains an error."
+          },
+          "answer": "B",
+          "explanation": "以反問代替直接回答：昨晚已寄出入圍名單，表示篩選早已完成（Part 2 反問式間接回應）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does Mr. Osei prefer a remote interview?",
+          "options": {
+            "A": "He does not want to travel twice while relocating.",
+            "B": "He is currently out of the country on vacation.",
+            "C": "He has a scheduling conflict with another interview.",
+            "D": "He prefers not to meet the panel in person."
+          },
+          "answer": "A",
+          "explanation": "他正從 Halifax 搬遷，which is why he'd prefer not to fly in twice。"
+        },
+        {
+          "id": 3,
+          "prompt": "What do the speakers decide to do?",
+          "options": {
+            "A": "Invite only Mr. Osei to the office",
+            "B": "Interview all five candidates by video first",
+            "C": "Reduce the shortlist to four candidates",
+            "D": "Postpone the interviews until next month"
+          },
+          "answer": "B",
+          "explanation": "女子以反問 Wouldn't it be fairer...? 提出公平性，男子同意五人全部先視訊面試。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Negotiating a Job Offer",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What did Ms. Okafor request?",
+          "options": {
+            "A": "An earlier start date",
+            "B": "A larger relocation allowance",
+            "C": "A higher starting salary",
+            "D": "Permission to work remotely"
+          },
+          "answer": "C",
+          "explanation": "她要求起薪從 68,000 提高到 74,000。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why did the woman change her original plan?",
+          "options": {
+            "A": "The candidate has another job offer.",
+            "B": "The salary range was recently increased.",
+            "C": "Her manager rejected the offer letter.",
+            "D": "The candidate withdrew her application."
+          },
+          "answer": "A",
+          "explanation": "她原本要拒絕調整，但得知對方有 competing offer 而改變立場。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man suggest?",
+          "options": {
+            "A": "Offering the maximum salary plus a signing bonus",
+            "B": "Raising the salary to $74,000",
+            "C": "Delaying the decision until next quarter",
+            "D": "Reducing the relocation allowance"
+          },
+          "answer": "A",
+          "explanation": "上限 71,000 加 3,000 簽約獎金，第一年合計 74,000。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the woman most likely do if Ms. Okafor agrees?",
+          "options": {
+            "A": "Schedule a second interview",
+            "B": "Request additional budget approval",
+            "C": "Post the vacancy again",
+            "D": "Send a revised offer letter"
+          },
+          "answer": "D",
+          "explanation": "If she agrees, I'll send a revised offer letter by tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "New-Hire Orientation Briefing",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why has the building tour been rescheduled?",
+          "options": {
+            "A": "The tour guide is unavailable.",
+            "B": "ID badges are being prepared in the morning.",
+            "C": "Part of the building is under renovation.",
+            "D": "Lunch will be served earlier than planned."
+          },
+          "answer": "B",
+          "explanation": "保全室上午需要列印識別證，所以導覽改到午餐後。"
+        },
+        {
+          "id": 2,
+          "prompt": "What will the listeners do this morning?",
+          "options": {
+            "A": "Meet their department mentors",
+            "B": "Tour the building",
+            "C": "Attend a security training session",
+            "D": "Complete payroll forms and enroll in a health plan"
+          },
+          "answer": "D",
+          "explanation": "This morning, you'll complete your payroll paperwork and enroll in the company health plan."
+        },
+        {
+          "id": 3,
+          "prompt": "What happens if a new employee misses the enrollment deadline?",
+          "options": {
+            "A": "The employee is charged a late fee.",
+            "B": "The manager must approve a late application.",
+            "C": "The employee must wait for the next enrollment period.",
+            "D": "The probationary period is extended."
+          },
+          "answer": "C",
+          "explanation": "錯過 30 天期限就要等到 11 月的 open enrollment。"
+        },
+        {
+          "id": 4,
+          "prompt": "How often will new employees meet their mentors during the probationary period?",
+          "options": {
+            "A": "Every two weeks",
+            "B": "Once a week",
+            "C": "Once a month",
+            "D": "Only at the end of ninety days"
+          },
+          "answer": "A",
+          "explanation": "During your ninety-day probationary period... meet every two weeks."
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Hiring Process: Job Posting, Text Messages, and Offer E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is listed as a requirement for the Clinical Data Coordinator position?",
+          "options": {
+            "A": "Certification as a Clinical Data Manager",
+            "B": "A graduate degree in statistics",
+            "C": "At least three years of clinical data experience",
+            "D": "Previous employment in Boston"
+          },
+          "answer": "C",
+          "explanation": "認證是 preferred but not required；三年經驗才是必要條件。"
+        },
+        {
+          "id": 2,
+          "prompt": "At 10:42 A.M., what does Mr. Haley most likely mean when he writes, \"Let's not get ahead of ourselves\"?",
+          "options": {
+            "A": "Ms. Park's salary request is too high.",
+            "B": "The relocation allowance has not been approved by finance.",
+            "C": "Ms. Park's start date should be moved earlier.",
+            "D": "The offer letter should not be sent before a check is complete."
+          },
+          "answer": "D",
+          "explanation": "訊息串意圖題：回應 Mei 說下午就寄出，下一則說明 Nothing goes out until the background check clears。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why is Ms. Park eligible for the relocation allowance?",
+          "options": {
+            "A": "She is moving more than 50 miles.",
+            "B": "She accepted the offer within seven days.",
+            "C": "Her references were very strong.",
+            "D": "She requested it during the panel interview."
+          },
+          "answer": "A",
+          "explanation": "Hartford 約 115 英里，超過職缺公告的 50 英里門檻。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is indicated about the salary Ms. Park requested?",
+          "options": {
+            "A": "It is higher than the posted maximum.",
+            "B": "It falls within the advertised range.",
+            "C": "It includes the signing bonus.",
+            "D": "It was reduced after negotiation."
+          },
+          "answer": "B",
+          "explanation": "68,000 位於 62,000–70,000 範圍內，Tom 也說 That's within range。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why is Ms. Park's relocation allowance less than the maximum amount?",
+          "options": {
+            "A": "She is moving less than 100 miles.",
+            "B": "It is based on her submitted moving estimate.",
+            "C": "Part of it was converted into a signing bonus.",
+            "D": "She has not yet passed the background check."
+          },
+          "answer": "B",
+          "explanation": "e-mail：$3,500, based on the moving estimate you submitted（上限 4,000）。"
+        },
+        {
+          "id": 6,
+          "prompt": "If Ms. Park returns the offer letter by the deadline, how much will she receive in first-year salary, signing bonus, and relocation allowance combined?",
+          "options": {
+            "A": "$72,500",
+            "B": "$74,500",
+            "C": "$74,000",
+            "D": "$70,500"
+          },
+          "answer": "C",
+          "explanation": "68,000 + 2,500（簽約獎金）+ 3,500（搬遷津貼）= 74,000。"
+        },
+        {
+          "id": 7,
+          "prompt": "Why is March 31 mentioned as the deadline in the e-mail?",
+          "options": {
+            "A": "It is the day applications closed.",
+            "B": "It is seven days after the offer was sent.",
+            "C": "It is when the probationary period ends.",
+            "D": "It is one week before the background check."
+          },
+          "answer": "B",
+          "explanation": "職缺公告：收到 offer 七天內接受可得簽約獎金；3/24 寄出 + 7 天 = 3/31。"
+        },
+        {
+          "id": 8,
+          "prompt": "Who will most likely serve as Ms. Park's mentor?",
+          "options": {
+            "A": "The person who conducted the phone call with Ms. Park",
+            "B": "The manager who approved the salary",
+            "C": "The employee who asked where Ms. Park is moving from",
+            "D": "An employee of the background check agency"
+          },
+          "answer": "C",
+          "explanation": "Tom 在 10:43 說 since you'll be her mentor, Mei；Mei 正是詢問 Hartford 的人。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ impressed the panel most was the candidate's experience with payroll systems.",
+          "options": {
+            "A": "What",
+            "B": "That",
+            "C": "Which",
+            "D": "It"
+          },
+          "answer": "A",
+          "explanation": "What 引導名詞子句當主詞，子句內缺主詞（= The thing that impressed...）。"
+        },
+        {
+          "id": 2,
+          "prompt": "The recruiter asked _____ the applicant would be willing to relocate.",
+          "options": {
+            "A": "whether",
+            "B": "what",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "A",
+          "explanation": "ask whether + 完整子句，表「是否」。"
+        },
+        {
+          "id": 3,
+          "prompt": "The award will go to _____ refers the most qualified candidates this quarter.",
+          "options": {
+            "A": "whomever",
+            "B": "whichever",
+            "C": "whoever",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "複合關係代名詞在子句中作 refers 的主詞，用主格 whoever；格由子句內角色決定，不受介系詞 to 影響。"
+        },
+        {
+          "id": 4,
+          "prompt": "Ms. Liu, _____ résumé was forwarded by a former colleague, has been shortlisted.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "所有格關係代名詞 whose + 名詞（résumé）。"
+        },
+        {
+          "id": 5,
+          "prompt": "The orientation session, during _____ new hires receive their ID badges, lasts two hours.",
+          "options": {
+            "A": "that",
+            "B": "whom",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "介系詞 + which；介系詞後不能接 that。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ the candidate accepts the counteroffer will depend on the size of the signing bonus.",
+          "options": {
+            "A": "Whether",
+            "B": "If",
+            "C": "That",
+            "D": "What"
+          },
+          "answer": "A",
+          "explanation": "名詞子句放句首當主詞只能用 whether，不能用 if。"
+        },
+        {
+          "id": 7,
+          "prompt": "The fact _____ staff turnover fell by 12 percent suggests the mentoring program is working.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "which",
+            "D": "whether"
+          },
+          "answer": "B",
+          "explanation": "同位語子句 the fact that + 完整子句。"
+        },
+        {
+          "id": 8,
+          "prompt": "All new employees must complete their payroll paperwork _____ their first week of employment.",
+          "options": {
+            "A": "within",
+            "B": "since",
+            "C": "among",
+            "D": "upon"
+          },
+          "answer": "A",
+          "explanation": "within + 期間：在…之內。"
+        },
+        {
+          "id": 9,
+          "prompt": "The job offer is _____ upon the successful completion of a background check.",
+          "options": {
+            "A": "considerable",
+            "B": "conditional",
+            "C": "consecutive",
+            "D": "confidential"
+          },
+          "answer": "B",
+          "explanation": "be conditional upon：以…為條件。"
+        },
+        {
+          "id": 10,
+          "prompt": "The hiring committee has not yet decided _____ of the two finalists will receive the offer.",
+          "options": {
+            "A": "what",
+            "B": "which",
+            "C": "who",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "限定在兩位之中選一，用 which of..."
+        },
+        {
+          "id": 11,
+          "prompt": "The company offers a generous relocation _____ to employees who move more than 50 miles.",
+          "options": {
+            "A": "tolerance",
+            "B": "clearance",
+            "C": "admittance",
+            "D": "allowance"
+          },
+          "answer": "D",
+          "explanation": "relocation allowance 搬遷津貼。"
+        },
+        {
+          "id": 12,
+          "prompt": "When asked whether she would accept, Ms. Romero gave a _____ answer, saying only that she needed more time.",
+          "options": {
+            "A": "noncommittal",
+            "B": "conclusive",
+            "C": "mandatory",
+            "D": "punctual"
+          },
+          "answer": "A",
+          "explanation": "noncommittal 不表態的，與 needed more time 呼應。"
+        },
+        {
+          "id": 13,
+          "prompt": "To reduce staff _____, the firm introduced quarterly retention bonuses.",
+          "options": {
+            "A": "overturn",
+            "B": "turnout",
+            "C": "takeover",
+            "D": "turnover"
+          },
+          "answer": "D",
+          "explanation": "staff turnover 人員流動率。"
+        },
+        {
+          "id": 14,
+          "prompt": "HR will contact the two candidates _____ the hiring manager selected for a second interview.",
+          "options": {
+            "A": "whose",
+            "B": "what",
+            "C": "where",
+            "D": "whom"
+          },
+          "answer": "D",
+          "explanation": "關係代名詞作 selected 的受詞，用 whom。"
+        },
+        {
+          "id": 15,
+          "prompt": "_____ you need help enrolling in the health plan, please contact the HR help desk.",
+          "options": {
+            "A": "Had",
+            "B": "Should",
+            "C": "Were",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "複習 Day 51：Should 倒裝條件 = If you should need..."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "Unfortunately, the position has already been filled.",
+            "B": "We regret that we are unable to offer you an interview.",
+            "C": "When you arrive, please check in at the third-floor reception desk, where a member of HR will meet you.",
+            "D": "Please submit your résumé by the end of the month."
+          },
+          "answer": "C",
+          "explanation": "已接受 offer，下一步說明報到流程；其他選項與錄取情境矛盾。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "that",
+            "B": "what",
+            "C": "which",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "逗號後的非限定關係子句，先行詞 two forms of identification，用 which。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "whom",
+            "B": "who",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "先行詞 Ms. Fujita，在子句中作 will help 的主詞，用 who。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "Nevertheless",
+            "B": "Otherwise",
+            "C": "Conversely",
+            "D": "Finally"
+          },
+          "answer": "D",
+          "explanation": "列出最後一項提醒，用 Finally；無轉折或對比關係。"
+        }
+      ]
+    },
+    {
+      "id": "day-52-quiz",
+      "title": "Day 52 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Choose the best indirect response: \"Has the new analyst signed the offer letter yet?\"",
+          "options": {
+            "A": "Yes, the letter carrier came at noon.",
+            "B": "I'd like to sign up for that, too.",
+            "C": "It's a two-page letter.",
+            "D": "Isn't she meeting with HR this afternoon?"
+          },
+          "answer": "D",
+          "explanation": "以反問暗示「下午才會簽」；其他選項是 letter / sign 的字音陷阱。"
+        },
+        {
+          "id": 2,
+          "prompt": "Choose the best indirect response: \"Who's leading tomorrow's orientation?\"",
+          "options": {
+            "A": "In the main conference room.",
+            "B": "At nine o'clock sharp.",
+            "C": "Check the schedule Ms. Ortiz sent out.",
+            "D": "It was very well organized."
+          },
+          "answer": "C",
+          "explanation": "Who 問人，以「去看行程表」間接回答；地點、時間都答非所問。"
+        },
+        {
+          "id": 3,
+          "prompt": "Choose the best indirect response: \"Shouldn't we post the vacancy on more job boards?\"",
+          "options": {
+            "A": "The post office closes at five.",
+            "B": "A wooden board would work better.",
+            "C": "We already have forty applicants.",
+            "D": "The office has a nice view."
+          },
+          "answer": "C",
+          "explanation": "以事實暗示「不需要」；post、board 是字面陷阱。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the new hires need most is clear guidance during their first week.",
+          "options": {
+            "A": "That",
+            "B": "Which",
+            "C": "Whether",
+            "D": "What"
+          },
+          "answer": "D",
+          "explanation": "What 引導名詞子句作主詞，子句缺 need 的受詞。"
+        },
+        {
+          "id": 5,
+          "prompt": "The manager wanted to know _____ or not the candidate had supervisory experience.",
+          "options": {
+            "A": "if",
+            "B": "that",
+            "C": "whether",
+            "D": "what"
+          },
+          "answer": "C",
+          "explanation": "whether or not 可直接相連；if or not 不正確。"
+        },
+        {
+          "id": 6,
+          "prompt": "During the _____ period, either party may end the employment with one week's notice.",
+          "options": {
+            "A": "preliminary",
+            "B": "probationary",
+            "C": "provisional",
+            "D": "proficient"
+          },
+          "answer": "B",
+          "explanation": "probationary period 試用期，為固定搭配。"
+        },
+        {
+          "id": 7,
+          "prompt": "The firm's employee _____ program pays $1,000 to staff who recommend a candidate who is hired.",
+          "options": {
+            "A": "reference",
+            "B": "retention",
+            "C": "relocation",
+            "D": "referral"
+          },
+          "answer": "D",
+          "explanation": "employee referral program 員工推薦計畫。"
+        },
+        {
+          "id": 8,
+          "prompt": "The selection panel, most of _____ members are department heads, will meet on Tuesday.",
+          "options": {
+            "A": "whose",
+            "B": "whom",
+            "C": "which",
+            "D": "them"
+          },
+          "answer": "A",
+          "explanation": "most of whose members：所有格關係代名詞接名詞。"
+        },
+        {
+          "id": 9,
+          "prompt": "Thirty of the 240 employees on staff at the start of the year left the company during the year. Based on the starting headcount, what was the turnover rate?",
+          "options": {
+            "A": "8.0%",
+            "B": "12.5%",
+            "C": "11.1%",
+            "D": "15.0%"
+          },
+          "answer": "B",
+          "explanation": "30 ÷ 240 = 0.125 = 12.5%。11.1% 是誤用 30 ÷ 270。"
+        },
+        {
+          "id": 10,
+          "prompt": "In a text chain, a manager writes, \"Can you cover the 2 P.M. interview?\" A colleague replies, \"I'm at the airport until four.\" What does the colleague mean?",
+          "options": {
+            "A": "She is unable to conduct the interview.",
+            "B": "She will arrive at the interview early.",
+            "C": "She wants to reschedule her flight.",
+            "D": "She will interview the candidate at the airport."
+          },
+          "answer": "A",
+          "explanation": "訊息串意圖題：以行程說明間接拒絕。"
+        },
+        {
+          "id": 11,
+          "prompt": "_____ wins the internal design competition will present at the annual meeting.",
+          "options": {
+            "A": "Whomever",
+            "B": "Anyone",
+            "C": "Those",
+            "D": "Whoever"
+          },
+          "answer": "D",
+          "explanation": "Whoever 在子句中作 wins 的主詞，整個子句當主句主詞。"
+        },
+        {
+          "id": 12,
+          "prompt": "A recruiter says, \"I was going to send the offer today, but legal wants to review the contract first.\" What will the recruiter most likely do?",
+          "options": {
+            "A": "Wait for the legal review before sending the offer",
+            "B": "Send the offer immediately",
+            "C": "Cancel the job offer",
+            "D": "Ask the candidate to review the contract"
+          },
+          "answer": "A",
+          "explanation": "I was going to... but... 表立場改變，新資訊是法務要先審。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握招募、錄取談判與入職流程字彙；分辨 what / that / whether 名詞子句與 whose、whoever、介系詞 + which；聽懂 Part 2 反問與間接回應，並判讀訊息串引號句的真正意圖。",
+  "nextDay": "季度預算與財務報告／Part 4 圖表數字題／Part 7 圖表＋Email 計算／Part 5 比較級與倍數表達"
+}
