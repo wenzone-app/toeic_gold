@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 51,
+  "title": "供應商帳單爭議、證據衝突判讀與 Listening 立場改變",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 51 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 51 學習概覽",
+      "markdown": "- 掌握採購單、裝箱單、發票比對與帳款爭議相關字彙\n- 熟練 Should / Had / Were 倒裝條件與 Not until、Only when 倒裝\n- 辨認 Listening 中說話者立場改變（原本打算 → 發現證據 → 改變決定）\n- 整合 Triple Passage 中的採購單、發票與供應商回覆，找出證據衝突並計算應付金額\n- 強化 Part 6 公告的目的句、被動語態與補充說明\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| purchase order | 採購單 | issue a purchase order |\n| packing slip | 裝箱單 | attached packing slip |\n| line item | 明細項目 | disputed line item |\n| unit price | 單價 | agreed unit price |\n| variance | 差異 | quantity variance |\n| overcharge | 超收 | overcharge a customer |\n| credit memo | 貸項通知單 | issue a credit memo |\n| itemized | 逐項列出的 | itemized invoice |\n| contradict | 與…矛盾 | contradict the records |\n| inconsistency | 不一致之處 | data inconsistency |\n| cross-reference | 交叉比對 | cross-reference documents |\n| verify | 核實 | verify the quantity |\n| ledger | 分類帳 | accounts payable ledger |\n| audit | 稽核 | internal audit |\n| outstanding balance | 未付餘額 | settle the outstanding balance |\n| grace period | 寬限期 | a ten-day grace period |\n| late fee | 滯納金 | waive a late fee |\n| withhold | 暫扣 | withhold payment |\n| partial payment | 部分付款 | make a partial payment |\n| undisputed | 無爭議的 | undisputed amount |\n| backorder | 延期交貨 | items on backorder |\n| substitute | 替代品 | approved substitute |\n| rate card | 價目表 | current rate card |\n| binding quote | 有約束力的報價 | honor a binding quote |\n| revise | 修訂 | revised invoice |\n| retract | 撤回 | retract a statement |\n| reconsider | 重新考慮 | reconsider a decision |\n| concede | 承認（對方有理） | concede a point |\n| reservation | 保留意見 | have reservations about |\n| clarification | 澄清 | request clarification |"
+    },
+    {
+      "title": "② 今日文法｜Should / Had / Were 倒裝條件、Not until 與 Only when 倒裝、Under no circumstances、provided that / as long as",
+      "markdown": "主題：**Should / Had / Were 倒裝條件、Not until 與 Only when 倒裝、Under no circumstances、provided that / as long as**\n\n### 規則 1｜Should 倒裝條件\n\nIf + S + should 可省略 If 並把 should 移到句首，表示未來可能發生的情況。\n\n> Should the invoice contain an error, please notify us within five days.\n\n### 規則 2｜Had / Were 倒裝條件\n\nHad + S + p.p. 表與過去事實相反；Were + S 表與現在事實相反。\n\n> Had we checked the packing slip, we would not have overpaid.\n\n### 規則 3｜Not until / Only when 倒裝\n\nNot until 或 Only when 子句放句首時，主句用助動詞倒裝。\n\n> Not until the audit began did the team notice the variance.\n\n### 規則 4｜否定副詞片語倒裝\n\nUnder no circumstances / In no case 置於句首，主句倒裝。\n\n> Under no circumstances should payment be released without a matching purchase order.\n\n### 規則 5｜provided that / as long as 條件連接詞\n\nprovided (that)、as long as 引導條件子句，子句內用現在式表未來。\n\n> We will accept the credit memo as long as it arrives before the ledger closes."
+    },
+    {
+      "title": "03 Listening｜Invoice Payment Reversal",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Kenji, the Corliss invoice is due Friday. I was planning to pay the full amount today so we avoid a late fee. Man: Before you do, look at the packing slip. It lists eight standing desks, but the invoice charges us for ten. Woman: Really? I assumed receiving had already checked it. Hmm, in that case, I'd rather not pay the whole thing. Let's pay the undisputed lines now and hold back the desk charge. Man: Good. I'll e-mail Corliss and ask for a revised invoice. Woman: And copy the audit team, please. They'll want a record of why we paid only part of it."
+    },
+    {
+      "title": "04 Listening｜Resolving a Pricing Error",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Man: Corliss billed the standing desks at four hundred forty-five dollars each. Our purchase order says four hundred twenty. Woman: They mentioned a new rate card that started on November first. Man: Right, but we ordered on October twenty-eighth, and their binding quote was valid until November fifteenth. Woman: Then the old price should apply. I'll call their account manager. If they agree, they can either send a revised invoice or issue a credit memo. Man: A credit memo is fine, as long as it arrives before we close the monthly ledger on the thirtieth. Woman: Understood. I'll make that a condition when I call."
+    },
+    {
+      "title": "05 Listening｜Accounts Payable Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Good morning, everyone. This is Priya from Accounts Payable. Starting December first, we will release payment only after three documents match: the purchase order, the packing slip, and the invoice. If any line item does not match, the invoice will be placed on hold and the requesting department will be notified within one business day. Please note that holds do not extend the vendor's payment terms, so departments should respond quickly. Invoices under two hundred dollars are exempt from the packing slip requirement. If you have questions, please contact our team rather than the vendor directly."
+    },
+    {
+      "title": "⑥ Reading｜Vendor Invoice Dispute and Evidence Conflict",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Purchase Order\n\n> Purchase Order PO-7718 was issued by Northgate Dental Group to Corliss Supply on October 28. It lists 20 ergonomic chairs at $185 each, 10 standing desks at $420 each, and 20 monitor arms at $65 each, for a total of $9,200. Prices are based on Binding Quote Q-552, valid through November 15. Payment terms are net 30. Substitute products require the buyer's written approval.\n\n用途：參考文件\n\n### Vendor Invoice\n\n> Corliss Supply Invoice INV-3390, dated November 10, bills Northgate Dental Group for 20 ergonomic chairs ($3,700), 10 standing desks at $445 each ($4,450), and 20 monitor arms ($1,300). Invoice total: $9,450. Note: Standing desk price reflects our updated rate card, effective November 1. A late fee of 2% applies to any balance unpaid after 30 days.\n\n用途：參考文件\n\n### Vendor E-mail Reply\n\n> From: Dana Whitfield, Corliss Supply\n> Date: November 12\n>\n> Thank you for flagging the desk charge. You are correct that Quote Q-552 was binding for orders placed before November 15, so the desk price should be $420. We will issue a credit memo for the difference. Our warehouse also confirms that only 8 desks were delivered; the remaining 2 are on backorder and will ship on November 20. We will bill those 2 desks when they ship. In the meantime, please pay the undisputed amount for the items you have received. No late fee will be charged on the disputed portion.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> Subject: New Invoice Matching Procedure\n> \n> Effective December 1, Accounts Payable will match every invoice against the related purchase order and packing slip before releasing payment.\n> \n> [1] _____\n> \n> When a discrepancy is found, the invoice [2] _____ on hold, and the requesting department will receive a notice within one business day.\n> \n> Departments should respond promptly. [3] _____, a hold does not extend the vendor's payment terms, so delays may result in late fees.\n> \n> [4] _____"
+    },
+    {
+      "title": "⑨ Day 51 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 48、Day 49、Day 50**。\n\n### 複習重點\n- Billed ≠ Delivered：發票數量要和裝箱單比對\n- Rate card 與 binding quote 何者優先：看下單日與報價有效期\n- Credit memo（抵減）≠ Refund（退款）\n- Undisputed amount 先付，disputed portion 暫扣\n- Listening 中 I was planning to... / I'd rather not... 代表立場改變\n\n### 錯題標籤\n- `G`：Grammar\n- `INV`：Inversion\n- `COND`：Conditional\n- `SUBJ`：Subjunctive\n- `L`：Listening\n- `SHIFT`：Speaker Position Shift\n- `DETAIL`：Key Detail\n- `IMP`：Implication\n- `I`：Information Integration\n- `CALC`：Calculation\n- `E`：Exception\n- `U`：Updated Information\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個商務句子。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒。\n- Part 6 4 題重做，說明每題的上下文邏輯。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿，標出說話者改變立場的那一句。\n- 重新整理 Northgate 帳單的證據鏈：purchase order → invoice → packing slip → vendor reply → 應付金額。\n- Day 51 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "purchase order",
+      "meaning": "採購單",
+      "phrase": "issue a purchase order"
+    },
+    {
+      "id": 2,
+      "word": "packing slip",
+      "meaning": "裝箱單",
+      "phrase": "attached packing slip"
+    },
+    {
+      "id": 3,
+      "word": "line item",
+      "meaning": "明細項目",
+      "phrase": "disputed line item"
+    },
+    {
+      "id": 4,
+      "word": "unit price",
+      "meaning": "單價",
+      "phrase": "agreed unit price"
+    },
+    {
+      "id": 5,
+      "word": "variance",
+      "meaning": "差異",
+      "phrase": "quantity variance"
+    },
+    {
+      "id": 6,
+      "word": "overcharge",
+      "meaning": "超收",
+      "phrase": "overcharge a customer"
+    },
+    {
+      "id": 7,
+      "word": "credit memo",
+      "meaning": "貸項通知單",
+      "phrase": "issue a credit memo"
+    },
+    {
+      "id": 8,
+      "word": "itemized",
+      "meaning": "逐項列出的",
+      "phrase": "itemized invoice"
+    },
+    {
+      "id": 9,
+      "word": "contradict",
+      "meaning": "與…矛盾",
+      "phrase": "contradict the records"
+    },
+    {
+      "id": 10,
+      "word": "inconsistency",
+      "meaning": "不一致之處",
+      "phrase": "data inconsistency"
+    },
+    {
+      "id": 11,
+      "word": "cross-reference",
+      "meaning": "交叉比對",
+      "phrase": "cross-reference documents"
+    },
+    {
+      "id": 12,
+      "word": "verify",
+      "meaning": "核實",
+      "phrase": "verify the quantity"
+    },
+    {
+      "id": 13,
+      "word": "ledger",
+      "meaning": "分類帳",
+      "phrase": "accounts payable ledger"
+    },
+    {
+      "id": 14,
+      "word": "audit",
+      "meaning": "稽核",
+      "phrase": "internal audit"
+    },
+    {
+      "id": 15,
+      "word": "outstanding balance",
+      "meaning": "未付餘額",
+      "phrase": "settle the outstanding balance"
+    },
+    {
+      "id": 16,
+      "word": "grace period",
+      "meaning": "寬限期",
+      "phrase": "a ten-day grace period"
+    },
+    {
+      "id": 17,
+      "word": "late fee",
+      "meaning": "滯納金",
+      "phrase": "waive a late fee"
+    },
+    {
+      "id": 18,
+      "word": "withhold",
+      "meaning": "暫扣",
+      "phrase": "withhold payment"
+    },
+    {
+      "id": 19,
+      "word": "partial payment",
+      "meaning": "部分付款",
+      "phrase": "make a partial payment"
+    },
+    {
+      "id": 20,
+      "word": "undisputed",
+      "meaning": "無爭議的",
+      "phrase": "undisputed amount"
+    },
+    {
+      "id": 21,
+      "word": "backorder",
+      "meaning": "延期交貨",
+      "phrase": "items on backorder"
+    },
+    {
+      "id": 22,
+      "word": "substitute",
+      "meaning": "替代品",
+      "phrase": "approved substitute"
+    },
+    {
+      "id": 23,
+      "word": "rate card",
+      "meaning": "價目表",
+      "phrase": "current rate card"
+    },
+    {
+      "id": 24,
+      "word": "binding quote",
+      "meaning": "有約束力的報價",
+      "phrase": "honor a binding quote"
+    },
+    {
+      "id": 25,
+      "word": "revise",
+      "meaning": "修訂",
+      "phrase": "revised invoice"
+    },
+    {
+      "id": 26,
+      "word": "retract",
+      "meaning": "撤回",
+      "phrase": "retract a statement"
+    },
+    {
+      "id": 27,
+      "word": "reconsider",
+      "meaning": "重新考慮",
+      "phrase": "reconsider a decision"
+    },
+    {
+      "id": 28,
+      "word": "concede",
+      "meaning": "承認（對方有理）",
+      "phrase": "concede a point"
+    },
+    {
+      "id": 29,
+      "word": "reservation",
+      "meaning": "保留意見",
+      "phrase": "have reservations about"
+    },
+    {
+      "id": 30,
+      "word": "clarification",
+      "meaning": "澄清",
+      "phrase": "request clarification"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Invoice Payment Reversal",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What did the woman originally plan to do?",
+          "options": {
+            "A": "Request a credit memo",
+            "B": "Pay the full invoice amount",
+            "C": "Cancel the desk order",
+            "D": "Call the receiving department"
+          },
+          "answer": "B",
+          "explanation": "她原本打算今天全額付款以避免滯納金。"
+        },
+        {
+          "id": 2,
+          "prompt": "What causes the woman to change her position?",
+          "options": {
+            "A": "The invoice was sent to the wrong address.",
+            "B": "The late fee was already waived.",
+            "C": "The packing slip shows fewer desks than were billed.",
+            "D": "The audit team rejected the payment."
+          },
+          "answer": "C",
+          "explanation": "裝箱單只有 8 張桌子，發票卻收 10 張，她因此改變立場。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man say he will do?",
+          "options": {
+            "A": "Ask the vendor for a revised invoice",
+            "B": "Return two desks",
+            "C": "Pay the late fee",
+            "D": "Update the rate card"
+          },
+          "answer": "A",
+          "explanation": "他會寫信給 Corliss 要求修訂發票。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Resolving a Pricing Error",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the problem being discussed?",
+          "options": {
+            "A": "A delivery was damaged.",
+            "B": "A desk price on the invoice is higher than agreed.",
+            "C": "A purchase order was never sent.",
+            "D": "A payment was made twice."
+          },
+          "answer": "B",
+          "explanation": "發票單價 445 高於採購單的 420。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the man believe the old price applies?",
+          "options": {
+            "A": "The order was placed while the binding quote was valid.",
+            "B": "The rate card was canceled.",
+            "C": "The vendor offered a loyalty discount.",
+            "D": "The desks arrived late."
+          },
+          "answer": "A",
+          "explanation": "10/28 下單時，有效至 11/15 的 binding quote 仍有效。"
+        },
+        {
+          "id": 3,
+          "prompt": "What condition does the man set for accepting a credit memo?",
+          "options": {
+            "A": "It must be signed by the CEO.",
+            "B": "It must cover the shipping fee.",
+            "C": "It must arrive before the monthly ledger closes.",
+            "D": "It must be sent by regular mail."
+          },
+          "answer": "C",
+          "explanation": "as long as 帶出條件：月結前要收到。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the woman most likely do next?",
+          "options": {
+            "A": "Close the ledger early",
+            "B": "Contact the vendor's account manager",
+            "C": "Order more desks",
+            "D": "Update the purchase order price"
+          },
+          "answer": "B",
+          "explanation": "她說要打電話給對方 account manager。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Accounts Payable Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the announcement?",
+          "options": {
+            "A": "To introduce a new vendor",
+            "B": "To explain a new invoice approval rule",
+            "C": "To announce a holiday schedule",
+            "D": "To report an audit result"
+          },
+          "answer": "B",
+          "explanation": "宣布 12/1 起採三單比對（three-way match）。"
+        },
+        {
+          "id": 2,
+          "prompt": "What happens when a line item does not match?",
+          "options": {
+            "A": "The vendor is paid automatically.",
+            "B": "The invoice is put on hold.",
+            "C": "The order is canceled.",
+            "D": "The department pays a late fee."
+          },
+          "answer": "B",
+          "explanation": "不符時發票會被暫停（on hold）。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker imply about holds?",
+          "options": {
+            "A": "They give departments extra time.",
+            "B": "They may still lead to late payments if ignored.",
+            "C": "They apply only to large orders.",
+            "D": "They are decided by the vendor."
+          },
+          "answer": "B",
+          "explanation": "hold 不延長付款期限，因此部門需要儘快回覆，否則可能逾期。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which invoices do not need a packing slip?",
+          "options": {
+            "A": "Invoices from new vendors",
+            "B": "Invoices received after December",
+            "C": "Invoices under $200",
+            "D": "Invoices with a credit memo"
+          },
+          "answer": "C",
+          "explanation": "低於 200 美元的發票免附裝箱單。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Vendor Invoice Dispute and Evidence Conflict",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What discrepancy exists between the purchase order and the invoice?",
+          "options": {
+            "A": "The chair quantity",
+            "B": "The desk unit price",
+            "C": "The monitor arm model",
+            "D": "The payment terms"
+          },
+          "answer": "B",
+          "explanation": "採購單桌子單價 420，發票寫 445。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does Corliss agree to the lower desk price?",
+          "options": {
+            "A": "Northgate threatened to cancel the order.",
+            "B": "The rate card contained a typing error.",
+            "C": "The order was placed while the binding quote was valid.",
+            "D": "The desks were delivered late."
+          },
+          "answer": "C",
+          "explanation": "10/28 下單，Q-552 有效至 11/15，新價目表不適用。"
+        },
+        {
+          "id": 3,
+          "prompt": "How many standing desks were delivered by November 12?",
+          "options": {
+            "A": "2",
+            "B": "8",
+            "C": "10",
+            "D": "20"
+          },
+          "answer": "B",
+          "explanation": "Email 說只送達 8 張。"
+        },
+        {
+          "id": 4,
+          "prompt": "By how much did the original invoice overcharge for desk unit prices across all billed desks?",
+          "options": {
+            "A": "$25",
+            "B": "$200",
+            "C": "$250",
+            "D": "$450"
+          },
+          "answer": "C",
+          "explanation": "(445-420)×10 = 250。"
+        },
+        {
+          "id": 5,
+          "prompt": "How much should Northgate pay now for the items received, at the agreed prices?",
+          "options": {
+            "A": "$8,360",
+            "B": "$9,200",
+            "C": "$9,450",
+            "D": "$7,860"
+          },
+          "answer": "A",
+          "explanation": "3,700 + 8×420 (3,360) + 1,300 = 8,360。"
+        },
+        {
+          "id": 6,
+          "prompt": "When will the remaining desks ship?",
+          "options": {
+            "A": "November 10",
+            "B": "November 12",
+            "C": "November 15",
+            "D": "November 20"
+          },
+          "answer": "D",
+          "explanation": "剩餘 2 張 11/20 出貨。"
+        },
+        {
+          "id": 7,
+          "prompt": "In the e-mail, the word \"undisputed\" is closest in meaning to",
+          "options": {
+            "A": "not questioned",
+            "B": "not delivered",
+            "C": "not taxed",
+            "D": "not ordered"
+          },
+          "answer": "A",
+          "explanation": "undisputed = 沒有爭議的。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is indicated about the late fee?",
+          "options": {
+            "A": "It is waived for the entire invoice.",
+            "B": "It is 5% of the balance.",
+            "C": "It will not apply to the amount under dispute.",
+            "D": "It applies only to the chairs."
+          },
+          "answer": "C",
+          "explanation": "Email 表示爭議部分不收滯納金。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題｜15 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ the invoice contain an error, please contact Accounts Payable immediately.",
+          "options": {
+            "A": "Whether",
+            "B": "Would",
+            "C": "Unless",
+            "D": "Should"
+          },
+          "answer": "D",
+          "explanation": "Should 倒裝條件句 = If the invoice should contain..."
+        },
+        {
+          "id": 2,
+          "prompt": "Not until the packing slip was checked _____ the overcharge.",
+          "options": {
+            "A": "the clerk noticed",
+            "B": "did the clerk notice",
+            "C": "the clerk did notice",
+            "D": "noticed the clerk"
+          },
+          "answer": "B",
+          "explanation": "Not until 句首，主句倒裝。"
+        },
+        {
+          "id": 3,
+          "prompt": "Payment will be released _____ all three documents match.",
+          "options": {
+            "A": "provided that",
+            "B": "in spite of",
+            "C": "regardless",
+            "D": "owing to"
+          },
+          "answer": "A",
+          "explanation": "provided that 引導條件子句。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ we received the credit memo earlier, we could have closed the ledger on time.",
+          "options": {
+            "A": "If",
+            "B": "Should",
+            "C": "Were",
+            "D": "Had"
+          },
+          "answer": "D",
+          "explanation": "Had + S + p.p. 過去反事實倒裝。"
+        },
+        {
+          "id": 5,
+          "prompt": "Under no circumstances _____ vendors be paid before receiving is confirmed.",
+          "options": {
+            "A": "should",
+            "B": "they should",
+            "C": "do",
+            "D": "are"
+          },
+          "answer": "A",
+          "explanation": "Under no circumstances + 助動詞倒裝。"
+        },
+        {
+          "id": 6,
+          "prompt": "The auditor asked that each line item _____ against the purchase order.",
+          "options": {
+            "A": "verifies",
+            "B": "is verified",
+            "C": "be verified",
+            "D": "verified"
+          },
+          "answer": "C",
+          "explanation": "ask that + 原形 be p.p.。"
+        },
+        {
+          "id": 7,
+          "prompt": "The vendor has issued a _____ invoice reflecting the agreed price.",
+          "options": {
+            "A": "revise",
+            "B": "revising",
+            "C": "revision",
+            "D": "revised"
+          },
+          "answer": "D",
+          "explanation": "過去分詞作形容詞：revised invoice。"
+        },
+        {
+          "id": 8,
+          "prompt": "_____ the vendor agree to the lower price, we will pay the balance this week.",
+          "options": {
+            "A": "Were",
+            "B": "Should",
+            "C": "Had",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "Should 倒裝表示未來可能的條件。"
+        },
+        {
+          "id": 9,
+          "prompt": "The two records _____ each other on the delivery date.",
+          "options": {
+            "A": "contradictory",
+            "B": "contradicts",
+            "C": "contradiction",
+            "D": "contradict"
+          },
+          "answer": "D",
+          "explanation": "主詞 The two records 複數，動詞 contradict。"
+        },
+        {
+          "id": 10,
+          "prompt": "_____ the late fee was waived, the department still had to explain the delay.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Because of",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "Although 接子句表讓步；Despite 接名詞。"
+        },
+        {
+          "id": 11,
+          "prompt": "Only when the warehouse confirmed the shortage _____ to withhold payment.",
+          "options": {
+            "A": "we decided",
+            "B": "decided we",
+            "C": "did we decide",
+            "D": "we did decide"
+          },
+          "answer": "C",
+          "explanation": "Only when 句首，主句倒裝。"
+        },
+        {
+          "id": 12,
+          "prompt": "Please keep the packing slip _____ the auditors request it.",
+          "options": {
+            "A": "in case",
+            "B": "so that",
+            "C": "even",
+            "D": "in order"
+          },
+          "answer": "A",
+          "explanation": "in case 以防萬一。"
+        },
+        {
+          "id": 13,
+          "prompt": "The manager initially insisted on full payment but later _____ that the invoice was incorrect.",
+          "options": {
+            "A": "concedes to",
+            "B": "conceding",
+            "C": "concession",
+            "D": "conceded"
+          },
+          "answer": "D",
+          "explanation": "時態一致，過去式 conceded。"
+        },
+        {
+          "id": 14,
+          "prompt": "_____ I in your position, I would request a credit memo rather than a refund.",
+          "options": {
+            "A": "If",
+            "B": "Was",
+            "C": "Were",
+            "D": "Had"
+          },
+          "answer": "C",
+          "explanation": "Were + S 倒裝表與現在事實相反。"
+        },
+        {
+          "id": 15,
+          "prompt": "The supplier will ship the backordered desks as soon as they _____ in stock.",
+          "options": {
+            "A": "will be",
+            "B": "are",
+            "C": "were",
+            "D": "have been being"
+          },
+          "answer": "B",
+          "explanation": "時間子句用現在式代替未來。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空｜4 題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best completes blank [1]?",
+          "options": {
+            "A": "The cafeteria menu will change next week.",
+            "B": "This process is designed to prevent us from paying for items we did not receive.",
+            "C": "Vendors may now choose their own payment terms.",
+            "D": "All purchase orders will be canceled."
+          },
+          "answer": "B",
+          "explanation": "說明三單比對的目的，與上下文連貫。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "places",
+            "B": "will place",
+            "C": "will be placed",
+            "D": "placing"
+          },
+          "answer": "C",
+          "explanation": "invoice 是被放到 on hold，用未來被動。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which transition best completes blank [3]?",
+          "options": {
+            "A": "Otherwise",
+            "B": "For instance",
+            "C": "Similarly",
+            "D": "Note that"
+          },
+          "answer": "D",
+          "explanation": "Note that 提醒重要補充資訊；前後非條件、舉例或相似關係。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which sentence best completes blank [4]?",
+          "options": {
+            "A": "Invoices under $200 are exempt from the packing slip requirement.",
+            "B": "Our office will be repainted in January.",
+            "C": "Please submit vacation requests by Friday.",
+            "D": "The vendor has opened a new warehouse."
+          },
+          "answer": "A",
+          "explanation": "補充新規則的例外，符合公告結尾。"
+        }
+      ]
+    },
+    {
+      "id": "day-51-quiz",
+      "title": "Day 51 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Not until the auditor arrived _____ the inconsistency in the ledger.",
+          "options": {
+            "A": "they discovered",
+            "B": "did they discover",
+            "C": "discovered they",
+            "D": "they did discover"
+          },
+          "answer": "B",
+          "explanation": "Not until 句首倒裝。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which document lists the items actually included in a shipment?",
+          "options": {
+            "A": "Rate card",
+            "B": "Credit memo",
+            "C": "Binding quote",
+            "D": "Packing slip"
+          },
+          "answer": "D",
+          "explanation": "packing slip 裝箱單列出實際出貨品項。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ any further discrepancies arise, we will contact you in writing.",
+          "options": {
+            "A": "Had",
+            "B": "Were",
+            "C": "Should",
+            "D": "Unless"
+          },
+          "answer": "C",
+          "explanation": "Should 倒裝條件。"
+        },
+        {
+          "id": 4,
+          "prompt": "A credit memo is most likely issued when a customer _____.",
+          "options": {
+            "A": "was overcharged",
+            "B": "ordered a substitute",
+            "C": "paid early",
+            "D": "signed a contract"
+          },
+          "answer": "A",
+          "explanation": "credit memo 用於退還或抵減超收金額。"
+        },
+        {
+          "id": 5,
+          "prompt": "In Listening 1, why does the woman want to copy the audit team?",
+          "options": {
+            "A": "To approve a late fee",
+            "B": "To get a refund faster",
+            "C": "To record why only partial payment was made",
+            "D": "To cancel the order"
+          },
+          "answer": "C",
+          "explanation": "她說稽核團隊需要部分付款的紀錄。"
+        },
+        {
+          "id": 6,
+          "prompt": "In Listening 2, \"as long as it arrives before we close the monthly ledger\" expresses _____.",
+          "options": {
+            "A": "a condition",
+            "B": "a contrast",
+            "C": "a result",
+            "D": "a comparison"
+          },
+          "answer": "A",
+          "explanation": "as long as 表條件。"
+        },
+        {
+          "id": 7,
+          "prompt": "According to the reading, what will happen to the 2 backordered desks?",
+          "options": {
+            "A": "They will be canceled.",
+            "B": "They were included in the credit memo.",
+            "C": "They will be replaced by substitutes.",
+            "D": "They will be billed when they ship."
+          },
+          "answer": "D",
+          "explanation": "Email 表示出貨時才開立帳單。"
+        },
+        {
+          "id": 8,
+          "prompt": "The finance team decided to _____ payment until the vendor sent a corrected invoice.",
+          "options": {
+            "A": "withhold",
+            "B": "withholding",
+            "C": "withheld",
+            "D": "withholds"
+          },
+          "answer": "A",
+          "explanation": "decide to + 原形動詞。"
+        },
+        {
+          "id": 9,
+          "prompt": "_____ the vendor not offered a credit memo, we would have requested a refund.",
+          "options": {
+            "A": "If",
+            "B": "Had",
+            "C": "Should",
+            "D": "Were"
+          },
+          "answer": "B",
+          "explanation": "Had + S + not + p.p. 過去反事實倒裝。"
+        },
+        {
+          "id": 10,
+          "prompt": "In the announcement, which invoices are exempt from the packing slip requirement?",
+          "options": {
+            "A": "Invoices paid in cash",
+            "B": "All invoices from Corliss",
+            "C": "Invoices with three line items",
+            "D": "Invoices under $200"
+          },
+          "answer": "D",
+          "explanation": "低於 200 美元免附裝箱單。"
+        },
+        {
+          "id": 11,
+          "prompt": "Which statement is true about Binding Quote Q-552?",
+          "options": {
+            "A": "It expired on November 1.",
+            "B": "It applied only to chairs.",
+            "C": "It was valid through November 15.",
+            "D": "It was replaced by a purchase order."
+          },
+          "answer": "C",
+          "explanation": "PO 註明有效至 11/15。"
+        },
+        {
+          "id": 12,
+          "prompt": "The manager had reservations about the invoice, so she asked for _____.",
+          "options": {
+            "A": "clarify",
+            "B": "clarification",
+            "C": "clarified",
+            "D": "clarifying to"
+          },
+          "answer": "B",
+          "explanation": "ask for + 名詞 clarification。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握採購單、裝箱單與發票比對字彙；熟練 Should / Had / Were 倒裝條件與 Not until、Only when 倒裝；辨認 Listening 中說話者因新證據而改變立場。",
+  "nextDay": "人資招募與入職流程／Part 7 文字訊息串意圖題／Part 2 反問與間接回應／Part 5 名詞子句與關係詞混合"
+}
