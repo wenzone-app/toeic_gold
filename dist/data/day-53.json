@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 53,
+  "title": "季度預算與財務報告、Part 4 圖表數字題與 Part 7 圖表＋Email 計算",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 53 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 53 學習概覽",
+      "markdown": "- 掌握季度預算、財務報告、超支與資金分配相關字彙\n- 熟練比較級與倍數表達：as…as、倍數 + 比較級、that / those 比較對象、the + 比較級…, the + 比較級\n- 解 Part 4 圖表題：說話者用排名、倍數、比例代替直接說出圖表項目\n- 整合 Part 7 費用表、政策 Email 與申請 Email，完成百分比與金額計算\n- 強化 Part 6 財報公告的非限定 which、倍數用語與連接副詞\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| fiscal quarter | 會計季度 | the third fiscal quarter |\n| fiscal year | 會計年度 | by the end of the fiscal year |\n| revenue | 營收 | quarterly revenue |\n| operating expenses | 營運費用 | reduce operating expenses |\n| net profit | 淨利 | report a net profit |\n| profit margin | 利潤率 | improve the profit margin |\n| earnings | 盈餘；收益 | quarterly earnings report |\n| forecast | 預測 | exceed the revenue forecast |\n| projection | 推估值；預估 | sales projections |\n| allocate | 分配（資金） | allocate funds to a project |\n| allocation | 分配額 | budget allocation |\n| expenditure | 支出 | capital expenditure |\n| surplus | 盈餘；剩餘 | a budget surplus |\n| deficit | 赤字 | run a deficit |\n| shortfall | 不足額；短缺 | cover a shortfall |\n| overrun | 超支 | a cost overrun |\n| year-over-year | 與去年同期相比的 | a year-over-year increase |\n| fluctuate | 波動 | fluctuate significantly |\n| decline | 下降 | a sharp decline in sales |\n| surge | 激增 | a surge in demand |\n| plateau | 停滯；趨於平穩 | sales have plateaued |\n| outperform | 表現優於 | outperform competitors |\n| breakdown | 明細；細目 | a detailed cost breakdown |\n| spreadsheet | 試算表 | update the budget spreadsheet |\n| discretionary spending | 非必要支出 | limit discretionary spending |\n| spending freeze | 支出凍結 | impose a spending freeze |\n| contingency fund | 應急基金 | draw on the contingency fund |\n| carry over | 結轉（到下一期） | carry over unused funds |\n| shareholder | 股東 | annual shareholder meeting |\n| proportion | 比例 | a large proportion of revenue |"
+    },
+    {
+      "title": "② 今日文法｜比較級與倍數表達",
+      "markdown": "主題：**比較級與倍數表達（as…as、比較級 + than、倍數、the + 比較級…, the + 比較級）**\n\n### 規則 1｜倍數的三種句型\n\n倍數 + as + 原級 + as；倍數 + 比較級 + than（twice 不用這型）；倍數 + the + 名詞（size / amount / level）+ of。\n\n> Third-quarter revenue was nearly three times as high as it had been a year earlier.\n\n### 規則 2｜比較的對象要對等：that / those\n\n比較的對象必須同類，前面已出現的單數名詞用 that 代替，複數名詞用 those 代替。\n\n> Fourth-quarter expenses are expected to be about twice those of the third quarter.\n\n### 規則 3｜修飾比較級：much / far / considerably / slightly\n\n比較級前用 much、far、even、still、considerably、slightly 修飾；very 不能修飾比較級。最高級則用 by far the + 最高級。\n\n> Travel costs were considerably higher than forecast, and the Singapore expo was by far the most expensive event.\n\n### 規則 4｜the + 比較級…, the + 比較級\n\n表「越…就越…」，兩個子句都要以 the + 比較級開頭；副詞比較級同樣適用。\n\n> The more accurate the forecast is, the more efficiently we can allocate funds.\n\n### 規則 5｜增減幅度與數量比較：by / to、fewer / less、than any other + 單數\n\nincrease by 表示「增加了多少」，increase to 表示「增加到多少」；可數名詞用 fewer，不可數用 less；than any other + 單數名詞。\n\n> Net profit increased by 12 percent, to $5.6 million, more than in any other quarter."
+    },
+    {
+      "title": "03 Listening｜Reallocating the Event Budget",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Gareth, I've just looked at the third-quarter numbers. We spent nearly twice as much on trade shows as we'd planned. Man: How far over were we? Woman: The allocation was forty thousand dollars, and we spent seventy-eight thousand. Man: That's a significant overrun. Was it the Singapore expo? Woman: Mostly. The booth fees there were far higher than last year's, and we had to ship our display equipment by air. Man: Well, the fourth quarter is usually our slowest for events. Could we cover the shortfall by postponing the January product launch party? Woman: I'd rather not. That launch generates more sales leads than any other event we hold. Man: Then let's draw on the contingency fund for now and present a revised plan to finance on Friday. Woman: All right. I'll put together a detailed cost breakdown before then."
+    },
+    {
+      "title": "04 Listening｜Third-Quarter Sales by Region",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Third-Quarter Revenue by Region\n\n| Region | Q3 Revenue |\n|---|---|\n| North | $4.2 million |\n| South | $3.1 million |\n| East | $6.3 million |\n| West | $2.1 million |\n\n聽力稿：\n\n> Good morning, everyone. Let's go over the third-quarter sales results, which are shown on the chart in front of you. Overall, revenue rose eight percent compared with the same quarter last year. The strongest performer was the region whose revenue was three times that of our smallest region. That region opened two new stores in July, which explains much of its growth. However, I'd like to draw your attention to the region whose revenue was exactly double the West's. Although it finished second, its revenue actually declined slightly from the previous quarter, because a major client postponed a large order. The client has confirmed that the order will be delivered in October, so we expect that region to recover in the fourth quarter. Finally, the finance department has asked each regional manager to submit a revised forecast by next Wednesday. Please use the updated spreadsheet template, which I'll send out right after this meeting."
+    },
+    {
+      "title": "05 Listening｜Voicemail About a Budget Proposal",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Proposed Q4 Budget, Customer Support Department\n\n| Category | Amount |\n|---|---|\n| Staff training | $18,000 |\n| Software licenses | $27,000 |\n| Office equipment | $9,000 |\n| Travel | $36,000 |\n| Total | $90,000 |\n\n聽力稿：\n\n> Hi, Priya, this is Marcus Bell from finance, returning your call about your department's fourth-quarter budget. I've reviewed the proposal you sent, and most of it looks fine. The only problem is the category that accounts for forty percent of the total. Because of the company-wide freeze on discretionary spending, that amount will have to be cut in half. The item that costs three times as much as office equipment, on the other hand, can stay as it is, since those payments are contractual obligations. If you'd like to move some of the savings into staff training, you'll need written approval from the vice president of operations, Ms. Lindqvist. Please send me a revised version by Thursday, so that I can include it in my report to the board. Thanks."
+    },
+    {
+      "title": "⑥ Reading｜Quarterly Expenses: Report, Policy E-mail, and Transfer Request",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Quarterly Expense Report\n\nHollis & Rowe Consulting, Analytics Department, Third Quarter (July 1–September 30)\n\n| Category | Budget | Actual |\n|---|---|---|\n| Travel | $48,000 | $55,200 |\n| Software | $30,000 | $27,600 |\n| Training | $20,000 | $12,000 |\n| Office supplies | $8,000 | $8,800 |\n| Total | $106,000 | $103,600 |\n\n用途：參考文件\n\n### Policy E-mail\n\n> From: Dana Whitcombe, Chief Financial Officer\n> To: All Department Heads\n> Date: October 6\n>\n> Dear colleagues, as the attached reports show, most departments came in below their total third-quarter budgets. However, several individual categories exceeded their allocations. Effective immediately, any category in which a department exceeded its third-quarter budget by more than 12 percent will have its fourth-quarter allocation reduced by 10 percent. All other fourth-quarter allocations will remain the same as in the third quarter. Please also note that unused training funds cannot be carried over into the fourth quarter. However, a department may request that up to half of its unused third-quarter training funds be transferred to its software budget. Requests must be submitted by October 13.\n\n用途：參考文件\n\n### Transfer Request E-mail\n\n> From: Kenji Mori, Head of Analytics\n> To: Dana Whitcombe\n> Date: October 8\n>\n> Dear Ms. Whitcombe, I would like to request a transfer from our unused training funds to our software budget. We need three additional licenses for the new forecasting platform, and the vendor has quoted $1,300 per license. I would also like to point out an error in our report. Our travel figure includes $4,800 for a client visit to Denver that was billed directly to the client. Once that amount is removed, our travel spending will be well within your new threshold, so I hope our fourth-quarter travel allocation can remain unchanged. I have attached the client's payment confirmation.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Staff\n> From: Office of the Chief Financial Officer\n> Subject: Third-Quarter Results\n>\n> I am pleased to report that Northfield Outfitters has just completed the strongest third quarter in its history. Revenue reached $18.4 million, [1] _____ is 15 percent higher than in the same period last year.\n>\n> Online sales grew especially quickly, rising to nearly [2] _____ the level recorded in the third quarter of last year.\n>\n> [3] _____ To protect our profit margin, we will limit discretionary spending through the end of the fiscal year.\n>\n> Department heads will receive their revised allocations next week. [4] _____, please do not make any purchase over $500 without written approval from your director."
+    },
+    {
+      "title": "⑨ Day 53 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 50、Day 51、Day 52**。\n\n### 複習重點\n- 倍數三型：three times as high as／three times higher than／twice the size of；比較對象單數用 that、複數用 those\n- much / far / considerably + 比較級；by far the + 最高級；very 不修飾比較級\n- increase by（幅度）vs increase to（結果）；fewer + 可數、less + 不可數\n- Part 4 圖表題：先看圖表，再預測說話者會用「位置、排名、倍數、比例」來代替直接說出名稱\n- Part 7 計算題：表格數字 × Email 規則 × 更正資訊，最後一封信常推翻前面的數字\n- 複習 Day 51：Should 倒裝條件、證據衝突以最新文件為準\n- 複習 Day 52：whether 名詞子句、反問與間接回應\n\n### 錯題標籤\n- `G`：Grammar\n- `COMP`：Comparison / Multiples\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `IND`：Indirect Response\n- `DETAIL`：Key Detail\n- `I`：Information Integration\n- `CALC`：Calculation\n- `E`：Exception / Condition\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個預算或財報情境的句子。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒，並把倍數題改寫成另外兩種倍數句型。\n- Part 6 4 題重做，說明 [1] 為何用 which、[2] 為何用 twice 而不是 two times more。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿；第二、三組先看圖表，預測說話者會用哪種方式描述每一列。\n- 重新整理 Hollis & Rowe 的計算：travel 超支 15% → 更正後 5% → Q4 是否被刪減；training 未用 $8,000 → 可轉 $4,000 → 授權費 $3,900。\n- Day 53 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "fiscal quarter",
+      "meaning": "會計季度",
+      "phrase": "the third fiscal quarter"
+    },
+    {
+      "id": 2,
+      "word": "fiscal year",
+      "meaning": "會計年度",
+      "phrase": "by the end of the fiscal year"
+    },
+    {
+      "id": 3,
+      "word": "revenue",
+      "meaning": "營收",
+      "phrase": "quarterly revenue"
+    },
+    {
+      "id": 4,
+      "word": "operating expenses",
+      "meaning": "營運費用",
+      "phrase": "reduce operating expenses"
+    },
+    {
+      "id": 5,
+      "word": "net profit",
+      "meaning": "淨利",
+      "phrase": "report a net profit"
+    },
+    {
+      "id": 6,
+      "word": "profit margin",
+      "meaning": "利潤率",
+      "phrase": "improve the profit margin"
+    },
+    {
+      "id": 7,
+      "word": "earnings",
+      "meaning": "盈餘；收益",
+      "phrase": "quarterly earnings report"
+    },
+    {
+      "id": 8,
+      "word": "forecast",
+      "meaning": "預測",
+      "phrase": "exceed the revenue forecast"
+    },
+    {
+      "id": 9,
+      "word": "projection",
+      "meaning": "推估值；預估",
+      "phrase": "sales projections"
+    },
+    {
+      "id": 10,
+      "word": "allocate",
+      "meaning": "分配（資金）",
+      "phrase": "allocate funds to a project"
+    },
+    {
+      "id": 11,
+      "word": "allocation",
+      "meaning": "分配額",
+      "phrase": "budget allocation"
+    },
+    {
+      "id": 12,
+      "word": "expenditure",
+      "meaning": "支出",
+      "phrase": "capital expenditure"
+    },
+    {
+      "id": 13,
+      "word": "surplus",
+      "meaning": "盈餘；剩餘",
+      "phrase": "a budget surplus"
+    },
+    {
+      "id": 14,
+      "word": "deficit",
+      "meaning": "赤字",
+      "phrase": "run a deficit"
+    },
+    {
+      "id": 15,
+      "word": "shortfall",
+      "meaning": "不足額；短缺",
+      "phrase": "cover a shortfall"
+    },
+    {
+      "id": 16,
+      "word": "overrun",
+      "meaning": "超支",
+      "phrase": "a cost overrun"
+    },
+    {
+      "id": 17,
+      "word": "year-over-year",
+      "meaning": "與去年同期相比的",
+      "phrase": "a year-over-year increase"
+    },
+    {
+      "id": 18,
+      "word": "fluctuate",
+      "meaning": "波動",
+      "phrase": "fluctuate significantly"
+    },
+    {
+      "id": 19,
+      "word": "decline",
+      "meaning": "下降",
+      "phrase": "a sharp decline in sales"
+    },
+    {
+      "id": 20,
+      "word": "surge",
+      "meaning": "激增",
+      "phrase": "a surge in demand"
+    },
+    {
+      "id": 21,
+      "word": "plateau",
+      "meaning": "停滯；趨於平穩",
+      "phrase": "sales have plateaued"
+    },
+    {
+      "id": 22,
+      "word": "outperform",
+      "meaning": "表現優於",
+      "phrase": "outperform competitors"
+    },
+    {
+      "id": 23,
+      "word": "breakdown",
+      "meaning": "明細；細目",
+      "phrase": "a detailed cost breakdown"
+    },
+    {
+      "id": 24,
+      "word": "spreadsheet",
+      "meaning": "試算表",
+      "phrase": "update the budget spreadsheet"
+    },
+    {
+      "id": 25,
+      "word": "discretionary spending",
+      "meaning": "非必要支出",
+      "phrase": "limit discretionary spending"
+    },
+    {
+      "id": 26,
+      "word": "spending freeze",
+      "meaning": "支出凍結",
+      "phrase": "impose a spending freeze"
+    },
+    {
+      "id": 27,
+      "word": "contingency fund",
+      "meaning": "應急基金",
+      "phrase": "draw on the contingency fund"
+    },
+    {
+      "id": 28,
+      "word": "carry over",
+      "meaning": "結轉（到下一期）",
+      "phrase": "carry over unused funds"
+    },
+    {
+      "id": 29,
+      "word": "shareholder",
+      "meaning": "股東",
+      "phrase": "annual shareholder meeting"
+    },
+    {
+      "id": 30,
+      "word": "proportion",
+      "meaning": "比例",
+      "phrase": "a large proportion of revenue"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Reallocating the Event Budget",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem does the woman mention?",
+          "options": {
+            "A": "A trade show was canceled at the last minute.",
+            "B": "Trade show spending far exceeded its allocation.",
+            "C": "The Singapore expo attracted fewer visitors than expected.",
+            "D": "The display equipment was damaged during shipping."
+          },
+          "answer": "B",
+          "explanation": "預算 $40,000、實際 $78,000，nearly twice as much as planned，屬於超支（overrun）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the woman reject the man's suggestion?",
+          "options": {
+            "A": "The launch date has already been announced to the press.",
+            "B": "The venue deposit cannot be refunded.",
+            "C": "The finance department has already approved the event.",
+            "D": "The launch event produces the most sales leads."
+          },
+          "answer": "D",
+          "explanation": "more sales leads than any other event：比較級 + than any other 表最高級意義，所以不願延後。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman do before Friday?",
+          "options": {
+            "A": "Prepare a detailed cost breakdown",
+            "B": "Contact the Singapore expo organizers",
+            "C": "Reschedule the product launch",
+            "D": "Request a larger allocation for next year"
+          },
+          "answer": "A",
+          "explanation": "I'll put together a detailed cost breakdown before then（then = Friday）。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Third-Quarter Sales by Region",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What does the speaker say about overall revenue?",
+          "options": {
+            "A": "It was eight percent lower than forecast.",
+            "B": "It doubled compared with the previous quarter.",
+            "C": "It increased by eight percent year-over-year.",
+            "D": "It remained the same as last year."
+          },
+          "answer": "C",
+          "explanation": "revenue rose eight percent compared with the same quarter last year = year-over-year 成長 8%。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. Which region opened two new stores?",
+          "options": {
+            "A": "East",
+            "B": "North",
+            "C": "South",
+            "D": "West"
+          },
+          "answer": "A",
+          "explanation": "三倍於最小區域：最小是 West $2.1M，3 × 2.1 = $6.3M → East。圖表題用倍數代替區域名稱。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. Which region's revenue declined from the previous quarter?",
+          "options": {
+            "A": "South",
+            "B": "East",
+            "C": "West",
+            "D": "North"
+          },
+          "answer": "D",
+          "explanation": "exactly double the West's：2 × 2.1 = $4.2M → North，且說話者說它 finished second 但較上季微幅下降。"
+        },
+        {
+          "id": 4,
+          "prompt": "What are the listeners asked to do?",
+          "options": {
+            "A": "Visit the two new stores",
+            "B": "Submit a revised forecast by next Wednesday",
+            "C": "Contact the client that postponed an order",
+            "D": "Present their regional results at the next meeting"
+          },
+          "answer": "B",
+          "explanation": "finance department has asked each regional manager to submit a revised forecast by next Wednesday。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Voicemail About a Budget Proposal",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the speaker?",
+          "options": {
+            "A": "A software vendor",
+            "B": "A vice president of operations",
+            "C": "A finance department employee",
+            "D": "A customer support trainee"
+          },
+          "answer": "C",
+          "explanation": "this is Marcus Bell from finance，回覆預算提案。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. Which amount will be reduced?",
+          "options": {
+            "A": "$18,000",
+            "B": "$36,000",
+            "C": "$27,000",
+            "D": "$9,000"
+          },
+          "answer": "B",
+          "explanation": "占總額 40% 的類別：90,000 × 0.4 = 36,000 → Travel，因支出凍結要砍半（降為 $18,000）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why will the software licenses budget remain unchanged?",
+          "options": {
+            "A": "The vice president has already approved it.",
+            "B": "It is the smallest item in the budget.",
+            "C": "Its price was reduced by the vendor.",
+            "D": "The payments are required by contract."
+          },
+          "answer": "D",
+          "explanation": "costs three times as much as office equipment：3 × 9,000 = 27,000 → Software licenses；原因是 contractual obligations。"
+        },
+        {
+          "id": 4,
+          "prompt": "What must the listener do to move savings into staff training?",
+          "options": {
+            "A": "Obtain written approval from a vice president",
+            "B": "Submit a request directly to the board",
+            "C": "Call the speaker before Thursday",
+            "D": "Reduce the office equipment budget"
+          },
+          "answer": "A",
+          "explanation": "move some of the savings into staff training → need written approval from the vice president of operations。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Quarterly Expenses: Report, Policy E-mail, and Transfer Request",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the e-mail from Ms. Whitcombe?",
+          "options": {
+            "A": "To request a report on third-quarter sales",
+            "B": "To explain new rules for fourth-quarter budgets",
+            "C": "To announce a company-wide hiring freeze",
+            "D": "To approve a department's software purchase"
+          },
+          "answer": "B",
+          "explanation": "內容是超支刪減規則、training 結轉與轉撥規定，屬於 Q4 預算新規則。"
+        },
+        {
+          "id": 2,
+          "prompt": "By what percentage did the Analytics Department's travel spending exceed its budget?",
+          "options": {
+            "A": "7.2 percent",
+            "B": "10 percent",
+            "C": "15 percent",
+            "D": "12 percent"
+          },
+          "answer": "C",
+          "explanation": "55,200 − 48,000 = 7,200；7,200 ÷ 48,000 = 15%。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which category was furthest under budget in percentage terms?",
+          "options": {
+            "A": "Software",
+            "B": "Office supplies",
+            "C": "Travel",
+            "D": "Training"
+          },
+          "answer": "D",
+          "explanation": "Training 少用 8,000 ÷ 20,000 = 40%；Software 只少 2,400 ÷ 30,000 = 8%。Office supplies 與 Travel 是超支。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is indicated about the Analytics Department's total third-quarter spending?",
+          "options": {
+            "A": "It was $2,400 below the total budget.",
+            "B": "It exceeded the total budget by $2,400.",
+            "C": "It was exactly equal to the total budget.",
+            "D": "It was 12 percent below the total budget."
+          },
+          "answer": "A",
+          "explanation": "106,000 − 103,600 = 2,400，總額低於預算（came in below budget）。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is the maximum amount the department may transfer to its software budget?",
+          "options": {
+            "A": "$8,000",
+            "B": "$3,900",
+            "C": "$4,000",
+            "D": "$6,000"
+          },
+          "answer": "C",
+          "explanation": "未用 training = 20,000 − 12,000 = 8,000；up to half → $4,000。"
+        },
+        {
+          "id": 6,
+          "prompt": "How much will the additional licenses cost in total?",
+          "options": {
+            "A": "$1,300",
+            "B": "$3,900",
+            "C": "$2,600",
+            "D": "$4,000"
+          },
+          "answer": "B",
+          "explanation": "3 × $1,300 = $3,900，在可轉撥上限 $4,000 以內。"
+        },
+        {
+          "id": 7,
+          "prompt": "If Mr. Mori's correction is not accepted, what will the department's fourth-quarter travel allocation be?",
+          "options": {
+            "A": "$48,000",
+            "B": "$49,680",
+            "C": "$38,400",
+            "D": "$43,200"
+          },
+          "answer": "D",
+          "explanation": "超支 15% > 12% → Q4 配額減 10%：48,000 × 0.9 = 43,200。注意是以「預算」48,000 計算，不是實際支出。"
+        },
+        {
+          "id": 8,
+          "prompt": "Why does Mr. Mori mention the trip to Denver?",
+          "options": {
+            "A": "To show that his department's travel overspending is below 12 percent",
+            "B": "To request reimbursement for a client visit",
+            "C": "To explain why the licenses are needed",
+            "D": "To ask for a larger training budget"
+          },
+          "answer": "A",
+          "explanation": "扣除 $4,800 後 travel = 50,400，超支 2,400 ÷ 48,000 = 5% < 12%，因此不該被刪減。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Third-quarter revenue was nearly three times _____ it had been a year earlier.",
+          "options": {
+            "A": "as high as",
+            "B": "higher as",
+            "C": "so high than",
+            "D": "the highest"
+          },
+          "answer": "A",
+          "explanation": "倍數 + as + 原級 + as。"
+        },
+        {
+          "id": 2,
+          "prompt": "The new courier charges _____ less for overnight shipping than our previous provider did.",
+          "options": {
+            "A": "very",
+            "B": "so",
+            "C": "considerably",
+            "D": "too"
+          },
+          "answer": "C",
+          "explanation": "比較級 less 前用 considerably 修飾；very 不能修飾比較級。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the department relies on outside contractors, the higher its operating expenses become.",
+          "options": {
+            "A": "More",
+            "B": "The more",
+            "C": "Most",
+            "D": "The most"
+          },
+          "answer": "B",
+          "explanation": "the + 比較級…, the + 比較級：越依賴外包，營運費用越高。"
+        },
+        {
+          "id": 4,
+          "prompt": "Our Singapore branch generated more revenue last quarter than _____ in the region.",
+          "options": {
+            "A": "any branches",
+            "B": "all other branch",
+            "C": "other branch",
+            "D": "any other branch"
+          },
+          "answer": "D",
+          "explanation": "than any other + 單數名詞。"
+        },
+        {
+          "id": 5,
+          "prompt": "Fourth-quarter expenses are expected to be about twice _____ of the third quarter.",
+          "options": {
+            "A": "those",
+            "B": "that",
+            "C": "these",
+            "D": "them"
+          },
+          "answer": "A",
+          "explanation": "比較對象 expenses 為複數，用 those 代替。"
+        },
+        {
+          "id": 6,
+          "prompt": "Net profit increased _____ 12 percent, from $5.0 million to $5.6 million.",
+          "options": {
+            "A": "to",
+            "B": "at",
+            "C": "by",
+            "D": "for"
+          },
+          "answer": "C",
+          "explanation": "increase by 表增加幅度；5.0 × 1.12 = 5.6。"
+        },
+        {
+          "id": 7,
+          "prompt": "The finance team found _____ errors in this quarter's report than in any previous report.",
+          "options": {
+            "A": "less",
+            "B": "fewer",
+            "C": "little",
+            "D": "few"
+          },
+          "answer": "B",
+          "explanation": "errors 可數複數，比較級用 fewer。"
+        },
+        {
+          "id": 8,
+          "prompt": "Of the three proposals, the one from Delmont Partners is by far _____ cost-effective.",
+          "options": {
+            "A": "more",
+            "B": "most of",
+            "C": "the more",
+            "D": "the most"
+          },
+          "answer": "D",
+          "explanation": "by far + the + 最高級；三者以上比較用最高級。"
+        },
+        {
+          "id": 9,
+          "prompt": "The marketing budget is now double _____ it was when the campaign began.",
+          "options": {
+            "A": "which",
+            "B": "that",
+            "C": "what",
+            "D": "how"
+          },
+          "answer": "C",
+          "explanation": "double what it was：what 引導名詞子句，子句內缺補語。"
+        },
+        {
+          "id": 10,
+          "prompt": "Spending on travel was _____ lower than forecast, so no adjustment to the budget is needed.",
+          "options": {
+            "A": "slightly",
+            "B": "slight",
+            "C": "slighter",
+            "D": "slightest"
+          },
+          "answer": "A",
+          "explanation": "副詞 slightly 修飾比較級 lower。"
+        },
+        {
+          "id": 11,
+          "prompt": "Because sales have _____ over the past two quarters, management has decided to delay the expansion.",
+          "options": {
+            "A": "outperformed",
+            "B": "plateaued",
+            "C": "allocated",
+            "D": "surged"
+          },
+          "answer": "B",
+          "explanation": "銷售停滯才會延後擴張；outperform、allocate 需受詞，surge 語意矛盾。"
+        },
+        {
+          "id": 12,
+          "prompt": "The board approved an additional $2 million in capital _____ for the new distribution center.",
+          "options": {
+            "A": "expend",
+            "B": "expended",
+            "C": "expensive",
+            "D": "expenditure"
+          },
+          "answer": "D",
+          "explanation": "capital expenditure 資本支出，需要名詞。"
+        },
+        {
+          "id": 13,
+          "prompt": "Ms. Tran's division posted the second _____ profit margin in the company this year.",
+          "options": {
+            "A": "high",
+            "B": "highest",
+            "C": "higher",
+            "D": "height"
+          },
+          "answer": "B",
+          "explanation": "the second + 最高級 = 第二高。"
+        },
+        {
+          "id": 14,
+          "prompt": "Any department that runs a _____ for two consecutive quarters must submit a cost-reduction plan.",
+          "options": {
+            "A": "deficit",
+            "B": "proportion",
+            "C": "forecast",
+            "D": "margin"
+          },
+          "answer": "A",
+          "explanation": "run a deficit 出現赤字，才需要提出降低成本計畫。"
+        },
+        {
+          "id": 15,
+          "prompt": "Online sales accounted for a larger _____ of total revenue this quarter than ever before.",
+          "options": {
+            "A": "allocation",
+            "B": "expenditure",
+            "C": "proportion",
+            "D": "shortfall"
+          },
+          "answer": "C",
+          "explanation": "a larger proportion of total revenue：占營收比例更高。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "it",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "逗號後非限定關係子句，先行詞是 $18.4 million 這個金額；that 不能接逗號，it 會造成兩個子句缺連接詞。18.4 ÷ 1.15 = 16.0，敘述合理。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "twice",
+            "B": "double of",
+            "C": "two times more",
+            "D": "as twice"
+          },
+          "answer": "A",
+          "explanation": "nearly twice the level（倍數 + the + 名詞）；double of、as twice 不合文法。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which sentence best completes blank [3]?",
+          "options": {
+            "A": "As a result, all stores will close early on Fridays.",
+            "B": "These gains, however, were partly offset by higher shipping costs.",
+            "C": "Our hiring freeze has now been lifted for all positions.",
+            "D": "Shipping costs fell for the third consecutive quarter."
+          },
+          "answer": "B",
+          "explanation": "下一句要「保護利潤率」而限制支出，前句需提出成本壓力；however 銜接前面的好消息。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "Otherwise",
+            "B": "In contrast",
+            "C": "Until then",
+            "D": "As a result"
+          },
+          "answer": "C",
+          "explanation": "下週才會收到新配額，在那之前（Until then）大額採購需書面核准。"
+        }
+      ]
+    },
+    {
+      "id": "day-53-quiz",
+      "title": "Day 53 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Our shipping costs were 40 percent _____ in the third quarter than in the second.",
+          "options": {
+            "A": "higher",
+            "B": "high",
+            "C": "highest",
+            "D": "more high"
+          },
+          "answer": "A",
+          "explanation": "百分比 + 比較級 + than。"
+        },
+        {
+          "id": 2,
+          "prompt": "The more accurate the forecast is, _____ the department can allocate its resources.",
+          "options": {
+            "A": "efficiently",
+            "B": "more efficient",
+            "C": "the most efficient",
+            "D": "the more efficiently"
+          },
+          "answer": "D",
+          "explanation": "the + 比較級…, the + 比較級；修飾動詞 allocate 要用副詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "We cannot afford another cost _____ like the one on the warehouse project.",
+          "options": {
+            "A": "surplus",
+            "B": "overrun",
+            "C": "earnings",
+            "D": "proportion"
+          },
+          "answer": "B",
+          "explanation": "cost overrun 成本超支。"
+        },
+        {
+          "id": 4,
+          "prompt": "The new accounting software costs half _____ the old system did.",
+          "options": {
+            "A": "as many as",
+            "B": "more than",
+            "C": "as much as",
+            "D": "so much"
+          },
+          "answer": "C",
+          "explanation": "分數倍數 + as much as；cost 是金額，用 much。"
+        },
+        {
+          "id": 5,
+          "prompt": "When asked whether the travel budget should be cut, a director says, \"Travel is the only category that came in under budget.\" What does the director imply?",
+          "options": {
+            "A": "Cutting the travel budget is unnecessary.",
+            "B": "Travel spending should be increased immediately.",
+            "C": "The budget report contains an error.",
+            "D": "Other departments should reduce their travel."
+          },
+          "answer": "A",
+          "explanation": "間接回應：唯一低於預算的類別，不需要刪減。"
+        },
+        {
+          "id": 6,
+          "prompt": "A department's quarterly budget was $60,000, and it spent $66,000. By what percentage did it exceed its budget?",
+          "options": {
+            "A": "6 percent",
+            "B": "9 percent",
+            "C": "11 percent",
+            "D": "10 percent"
+          },
+          "answer": "D",
+          "explanation": "6,000 ÷ 60,000 = 10%；分母是預算不是實際支出。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ fourth-quarter revenue fall short of the forecast, the board will postpone the expansion.",
+          "options": {
+            "A": "If",
+            "B": "Should",
+            "C": "Were",
+            "D": "Had"
+          },
+          "answer": "B",
+          "explanation": "複習 Day 51：Should + 主詞 + 原形動詞 = If ... should 的倒裝。"
+        },
+        {
+          "id": 8,
+          "prompt": "The analyst asked _____ the figures included the refunds issued in October.",
+          "options": {
+            "A": "what",
+            "B": "which",
+            "C": "whether",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "複習 Day 52：ask whether + 完整子句，表「是否」。"
+        },
+        {
+          "id": 9,
+          "prompt": "Of all our product lines, outdoor gear showed _____ growth this year.",
+          "options": {
+            "A": "the strongest",
+            "B": "stronger",
+            "C": "the stronger",
+            "D": "strongest of"
+          },
+          "answer": "A",
+          "explanation": "Of all… 範圍內比較，用 the + 最高級。"
+        },
+        {
+          "id": 10,
+          "prompt": "Prices of raw materials tend to _____ throughout the year, which makes accurate forecasting difficult.",
+          "options": {
+            "A": "allocate",
+            "B": "outperform",
+            "C": "carry over",
+            "D": "fluctuate"
+          },
+          "answer": "D",
+          "explanation": "fluctuate 波動，造成預測困難。"
+        },
+        {
+          "id": 11,
+          "prompt": "Quarterly revenue: Q1 $2.0 million, Q2 $2.5 million, Q3 $3.0 million, Q4 $3.9 million. A speaker says, \"We launched our app in the quarter when revenue grew by exactly 20 percent over the previous quarter.\" When was the app launched?",
+          "options": {
+            "A": "Q1",
+            "B": "Q2",
+            "C": "Q3",
+            "D": "Q4"
+          },
+          "answer": "C",
+          "explanation": "Q2：2.5 ÷ 2.0 = +25%；Q3：3.0 ÷ 2.5 = +20%；Q4：3.9 ÷ 3.0 = +30%。答案 Q3。"
+        },
+        {
+          "id": 12,
+          "prompt": "Unused funds in the training budget may not be _____ over into the next fiscal year.",
+          "options": {
+            "A": "taken",
+            "B": "carried",
+            "C": "brought",
+            "D": "held"
+          },
+          "answer": "B",
+          "explanation": "carry over 結轉到下一期。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握季度預算、財報與超支相關字彙；熟練倍數三型、that / those 比較對象、the + 比較級…, the + 比較級與 by / to 增減幅度；Part 4 圖表題把「倍數、排名、比例」換算回圖表項目，Part 7 計算題以最後一封信的更正資訊重新驗算。",
+  "nextDay": "辦公室租賃與設施維修／Part 7 句子插入題／名詞子句 whether / if / that／Part 3 維修排程對話"
+}
