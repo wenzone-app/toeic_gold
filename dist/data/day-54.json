@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 54,
+  "title": "辦公室租賃與設施維修、Part 7 句子插入題與名詞子句 whether / if / that",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 54 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 54 學習概覽",
+      "markdown": "- 掌握辦公室租賃、租約條款與設施維修相關字彙\n- 熟練名詞子句：whether / if 的使用限制、It + be + 形容詞 + that、同位語 the fact that、間接問句語序、要求類動詞 + that + 原形動詞\n- 解 Part 7 句子插入題：用代名詞、轉折詞與時間順序找出插入句的前後文\n- 整合租約條款、維修申請表與追蹤 Email，判斷責任歸屬並計算可扣抵金額\n- 練習 Part 3 維修排程對話與租屋比較圖表題、Part 4 大樓公告的時程變更\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| lease agreement | 租賃合約 | sign a five-year lease agreement |\n| landlord | 房東；出租人 | negotiate with the landlord |\n| tenant | 承租人；房客 | notify all tenants |\n| premises | 場地；建物（複數形） | on the premises |\n| square footage | 面積（平方英尺數） | increase our square footage |\n| lease term | 租期 | a three-year lease term |\n| renewal option | 續約選擇權 | exercise the renewal option |\n| security deposit | 押金 | refund the security deposit |\n| sublease | 轉租 | sublease part of the floor |\n| common area | 公共區域 | common area maintenance fees |\n| occupancy | 進駐；使用率 | the date of occupancy |\n| vacate | 搬離；騰空 | vacate the premises |\n| facilities manager | 設施經理 | contact the facilities manager |\n| maintenance request | 維修申請 | submit a maintenance request |\n| work order | 工單 | issue a work order |\n| HVAC system | 空調系統（暖氣、通風、空調） | service the HVAC system |\n| plumbing | 管線；水管工程 | plumbing repairs |\n| leak | 漏水；滲漏 | repair a leak in the ceiling |\n| malfunction | 故障 | the elevator malfunctioned |\n| inspection | 檢查；查驗 | a routine safety inspection |\n| renovation | 翻修；整修 | undergo renovation |\n| contractor | 承包商 | hire a licensed contractor |\n| custodial staff | 清潔人員 | the custodial staff |\n| shut off | 關閉（水電等） | the water will be shut off |\n| outage | 停電；（服務）中斷 | a scheduled power outage |\n| temporarily | 暫時地 | be temporarily closed |\n| accessible | 可進入的；可使用的 | remain accessible to tenants |\n| adjacent | 鄰近的；隔壁的 | adjacent to the lobby |\n| utilities | 水電瓦斯（費） | utilities are included in the rent |\n| wear and tear | 正常耗損 | normal wear and tear |"
+    },
+    {
+      "title": "② 今日文法｜名詞子句 whether / if / that",
+      "markdown": "主題：**名詞子句 whether / if / that（含間接問句語序、同位語 that、要求類動詞 + 原形動詞）**\n\n### 規則 1｜whether 與 if：只能用 whether 的四個位置\n\nif 只能放在及物動詞後當受詞（ask / know / wonder if…）。放句首當主詞、接在介系詞後、接 to 不定詞（whether to V），或緊接 or not 時，只能用 whether。\n\n> Whether the landlord will cover the repair costs has not yet been decided.\n\n### 規則 2｜that 子句當主詞多改用 It 當虛主詞\n\nThat 子句放句首當主詞時 that 不可省略，但正式英文更常寫成 It + be + 形容詞／名詞 + that；that 子句當動詞受詞時，that 可以省略。\n\n> It is likely that the renovation will be completed ahead of schedule.\n\n### 規則 3｜同位語 that：the fact / news / possibility + that + 完整子句\n\n同位語 that 說明前面名詞的「內容」，後面是完整子句，不缺主詞或受詞；這點和關係代名詞 that 不同。介系詞後不能直接接 that 子句，要用 the fact that。\n\n> Despite the fact that the HVAC system was serviced last month, several tenants have complained about the temperature.\n\n### 規則 4｜間接問句用直述句語序\n\n疑問詞或 whether / if 引導的名詞子句，語序是「疑問詞 + 主詞 + 動詞」，不可倒裝，也不用 do / does / did。\n\n> Could you tell me when the technician will arrive?\n\n### 規則 5｜要求、建議類 + that + (should) + 原形動詞\n\nrequire、request、recommend、insist、suggest，以及 It is essential / necessary / important that 之後的子句用原形動詞，不隨主詞或時態變化；被動要寫 be + p.p.。\n\n> The lease requires that the tenant notify the landlord at least ninety days before vacating the premises."
+    },
+    {
+      "title": "03 Listening｜Reporting a Broken Air Conditioner",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Hi, this is Hana Okafor from Brightline Analytics on the twelfth floor. The air-conditioning in our large conference room stopped working this morning, and it's already uncomfortably warm in there. Man: Sorry to hear that. I'll create a work order right away. Do you know whether the problem affects the rest of your floor? Woman: It's just that room, as far as I can tell. The thing is, we're hosting a client presentation there on Thursday morning. Man: Our HVAC technician is fully booked tomorrow, but he could come on Wednesday at five thirty, after most of your staff have gone home. Woman: That should work. Will someone from our office need to be there? Man: No, building security can let him in. But he may have to shut off power to that side of the floor for about an hour, so please make sure that everyone saves their work and turns off their computers before leaving. Woman: Understood. I'll send a reminder to my team this afternoon."
+    },
+    {
+      "title": "04 Listening｜Elevator Modernization Update",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Elevator Modernization Schedule\n\n| Elevator | Closed |\n|---|---|\n| Elevator A | May 4–8 |\n| Elevator B | May 11–15 |\n| Elevator C | May 18–22 |\n| Freight elevator | May 25–29 |\n\n聽力稿：\n\n> Attention, tenants of Lakeside Tower. This is Simone Achebe from building management with an update on the elevator modernization project. As you know, each of the building's four elevators will be closed for one week while a new control system is installed. The full schedule is posted in the lobby. There has been one change, however. The parts for Elevator B have been delayed, so that elevator will now be renovated during the week of June first, after work on the freight elevator is finished. This means that during the week originally scheduled for Elevator B, all three passenger elevators will remain in service. Also, please keep in mind that while the freight elevator is closed, large deliveries must be brought up in Elevator C, and only before eight A.M. If you're expecting furniture or equipment that week, please contact the management office so that we can reserve a time slot for you. Finally, several of you have asked whether the project will affect access to the parking garage. It won't. The garage has its own elevator, which is not part of this project."
+    },
+    {
+      "title": "05 Listening｜Choosing a New Office Suite",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Available Suites, Crestfield Tower\n\n| Suite | Size | Monthly Rent |\n|---|---|---|\n| Suite 210 | 2,400 sq ft | $9,600 |\n| Suite 450 | 3,000 sq ft | $11,400 |\n| Suite 610 | 3,200 sq ft | $13,500 |\n| Suite 820 | 3,600 sq ft | $14,000 |\n\n聽力稿：\n\n> Man: Ms. Novak, thanks for coming in. Based on what you told me last week, I've narrowed the options in Crestfield Tower down to four suites. They're listed on this sheet. Woman: Thanks, Andre. As I mentioned, we need at least three thousand square feet, so Suite 210 is out. What about Suite 450? The rent is well within our budget. Man: It is, but I should mention that the building next door is being renovated, and that suite faces the construction site. The work is expected to continue until next spring. Woman: Hmm. Our designers need a quiet space, so I don't think that would work. Fortunately, our director has agreed to raise our limit to fourteen thousand dollars a month. Man: In that case, both Suite 610 and Suite 820 are possible. Keep in mind, though, that the landlord requires a five-year lease term for the eighth floor. The sixth-floor suite has a three-year term with a renewal option. Woman: We'd rather not commit to more than three years at this point. Let's go with the sixth floor. Man: Good choice. I'll call the landlord this afternoon and ask whether they'd accept a security deposit of two months' rent instead of three."
+    },
+    {
+      "title": "⑥ Reading｜Lease Terms, Maintenance Request, and Follow-up E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Lease Agreement (Excerpt)\n\n> Section 7: Maintenance and Repairs\n>\n> 7.1 The Landlord shall be responsible for repairs to the building's structure, roof, elevators, and central HVAC system, as well as to any plumbing located behind walls or beneath floors.\n>\n> 7.2 The Tenant shall be responsible for repairs to fixtures and equipment installed by the Tenant, including kitchen appliances, and for any damage beyond normal wear and tear.\n>\n> 7.3 Non-emergency maintenance requests must be submitted through the tenant portal, and the Landlord shall respond within two business days. Emergencies, defined as water leaks, power failures, or security problems, shall be addressed within four hours.\n>\n> 7.4 If the Landlord fails to complete a repair for which it is responsible within fifteen business days of a request, the Tenant may have the repair performed by a licensed contractor and deduct the cost from the following month's rent, up to a maximum of $3,000.\n\n用途：參考文件\n\n### Maintenance Request Form\n\n> Harwick Commons Tenant Portal, Request #4471\n>\n> Submitted: Monday, March 2, 9:15 A.M.\n> Tenant: Corvell Design Studio, Suite 305\n> Contact: Elif Arslan, Office Manager\n> Category: Plumbing\n> Priority: Non-emergency\n>\n> Description: The sink in our kitchenette drains very slowly, and there is a small stain on the ceiling of the adjacent storage room. We are not sure whether the two problems are related. The dishwasher, which we installed last year, also leaks occasionally.\n\n用途：參考文件\n\n### E-mail\n\n> From: Elif Arslan\n> To: Rafael Duarte, Building Manager\n> Date: March 24\n> Subject: Request #4471\n>\n> Dear Mr. Duarte, I am writing about the maintenance request I submitted on March 2. A technician inspected our kitchenette on March 4 and confirmed that a pipe behind the wall was leaking. — [1] —. However, no repair has been scheduled since then. Last Friday, the stain on the storage room ceiling grew considerably, and several boxes of printed catalogs were damaged. — [2] —. Under Section 7.4 of our lease, we are now entitled to hire our own contractor. — [3] —. We have received a quote of $3,800 from Pellham Plumbing, which could begin work on Thursday. Please let me know by Wednesday whether your team can complete the repair this week; otherwise, we will proceed with Pellham. — [4] —. As for the dishwasher, we have already arranged for the manufacturer to replace it at our own expense.\n>\n> Sincerely,\n> Elif Arslan\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Tenants, Harborview Plaza\n> From: Building Management Office\n> Subject: Scheduled Water Shutoff\n>\n> Please be advised that the water supply to all floors will be shut off on Saturday, June 13, from 7:00 A.M. to 3:00 P.M. During this time, contractors will replace the building's main valve, [1] _____ has been in service since the building opened in 1998.\n>\n> Restrooms on all floors will be closed while the work is under way. [2] _____ Tenants who plan to be on the premises that day may use the facilities in the adjacent parking garage.\n>\n> We asked the contractor [3] _____ the work could be completed sooner. Unfortunately, the inspection required by the city cannot begin until the new valve has been installed.\n>\n> [4] _____, if you notice any leaks or low water pressure after the work is complete, please submit a maintenance request through the tenant portal."
+    },
+    {
+      "title": "⑨ Day 54 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 51、Day 52、Day 53**。\n\n### 複習重點\n- whether vs if：句首主詞、介系詞後、whether to V、whether or not 只能用 whether\n- 介系詞後不能直接接 that 子句，要用 the fact that；同位語 that 後面是完整子句\n- 間接問句用直述句語序：tell me when the technician will arrive（不是 will the technician arrive）\n- require / recommend / It is essential that + 主詞 + 原形動詞（被動用 be + p.p.）\n- Part 7 句子插入題：先看插入句中的代名詞、指示詞（this / such / these）、轉折詞（however / as a result），再找能承接的前一句\n- Part 7 租約題：先找「誰負責」的條款，再套用條件（天數、金額上限），最後一封信常帶出例外\n- 複習 Day 51：Should 倒裝條件、證據衝突以最新文件為準\n- 複習 Day 52：what / that / whether 名詞子句、whoever 的格\n- 複習 Day 53：倍數三型、that / those 比較對象、increase by / to\n\n### 錯題標籤\n- `G`：Grammar\n- `NC`：Noun Clause\n- `SUBJ`：Subjunctive（原形動詞）\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `DETAIL`：Key Detail\n- `INS`：Sentence Insertion\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個租屋或設施維修情境的句子。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；把每一題 whether / if / that 的選擇理由用一句話寫下來。\n- 把 5 個直接問句改寫成間接問句（例：When will the elevator be repaired? → Do you know when the elevator will be repaired?）。\n- Reading 句子插入題重做：寫出插入句中哪個字（our repeated calls / however）決定了位置。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿；第二、三組先看圖表，預測哪一列會被「更改」或「排除」。\n- Day 54 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "lease agreement",
+      "meaning": "租賃合約",
+      "phrase": "sign a five-year lease agreement"
+    },
+    {
+      "id": 2,
+      "word": "landlord",
+      "meaning": "房東；出租人",
+      "phrase": "negotiate with the landlord"
+    },
+    {
+      "id": 3,
+      "word": "tenant",
+      "meaning": "承租人；房客",
+      "phrase": "notify all tenants"
+    },
+    {
+      "id": 4,
+      "word": "premises",
+      "meaning": "場地；建物（複數形）",
+      "phrase": "on the premises"
+    },
+    {
+      "id": 5,
+      "word": "square footage",
+      "meaning": "面積（平方英尺數）",
+      "phrase": "increase our square footage"
+    },
+    {
+      "id": 6,
+      "word": "lease term",
+      "meaning": "租期",
+      "phrase": "a three-year lease term"
+    },
+    {
+      "id": 7,
+      "word": "renewal option",
+      "meaning": "續約選擇權",
+      "phrase": "exercise the renewal option"
+    },
+    {
+      "id": 8,
+      "word": "security deposit",
+      "meaning": "押金",
+      "phrase": "refund the security deposit"
+    },
+    {
+      "id": 9,
+      "word": "sublease",
+      "meaning": "轉租",
+      "phrase": "sublease part of the floor"
+    },
+    {
+      "id": 10,
+      "word": "common area",
+      "meaning": "公共區域",
+      "phrase": "common area maintenance fees"
+    },
+    {
+      "id": 11,
+      "word": "occupancy",
+      "meaning": "進駐；使用率",
+      "phrase": "the date of occupancy"
+    },
+    {
+      "id": 12,
+      "word": "vacate",
+      "meaning": "搬離；騰空",
+      "phrase": "vacate the premises"
+    },
+    {
+      "id": 13,
+      "word": "facilities manager",
+      "meaning": "設施經理",
+      "phrase": "contact the facilities manager"
+    },
+    {
+      "id": 14,
+      "word": "maintenance request",
+      "meaning": "維修申請",
+      "phrase": "submit a maintenance request"
+    },
+    {
+      "id": 15,
+      "word": "work order",
+      "meaning": "工單",
+      "phrase": "issue a work order"
+    },
+    {
+      "id": 16,
+      "word": "HVAC system",
+      "meaning": "空調系統（暖氣、通風、空調）",
+      "phrase": "service the HVAC system"
+    },
+    {
+      "id": 17,
+      "word": "plumbing",
+      "meaning": "管線；水管工程",
+      "phrase": "plumbing repairs"
+    },
+    {
+      "id": 18,
+      "word": "leak",
+      "meaning": "漏水；滲漏",
+      "phrase": "repair a leak in the ceiling"
+    },
+    {
+      "id": 19,
+      "word": "malfunction",
+      "meaning": "故障",
+      "phrase": "the elevator malfunctioned"
+    },
+    {
+      "id": 20,
+      "word": "inspection",
+      "meaning": "檢查；查驗",
+      "phrase": "a routine safety inspection"
+    },
+    {
+      "id": 21,
+      "word": "renovation",
+      "meaning": "翻修；整修",
+      "phrase": "undergo renovation"
+    },
+    {
+      "id": 22,
+      "word": "contractor",
+      "meaning": "承包商",
+      "phrase": "hire a licensed contractor"
+    },
+    {
+      "id": 23,
+      "word": "custodial staff",
+      "meaning": "清潔人員",
+      "phrase": "the custodial staff"
+    },
+    {
+      "id": 24,
+      "word": "shut off",
+      "meaning": "關閉（水電等）",
+      "phrase": "the water will be shut off"
+    },
+    {
+      "id": 25,
+      "word": "outage",
+      "meaning": "停電；（服務）中斷",
+      "phrase": "a scheduled power outage"
+    },
+    {
+      "id": 26,
+      "word": "temporarily",
+      "meaning": "暫時地",
+      "phrase": "be temporarily closed"
+    },
+    {
+      "id": 27,
+      "word": "accessible",
+      "meaning": "可進入的；可使用的",
+      "phrase": "remain accessible to tenants"
+    },
+    {
+      "id": 28,
+      "word": "adjacent",
+      "meaning": "鄰近的；隔壁的",
+      "phrase": "adjacent to the lobby"
+    },
+    {
+      "id": 29,
+      "word": "utilities",
+      "meaning": "水電瓦斯（費）",
+      "phrase": "utilities are included in the rent"
+    },
+    {
+      "id": 30,
+      "word": "wear and tear",
+      "meaning": "正常耗損",
+      "phrase": "normal wear and tear"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Reporting a Broken Air Conditioner",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the woman calling?",
+          "options": {
+            "A": "To reserve a conference room",
+            "B": "To report an equipment problem",
+            "C": "To ask about a client's visit",
+            "D": "To request a new security badge"
+          },
+          "answer": "B",
+          "explanation": "The air-conditioning in our large conference room stopped working：通報設備故障。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman say will happen on Thursday?",
+          "options": {
+            "A": "A technician will inspect the entire floor.",
+            "B": "Her office will move to another floor.",
+            "C": "Power will be shut off for an hour.",
+            "D": "A client presentation will take place."
+          },
+          "answer": "D",
+          "explanation": "we're hosting a client presentation there on Thursday morning。停電是週三維修時可能發生，不是週四。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman most likely do this afternoon?",
+          "options": {
+            "A": "Notify her coworkers",
+            "B": "Let a technician into the office",
+            "C": "Call building security",
+            "D": "Move a meeting to another room"
+          },
+          "answer": "A",
+          "explanation": "男子請她確保大家下班前存檔關機，她回答 I'll send a reminder to my team this afternoon；保全會幫技師開門，她不用到場。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Elevator Modernization Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main topic of the announcement?",
+          "options": {
+            "A": "A new parking policy",
+            "B": "A building security upgrade",
+            "C": "An elevator renovation project",
+            "D": "A change in delivery companies"
+          },
+          "answer": "C",
+          "explanation": "an update on the elevator modernization project。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. Which dates on the schedule are no longer accurate?",
+          "options": {
+            "A": "May 4–8",
+            "B": "May 11–15",
+            "C": "May 18–22",
+            "D": "May 25–29"
+          },
+          "answer": "B",
+          "explanation": "Elevator B 的零件延誤，改到 6 月 1 日那週；原本的 May 11–15 已不正確。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are tenants expecting large deliveries during the freight elevator closure asked to do?",
+          "options": {
+            "A": "Use the parking garage elevator",
+            "B": "Schedule deliveries for the weekend",
+            "C": "Contact the management office",
+            "D": "Postpone the deliveries until June"
+          },
+          "answer": "C",
+          "explanation": "please contact the management office so that we can reserve a time slot for you；且只能在早上 8 點前用 Elevator C 運送。"
+        },
+        {
+          "id": 4,
+          "prompt": "What does the speaker say about the parking garage?",
+          "options": {
+            "A": "It will not be affected by the project.",
+            "B": "It will be closed on June 1.",
+            "C": "Its elevator will be replaced next.",
+            "D": "It will be used for storing deliveries."
+          },
+          "answer": "A",
+          "explanation": "whether the project will affect access to the parking garage. It won't — 車庫電梯不在工程範圍內。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Choosing a New Office Suite",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the man?",
+          "options": {
+            "A": "A building engineer",
+            "B": "An interior designer",
+            "C": "A construction supervisor",
+            "D": "A commercial real estate agent"
+          },
+          "answer": "D",
+          "explanation": "他為客戶把 Crestfield Tower 的辦公空間篩選成四間，並代為聯絡房東，是商用不動產仲介。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the woman reject Suite 450?",
+          "options": {
+            "A": "It is too small for her staff.",
+            "B": "It would be affected by construction noise.",
+            "C": "It is above her company's budget.",
+            "D": "It requires a five-year lease."
+          },
+          "answer": "B",
+          "explanation": "Suite 450 面對隔壁的施工工地，Our designers need a quiet space。面積 3,000 平方英尺符合需求、租金也在預算內。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. How much rent will the woman's company most likely pay each month?",
+          "options": {
+            "A": "$9,600",
+            "B": "$11,400",
+            "C": "$13,500",
+            "D": "$14,000"
+          },
+          "answer": "C",
+          "explanation": "最後選擇 sixth floor（Suite 610，三年租期附續約權），月租 $13,500；820 要簽五年。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man ask the landlord about?",
+          "options": {
+            "A": "Extending the lease term",
+            "B": "Lowering the monthly rent",
+            "C": "Reducing the security deposit",
+            "D": "Moving in earlier than planned"
+          },
+          "answer": "C",
+          "explanation": "ask whether they'd accept a security deposit of two months' rent instead of three：降低押金。注意 whether 引導名詞子句當 ask 的受詞。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Lease Terms, Maintenance Request, and Follow-up E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the e-mail?",
+          "options": {
+            "A": "To report a new problem with the dishwasher",
+            "B": "To request a refund of a security deposit",
+            "C": "To follow up on a repair that has not been made",
+            "D": "To complain about a contractor's high quote"
+          },
+          "answer": "C",
+          "explanation": "信件追蹤 3 月 2 日提出、至今尚未安排的漏水維修，並告知可能自行請承包商。"
+        },
+        {
+          "id": 2,
+          "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"He told us at that time that a replacement section of pipe would need to be ordered.\"",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "A",
+          "explanation": "插入句的 He 指前一句的 technician，at that time 指 3 月 4 日檢查時；後句 However, no repair has been scheduled since then 與「需要訂零件」形成轉折，所以放 [1]。"
+        },
+        {
+          "id": 3,
+          "prompt": "According to the lease, who is responsible for repairing the leaking pipe?",
+          "options": {
+            "A": "Corvell Design Studio",
+            "B": "The dishwasher manufacturer",
+            "C": "Pellham Plumbing",
+            "D": "The landlord"
+          },
+          "answer": "D",
+          "explanation": "漏水的是 a pipe behind the wall；Section 7.1 規定牆內與地板下的管線由 Landlord 負責。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is indicated about the dishwasher?",
+          "options": {
+            "A": "It caused the stain on the storage room ceiling.",
+            "B": "Corvell Design Studio is responsible for it under the lease.",
+            "C": "It will be repaired by Pellham Plumbing on Thursday.",
+            "D": "It was installed by the building's contractor."
+          },
+          "answer": "B",
+          "explanation": "申請表寫 The dishwasher, which we installed last year；依 7.2 承租人自行安裝的設備由承租人負責，所以信中說 at our own expense。"
+        },
+        {
+          "id": 5,
+          "prompt": "What is suggested about Request #4471?",
+          "options": {
+            "A": "It was submitted through the wrong system.",
+            "B": "It was answered within four hours.",
+            "C": "It concerned a problem caused by the tenant.",
+            "D": "It could have been classified as an emergency."
+          },
+          "answer": "D",
+          "explanation": "7.3 把 water leaks 定義為 emergency，但申請表選的是 Non-emergency；實際上屬於漏水，可列為緊急。"
+        },
+        {
+          "id": 6,
+          "prompt": "If Corvell Design Studio hires its own contractor, what is the maximum amount it may deduct from its rent?",
+          "options": {
+            "A": "$1,500",
+            "B": "$2,000",
+            "C": "$3,000",
+            "D": "$3,800"
+          },
+          "answer": "C",
+          "explanation": "7.4：deduct the cost … up to a maximum of $3,000。"
+        },
+        {
+          "id": 7,
+          "prompt": "If Pellham Plumbing does the work for the quoted price, how much will Corvell Design Studio ultimately pay after the maximum rent deduction?",
+          "options": {
+            "A": "$800",
+            "B": "$3,000",
+            "C": "$3,800",
+            "D": "$0"
+          },
+          "answer": "A",
+          "explanation": "報價 $3,800 − 可扣抵上限 $3,000 = $800 自行負擔。"
+        },
+        {
+          "id": 8,
+          "prompt": "In the e-mail, the word \"considerably\" is closest in meaning to",
+          "options": {
+            "A": "carefully",
+            "B": "significantly",
+            "C": "unexpectedly",
+            "D": "respectfully"
+          },
+          "answer": "B",
+          "explanation": "grew considerably = 明顯地、大幅地變大 = significantly。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ the landlord will renew the lease at the current rate remains uncertain.",
+          "options": {
+            "A": "If",
+            "B": "That",
+            "C": "Whether",
+            "D": "What"
+          },
+          "answer": "C",
+          "explanation": "名詞子句放句首當主詞，表「是否」只能用 Whether；That 表確定的事實，與 uncertain 矛盾；What 後要接不完整子句。"
+        },
+        {
+          "id": 2,
+          "prompt": "The facilities manager asked _____ the technician could arrive before noon.",
+          "options": {
+            "A": "if",
+            "B": "what",
+            "C": "that",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "ask + if / whether 表「詢問是否」；if 當動詞受詞可以使用。"
+        },
+        {
+          "id": 3,
+          "prompt": "The lease requires that the tenant _____ the landlord at least 90 days before vacating the premises.",
+          "options": {
+            "A": "notifies",
+            "B": "notified",
+            "C": "notifying",
+            "D": "notify"
+          },
+          "answer": "D",
+          "explanation": "require that + 主詞 + (should) + 原形動詞，不加 -s。"
+        },
+        {
+          "id": 4,
+          "prompt": "Please let us know _____ the signed work orders should be sent.",
+          "options": {
+            "A": "what",
+            "B": "where",
+            "C": "that",
+            "D": "whom"
+          },
+          "answer": "B",
+          "explanation": "should be sent 子句完整，缺的是地點；what 需接不完整子句，that 不表疑問，whom 缺受詞位置。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ the HVAC system was serviced last month, several tenants have complained about the temperature.",
+          "options": {
+            "A": "Despite the fact that",
+            "B": "Despite",
+            "C": "Whether",
+            "D": "Because of"
+          },
+          "answer": "A",
+          "explanation": "後面是完整子句，介系詞 Despite / Because of 不能直接接子句，要用 Despite the fact that（同位語 that）。"
+        },
+        {
+          "id": 6,
+          "prompt": "Tenants have expressed concern about _____ the renovation will affect access to the parking garage.",
+          "options": {
+            "A": "that",
+            "B": "if",
+            "C": "what",
+            "D": "whether"
+          },
+          "answer": "D",
+          "explanation": "介系詞 about 之後，表「是否」只能用 whether；if 不能接在介系詞後，that 子句也不能直接當介系詞受詞。"
+        },
+        {
+          "id": 7,
+          "prompt": "It is essential that all personal belongings _____ from the common area before Saturday.",
+          "options": {
+            "A": "remove",
+            "B": "be removed",
+            "C": "are removing",
+            "D": "will remove"
+          },
+          "answer": "B",
+          "explanation": "It is essential that + 原形；物品是「被移除」，所以用被動 be removed。"
+        },
+        {
+          "id": 8,
+          "prompt": "The news _____ the water would be shut off for six hours surprised many tenants.",
+          "options": {
+            "A": "that",
+            "B": "which",
+            "C": "what",
+            "D": "whether"
+          },
+          "answer": "A",
+          "explanation": "同位語 that 說明 news 的內容，後接完整子句；which 是關係代名詞，後面應缺成分。"
+        },
+        {
+          "id": 9,
+          "prompt": "Could you tell me when _____?",
+          "options": {
+            "A": "will the contractor arrive",
+            "B": "does the contractor arrive",
+            "C": "the contractor will arrive",
+            "D": "arrives the contractor"
+          },
+          "answer": "C",
+          "explanation": "間接問句用直述句語序：疑問詞 + 主詞 + 動詞。"
+        },
+        {
+          "id": 10,
+          "prompt": "Under the terms of the lease, the tenant is not responsible for normal _____ and tear.",
+          "options": {
+            "A": "use",
+            "B": "damage",
+            "C": "aging",
+            "D": "wear"
+          },
+          "answer": "D",
+          "explanation": "固定搭配 normal wear and tear（正常耗損）。"
+        },
+        {
+          "id": 11,
+          "prompt": "The security deposit will be refunded once the tenant has _____ the premises and the final inspection is complete.",
+          "options": {
+            "A": "vacated",
+            "B": "evacuated",
+            "C": "deserted",
+            "D": "abolished"
+          },
+          "answer": "A",
+          "explanation": "vacate the premises 搬離租用場地；evacuate 是緊急疏散，deserted 是遺棄，abolish 是廢除制度。"
+        },
+        {
+          "id": 12,
+          "prompt": "Monthly rent includes all _____, such as electricity, water, and heating.",
+          "options": {
+            "A": "facilities",
+            "B": "utilities",
+            "C": "amenities",
+            "D": "commodities"
+          },
+          "answer": "B",
+          "explanation": "electricity、water、heating 屬於 utilities（水電瓦斯）。"
+        },
+        {
+          "id": 13,
+          "prompt": "The board will decide in June _____ to exercise the renewal option on the downtown office.",
+          "options": {
+            "A": "if",
+            "B": "that",
+            "C": "whether",
+            "D": "what"
+          },
+          "answer": "C",
+          "explanation": "表「是否」+ to 不定詞，只能用 whether to V。"
+        },
+        {
+          "id": 14,
+          "prompt": "Because the main elevator has _____ twice this month, the landlord has hired a new maintenance contractor.",
+          "options": {
+            "A": "expired",
+            "B": "deteriorated",
+            "C": "interrupted",
+            "D": "malfunctioned"
+          },
+          "answer": "D",
+          "explanation": "電梯「故障」用 malfunction；expire 是到期，interrupt 需要受詞，deteriorate 是逐漸惡化，與 twice 不搭。"
+        },
+        {
+          "id": 15,
+          "prompt": "It is likely _____ the renovation of the lobby will be completed ahead of schedule.",
+          "options": {
+            "A": "that",
+            "B": "what",
+            "C": "whether",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "It is likely that + 完整子句（虛主詞 it 代替 that 子句）；likely 表示傾向肯定，不用 whether。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "it",
+            "B": "what",
+            "C": "that",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "逗號後的非限定關係子句，先行詞是 the building's main valve；that 不能接在逗號後，it 會讓兩個子句缺少連接詞。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best completes blank [2]?",
+          "options": {
+            "A": "The new valve comes with a twenty-year warranty.",
+            "B": "Drinking fountains and kitchenette sinks will also be unavailable.",
+            "C": "The parking garage will be closed for cleaning that day.",
+            "D": "Thank you for completing last month's tenant survey."
+          },
+          "answer": "B",
+          "explanation": "前句說廁所關閉，後句提供替代設施；插入句補充「其他用水設施也不能用」最連貫。停車場關閉與後句矛盾。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "whether",
+            "B": "that",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "asked + 人 + whether…：詢問是否能提前完工；後句 Unfortunately 表示答案是否定的。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "Otherwise",
+            "B": "Nevertheless",
+            "C": "For example",
+            "D": "Finally"
+          },
+          "answer": "D",
+          "explanation": "公告最後一項提醒，用 Finally 收尾；前後沒有對比或舉例關係。"
+        }
+      ]
+    },
+    {
+      "id": "day-54-quiz",
+      "title": "Day 54 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The property manager could not say _____ the leak was coming from.",
+          "options": {
+            "A": "whether",
+            "B": "where",
+            "C": "that",
+            "D": "what"
+          },
+          "answer": "B",
+          "explanation": "coming from 後缺地點，用 where；whether / that 後要接完整子句。"
+        },
+        {
+          "id": 2,
+          "prompt": "It is recommended that each tenant _____ a copy of the evacuation map near the entrance.",
+          "options": {
+            "A": "keep",
+            "B": "keeps",
+            "C": "kept",
+            "D": "keeping"
+          },
+          "answer": "A",
+          "explanation": "It is recommended that + 主詞 + 原形動詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the lease includes a renewal option should be confirmed before we sign.",
+          "options": {
+            "A": "If",
+            "B": "What",
+            "C": "Which",
+            "D": "Whether"
+          },
+          "answer": "D",
+          "explanation": "名詞子句當主詞只能用 Whether。"
+        },
+        {
+          "id": 4,
+          "prompt": "The landlord agreed to pay for the repairs, provided that the damage was not caused by the _____.",
+          "options": {
+            "A": "tenancy",
+            "B": "tenant",
+            "C": "tenanted",
+            "D": "tenants'"
+          },
+          "answer": "B",
+          "explanation": "the + 名詞（人）：caused by the tenant；tenancy 是租用期間，tenants' 是所有格，後面缺名詞。"
+        },
+        {
+          "id": 5,
+          "prompt": "The cafeteria will be _____ closed while the custodial staff replace the floor tiles.",
+          "options": {
+            "A": "temporary",
+            "B": "temporariness",
+            "C": "temporarily",
+            "D": "temporal"
+          },
+          "answer": "C",
+          "explanation": "修飾形容詞 closed 用副詞 temporarily。"
+        },
+        {
+          "id": 6,
+          "prompt": "The new conference room is _____ to the main reception area.",
+          "options": {
+            "A": "nearby",
+            "B": "beside",
+            "C": "adjacent",
+            "D": "close by"
+          },
+          "answer": "C",
+          "explanation": "adjacent to 鄰近；nearby、beside、close by 都不和 to 搭配。"
+        },
+        {
+          "id": 7,
+          "prompt": "The tenant asked if the landlord _____ the broken window by Friday.",
+          "options": {
+            "A": "would repair",
+            "B": "repairing",
+            "C": "to repair",
+            "D": "repair"
+          },
+          "answer": "A",
+          "explanation": "if 子句是完整名詞子句，需要有限動詞；主句 asked 為過去式，時態後移用 would repair。"
+        },
+        {
+          "id": 8,
+          "prompt": "Before signing the lease, we arranged a thorough _____ of the premises to check for water damage.",
+          "options": {
+            "A": "inspector",
+            "B": "inspection",
+            "C": "inspected",
+            "D": "inspecting"
+          },
+          "answer": "B",
+          "explanation": "a thorough + 名詞（事物），檢查用 inspection；inspector 是檢查員。"
+        },
+        {
+          "id": 9,
+          "prompt": "Until our team expands, we plan to _____ part of the third floor to a start-up company.",
+          "options": {
+            "A": "vacate",
+            "B": "occupy",
+            "C": "sublease",
+            "D": "inspect"
+          },
+          "answer": "C",
+          "explanation": "sublease A to B 把租來的空間轉租給他人。"
+        },
+        {
+          "id": 10,
+          "prompt": "The fact _____ the building has no loading dock makes deliveries difficult.",
+          "options": {
+            "A": "which",
+            "B": "whether",
+            "C": "what",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "同位語 that：the fact that + 完整子句。"
+        },
+        {
+          "id": 11,
+          "prompt": "A company leases 2,500 square feet of office space at $42 per square foot per year. Common area maintenance fees add $3 per square foot per year. What is the company's total monthly payment?",
+          "options": {
+            "A": "$8,750",
+            "B": "$9,375",
+            "C": "$10,500",
+            "D": "$112,500"
+          },
+          "answer": "B",
+          "explanation": "(42 + 3) × 2,500 = $112,500 / 年；÷ 12 = $9,375 / 月。$8,750 漏算公共區域費用，$112,500 是年費。"
+        },
+        {
+          "id": 12,
+          "prompt": "A tenant submits a non-emergency maintenance request on a Wednesday. If the landlord must respond within three business days, what is the latest day for a response?",
+          "options": {
+            "A": "Friday",
+            "B": "Saturday",
+            "C": "Monday",
+            "D": "Tuesday"
+          },
+          "answer": "C",
+          "explanation": "週四（1）、週五（2）、跳過週末、週一（3）。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握辦公室租賃、租約條款與設施維修字彙；熟練 whether / if 的使用限制、It + be + 形容詞 + that、同位語 the fact that、間接問句直述語序與 require / essential that + 原形動詞；Part 7 句子插入題先抓代名詞與轉折詞，租約題先找責任條款再套用天數與金額上限。",
+  "nextDay": "行銷活動與市場調查／Part 3 圖表題／Part 6 時態一致與連接副詞／Part 4 問卷結果報告"
+}
