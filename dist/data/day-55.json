@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 55,
+  "title": "行銷活動與市場調查、Part 3 圖表題與 Part 6 時態一致與連接副詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 55 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 55 學習概覽",
+      "markdown": "- 掌握行銷活動、市場調查與問卷分析相關字彙\n- 熟練時態一致：主要子句過去式時的時態後移、時間／條件子句以現在式代替未來、by the time 與未來完成式\n- 分辨連接副詞（however / therefore / otherwise / meanwhile）與連接詞（although / because / unless）的標點與用法\n- 練習 Part 3 圖表題：先看圖表欄位，再用「排除法」找出說話者最後的選擇；Part 4 問卷結果報告抓「意外」與「下一步」\n- 整合行銷企劃備忘錄、問卷結果與變更 Email，重新計算預算分配\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| marketing campaign | 行銷活動 | launch a nationwide marketing campaign |\n| market research | 市場調查 | conduct market research |\n| survey respondent | 問卷受訪者 | survey respondents aged 25 to 34 |\n| focus group | 焦點團體（座談） | hold a focus group |\n| target audience | 目標客群 | reach our target audience |\n| demographic | 人口族群；人口統計的 | appeal to a younger demographic |\n| consumer preference | 消費者偏好 | shifting consumer preferences |\n| brand awareness | 品牌知名度 | raise brand awareness |\n| market share | 市占率 | gain market share |\n| competitor | 競爭對手 | monitor competitors' pricing |\n| promotional | 促銷的；宣傳的 | promotional materials |\n| advertising budget | 廣告預算 | increase the advertising budget |\n| endorsement | 代言；背書 | a celebrity endorsement |\n| product launch | 產品上市 | the product launch event |\n| feedback | 意見回饋 | gather customer feedback |\n| questionnaire | 問卷 | complete a brief questionnaire |\n| response rate | 回覆率 | a response rate of 65 percent |\n| representative sample | 具代表性的樣本 | survey a representative sample |\n| findings | 調查結果 | the survey findings indicate that |\n| emerging trend | 新興趨勢 | identify emerging trends |\n| loyalty program | 會員忠誠計畫 | join our loyalty program |\n| incentive | 誘因；獎勵 | offer an incentive for completing the survey |\n| redeem | 兌換（點數、優惠券） | redeem points for discounts |\n| click-through rate | 點擊率 | improve the click-through rate |\n| conversion rate | 轉換率（實際購買比例） | a higher conversion rate |\n| tagline | 廣告標語 | a memorable tagline |\n| word of mouth | 口碑 | spread by word of mouth |\n| favorable | 好評的；有利的 | receive favorable reviews |\n| tailor | 量身調整 | tailor the message to younger buyers |\n| outreach | 推廣；外展活動 | social media outreach |"
+    },
+    {
+      "title": "② 今日文法｜時態一致與連接副詞",
+      "markdown": "主題：**Part 6 時態一致與連接副詞（含時間子句現在式代未來、未來完成式、連接副詞 vs 連接詞）**\n\n### 規則 1｜時態一致：主要子句是過去式，從屬子句跟著後移\n\nsaid / reported / announced / found 等過去式動詞後的 that 子句，現在式改為過去式、will 改為 would、過去式改為過去完成式。Part 6 文章若以過去事件敘述，空格動詞通常也要配合過去時態。\n\n> The survey found that most respondents preferred free shipping to a lower price.\n\n### 規則 2｜時間、條件子句用現在式代替未來\n\nwhen / once / as soon as / after / before / until / if / unless 引導的副詞子句，即使描述未來也用現在式（或現在完成式）；主要子句才用 will。\n\n> Once the questionnaire closes on Friday, the research team will analyze the responses.\n\n### 規則 3｜by the time / by + 未來時間 → 未來完成式\n\n「到某個未來時間點以前已經完成」用 will have + p.p.；by the time 子句本身仍用現在式。若是過去時間點（by last March），則用過去完成式 had + p.p.。\n\n> By the time the commercial airs next month, the agency will have tested three versions of it.\n\n### 規則 4｜連接副詞不是連接詞：要有句號或分號\n\nhowever、therefore、consequently、nevertheless、otherwise、meanwhile、in addition、for example 是副詞，不能單獨連接兩個子句；寫法是「子句. However, 子句」或「子句; however, 子句」。although、because、unless、whereas 才是連接詞，despite / because of 是介系詞，後接名詞。\n\n> The ad received many favorable comments online; nevertheless, sales did not rise as much as expected.\n\n### 規則 5｜Part 6 選連接副詞：先判斷前後兩句的邏輯關係\n\n對比用 however / in contrast / on the other hand；讓步用 nevertheless / even so；因果用 therefore / as a result / consequently；追加用 in addition / moreover；舉例用 for example / for instance；反面條件用 otherwise；「在此同時、在那之前」用 meanwhile / in the meantime。一定要讀完空格後面那句再選。\n\n> Please submit your comments by Friday. Otherwise, they may not be included in the final report."
+    },
+    {
+      "title": "03 Listening｜Planning a Product Launch Campaign",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Daniel, I just got the results from the focus groups we held for the new SnapBrew coffee maker. Participants loved the design, but most of them thought the price was too high. Man: That's a concern. The launch campaign is supposed to start on September first. Do you think we should postpone it? Woman: Not necessarily. Several participants said they'd be more willing to buy it if it came with a starter pack of coffee pods. Man: That would be easy to arrange. Our supplier already sells a sampler box at a fairly low cost. Woman: Exactly. And it would give us a strong message for the ads: everything you need on day one. Man: All right. I'll contact the supplier this afternoon and get a quote for ten thousand boxes. Could you revise the tagline and send me a draft by Friday? Woman: Sure. I'll run it past the creative team first."
+    },
+    {
+      "title": "04 Listening｜Customer Survey Results",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Main Reason for Choosing FreshCart\n\n| Reason | Respondents |\n|---|---|\n| Low delivery fees | 38% |\n| Wide product selection | 27% |\n| Fast delivery | 21% |\n| Easy-to-use app | 14% |\n\n聽力稿：\n\n> Good morning, everyone. Before we finalize next quarter's marketing plan, I'd like to share the results of the customer survey we conducted last month. We sent the questionnaire to about twelve thousand customers, and more than three thousand responded, which is a much higher response rate than we expected. I think the ten-percent discount coupon we offered for completing it made a real difference. As you can see on this slide, low delivery fees were the top reason customers gave for choosing FreshCart. That's not a surprise. What did surprise me was the reason that came in second. Our previous campaigns have focused almost entirely on speed, yet only about one in five respondents named fast delivery as their main reason. On the other hand, more than a quarter said they chose us for the variety of products we carry. So, I'd like our next campaign to highlight that feature instead. Before our meeting on Thursday, please review the full report, which I e-mailed to you this morning, and come with at least two ideas for new ads."
+    },
+    {
+      "title": "05 Listening｜Choosing an Advertising Channel",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Advertising Options\n\n| Channel | Cost | Estimated Reach |\n|---|---|---|\n| Radio spots | $8,000 | 120,000 |\n| Billboard on Route 9 | $12,000 | 200,000 |\n| Social media ads | $9,500 | 250,000 |\n| Local newspaper | $6,000 | 60,000 |\n\n聽力稿：\n\n> Man: Priya, have you looked at the quotes for the grand opening campaign for our new fitness center? Woman: I have. The social media package would reach the most people, but I'm not sure it's the right choice. According to our market research, most of the people who sign up for memberships at our other locations are over fifty. Man: Good point. That age group is generally less active on social media. Woman: Right. And the newspaper is the cheapest, but its reach is pretty limited. Man: What about the billboard? Thousands of commuters drive past it every day. Woman: It's over our budget. We only have ten thousand dollars for this campaign. Man: Then let's go with the remaining option. I listened to some of the ads they produced for other clients, and they sound very professional. Woman: Agreed. I'll call the station to book the dates. Actually, before I do that, could you check whether the opening date has been finalized? I heard it might be moved back a week."
+    },
+    {
+      "title": "⑥ Reading｜Campaign Memo, Survey Results, and Change Notice",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Memo\n\n> From: Lucia Ferreira, Marketing Director\n> To: Marketing Team\n> Date: February 3\n> Subject: Spring campaign for the TrailLite backpack line\n>\n> Our spring campaign for the TrailLite backpack line will run from March 15 to May 15. The total budget is $60,000, which will be divided as follows: 50 percent for online video ads, 30 percent for in-store displays, and 20 percent for a sponsorship of the Ridgeview Hiking Festival in April. Before we finalize the creative materials, we will survey 800 members of our loyalty program to find out which product feature matters most to them. The feature chosen by the largest share of respondents will be the focus of all campaign ads. Results are expected by February 20.\n\n用途：參考文件\n\n### Survey Results Summary\n\n> Northgate Outdoor Gear Customer Survey: TrailLite Backpacks\n> Released: February 19\n>\n> Questionnaires sent: 800\n> Questionnaires completed: 520\n>\n> Most important feature (one answer per respondent):\n> Light weight: 182 respondents (35%)\n> Water resistance: 156 respondents (30%)\n> Comfort of straps: 130 respondents (25%)\n> Price: 52 respondents (10%)\n>\n> Note: Among respondents under the age of 30, water resistance ranked first.\n\n用途：參考文件\n\n### E-mail\n\n> From: Lucia Ferreira\n> To: Marketing Team\n> Date: February 24\n> Subject: Changes to the spring campaign\n>\n> Thank you all for your work on the customer survey. I am writing to let you know about two changes to our plans. First, the organizers of the Ridgeview Hiking Festival have informed us that this year's event has been called off because of construction on the park's main trail. As a result, the money set aside for the sponsorship will go to online video ads, which performed very well for us last year. Second, since the festival would have attracted many younger hikers, our sales team asked whether we could run a separate set of online ads aimed at customers under 30. I have approved this request; those ads will be based on the survey's findings for that age group. Meanwhile, the in-store displays will go ahead exactly as planned. Please send me your revised ad scripts by March 3.\n>\n> Best regards,\n> Lucia\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: Members of the Brightway Rewards Program\n> From: Brightway Home Goods Customer Relations\n> Subject: Thank you for your feedback\n>\n> Last month, more than 4,000 of you [1] _____ our online survey about shopping habits. Your responses have already helped us make several changes. [2] _____, many of you told us that our online checkout process took too long, so we have reduced it from five steps to two.\n>\n> Many respondents also asked for more ways to earn reward points. [3] _____ Starting on July 1, members will receive double points on every purchase made through our mobile app.\n>\n> We plan to conduct our next survey in December. [4] _____, we welcome your comments at any time through the Feedback page of our Web site."
+    },
+    {
+      "title": "⑨ Day 55 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 52、Day 53、Day 54**。\n\n### 複習重點\n- 時態一致：said / found / announced（過去式）＋ that 子句 → 過去式、would、過去完成式\n- 時間／條件子句（once / as soon as / when / if / unless）用現在式代替未來；主要子句才用 will\n- by the time + 現在式 → 主要子句未來完成式 will have + p.p.\n- 連接副詞（however / therefore / otherwise / meanwhile）要接在句號或分號後；although / because / unless 是連接詞；despite 是介系詞\n- Part 6 連接副詞題：讀完空格前後兩句，先判斷「對比、因果、追加、舉例、反面條件、同時」再選\n- Part 3 圖表題：先看欄位（費用、觸及人數），對話常用「排除」帶出答案（too expensive / limited reach / wrong audience）\n- Part 4 問卷報告：注意 What surprised me / On the other hand 之後的資訊與最後的指示\n- 複習 Day 52：what / that / whether 名詞子句、Part 2 間接回應\n- 複習 Day 53：倍數三型、that / those 比較對象、比例計算\n- 複習 Day 54：whether / if 位置限制、require that + 原形動詞、句子插入題\n\n### 錯題標籤\n- `G`：Grammar\n- `TENSE`：Tense Consistency\n- `CONJ`：Conjunctive Adverb / Conjunction\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `DETAIL`：Key Detail\n- `I`：Information Integration\n- `CALC`：Calculation\n- `SYN`：Synonym\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，選 8 個各造一個行銷活動或問卷調查情境的句子。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；時態題寫下「決定時態的線索字」（said / once / by the time / next month）。\n- 把 6 個連接副詞（however, therefore, otherwise, meanwhile, in addition, for example）各造一句，並改寫其中 3 句為連接詞版本（although / because / unless）。\n- Reading 預算計算題重做：寫出變更前後 video ads、in-store displays、sponsorship 三項金額。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿；第三組先看圖表，聽到每個「排除理由」就劃掉一列。\n- Day 55 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；明天整合日前把 Day 50–55 錯題整理成一頁。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "marketing campaign",
+      "meaning": "行銷活動",
+      "phrase": "launch a nationwide marketing campaign"
+    },
+    {
+      "id": 2,
+      "word": "market research",
+      "meaning": "市場調查",
+      "phrase": "conduct market research"
+    },
+    {
+      "id": 3,
+      "word": "survey respondent",
+      "meaning": "問卷受訪者",
+      "phrase": "survey respondents aged 25 to 34"
+    },
+    {
+      "id": 4,
+      "word": "focus group",
+      "meaning": "焦點團體（座談）",
+      "phrase": "hold a focus group"
+    },
+    {
+      "id": 5,
+      "word": "target audience",
+      "meaning": "目標客群",
+      "phrase": "reach our target audience"
+    },
+    {
+      "id": 6,
+      "word": "demographic",
+      "meaning": "人口族群；人口統計的",
+      "phrase": "appeal to a younger demographic"
+    },
+    {
+      "id": 7,
+      "word": "consumer preference",
+      "meaning": "消費者偏好",
+      "phrase": "shifting consumer preferences"
+    },
+    {
+      "id": 8,
+      "word": "brand awareness",
+      "meaning": "品牌知名度",
+      "phrase": "raise brand awareness"
+    },
+    {
+      "id": 9,
+      "word": "market share",
+      "meaning": "市占率",
+      "phrase": "gain market share"
+    },
+    {
+      "id": 10,
+      "word": "competitor",
+      "meaning": "競爭對手",
+      "phrase": "monitor competitors' pricing"
+    },
+    {
+      "id": 11,
+      "word": "promotional",
+      "meaning": "促銷的；宣傳的",
+      "phrase": "promotional materials"
+    },
+    {
+      "id": 12,
+      "word": "advertising budget",
+      "meaning": "廣告預算",
+      "phrase": "increase the advertising budget"
+    },
+    {
+      "id": 13,
+      "word": "endorsement",
+      "meaning": "代言；背書",
+      "phrase": "a celebrity endorsement"
+    },
+    {
+      "id": 14,
+      "word": "product launch",
+      "meaning": "產品上市",
+      "phrase": "the product launch event"
+    },
+    {
+      "id": 15,
+      "word": "feedback",
+      "meaning": "意見回饋",
+      "phrase": "gather customer feedback"
+    },
+    {
+      "id": 16,
+      "word": "questionnaire",
+      "meaning": "問卷",
+      "phrase": "complete a brief questionnaire"
+    },
+    {
+      "id": 17,
+      "word": "response rate",
+      "meaning": "回覆率",
+      "phrase": "a response rate of 65 percent"
+    },
+    {
+      "id": 18,
+      "word": "representative sample",
+      "meaning": "具代表性的樣本",
+      "phrase": "survey a representative sample"
+    },
+    {
+      "id": 19,
+      "word": "findings",
+      "meaning": "調查結果",
+      "phrase": "the survey findings indicate that"
+    },
+    {
+      "id": 20,
+      "word": "emerging trend",
+      "meaning": "新興趨勢",
+      "phrase": "identify emerging trends"
+    },
+    {
+      "id": 21,
+      "word": "loyalty program",
+      "meaning": "會員忠誠計畫",
+      "phrase": "join our loyalty program"
+    },
+    {
+      "id": 22,
+      "word": "incentive",
+      "meaning": "誘因；獎勵",
+      "phrase": "offer an incentive for completing the survey"
+    },
+    {
+      "id": 23,
+      "word": "redeem",
+      "meaning": "兌換（點數、優惠券）",
+      "phrase": "redeem points for discounts"
+    },
+    {
+      "id": 24,
+      "word": "click-through rate",
+      "meaning": "點擊率",
+      "phrase": "improve the click-through rate"
+    },
+    {
+      "id": 25,
+      "word": "conversion rate",
+      "meaning": "轉換率（實際購買比例）",
+      "phrase": "a higher conversion rate"
+    },
+    {
+      "id": 26,
+      "word": "tagline",
+      "meaning": "廣告標語",
+      "phrase": "a memorable tagline"
+    },
+    {
+      "id": 27,
+      "word": "word of mouth",
+      "meaning": "口碑",
+      "phrase": "spread by word of mouth"
+    },
+    {
+      "id": 28,
+      "word": "favorable",
+      "meaning": "好評的；有利的",
+      "phrase": "receive favorable reviews"
+    },
+    {
+      "id": 29,
+      "word": "tailor",
+      "meaning": "量身調整",
+      "phrase": "tailor the message to younger buyers"
+    },
+    {
+      "id": 30,
+      "word": "outreach",
+      "meaning": "推廣；外展活動",
+      "phrase": "social media outreach"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Planning a Product Launch Campaign",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What did the focus group participants dislike about the coffee maker?",
+          "options": {
+            "A": "Its design",
+            "B": "Its size",
+            "C": "Its price",
+            "D": "Its brewing speed"
+          },
+          "answer": "C",
+          "explanation": "Participants loved the design, but most of them thought the price was too high：不滿的是價格；設計反而受好評。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman suggest doing?",
+          "options": {
+            "A": "Including a free item with the product",
+            "B": "Postponing the launch campaign",
+            "C": "Lowering the retail price",
+            "D": "Holding another focus group"
+          },
+          "answer": "A",
+          "explanation": "女子說 Not necessarily（不必延後），並提到受試者希望附送 starter pack of coffee pods，即隨產品附贈物品。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man do this afternoon?",
+          "options": {
+            "A": "Revise a tagline",
+            "B": "Meet with the creative team",
+            "C": "Send a draft to the woman",
+            "D": "Request a price quote"
+          },
+          "answer": "D",
+          "explanation": "I'll contact the supplier this afternoon and get a quote for ten thousand boxes。改標語、找創意團隊是女子的工作。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Customer Survey Results",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "According to the speaker, why was the response rate high?",
+          "options": {
+            "A": "The survey was very short.",
+            "B": "An incentive was offered.",
+            "C": "Customers were contacted by phone.",
+            "D": "The survey was sent to more people than usual."
+          },
+          "answer": "B",
+          "explanation": "I think the ten-percent discount coupon we offered for completing it made a real difference：提供折價券作為誘因（incentive）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. What percentage of respondents chose the feature the speaker wants to highlight?",
+          "options": {
+            "A": "14%",
+            "B": "21%",
+            "C": "27%",
+            "D": "38%"
+          },
+          "answer": "C",
+          "explanation": "講者想強調 the variety of products we carry，對應圖表 Wide product selection，也就是排名第二的 27%（more than a quarter）。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker say about previous campaigns?",
+          "options": {
+            "A": "They emphasized delivery speed.",
+            "B": "They were too expensive.",
+            "C": "They targeted new customers only.",
+            "D": "They were designed by an outside agency."
+          },
+          "answer": "A",
+          "explanation": "Our previous campaigns have focused almost entirely on speed：過去行銷主打速度。"
+        },
+        {
+          "id": 4,
+          "prompt": "What are the listeners asked to do before Thursday?",
+          "options": {
+            "A": "Complete a customer survey",
+            "B": "Contact some customers",
+            "C": "Approve a marketing budget",
+            "D": "Read a report and prepare suggestions"
+          },
+          "answer": "D",
+          "explanation": "please review the full report … and come with at least two ideas for new ads：閱讀報告並準備點子。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Choosing an Advertising Channel",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What type of business do the speakers work for?",
+          "options": {
+            "A": "An advertising agency",
+            "B": "A radio station",
+            "C": "A newspaper publisher",
+            "D": "A fitness center"
+          },
+          "answer": "D",
+          "explanation": "the grand opening campaign for our new fitness center：說話者是健身中心的員工。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the woman have doubts about the social media ads?",
+          "options": {
+            "A": "They may not reach the main customer group.",
+            "B": "They cost more than last year.",
+            "C": "They take too long to produce.",
+            "D": "They received poor reviews."
+          },
+          "answer": "A",
+          "explanation": "會員多為 over fifty，而這個年齡層較少使用社群媒體，所以觸及人數最多也不一定適合。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. How much will the speakers most likely spend on advertising?",
+          "options": {
+            "A": "$6,000",
+            "B": "$8,000",
+            "C": "$9,500",
+            "D": "$12,000"
+          },
+          "answer": "B",
+          "explanation": "社群廣告不適合客群、報紙觸及有限、看板 $12,000 超過一萬元預算，剩下的是廣播 Radio spots $8,000；後面 call the station 也印證是電台。"
+        },
+        {
+          "id": 4,
+          "prompt": "What does the woman ask the man to do?",
+          "options": {
+            "A": "Listen to some sample ads",
+            "B": "Contact a billboard company",
+            "C": "Confirm an event date",
+            "D": "Increase the campaign budget"
+          },
+          "answer": "C",
+          "explanation": "could you check whether the opening date has been finalized?：請他確認開幕日期。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Campaign Memo, Survey Results, and Change Notice",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the memo?",
+          "options": {
+            "A": "To outline plans for an upcoming campaign",
+            "B": "To announce the results of a survey",
+            "C": "To request a larger marketing budget",
+            "D": "To introduce a new product feature"
+          },
+          "answer": "A",
+          "explanation": "備忘錄說明春季活動期間、預算分配與先做問卷的計畫；問卷結果是第二份文件才公布。"
+        },
+        {
+          "id": 2,
+          "prompt": "What percentage of the customers who received the questionnaire completed it?",
+          "options": {
+            "A": "52%",
+            "B": "65%",
+            "C": "70%",
+            "D": "80%"
+          },
+          "answer": "B",
+          "explanation": "520 ÷ 800 = 0.65，回覆率 65%。52 是勾選 Price 的人數，不是比例。"
+        },
+        {
+          "id": 3,
+          "prompt": "What feature will most of the campaign ads focus on?",
+          "options": {
+            "A": "Price",
+            "B": "Comfort of straps",
+            "C": "Water resistance",
+            "D": "Light weight"
+          },
+          "answer": "D",
+          "explanation": "備忘錄規定以 largest share 的功能為主軸；問卷 Light weight 35% 最高。Water resistance 只用於 30 歲以下的另一組廣告。"
+        },
+        {
+          "id": 4,
+          "prompt": "After the changes, how much will be spent on online video ads?",
+          "options": {
+            "A": "$30,000",
+            "B": "$36,000",
+            "C": "$42,000",
+            "D": "$48,000"
+          },
+          "answer": "C",
+          "explanation": "原本 video ads 50% = $30,000；贊助款 20% = $12,000 改投 video ads，合計 $42,000（即 70% × $60,000）。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why will Northgate Outdoor Gear not sponsor the hiking festival?",
+          "options": {
+            "A": "The event was called off.",
+            "B": "The sponsorship fee increased.",
+            "C": "The survey results did not support it.",
+            "D": "The festival was moved to a later date."
+          },
+          "answer": "A",
+          "explanation": "the organizers … have informed us that this year's event has been called off because of construction：活動取消。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is indicated about the ads aimed at customers under 30?",
+          "options": {
+            "A": "They will replace the in-store displays.",
+            "B": "They will highlight a feature that ranked second overall.",
+            "C": "They were requested by the festival organizers.",
+            "D": "They will be shown only in April."
+          },
+          "answer": "B",
+          "explanation": "跨文件整合：這組廣告依 that age group 的調查結果製作；30 歲以下最重視 water resistance，而它在整體排名第二（30%）。提出要求的是 sales team。"
+        },
+        {
+          "id": 7,
+          "prompt": "In the e-mail, the word \"run\" in the sentence \"whether we could run a separate set of online ads\" is closest in meaning to",
+          "options": {
+            "A": "manage",
+            "B": "operate",
+            "C": "publish",
+            "D": "hurry"
+          },
+          "answer": "C",
+          "explanation": "run ads 指「刊登、播放廣告」，最接近 publish；manage / operate 是 run a business 的意思。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is true about the in-store displays?",
+          "options": {
+            "A": "They will be redesigned for younger customers.",
+            "B": "They will be postponed until May.",
+            "C": "They will feature water resistance.",
+            "D": "Their budget will remain unchanged."
+          },
+          "answer": "D",
+          "explanation": "the in-store displays will go ahead exactly as planned：維持原計畫，預算仍是 30%（$18,000）。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The survey results showed that most customers _____ free shipping to a lower price.",
+          "options": {
+            "A": "preference",
+            "B": "preferred",
+            "C": "preferring",
+            "D": "to prefer"
+          },
+          "answer": "B",
+          "explanation": "that 子句需要動詞；主要子句 showed 是過去式，時態一致用 preferred。preference 是名詞。"
+        },
+        {
+          "id": 2,
+          "prompt": "Once the questionnaire _____, the research team will analyze the responses.",
+          "options": {
+            "A": "will close",
+            "B": "closed",
+            "C": "closing",
+            "D": "closes"
+          },
+          "answer": "D",
+          "explanation": "Once 引導時間副詞子句，以現在式代替未來，用 closes。"
+        },
+        {
+          "id": 3,
+          "prompt": "The campaign exceeded its sales target; _____, the budget for next quarter has been increased.",
+          "options": {
+            "A": "however",
+            "B": "although",
+            "C": "consequently",
+            "D": "because"
+          },
+          "answer": "C",
+          "explanation": "分號後接連接副詞；前後是因果關係（超標 → 增加預算），用 consequently。although / because 是連接詞，不能放在分號後加逗號。"
+        },
+        {
+          "id": 4,
+          "prompt": "The new ad received many favorable comments online. _____, sales did not rise as much as expected.",
+          "options": {
+            "A": "Nevertheless",
+            "B": "Therefore",
+            "C": "Despite",
+            "D": "Even though"
+          },
+          "answer": "A",
+          "explanation": "前後是讓步關係，句首接逗號再接完整句，用連接副詞 Nevertheless。Despite 是介系詞、Even though 是連接詞，後面要接名詞或子句而非逗號。"
+        },
+        {
+          "id": 5,
+          "prompt": "By the time the new commercial airs next month, the agency _____ three versions of it.",
+          "options": {
+            "A": "tests",
+            "B": "has tested",
+            "C": "will have tested",
+            "D": "had tested"
+          },
+          "answer": "C",
+          "explanation": "By the time + 現在式（airs next month）表示未來時間點，主要子句用未來完成式 will have tested。"
+        },
+        {
+          "id": 6,
+          "prompt": "Ms. Tanaka said that the focus group _____ the following Tuesday.",
+          "options": {
+            "A": "will meet",
+            "B": "would meet",
+            "C": "meets",
+            "D": "has met"
+          },
+          "answer": "B",
+          "explanation": "said（過去式）＋ the following Tuesday（轉述的時間）→ will 後移為 would。"
+        },
+        {
+          "id": 7,
+          "prompt": "Please submit your feedback by Friday; _____, your comments may not be included in the final report.",
+          "options": {
+            "A": "otherwise",
+            "B": "unless",
+            "C": "instead",
+            "D": "moreover"
+          },
+          "answer": "A",
+          "explanation": "「否則」用連接副詞 otherwise；unless 是連接詞，不能接在分號與逗號之間。"
+        },
+        {
+          "id": 8,
+          "prompt": "The company conducted extensive market research before _____ the new beverage.",
+          "options": {
+            "A": "launch",
+            "B": "launched",
+            "C": "to launch",
+            "D": "launching"
+          },
+          "answer": "D",
+          "explanation": "before 在此當介系詞，後接動名詞 launching。"
+        },
+        {
+          "id": 9,
+          "prompt": "The marketing team is developing a campaign _____ to the needs of small-business owners.",
+          "options": {
+            "A": "tailored",
+            "B": "tailoring",
+            "C": "tailors",
+            "D": "to tailor"
+          },
+          "answer": "A",
+          "explanation": "tailor A to B，campaign 是「被」量身打造的，用過去分詞 tailored 修飾。"
+        },
+        {
+          "id": 10,
+          "prompt": "_____ the response rate was lower than expected, the findings were still considered reliable.",
+          "options": {
+            "A": "However",
+            "B": "Although",
+            "C": "Nevertheless",
+            "D": "Despite"
+          },
+          "answer": "B",
+          "explanation": "空格後是完整子句，且句中只有逗號連接兩個子句，需要連接詞 Although。However / Nevertheless 是副詞，Despite 是介系詞。"
+        },
+        {
+          "id": 11,
+          "prompt": "Brand _____ has increased significantly since the company started sponsoring local marathons.",
+          "options": {
+            "A": "aware",
+            "B": "awake",
+            "C": "awaken",
+            "D": "awareness"
+          },
+          "answer": "D",
+          "explanation": "brand awareness 品牌知名度，主詞位置需要名詞。"
+        },
+        {
+          "id": 12,
+          "prompt": "The new loyalty program offers points that can be _____ for discounts on future purchases.",
+          "options": {
+            "A": "redeemed",
+            "B": "refunded",
+            "C": "reserved",
+            "D": "resolved"
+          },
+          "answer": "A",
+          "explanation": "redeem points for discounts：用點數兌換折扣。"
+        },
+        {
+          "id": 13,
+          "prompt": "Sales of the energy drink have risen steadily, _____ among consumers in their twenties.",
+          "options": {
+            "A": "particular",
+            "B": "particularity",
+            "C": "particularly",
+            "D": "particularize"
+          },
+          "answer": "C",
+          "explanation": "修飾介系詞片語 among…，用副詞 particularly（尤其是）。"
+        },
+        {
+          "id": 14,
+          "prompt": "The agency recommended that the tagline _____ before the campaign begins.",
+          "options": {
+            "A": "shortens",
+            "B": "be shortened",
+            "C": "is shortened",
+            "D": "shortening"
+          },
+          "answer": "B",
+          "explanation": "recommend that + 主詞 + (should) + 原形；tagline 被縮短，用被動 be shortened（Day 54 複習）。"
+        },
+        {
+          "id": 15,
+          "prompt": "Last year's campaign relied heavily on television; this year, _____, most of the budget will go to online advertising.",
+          "options": {
+            "A": "in addition",
+            "B": "for example",
+            "C": "by contrast",
+            "D": "as a result"
+          },
+          "answer": "C",
+          "explanation": "去年靠電視、今年轉向網路，前後對比，用 by contrast。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "complete",
+            "B": "completed",
+            "C": "will complete",
+            "D": "have been completing"
+          },
+          "answer": "B",
+          "explanation": "Last month 是明確的過去時間，用過去式 completed。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "Otherwise",
+            "B": "Nevertheless",
+            "C": "Instead",
+            "D": "For instance"
+          },
+          "answer": "D",
+          "explanation": "前句說「已做出幾項改變」，後句舉出結帳流程縮短的具體例子，用 For instance。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which sentence best completes blank [3]?",
+          "options": {
+            "A": "The survey took about ten minutes to complete.",
+            "B": "Our mobile app will be unavailable next week for maintenance.",
+            "C": "We are pleased to announce that we have done just that.",
+            "D": "Unfortunately, points can no longer be transferred between accounts."
+          },
+          "answer": "C",
+          "explanation": "前句是會員希望有更多賺點數的方式，插入句 done just that 承接這項要求，後句再說明雙倍點數的內容。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "Therefore",
+            "B": "In the meantime",
+            "C": "Similarly",
+            "D": "As a result"
+          },
+          "answer": "B",
+          "explanation": "下次問卷在 12 月，「在那之前」隨時歡迎意見，用 In the meantime。前後不是因果，Therefore / As a result 不合。"
+        }
+      ]
+    },
+    {
+      "id": "day-55-quiz",
+      "title": "Day 55 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The manager announced that the campaign _____ two weeks earlier than planned.",
+          "options": {
+            "A": "ends",
+            "B": "will end",
+            "C": "would end",
+            "D": "has ended"
+          },
+          "answer": "C",
+          "explanation": "announced（過去式）後的 that 子句，未來 will 後移為 would。"
+        },
+        {
+          "id": 2,
+          "prompt": "The coupon code was sent to all loyalty members; _____, only 8 percent of them used it.",
+          "options": {
+            "A": "however",
+            "B": "therefore",
+            "C": "because",
+            "D": "whereas"
+          },
+          "answer": "A",
+          "explanation": "寄給所有人卻只有 8% 使用，前後對比；分號後接連接副詞 however。whereas / because 是連接詞。"
+        },
+        {
+          "id": 3,
+          "prompt": "As soon as the focus group _____ its discussion, the moderator will summarize the key points.",
+          "options": {
+            "A": "will finish",
+            "B": "finished",
+            "C": "finishing",
+            "D": "finishes"
+          },
+          "answer": "D",
+          "explanation": "As soon as 引導時間子句，以現在式代替未來。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the brochure be reprinted, please update the prices on page three.",
+          "options": {
+            "A": "If",
+            "B": "Should",
+            "C": "Unless",
+            "D": "Were"
+          },
+          "answer": "B",
+          "explanation": "Should + 主詞 + 原形動詞 = If the brochure should be reprinted（Day 51 條件倒裝）。"
+        },
+        {
+          "id": 5,
+          "prompt": "Online sales this quarter were nearly three times _____ of the same period last year.",
+          "options": {
+            "A": "those",
+            "B": "that",
+            "C": "than",
+            "D": "these"
+          },
+          "answer": "A",
+          "explanation": "比較對象是 sales（複數），用 those 代替（Day 53 倍數與比較對象）。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ the new tagline will appeal to younger consumers is still being debated.",
+          "options": {
+            "A": "If",
+            "B": "That",
+            "C": "Whether",
+            "D": "What"
+          },
+          "answer": "C",
+          "explanation": "名詞子句當主詞表「是否」，只能用 Whether（Day 54）。"
+        },
+        {
+          "id": 7,
+          "prompt": "The advertising agency has requested that all images _____ by Friday.",
+          "options": {
+            "A": "approve",
+            "B": "approving",
+            "C": "are approved",
+            "D": "be approved"
+          },
+          "answer": "D",
+          "explanation": "request that + 主詞 + 原形；images 是被核准，用 be approved。"
+        },
+        {
+          "id": 8,
+          "prompt": "The survey found that customers were most satisfied with the store's return policy. _____, they were least satisfied with the waiting time at checkout.",
+          "options": {
+            "A": "Similarly",
+            "B": "In contrast",
+            "C": "As a result",
+            "D": "For instance"
+          },
+          "answer": "B",
+          "explanation": "最滿意 vs 最不滿意，前後對比，用 In contrast。"
+        },
+        {
+          "id": 9,
+          "prompt": "The new commercial will _____ the product's energy efficiency rather than its price.",
+          "options": {
+            "A": "emphasize",
+            "B": "emphasis",
+            "C": "emphatic",
+            "D": "emphatically"
+          },
+          "answer": "A",
+          "explanation": "助動詞 will 後接原形動詞 emphasize。"
+        },
+        {
+          "id": 10,
+          "prompt": "Respondents _____ completed the entire questionnaire received a $5 voucher.",
+          "options": {
+            "A": "whose",
+            "B": "whom",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "D",
+          "explanation": "先行詞是人，關係子句缺主詞，用 who。"
+        },
+        {
+          "id": 11,
+          "prompt": "To reach a younger _____, the company has begun advertising on video-sharing platforms.",
+          "options": {
+            "A": "demographic",
+            "B": "dimension",
+            "C": "density",
+            "D": "deposit"
+          },
+          "answer": "A",
+          "explanation": "reach a younger demographic：觸及較年輕的族群。"
+        },
+        {
+          "id": 12,
+          "prompt": "The campaign had been running for only two weeks when the company _____ to withdraw the ads.",
+          "options": {
+            "A": "decides",
+            "B": "decided",
+            "C": "has decided",
+            "D": "will decide"
+          },
+          "answer": "B",
+          "explanation": "had been running（過去完成進行式）表示更早持續的動作，when 子句是過去時間點，用 decided。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "掌握行銷活動與市場調查字彙；熟練時態一致（said / found + 過去式、will → would）、時間條件子句以現在式代未來、by the time + 未來完成式；分清連接副詞與連接詞的標點，Part 6 先判斷前後邏輯再選 however / therefore / otherwise / in the meantime；Part 3 圖表題用排除理由逐列刪去，Part 7 預算題以最後一封信的變更重新分配金額。",
+  "nextDay": "第八週整合：Day 50–55 綜合複習／聽力圖表與意圖題混合／Part 7 多文件整合與計算／名詞子句、比較、時態一致易錯點總整理"
+}
