@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 56,
+  "title": "第八週整合：Day 50–55 綜合複習、聽力圖表與意圖題混合、Part 7 多文件計算",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 56 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 56 學習概覽",
+      "markdown": "- 整合 Day 50–55 主題：物流索賠、帳單爭議、招募入職、季度預算、辦公室租賃、行銷調查，並補上 30 個跨主題合約與帳務字彙\n- 總整理五大易錯文法：倒裝條件與 Not until / Only after、名詞子句 whether / that / what、倍數比較與 that / those、時態一致與 by the time、連接副詞 vs 連接詞 vs 介系詞\n- Listening 混合練習：立場改變（帳單）、Part 4 預算圖表倍數題、Part 3 圖表排除法＋意圖題\n- Part 7 三篇整合：備忘錄比例 → 租約附約按比例租金 → 變更信重新分配預算\n- 完成 50 題後把 Day 50–56 錯題依標籤分類，找出最弱的兩類列入下週重點\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| remittance | 匯款；匯款金額 | send a remittance advice with the payment |\n| accrue | （利息、費用）累積 | late fees accrue daily |\n| expense report | 費用報銷單 | submit an expense report within five days |\n| prorate | 按比例計算 | a prorated rent for the first month |\n| installment | 分期付款（的一期） | pay in three equal installments |\n| billing cycle | 帳單週期 | at the end of each billing cycle |\n| tenure | 任期；年資 | during her tenure as director |\n| candidacy | 候選資格 | withdraw one's candidacy |\n| stipulate | （合約）明文規定 | the contract stipulates that |\n| clause | 條款 | a termination clause |\n| addendum | 附約；增補條款 | sign an addendum to the lease |\n| amendment | 修訂；修正案 | an amendment to the agreement |\n| obligation | 義務；責任 | fulfill contractual obligations |\n| in accordance with | 依照；符合 | in accordance with company policy |\n| effective immediately | 立即生效 | the changes are effective immediately |\n| supersede | 取代（舊規定、舊版本） | supersede all previous guidelines |\n| tentatively | 暫定地 | tentatively scheduled for May 3 |\n| benchmark | 基準；標竿 | an industry benchmark |\n| metric | 衡量指標 | key performance metrics |\n| tally | 統計；計算總數 | tally the survey responses |\n| respectively | 分別地 | rose by 8 and 12 percent, respectively |\n| redirect | 轉移（資金、資源） | redirect funds to online advertising |\n| call off | 取消（活動） | call off the festival |\n| unanimous | 全體一致的 | a unanimous decision by the board |\n| concession | 讓步；優惠條件 | make a concession on the rent |\n| streamline | 精簡（流程） | streamline the approval process |\n| prerequisite | 先決條件 | a prerequisite for promotion |\n| eligible | 有資格的 | eligible for a full refund |\n| subject to | 須經…；視…而定 | subject to the landlord's approval |\n| acknowledge | 確認收到；承認 | acknowledge receipt of the payment |"
+    },
+    {
+      "title": "② 今日文法｜Day 50–55 易錯點總整理",
+      "markdown": "主題：**Day 50–55 易錯點總整理：倒裝條件、名詞子句、比較、時態一致與連接副詞**\n\n### 規則 1｜倒裝條件與否定副詞置首（Day 50–51）\n\nHad + 主詞 + p.p.（過去反事實）、Should + 主詞 + 原形（未來可能）、Were + 主詞 + to V / 補語（現在假設）。Not until、Only after、Only when、Under no circumstances 置首時，主要子句要用助動詞倒裝；注意倒裝的是「主要子句」，不是 until / after 引導的那段。\n\n> Had the carrier sealed the container properly, the goods would not have been damaged.\n\n### 規則 2｜名詞子句：whether / that / what 的分工（Day 52、54）\n\nthat 後接完整子句、表示確定的事實；whether 表示「是否」，可接 or not、可放句首當主詞、可接在介系詞後，if 則不行；what 本身當子句中的主詞或受詞，後面缺名詞。間接問句一律用直述句語序。\n\n> Whether the lease will be renewed depends on the landlord's response.\n\n### 規則 3｜倍數與比較對象（Day 53）\n\n倍數三型：twice as large as / three times larger than / three times the size of。比較對象要對等：單數名詞用 that，複數用 those；the + 比較級…, the + 比較級；增減幅度用 by，增減到某數用 to。\n\n> Third-quarter expenses were 20 percent higher than those of the previous quarter.\n\n### 規則 4｜時態一致與時間子句（Day 55）\n\n主要子句是過去式（said / announced / found），that 子句的 will → would、現在 → 過去。when / once / as soon as / until / if 引導的時間、條件子句以現在式代替未來；by the time + 現在式時，主要子句用 will have + p.p.。\n\n> By the time the campaign ends in May, we will have surveyed more than 2,000 customers.\n\n### 規則 5｜連接副詞、連接詞、介系詞一次分清（Day 54–55）\n\nhowever / therefore / nevertheless / as a result / meanwhile 是副詞，前面要有句號或分號；although / whereas / because / unless 是連接詞，可用逗號連接兩個子句；despite / because of / in spite of 是介系詞，後接名詞。stipulate / require / it is essential that 之後的子句用原形動詞。\n\n> The festival was called off; as a result, the sponsorship money was redirected to online ads."
+    },
+    {
+      "title": "03 Listening｜Questioning a Printing Invoice",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Kenji, the invoice from Apex Printing just arrived. They charged us forty-five hundred dollars for the trade show brochures. Man: That sounds about right. Let's approve it today so we don't miss the payment deadline. Woman: Are you sure? I thought their quote was lower. Man: Hmm, let me pull it up. Actually, you're right. The binding quote was thirty-six hundred. It looks like they billed us for five thousand copies instead of four thousand. Woman: So should we hold off on the payment altogether? Man: Not entirely. We can pay the undisputed amount now and ask them for a credit memo for the rest. Woman: Good idea. I'll call their billing department this afternoon. Man: Thanks. And could you copy me on any e-mail they send? I want to make sure the trade show budget report is accurate before I submit it on Friday."
+    },
+    {
+      "title": "04 Listening｜Third-Quarter Facilities Spending",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Facilities Spending — Third Quarter\n\n| Category | Budgeted | Actual |\n|---|---|---|\n| Cleaning services | $18,000 | $17,500 |\n| HVAC maintenance | $12,000 | $24,000 |\n| Security | $15,000 | $15,500 |\n| Utilities | $30,000 | $27,000 |\n\n聽力稿：\n\n> Thanks for coming, everyone. I'd like to go over our department's spending for the third quarter. As you can see, we stayed close to budget in most categories. Utilities actually came in about ten percent under budget, thanks to the new lighting system we installed in July. However, one category cost twice as much as we had planned. That's because the cooling system on the fourth floor broke down during the heat wave in August, and the replacement parts had to be shipped overnight. Since the system is more than fifteen years old, I've asked a contractor whether it would be more economical to replace it entirely than to keep repairing it. I should have an answer by the end of the month. In the meantime, please remind your teams that maintenance requests must be submitted through the online portal, not by e-mail. Requests sent by e-mail have been taking up to three days longer to process."
+    },
+    {
+      "title": "05 Listening｜Scheduling New-Hire Orientation",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Training Room Availability (Week of March 9)\n\n| Day | Room | Capacity |\n|---|---|---|\n| Monday | Room A | 12 |\n| Tuesday | Room B | 20 |\n| Wednesday | Room C | 30 |\n| Thursday | Room D | 10 |\n\n聽力稿：\n\n> Man: Olivia, have we confirmed how many people will attend the orientation for new hires next week? Woman: Fourteen so far. Two candidates are still deciding on their offer letters, so it could be sixteen. Man: Then the rooms on Monday and Thursday won't work. Woman: No. And Tuesday's out, too. The IT team needs a full day to set up laptops for everyone, and the equipment won't be delivered until Monday afternoon. Man: Well, the largest room is free on Wednesday. Woman: True, but that might be too late. The payroll system requires new employees to enroll in their benefits within their first two days. Man: I've checked with payroll. As long as the forms are submitted by Friday, it won't be a problem. Woman: Oh, that's good to know. Then let's book it. I'll update the welcome e-mail with the new date. Man: Great. And could you ask the sales director whether she'd like to give a short talk? Last time, the new hires said it was the most useful part of the day."
+    },
+    {
+      "title": "⑥ Reading｜Setup Budget Memo, Lease Addendum, and Revised Allocation",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Memo\n\n> From: Harriet Okafor, Chief Financial Officer\n> To: Department Heads, Corvell Analytics\n> Date: April 2\n> Subject: Setup budget for the Denver sales office\n>\n> The board has given unanimous approval to a setup budget of $90,000 for our new Denver sales office, which is scheduled to open on June 1. The budget will be divided as follows: 40 percent for furniture, 35 percent for computers and other IT equipment, and 25 percent for recruiting, including job postings and a signing bonus for the office manager. Any funds that remain unspent on June 30 will be returned to the general budget rather than carried over. Department heads must submit an expense report for every purchase over $1,000 within five business days.\n\n用途：參考文件\n\n### Lease Addendum\n\n> Larkspur Property Group\n> Addendum No. 1 to Lease Agreement — Suite 410, Harmon Tower\n> Tenant: Corvell Analytics, Inc.\n> Date: April 10\n>\n> This addendum stipulates the following changes to the lease agreement signed on March 28:\n>\n> 1. The lease term will begin on May 15 instead of June 1 so that the tenant may install furniture and equipment before opening for business.\n> 2. Rent for May 15–31 will be prorated at $2,550. Beginning June 1, the regular monthly rent of $4,650 will apply.\n> 3. The landlord will replace the carpet in the reception area at its own expense before May 15. Any other alterations to the premises are subject to the landlord's written approval.\n> 4. All other terms of the original lease remain in effect.\n\n用途：參考文件\n\n### E-mail\n\n> From: Harriet Okafor\n> To: Department Heads\n> Date: April 18\n> Subject: Changes to the Denver setup budget\n>\n> I am writing with two updates. First, the landlord has agreed to leave the previous tenant's desks and filing cabinets in Suite 410 at no charge, so our furniture spending will be cut in half. The money saved will be redirected to IT equipment, since the sales team has asked for larger monitors and a second printer. Second, Marcus Bell has accepted our offer to transfer from the Chicago office and will serve as office manager. Because he is an internal candidate, no signing bonus will be paid. However, the recruiting budget will remain unchanged, as we now need to advertise for two sales associates instead of one. These changes are effective immediately and supersede the allocations in my April 2 memo.\n>\n> Regards,\n> Harriet\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Staff\n> From: Accounting Department\n> Date: October 6\n> Subject: New expense reporting system\n>\n> Beginning November 1, all expense reports [1] _____ through ExpenseFlow, our new online platform. The system will replace the paper forms that we have used for the past ten years. Employees will be able to upload photos of their receipts directly from their phones, and approved reimbursements will be deposited into their bank accounts within five business days.\n>\n> To help everyone prepare, we will hold training sessions on October 20 and 22. [2] _____ Each session will last about one hour.\n>\n> Please note that paper forms will no longer be accepted after October 31. [3] _____, any reports submitted on paper after that date will be returned to the sender. If you have expenses from October that you have not yet [4] _____, we encourage you to submit them before the deadline."
+    },
+    {
+      "title": "⑨ Day 56 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 53、Day 54、Day 55**，並串連 **Day 50–52**。\n\n### 複習重點\n- Day 50–51：Had / Should / Were 倒裝條件、Not until / Only after 置首倒裝；Listening 說話者因「新證據」改變立場\n- Day 52：what / that / whether 名詞子句、whoever 與介系詞 + which；Part 2 與 Part 3 間接回應、意圖題\n- Day 53：倍數三型、that / those 比較對象、預算比例計算；圖表題把 twice / half / 10 percent under 換回數字\n- Day 54：whether / if 位置限制、require / stipulate / essential that + 原形；租約題先找責任條款（at its own expense）\n- Day 55：時態一致、時間子句現在代未來、by the time + 未來完成式；連接副詞的標點\n- Part 7 計算題：先算原始分配，再套用最後一封信的變更；注意 rather than、instead of 後面是被排除的資訊\n- 按比例計算（prorate）：天數 ÷ 當月天數 × 月租，起訖日都要算進去\n\n### 錯題標籤\n- `G`：Grammar\n- `INV`：Inversion\n- `NC`：Noun Clause\n- `COMP`：Comparison\n- `TENSE`：Tense Consistency\n- `CONJ`：Conjunctive Adverb / Conjunction\n- `L`：Listening\n- `SHIFT`：Speaker's Position Change\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，挑 10 個寫成「租約、帳單、預算」三種情境的句子，每個情境至少 3 句。\n- 把 Day 50–56 所有錯題依錯題標籤分類，統計每類錯幾題，圈出最弱的兩類，寫下下週要注意的具體線索字。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；每題標出它屬於規則 1–5 的哪一類。\n- Reading 計算題重做：列出 4/2 原始分配與 4/18 變更後三項金額，並寫出 5 月租金 $2,550 的算式。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿；第一組標出男子改變立場的那一句，第三組聽到排除理由就劃掉一列。\n- Day 56 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；預習 Day 57 會議與活動籌辦字彙（agenda、venue、attendee）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "remittance",
+      "meaning": "匯款；匯款金額",
+      "phrase": "send a remittance advice with the payment"
+    },
+    {
+      "id": 2,
+      "word": "accrue",
+      "meaning": "（利息、費用）累積",
+      "phrase": "late fees accrue daily"
+    },
+    {
+      "id": 3,
+      "word": "expense report",
+      "meaning": "費用報銷單",
+      "phrase": "submit an expense report within five days"
+    },
+    {
+      "id": 4,
+      "word": "prorate",
+      "meaning": "按比例計算",
+      "phrase": "a prorated rent for the first month"
+    },
+    {
+      "id": 5,
+      "word": "installment",
+      "meaning": "分期付款（的一期）",
+      "phrase": "pay in three equal installments"
+    },
+    {
+      "id": 6,
+      "word": "billing cycle",
+      "meaning": "帳單週期",
+      "phrase": "at the end of each billing cycle"
+    },
+    {
+      "id": 7,
+      "word": "tenure",
+      "meaning": "任期；年資",
+      "phrase": "during her tenure as director"
+    },
+    {
+      "id": 8,
+      "word": "candidacy",
+      "meaning": "候選資格",
+      "phrase": "withdraw one's candidacy"
+    },
+    {
+      "id": 9,
+      "word": "stipulate",
+      "meaning": "（合約）明文規定",
+      "phrase": "the contract stipulates that"
+    },
+    {
+      "id": 10,
+      "word": "clause",
+      "meaning": "條款",
+      "phrase": "a termination clause"
+    },
+    {
+      "id": 11,
+      "word": "addendum",
+      "meaning": "附約；增補條款",
+      "phrase": "sign an addendum to the lease"
+    },
+    {
+      "id": 12,
+      "word": "amendment",
+      "meaning": "修訂；修正案",
+      "phrase": "an amendment to the agreement"
+    },
+    {
+      "id": 13,
+      "word": "obligation",
+      "meaning": "義務；責任",
+      "phrase": "fulfill contractual obligations"
+    },
+    {
+      "id": 14,
+      "word": "in accordance with",
+      "meaning": "依照；符合",
+      "phrase": "in accordance with company policy"
+    },
+    {
+      "id": 15,
+      "word": "effective immediately",
+      "meaning": "立即生效",
+      "phrase": "the changes are effective immediately"
+    },
+    {
+      "id": 16,
+      "word": "supersede",
+      "meaning": "取代（舊規定、舊版本）",
+      "phrase": "supersede all previous guidelines"
+    },
+    {
+      "id": 17,
+      "word": "tentatively",
+      "meaning": "暫定地",
+      "phrase": "tentatively scheduled for May 3"
+    },
+    {
+      "id": 18,
+      "word": "benchmark",
+      "meaning": "基準；標竿",
+      "phrase": "an industry benchmark"
+    },
+    {
+      "id": 19,
+      "word": "metric",
+      "meaning": "衡量指標",
+      "phrase": "key performance metrics"
+    },
+    {
+      "id": 20,
+      "word": "tally",
+      "meaning": "統計；計算總數",
+      "phrase": "tally the survey responses"
+    },
+    {
+      "id": 21,
+      "word": "respectively",
+      "meaning": "分別地",
+      "phrase": "rose by 8 and 12 percent, respectively"
+    },
+    {
+      "id": 22,
+      "word": "redirect",
+      "meaning": "轉移（資金、資源）",
+      "phrase": "redirect funds to online advertising"
+    },
+    {
+      "id": 23,
+      "word": "call off",
+      "meaning": "取消（活動）",
+      "phrase": "call off the festival"
+    },
+    {
+      "id": 24,
+      "word": "unanimous",
+      "meaning": "全體一致的",
+      "phrase": "a unanimous decision by the board"
+    },
+    {
+      "id": 25,
+      "word": "concession",
+      "meaning": "讓步；優惠條件",
+      "phrase": "make a concession on the rent"
+    },
+    {
+      "id": 26,
+      "word": "streamline",
+      "meaning": "精簡（流程）",
+      "phrase": "streamline the approval process"
+    },
+    {
+      "id": 27,
+      "word": "prerequisite",
+      "meaning": "先決條件",
+      "phrase": "a prerequisite for promotion"
+    },
+    {
+      "id": 28,
+      "word": "eligible",
+      "meaning": "有資格的",
+      "phrase": "eligible for a full refund"
+    },
+    {
+      "id": 29,
+      "word": "subject to",
+      "meaning": "須經…；視…而定",
+      "phrase": "subject to the landlord's approval"
+    },
+    {
+      "id": 30,
+      "word": "acknowledge",
+      "meaning": "確認收到；承認",
+      "phrase": "acknowledge receipt of the payment"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Questioning a Printing Invoice",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem does the woman mention?",
+          "options": {
+            "A": "A shipment arrived late",
+            "B": "An invoice amount seems too high",
+            "C": "Some brochures contain errors",
+            "D": "A payment deadline was missed"
+          },
+          "answer": "B",
+          "explanation": "女子說 I thought their quote was lower：她懷疑發票金額（$4,500）比報價高。送貨延遲、手冊錯誤都沒有提到。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the man change his mind?",
+          "options": {
+            "A": "The vendor called to apologize",
+            "B": "The woman shows him a signed contract",
+            "C": "The budget report is due soon",
+            "D": "He finds a discrepancy when he checks a quote"
+          },
+          "answer": "D",
+          "explanation": "男子原本說 That sounds about right，查了報價（let me pull it up）才發現印量從 4,000 份被算成 5,000 份，立場因新證據改變（Day 51 重點）。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man ask the woman to do?",
+          "options": {
+            "A": "Forward him any messages from the vendor",
+            "B": "Call the trade show organizer",
+            "C": "Pay the full amount today",
+            "D": "Submit the budget report on Friday"
+          },
+          "answer": "A",
+          "explanation": "could you copy me on any e-mail they send? = 把廠商來信副本寄給他。週五交報告的是男子本人；付全額是他已放棄的做法。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Third-Quarter Facilities Spending",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the speaker?",
+          "options": {
+            "A": "An accountant",
+            "B": "A security guard",
+            "C": "A facilities manager",
+            "D": "A building contractor"
+          },
+          "answer": "C",
+          "explanation": "說話者報告「我們部門」的清潔、空調、保全、水電支出，並提醒維修申請流程，最可能是設施經理；contractor 是她去詢價的對象。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. Which category does the speaker say cost twice as much as planned?",
+          "options": {
+            "A": "Cleaning services",
+            "B": "HVAC maintenance",
+            "C": "Security",
+            "D": "Utilities"
+          },
+          "answer": "B",
+          "explanation": "twice as much as we had planned：只有 HVAC maintenance 由 $12,000 變 $24,000，正好兩倍；原因是 cooling system 故障（Day 53 倍數＋Day 54 設施字彙）。"
+        },
+        {
+          "id": 3,
+          "prompt": "What has the speaker asked a contractor to do?",
+          "options": {
+            "A": "Ship replacement parts overnight",
+            "B": "Inspect the new lighting system",
+            "C": "Lower its maintenance fees",
+            "D": "Compare the cost of repair and replacement"
+          },
+          "answer": "D",
+          "explanation": "I've asked a contractor whether it would be more economical to replace it entirely than to keep repairing it = 比較更換與維修的成本（whether 名詞子句，Day 54）。"
+        },
+        {
+          "id": 4,
+          "prompt": "What are the listeners asked to remind their teams to do?",
+          "options": {
+            "A": "Submit requests through an online portal",
+            "B": "Send maintenance requests by e-mail",
+            "C": "Turn off lights when leaving",
+            "D": "Report broken equipment within three days"
+          },
+          "answer": "A",
+          "explanation": "maintenance requests must be submitted through the online portal, not by e-mail。三天是 e-mail 申請延誤的時間，不是期限。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Scheduling New-Hire Orientation",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "Scheduling an orientation session",
+            "B": "Hiring a new sales director",
+            "C": "Purchasing laptops for new hires",
+            "D": "Revising a benefits policy"
+          },
+          "answer": "A",
+          "explanation": "整段在討論新人 orientation 該排哪一天、哪一間教室。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the woman say Tuesday is not suitable?",
+          "options": {
+            "A": "The room is too small",
+            "B": "The sales director is unavailable",
+            "C": "Some equipment will not be ready",
+            "D": "Payroll forms are due that day"
+          },
+          "answer": "C",
+          "explanation": "Tuesday's out, too. The IT team needs a full day to set up laptops… won't be delivered until Monday afternoon：設備來不及準備。Room B 可容納 20 人，容量沒有問題。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. Which room will the speakers most likely book?",
+          "options": {
+            "A": "Room A",
+            "B": "Room B",
+            "C": "Room C",
+            "D": "Room D"
+          },
+          "answer": "C",
+          "explanation": "週一（12 人）、週四（10 人）容量不足；週二設備未就緒；最後選 the largest room is free on Wednesday → Room C（容量 30）。圖表題用排除法（Day 55）。"
+        },
+        {
+          "id": 4,
+          "prompt": "What does the man imply when he says, \"I've checked with payroll\"?",
+          "options": {
+            "A": "He needs more time to contact payroll",
+            "B": "A concern the woman raised is not a problem",
+            "C": "He disagrees with a payroll policy",
+            "D": "He has already submitted the benefits forms"
+          },
+          "answer": "B",
+          "explanation": "女子擔心週三太晚、無法在兩天內加保；男子說已問過薪資部門，只要週五前交表即可，意思是「妳的顧慮不成問題」（意圖題，Day 52）。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Setup Budget Memo, Lease Addendum, and Revised Allocation",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the memo?",
+          "options": {
+            "A": "To request proposals from furniture suppliers",
+            "B": "To explain how a budget will be divided",
+            "C": "To announce a change in an office's opening date",
+            "D": "To introduce a new office manager"
+          },
+          "answer": "B",
+          "explanation": "The budget will be divided as follows… 備忘錄說明 $90,000 預算的分配比例。開幕日沒有改；新經理是 4/18 信件才宣布。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the memo, what will happen to funds that are not spent by June 30?",
+          "options": {
+            "A": "They will be carried over to the next quarter",
+            "B": "They will be used for additional furniture",
+            "C": "They will be divided among department heads",
+            "D": "They will be returned to the general budget"
+          },
+          "answer": "D",
+          "explanation": "returned to the general budget rather than carried over：rather than 後面是被排除的選項 A。"
+        },
+        {
+          "id": 3,
+          "prompt": "In the lease addendum, the word \"stipulates\" in the first line is closest in meaning to",
+          "options": {
+            "A": "specifies",
+            "B": "questions",
+            "C": "delays",
+            "D": "assumes"
+          },
+          "answer": "A",
+          "explanation": "stipulate = 明文規定，後面接條列內容，同義為 specifies / sets out。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why will the lease begin earlier than originally planned?",
+          "options": {
+            "A": "Rent is lower in May",
+            "B": "The previous tenant is moving out early",
+            "C": "The tenant needs time to set up the office",
+            "D": "A recruiting deadline must be met"
+          },
+          "answer": "C",
+          "explanation": "so that the tenant may install furniture and equipment before opening for business：提早起租是為了布置辦公室（so that 目的子句）。"
+        },
+        {
+          "id": 5,
+          "prompt": "How much money will be allocated to IT equipment after the changes?",
+          "options": {
+            "A": "$31,500",
+            "B": "$36,000",
+            "C": "$49,500",
+            "D": "$54,000"
+          },
+          "answer": "C",
+          "explanation": "原 IT = $90,000 × 35% = $31,500；家具 $90,000 × 40% = $36,000，減半省下 $18,000，轉給 IT → $31,500 + $18,000 = $49,500。$54,000 是誤把招募預算 $22,500 加進來。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is indicated about Marcus Bell?",
+          "options": {
+            "A": "He currently works at the company's Chicago office.",
+            "B": "He will receive a signing bonus.",
+            "C": "He was recommended by the landlord.",
+            "D": "He will be hired as a sales associate."
+          },
+          "answer": "A",
+          "explanation": "transfer from the Chicago office、an internal candidate：他目前在芝加哥分公司任職。內部人選所以 no signing bonus；招募的 sales associates 是另外兩人。"
+        },
+        {
+          "id": 7,
+          "prompt": "Who will pay to replace the carpet in the reception area?",
+          "options": {
+            "A": "Ms. Okafor's department",
+            "B": "The new office manager",
+            "C": "The previous tenant",
+            "D": "Larkspur Property Group"
+          },
+          "answer": "D",
+          "explanation": "附約第 3 條：The landlord will replace the carpet… at its own expense；landlord 即發出附約的 Larkspur Property Group。"
+        },
+        {
+          "id": 8,
+          "prompt": "How much will Corvell Analytics pay in rent for the month of May?",
+          "options": {
+            "A": "$2,400",
+            "B": "$2,550",
+            "C": "$4,650",
+            "D": "$4,960"
+          },
+          "answer": "B",
+          "explanation": "租期從 5/15 起算，Rent for May 15–31 will be prorated at $2,550（= $4,650 × 17/31）。$4,650 是 6 月起的整月租金。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Had the printing company _____ its binding quote, the invoice would not have been disputed.",
+          "options": {
+            "A": "honor",
+            "B": "honored",
+            "C": "honoring",
+            "D": "to honor"
+          },
+          "answer": "B",
+          "explanation": "Had + 主詞 + p.p. = If the printing company had honored…，過去反事實倒裝條件（Day 51）。"
+        },
+        {
+          "id": 2,
+          "prompt": "The HR director has not yet decided _____ the probationary period should be extended to six months.",
+          "options": {
+            "A": "that",
+            "B": "what",
+            "C": "which",
+            "D": "whether"
+          },
+          "answer": "D",
+          "explanation": "decide 後接「是否」→ whether 名詞子句；that 不表示不確定，what 後面要缺名詞（Day 52、54）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Operating costs in the third quarter were nearly twice as high as _____ in the second quarter.",
+          "options": {
+            "A": "that",
+            "B": "those",
+            "C": "these",
+            "D": "them"
+          },
+          "answer": "B",
+          "explanation": "比較對象要對等：costs 是複數，用 those 代替 operating costs（Day 53）。"
+        },
+        {
+          "id": 4,
+          "prompt": "By the time the Denver office opens in June, the company _____ all twelve sales positions.",
+          "options": {
+            "A": "fills",
+            "B": "filled",
+            "C": "has filled",
+            "D": "will have filled"
+          },
+          "answer": "D",
+          "explanation": "by the time + 現在式（opens）→ 主要子句用未來完成式 will have + p.p.（Day 55）。"
+        },
+        {
+          "id": 5,
+          "prompt": "The survey's response rate was lower than expected; _____, the findings are still considered representative.",
+          "options": {
+            "A": "although",
+            "B": "despite",
+            "C": "nevertheless",
+            "D": "because"
+          },
+          "answer": "C",
+          "explanation": "分號後接連接副詞 + 逗號；前後是讓步關係 → nevertheless。although / because 是連接詞，despite 是介系詞（Day 55）。"
+        },
+        {
+          "id": 6,
+          "prompt": "The lease addendum _____ that the tenant notify the landlord in writing before making any alterations.",
+          "options": {
+            "A": "stipulates",
+            "B": "consists",
+            "C": "complies",
+            "D": "refers"
+          },
+          "answer": "A",
+          "explanation": "stipulate that + 主詞 + 原形動詞（notify），要求式假設語氣（Day 50、54）。consist of、comply with、refer to 都不接 that 子句。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ you need further information about the remittance, please contact our accounts payable team.",
+          "options": {
+            "A": "Were",
+            "B": "Should",
+            "C": "Had",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "Should + 主詞 + 原形動詞 = If you should need…，用於未來可能情況的倒裝條件。Were 要接 to need；Unless 意思相反（Day 51）。"
+        },
+        {
+          "id": 8,
+          "prompt": "Not until the audit was completed _____ the size of the budget shortfall.",
+          "options": {
+            "A": "the managers realized",
+            "B": "did the managers realize",
+            "C": "the managers did realize",
+            "D": "realized the managers"
+          },
+          "answer": "B",
+          "explanation": "Not until… 置首，主要子句倒裝：did + 主詞 + 原形動詞（Day 51）。"
+        },
+        {
+          "id": 9,
+          "prompt": "Employees who joined the company after January 1 are not _____ for this year's performance bonus.",
+          "options": {
+            "A": "eligible",
+            "B": "capable",
+            "C": "responsible",
+            "D": "available"
+          },
+          "answer": "A",
+          "explanation": "be eligible for = 有資格獲得；capable of、responsible for 意思不合；available 指「可取得的」，主詞不會是員工。"
+        },
+        {
+          "id": 10,
+          "prompt": "The new expense policy, which takes effect on May 1, will _____ all previous guidelines on travel reimbursement.",
+          "options": {
+            "A": "exceed",
+            "B": "proceed",
+            "C": "supersede",
+            "D": "precede"
+          },
+          "answer": "C",
+          "explanation": "supersede = 取代舊規定；precede 是「在…之前」，exceed 是「超過」，proceed 是不及物動詞。"
+        },
+        {
+          "id": 11,
+          "prompt": "The marketing director announced that the new campaign _____ in three cities before it was launched nationwide.",
+          "options": {
+            "A": "is tested",
+            "B": "has been tested",
+            "C": "would be tested",
+            "D": "will be tested"
+          },
+          "answer": "C",
+          "explanation": "主要子句 announced 為過去式，that 子句的未來要後移成 would；後面 before it was launched 也是過去式，時態一致（Day 55）。"
+        },
+        {
+          "id": 12,
+          "prompt": "_____ the delay in receiving replacement parts, the repairs to the cooling system were completed on schedule.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "However",
+            "D": "Because"
+          },
+          "answer": "A",
+          "explanation": "空格後是名詞片語 the delay…，需要介系詞 Despite；Although / Because 接子句，However 是副詞。"
+        },
+        {
+          "id": 13,
+          "prompt": "The board approved the renovation proposal, the cost of _____ will be shared equally by the two departments.",
+          "options": {
+            "A": "that",
+            "B": "it",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "介系詞 of 後接關係代名詞指物用 which；逗號後不能用 that，it 無法連接兩個子句（Day 52）。"
+        },
+        {
+          "id": 14,
+          "prompt": "Sales of the premium model rose by 18 percent, _____ sales of the standard model remained flat.",
+          "options": {
+            "A": "whereas",
+            "B": "therefore",
+            "C": "moreover",
+            "D": "in addition"
+          },
+          "answer": "A",
+          "explanation": "逗號連接兩個子句、表示對比，需要連接詞 whereas；其他三個是連接副詞，不能只用逗號連接子句。"
+        },
+        {
+          "id": 15,
+          "prompt": "The landlord agreed to waive the late fee as a _____ to tenants affected by the elevator outage.",
+          "options": {
+            "A": "commission",
+            "B": "compliance",
+            "C": "contribution",
+            "D": "concession"
+          },
+          "answer": "D",
+          "explanation": "concession = 讓步、優惠，常見 make a concession to sb。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "submitted",
+            "B": "must be submitted",
+            "C": "have submitted",
+            "D": "submitting"
+          },
+          "answer": "B",
+          "explanation": "主詞 expense reports 是被提交的一方，需被動語態；Beginning November 1 表示未來規定 → must be submitted。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "The paper forms were first introduced more than ten years ago.",
+            "B": "Your manager will review every receipt that you submit.",
+            "C": "Space is limited, so please register through the HR portal by October 15.",
+            "D": "ExpenseFlow was developed by an outside software company."
+          },
+          "answer": "C",
+          "explanation": "前句提到培訓課程、後句說 Each session will last about one hour，中間插入報名方式最自然（句子插入題，Day 54）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "However",
+            "B": "For example",
+            "C": "Meanwhile",
+            "D": "Accordingly"
+          },
+          "answer": "D",
+          "explanation": "前句：10/31 後不收紙本；後句：紙本將被退回 → 因果，用 Accordingly（= therefore）。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "earned",
+            "B": "invested",
+            "C": "declined",
+            "D": "claimed"
+          },
+          "answer": "D",
+          "explanation": "claim expenses = 申報費用請款；尚未申報的 10 月費用要在期限前提交。"
+        }
+      ]
+    },
+    {
+      "id": "day-56-quiz",
+      "title": "Day 56 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Only after the lease had been signed _____ the additional maintenance fees.",
+          "options": {
+            "A": "the tenant noticed",
+            "B": "did the tenant notice",
+            "C": "the tenant did notice",
+            "D": "noticed the tenant"
+          },
+          "answer": "B",
+          "explanation": "Only after… 置首，主要子句倒裝 did + 主詞 + 原形動詞（Day 50）。"
+        },
+        {
+          "id": 2,
+          "prompt": "It is essential that every new hire _____ the safety orientation before working on the sales floor.",
+          "options": {
+            "A": "completes",
+            "B": "completed",
+            "C": "complete",
+            "D": "will complete"
+          },
+          "answer": "C",
+          "explanation": "It is essential that + 主詞 + 原形動詞（要求式假設語氣，Day 54）。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the client approves the revised budget, the agency will begin production of the commercial.",
+          "options": {
+            "A": "Once",
+            "B": "Meanwhile",
+            "C": "Therefore",
+            "D": "Despite"
+          },
+          "answer": "A",
+          "explanation": "Once 是連接詞，引導時間子句，以現在式 approves 代替未來（Day 55）。"
+        },
+        {
+          "id": 4,
+          "prompt": "The new office suite is three times _____ the old one, so the monthly rent has risen considerably.",
+          "options": {
+            "A": "larger",
+            "B": "as large as",
+            "C": "as larger than",
+            "D": "the largest"
+          },
+          "answer": "B",
+          "explanation": "倍數 + as + 原級 + as（Day 53）；larger 後面必須有 than。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ submits the winning tagline will receive a $500 gift card.",
+          "options": {
+            "A": "Whoever",
+            "B": "Whomever",
+            "C": "Anyone",
+            "D": "Who that"
+          },
+          "answer": "A",
+          "explanation": "空格兼當主要子句主詞與 submits 的主詞，用 whoever（Day 52）。"
+        },
+        {
+          "id": 6,
+          "prompt": "The coordinator could not confirm _____ the brochures would arrive before the product launch.",
+          "options": {
+            "A": "what",
+            "B": "which",
+            "C": "unless",
+            "D": "whether"
+          },
+          "answer": "D",
+          "explanation": "confirm 後接「是否」名詞子句用 whether；what、which 後須缺名詞，unless 是副詞子句連接詞。"
+        },
+        {
+          "id": 7,
+          "prompt": "Profits rose sharply in the fourth quarter; _____, the company plans to hire additional staff.",
+          "options": {
+            "A": "however",
+            "B": "otherwise",
+            "C": "as a result",
+            "D": "in contrast"
+          },
+          "answer": "C",
+          "explanation": "前因後果 → as a result。"
+        },
+        {
+          "id": 8,
+          "prompt": "Members who join the loyalty program before March 1 will receive points _____ to 10 percent of each purchase.",
+          "options": {
+            "A": "equivalent",
+            "B": "eligible",
+            "C": "responsible",
+            "D": "available"
+          },
+          "answer": "A",
+          "explanation": "equivalent to = 相當於；eligible for、responsible for 的介系詞與意思都不合。"
+        },
+        {
+          "id": 9,
+          "prompt": "The landlord will replace the carpet, but any other alterations are _____ to written approval.",
+          "options": {
+            "A": "subject",
+            "B": "liable",
+            "C": "according",
+            "D": "pending"
+          },
+          "answer": "A",
+          "explanation": "be subject to approval = 須經核准。"
+        },
+        {
+          "id": 10,
+          "prompt": "The survey results, _____ were released on Friday, show a sharp increase in online orders.",
+          "options": {
+            "A": "that",
+            "B": "which",
+            "C": "what",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "逗號後的非限定關係子句指物，用 which，不能用 that。"
+        },
+        {
+          "id": 11,
+          "prompt": "Ms. Grant said that she _____ the vendor's proposal before the board meeting the following week.",
+          "options": {
+            "A": "reviews",
+            "B": "has reviewed",
+            "C": "would review",
+            "D": "reviewed"
+          },
+          "answer": "C",
+          "explanation": "said（過去）+ 之後才要做的事 → will 後移為 would；the following week 是間接引述的時間用語（Day 55）。"
+        },
+        {
+          "id": 12,
+          "prompt": "The equipment will be paid for in three equal _____, the first of which is due on July 1.",
+          "options": {
+            "A": "intervals",
+            "B": "allowances",
+            "C": "estimates",
+            "D": "installments"
+          },
+          "answer": "D",
+          "explanation": "pay in installments = 分期付款；the first of which 也是介系詞 + which 的用法。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "整合 Day 50–55：倒裝條件與否定副詞置首、whether / that / what 名詞子句、倍數與 that / those 比較、時態一致與 by the time 未來完成式、連接副詞與連接詞的標點；Listening 抓說話者因新證據改變立場、圖表題把倍數換回數字並用排除法；Part 7 先算原始分配，再以最後一封信的變更與按比例租金重新驗算。",
+  "nextDay": "會議與活動籌辦／議程變更／Part 3 三人對話／場地與報名人數整合"
+}
