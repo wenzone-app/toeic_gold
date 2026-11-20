@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 57,
+  "title": "會議與活動籌辦、議程變更、Part 3 三人對話與動名詞／不定詞",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 57 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 57 學習概覽",
+      "markdown": "- 會議與活動籌辦 30 字：議程、場地、報名、外燴、視聽設備，以及議程變更用語 move up / push back / run over / on short notice\n- 文法：動名詞 vs 不定詞，postpone / recommend + V-ing、agree / arrange + to V、介系詞 to + V-ing、remember / stop / regret 語意差異、使役動詞句型\n- Listening：Part 3 三人對話（先看題目鎖定「哪一位」說話者）、Part 4 議程變更公告＋議程表圖表題、Part 3 三人場地選擇圖表題\n- Part 7 三篇整合：報名公告 → 議程表 → 變更確認信，整合時間與場地變更，並計算團體折扣與晚宴費用\n- 完成 50 題後，三人對話的錯題另外標註是「聽錯說話者」還是「聽錯內容」\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| agenda | 議程 | the first item on the agenda |\n| venue | （活動）場地 | book a venue for the conference |\n| attendee | 與會者 | all registered attendees |\n| registration | 報名；登記 | the registration deadline |\n| keynote address | 主題演講 | deliver the keynote address |\n| breakout session | 分組場次 | choose one breakout session |\n| panel discussion | 座談會 | take part in a panel discussion |\n| moderator | （座談）主持人 | serve as moderator of the panel |\n| reschedule | 重新安排時間 | reschedule the meeting for Friday |\n| postpone | 延期 | postpone the launch until May |\n| move up | 提前 | move up the meeting to 9 A.M. |\n| push back | 延後 | push back the deadline by a week |\n| run over | 超出預定時間 | the session ran over by twenty minutes |\n| adjourn | （會議）休會；散會 | the meeting was adjourned at noon |\n| minutes | 會議紀錄 | take the minutes of the meeting |\n| convene | 召開（會議） | convene a special meeting of the board |\n| facilitate | 促進；主持（討論） | facilitate a group discussion |\n| catering | 外燴服務 | arrange catering for 200 guests |\n| refreshments | 茶點 | light refreshments will be served |\n| seating capacity | 座位容量 | a seating capacity of 300 |\n| audiovisual equipment | 視聽設備 | set up the audiovisual equipment |\n| headcount | 人數 | give the caterer a final headcount |\n| RSVP | 回覆是否出席 | RSVP by Friday |\n| name badge | 名牌 | pick up your name badge at the front desk |\n| logistics | 後勤安排；行政細節 | handle the logistics of the event |\n| delegate | （會議）代表；委派 | welcome delegates from 12 countries |\n| on short notice | 臨時；倉促通知下 | cancel the event on short notice |\n| overlap | （時間）重疊 | the two sessions overlap |\n| finalize | 最後確定 | finalize the agenda by Monday |\n| waitlist | 候補名單 | be placed on the waitlist |"
+    },
+    {
+      "title": "② 今日文法｜動名詞 vs 不定詞",
+      "markdown": "主題：**動名詞 vs 不定詞：會議與活動情境的動詞搭配、介系詞 to、語意不同的動詞與使役句型**\n\n### 規則 1｜只接動名詞的動詞：postpone / consider / avoid / recommend / suggest\n\npostpone、delay、consider、avoid、recommend、suggest、mind、finish、discuss、include 後面接 V-ing，不接 to V。Part 5 最常考 postpone + V-ing 與 recommend + V-ing；注意 recommend / suggest 也可接 that + 原形動詞，但不能接「受詞 + to V」。\n\n> The committee recommended postponing the banquet until the ballroom renovation is complete.\n\n### 規則 2｜只接不定詞的動詞與 be + p.p. + to V\n\nagree、arrange、plan、intend、decide、fail、hesitate、afford、hope 後面接 to V。be scheduled / expected / required / supposed / encouraged to V 是 TOEIC 公告高頻句型；allow / enable / require / ask / encourage + 受詞 + to V。\n\n> The keynote speaker has agreed to move up her presentation to 10 A.M.\n\n### 規則 3｜to 是介系詞時，後面接 V-ing\n\nlook forward to、be committed / dedicated to、object to、be used to、in addition to、with a view to、when it comes to 的 to 是介系詞，後面接名詞或 V-ing。判斷法：to 後面能否放名詞（look forward to the conference），能放就是介系詞。\n\n> We look forward to welcoming you to the conference in Singapore.\n\n### 規則 4｜意思不同的動詞：remember / forget / stop / try / regret\n\nremember / forget to V = 記得／忘記「要去做」；+ V-ing = 記得／忘記「做過」。stop to V = 停下來「去做」另一件事；stop V-ing = 停止正在做的事。regret to inform = 遺憾通知（正式公告用語）；regret V-ing = 後悔做過。try to V = 努力；try V-ing = 試試看。\n\n> Please remember to pick up your name badge before the keynote address begins.\n\n### 規則 5｜使役動詞：have / make / let 與 have + 受詞 + p.p.\n\nhave / make / let + 受詞 + 原形動詞（主動）；have / get + 受詞 + p.p.（受詞被處理）；get + 受詞 + to V。被動時 make 要還原 to：Speakers were made to submit their slides in advance。help 可接原形或 to V。\n\n> The organizers had the seating rearranged so that every attendee could see the stage."
+    },
+    {
+      "title": "03 Listening｜Moving the Quarterly Review Meeting",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Daniel, Raj, do you two have a minute? I just heard that the regional director's flight has been pushed back, so she won't land until Thursday afternoon. Man 1: That's a problem. The quarterly review meeting is scheduled for Thursday at ten. Man 2: Could we move it to Friday morning instead? Man 1: I'd rather not. Half of the sales team will be at the trade fair in Houston on Friday. Woman: What about holding it Thursday at four? She said she'd come straight to the office from the airport. Man 2: That could work, but the large conference room is booked for a training session until three-thirty. Man 1: That's fine, as long as they finish on time. Raj, would you mind checking with the trainer to make sure the session won't run over? Man 2: Sure. I'll call her right after lunch. Woman: Great. I'll send everyone an updated calendar invitation once Raj confirms."
+    },
+    {
+      "title": "04 Listening｜Revised Summit Agenda",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Day 2 Agenda — Brightline Retail Summit\n\n| Time | Session | Room |\n|---|---|---|\n| 9:00 | Keynote: The Future of In-Store Technology | Grand Hall |\n| 10:30 | Panel: Building Customer Loyalty | Room 201 |\n| 1:00 | Workshop: Data-Driven Merchandising | Room 305 |\n| 3:00 | Breakout Session: Supply Chain Updates | Room 210 |\n\n聽力稿：\n\n> Good morning, everyone, and welcome to the second day of the Brightline Retail Summit. Before we begin, I have a few changes to announce. First, our keynote speaker, Dr. Helen Park, was delayed at the airport because of last night's snowstorm, so her address has been moved to this afternoon. It will now take place at the time originally reserved for the workshop, and the workshop will begin at nine o'clock instead. Second, more than two hundred attendees have signed up for the panel discussion on customer loyalty, so it has been relocated to the Grand Hall, which has a much larger seating capacity. Lunch will be served in the main lobby at noon and is complimentary for all registered attendees. Finally, if you haven't done so yet, please remember to pick up your name badge at the registration desk. You'll need to show it to enter any session today."
+    },
+    {
+      "title": "05 Listening｜Choosing a Banquet Venue",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Venue Options — Annual Awards Banquet (June 12)\n\n| Venue | Seating Capacity | Catering | Audiovisual Equipment |\n|---|---|---|---|\n| Riverside Hotel | 150 | In-house kitchen | Included |\n| Maple Hall | 220 | Outside caterer required | Included |\n| Lakeview Center | 250 | In-house kitchen | Included |\n| Hillcrest Inn | 300 | In-house kitchen | Extra fee |\n\n聽力稿：\n\n> Woman 1: So the final headcount for the awards banquet is a hundred and eighty, right, Paul? Man: That's right, including the guests from our partner firms. So we can rule out the Riverside Hotel. Woman 2: I'd also prefer a place with its own kitchen. Last year, coordinating with an outside caterer took up so much of our time. Woman 1: Agreed. The Lakeview Center would be ideal, then. It's the closest to the office, too. Man: Actually, I called them this morning. They're fully booked on the twelfth. Woman 2: Well, that leaves only one option. We'll have to pay extra for the projectors and microphones, though. Woman 1: That's fine. The board approved a slightly higher budget this year. Paul, could you put down the deposit today before someone else books it? Man: I'll do it right after this meeting."
+    },
+    {
+      "title": "⑥ Reading｜Conference Notice, Agenda, and Registration E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Notice\n\n> Harborview Business Forum\n> Annual Partner Conference — October 14–15\n> Harborview Convention Center\n>\n> Registration is now open for this year's Annual Partner Conference. The registration fee is $320 for those who register by September 15 and $380 thereafter. Companies registering five or more employees will receive a 10 percent discount on the applicable rate. The fee covers lunch on both days, refreshments during all breaks, and conference materials. Tickets for the dinner banquet on October 14 are not included and may be purchased for $60 per person.\n>\n> On October 15, attendees may also join an optional site tour of the new Harborview Logistics Park. The tour is free, but seating on the shuttle bus is limited to 40 people. Once all places have been filled, additional applicants will be placed on a waitlist.\n\n用途：參考文件\n\n### Agenda\n\n> Annual Partner Conference — Agenda, October 14\n>\n> 9:00 A.M. Registration and coffee (Main Lobby)\n> 9:30 A.M. Keynote address: \"Building Resilient Supply Chains\" — Andrea Lin, CEO, Novatek Logistics (Hall A)\n> 11:00 A.M. Breakout sessions (choose one): Contract Negotiation (Room 3) / Digital Payments (Room 4)\n> 12:30 P.M. Lunch (Terrace Café)\n> 2:00 P.M. Panel discussion: \"Expanding into Southeast Asia\" — moderated by Tomás Reyes (Hall B)\n> 4:30 P.M. Adjourn\n> 7:00 P.M. Dinner banquet (Skyline Ballroom)\n\n用途：參考文件\n\n### E-mail\n\n> From: Mei Tanaka, Conference Coordinator\n> To: Gordon Hale, Pell & Rowe Consulting\n> Date: October 7\n> Subject: Your registration and an agenda change\n>\n> Dear Mr. Hale,\n>\n> Thank you for registering six members of your team for the Annual Partner Conference. Because your registration was received on September 20, the regular rate applies; however, your group qualifies for the discount described in our notice. Your invoice also includes dinner banquet tickets for two of your attendees.\n>\n> I also need to let you know about a change to the October 14 agenda. Ms. Lin's flight from Singapore has been pushed back, and she will not arrive until late morning. Her keynote address has therefore been moved to 2:00 P.M., and the panel discussion will take its place at 9:30 A.M. Each session will still be held in the room originally assigned to it.\n>\n> Finally, the October 15 site tour is now full. Your colleague Ms. Ito has been placed on the waitlist, and we will contact her directly if a place becomes available.\n>\n> Best regards,\n> Mei Tanaka\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: Workshop Participants\n> From: Leah Moreno, Events Coordinator\n> Date: March 3\n> Subject: Change of venue\n>\n> Thank you for registering for the Effective Negotiation Workshop on March 18. Because registration has far exceeded our expectations, we have decided [1] _____ the workshop to a larger venue. The workshop will now take place in the Crestwood Room at the Bellamy Hotel, two blocks from our office. [2] _____\n>\n> The start time remains 9:00 A.M., but we recommend [3] _____ at least fifteen minutes early to collect your materials and name badge. Lunch will be provided at no charge. [4] _____, parking at the hotel is not included, so we encourage you to use public transportation."
+    },
+    {
+      "title": "⑨ Day 57 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 54、Day 55、Day 56**，並延伸到今天的會議籌辦主題。\n\n### 複習重點\n- Day 54：whether / if 名詞子句；require / stipulate / it is essential that + 原形動詞（今天的 recommend that 同樣接原形）\n- Day 55：時態一致與時間子句現在代未來；公告中的 announced that … would … 與今天議程變更句型常一起出現\n- Day 56：倒裝條件、倍數比較與連接副詞標點，今天小考第 9–11 題混合複習\n- 今日文法：postpone / recommend / look forward to + V-ing；agree / arrange / fail + to V；remember / stop / regret 依語意選擇\n- 三人對話：題目若寫 the man named Raj、one of the women，作答前先把名字和聲音對起來；Man 1 / Man 2 常一人提出方案、一人否決\n- 議程圖表題：聽到 at the time originally reserved for…、take its place、swap，要先在圖表上「搬動」兩列再作答\n- Part 7 計算：先確認適用費率（早鳥或一般），再套折扣，最後加上不含在報名費內的項目（晚宴）\n\n### 錯題標籤\n- `G`：Grammar\n- `GER`：Gerund vs Infinitive\n- `CAUS`：Causative Verb\n- `L`：Listening\n- `3P`：Three-Speaker Conversation\n- `GRAPH`：Graphic Question\n- `CHANGE`：Schedule Change\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 move up、push back、run over、on short notice、waitlist 各寫一句議程變更通知。\n- 整理「只接 V-ing」與「只接 to V」動詞各 10 個，再列出 5 個 to 是介系詞的片語，各造一句會議情境例句。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；每題標出屬於規則 1–5 的哪一類。\n- Reading 計算題重做：寫出 $380 × 0.9 × 6 + $60 × 2 的算式，並說明為什麼不適用 $320 早鳥價。\n- Listening 第一組與第三組各聽兩次，第二輪不看逐字稿，邊聽邊寫下每位說話者（Man 1 / Man 2、Woman 1 / Woman 2）的立場。\n- Day 57 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；預習 Day 58 IT 系統導入與資安政策字彙（rollout、password、authentication）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "agenda",
+      "meaning": "議程",
+      "phrase": "the first item on the agenda"
+    },
+    {
+      "id": 2,
+      "word": "venue",
+      "meaning": "（活動）場地",
+      "phrase": "book a venue for the conference"
+    },
+    {
+      "id": 3,
+      "word": "attendee",
+      "meaning": "與會者",
+      "phrase": "all registered attendees"
+    },
+    {
+      "id": 4,
+      "word": "registration",
+      "meaning": "報名；登記",
+      "phrase": "the registration deadline"
+    },
+    {
+      "id": 5,
+      "word": "keynote address",
+      "meaning": "主題演講",
+      "phrase": "deliver the keynote address"
+    },
+    {
+      "id": 6,
+      "word": "breakout session",
+      "meaning": "分組場次",
+      "phrase": "choose one breakout session"
+    },
+    {
+      "id": 7,
+      "word": "panel discussion",
+      "meaning": "座談會",
+      "phrase": "take part in a panel discussion"
+    },
+    {
+      "id": 8,
+      "word": "moderator",
+      "meaning": "（座談）主持人",
+      "phrase": "serve as moderator of the panel"
+    },
+    {
+      "id": 9,
+      "word": "reschedule",
+      "meaning": "重新安排時間",
+      "phrase": "reschedule the meeting for Friday"
+    },
+    {
+      "id": 10,
+      "word": "postpone",
+      "meaning": "延期",
+      "phrase": "postpone the launch until May"
+    },
+    {
+      "id": 11,
+      "word": "move up",
+      "meaning": "提前",
+      "phrase": "move up the meeting to 9 A.M."
+    },
+    {
+      "id": 12,
+      "word": "push back",
+      "meaning": "延後",
+      "phrase": "push back the deadline by a week"
+    },
+    {
+      "id": 13,
+      "word": "run over",
+      "meaning": "超出預定時間",
+      "phrase": "the session ran over by twenty minutes"
+    },
+    {
+      "id": 14,
+      "word": "adjourn",
+      "meaning": "（會議）休會；散會",
+      "phrase": "the meeting was adjourned at noon"
+    },
+    {
+      "id": 15,
+      "word": "minutes",
+      "meaning": "會議紀錄",
+      "phrase": "take the minutes of the meeting"
+    },
+    {
+      "id": 16,
+      "word": "convene",
+      "meaning": "召開（會議）",
+      "phrase": "convene a special meeting of the board"
+    },
+    {
+      "id": 17,
+      "word": "facilitate",
+      "meaning": "促進；主持（討論）",
+      "phrase": "facilitate a group discussion"
+    },
+    {
+      "id": 18,
+      "word": "catering",
+      "meaning": "外燴服務",
+      "phrase": "arrange catering for 200 guests"
+    },
+    {
+      "id": 19,
+      "word": "refreshments",
+      "meaning": "茶點",
+      "phrase": "light refreshments will be served"
+    },
+    {
+      "id": 20,
+      "word": "seating capacity",
+      "meaning": "座位容量",
+      "phrase": "a seating capacity of 300"
+    },
+    {
+      "id": 21,
+      "word": "audiovisual equipment",
+      "meaning": "視聽設備",
+      "phrase": "set up the audiovisual equipment"
+    },
+    {
+      "id": 22,
+      "word": "headcount",
+      "meaning": "人數",
+      "phrase": "give the caterer a final headcount"
+    },
+    {
+      "id": 23,
+      "word": "RSVP",
+      "meaning": "回覆是否出席",
+      "phrase": "RSVP by Friday"
+    },
+    {
+      "id": 24,
+      "word": "name badge",
+      "meaning": "名牌",
+      "phrase": "pick up your name badge at the front desk"
+    },
+    {
+      "id": 25,
+      "word": "logistics",
+      "meaning": "後勤安排；行政細節",
+      "phrase": "handle the logistics of the event"
+    },
+    {
+      "id": 26,
+      "word": "delegate",
+      "meaning": "（會議）代表；委派",
+      "phrase": "welcome delegates from 12 countries"
+    },
+    {
+      "id": 27,
+      "word": "on short notice",
+      "meaning": "臨時；倉促通知下",
+      "phrase": "cancel the event on short notice"
+    },
+    {
+      "id": 28,
+      "word": "overlap",
+      "meaning": "（時間）重疊",
+      "phrase": "the two sessions overlap"
+    },
+    {
+      "id": 29,
+      "word": "finalize",
+      "meaning": "最後確定",
+      "phrase": "finalize the agenda by Monday"
+    },
+    {
+      "id": 30,
+      "word": "waitlist",
+      "meaning": "候補名單",
+      "phrase": "be placed on the waitlist"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Moving the Quarterly Review Meeting",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why does the meeting need to be rescheduled?",
+          "options": {
+            "A": "A conference room is unavailable",
+            "B": "Some team members will be at a trade fair",
+            "C": "The regional director's flight has been delayed",
+            "D": "A training session has been canceled"
+          },
+          "answer": "C",
+          "explanation": "女子開頭就說 the regional director's flight has been pushed back，她週四下午才到，所以原訂週四 10 點的會議要改。會議室與商展是後面討論新時間時才出現的限制。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does one of the men object to holding the meeting on Friday?",
+          "options": {
+            "A": "Many sales staff will be away",
+            "B": "The director is leaving on Friday",
+            "C": "The office will be closed",
+            "D": "He has a training session to lead"
+          },
+          "answer": "A",
+          "explanation": "Man 1 說 Half of the sales team will be at the trade fair in Houston on Friday：一半業務週五不在。三人對話題要注意「哪一位」提出反對：提議週五的是 Man 2（Raj），反對的是 Man 1（Daniel）。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man named Raj agree to do?",
+          "options": {
+            "A": "Book a different conference room",
+            "B": "Contact a trainer",
+            "C": "Pick up the director at the airport",
+            "D": "Send a calendar invitation"
+          },
+          "answer": "B",
+          "explanation": "Daniel 請 Raj checking with the trainer，Raj 回答 I'll call her right after lunch。寄行事曆邀請的是女子，不是 Raj；選 D 是把說話者搞混的典型陷阱。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Revised Summit Agenda",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why has the schedule been changed?",
+          "options": {
+            "A": "A room is being renovated",
+            "B": "Fewer people registered than expected",
+            "C": "A workshop leader canceled",
+            "D": "A speaker's travel was delayed"
+          },
+          "answer": "D",
+          "explanation": "Dr. Helen Park was delayed at the airport because of last night's snowstorm：講者因暴風雪在機場延誤，所以演講移到下午。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. At what time will Dr. Park give her address?",
+          "options": {
+            "A": "9:00",
+            "B": "10:30",
+            "C": "1:00",
+            "D": "3:00"
+          },
+          "answer": "C",
+          "explanation": "演講改到 the time originally reserved for the workshop；圖表上 workshop 原訂 1:00，所以 Dr. Park 1:00 演講，workshop 改到 9:00。聽到 take place at the time originally reserved for… 要先在圖表上把兩列對調。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why was the panel discussion moved to the Grand Hall?",
+          "options": {
+            "A": "A large number of people signed up for it",
+            "B": "Its original room lacked audiovisual equipment",
+            "C": "The keynote address was canceled",
+            "D": "The moderator requested a bigger stage"
+          },
+          "answer": "A",
+          "explanation": "more than two hundred attendees have signed up…, so it has been relocated to the Grand Hall, which has a much larger seating capacity：報名人數多，所以換到座位更多的場地。"
+        },
+        {
+          "id": 4,
+          "prompt": "What are listeners reminded to do?",
+          "options": {
+            "A": "Pay for their lunch in advance",
+            "B": "Pick up a name badge",
+            "C": "Choose a breakout session",
+            "D": "Return their survey forms"
+          },
+          "answer": "B",
+          "explanation": "please remember to pick up your name badge at the registration desk。remember to V = 記得要去做（今日文法規則 4）。午餐是 complimentary（免費），不用付費。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Choosing a Banquet Venue",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "Choosing a location for an event",
+            "B": "Revising a guest list",
+            "C": "Preparing an awards presentation",
+            "D": "Reducing catering costs"
+          },
+          "answer": "A",
+          "explanation": "三人依人數、廚房、檔期逐一排除場地（rule out the Riverside Hotel、fully booked），主題是挑選頒獎晚宴場地。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does one of the women prefer a venue with its own kitchen?",
+          "options": {
+            "A": "The food would be less expensive",
+            "B": "The guests have dietary restrictions",
+            "C": "The board requires in-house catering",
+            "D": "Working with an outside caterer was time-consuming"
+          },
+          "answer": "D",
+          "explanation": "Woman 2 說 Last year, coordinating with an outside caterer took up so much of our time：去年跟外燴協調太花時間。took up so much of our time 被同義改寫成 time-consuming。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. Which venue will the speakers most likely book?",
+          "options": {
+            "A": "Riverside Hotel",
+            "B": "Maple Hall",
+            "C": "Hillcrest Inn",
+            "D": "Lakeview Center"
+          },
+          "answer": "C",
+          "explanation": "180 人 → 排除 Riverside（150）；要有自己的廚房 → 排除 Maple Hall；Lakeview 12 日已客滿 → 只剩 Hillcrest Inn。最後 pay extra for the projectors and microphones 也對應圖表中 Hillcrest 的 Extra fee。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will the man most likely do after the meeting?",
+          "options": {
+            "A": "Call the Lakeview Center again",
+            "B": "Pay a deposit",
+            "C": "Update the guest list",
+            "D": "Request a larger budget"
+          },
+          "answer": "B",
+          "explanation": "Woman 1 請他 put down the deposit today，男子回答 I'll do it right after this meeting。put down a deposit = 付訂金。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Conference Notice, Agenda, and Registration E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the notice?",
+          "options": {
+            "A": "To announce registration details for a conference",
+            "B": "To recruit speakers for a conference",
+            "C": "To introduce a new logistics park",
+            "D": "To report a change of venue"
+          },
+          "answer": "A",
+          "explanation": "Registration is now open… 並說明報名費、折扣與費用涵蓋項目，目的是公布報名資訊。物流園區只是選擇性參觀行程。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the notice, what is included in the registration fee?",
+          "options": {
+            "A": "A ticket to the dinner banquet",
+            "B": "Transportation from the airport",
+            "C": "Lunch on both days of the conference",
+            "D": "A one-year membership"
+          },
+          "answer": "C",
+          "explanation": "The fee covers lunch on both days, refreshments during all breaks, and conference materials。晚宴 are not included，需另付 $60。"
+        },
+        {
+          "id": 3,
+          "prompt": "Who most likely is Tomás Reyes?",
+          "options": {
+            "A": "The CEO of Novatek Logistics",
+            "B": "The conference coordinator",
+            "C": "An employee of Pell & Rowe Consulting",
+            "D": "The person who will lead a group discussion"
+          },
+          "answer": "D",
+          "explanation": "議程寫 Panel discussion… — moderated by Tomás Reyes，他是座談主持人（moderator），負責帶領討論。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why did Ms. Tanaka write to Mr. Hale?",
+          "options": {
+            "A": "To request payment of an overdue invoice",
+            "B": "To confirm a registration and report a schedule change",
+            "C": "To invite him to speak at a panel discussion",
+            "D": "To explain why his registration was rejected"
+          },
+          "answer": "B",
+          "explanation": "信的第一段確認六人報名與費用，第二段通知 October 14 議程變更，第三段說明參觀行程候補，主旨也寫 Your registration and an agenda change。"
+        },
+        {
+          "id": 5,
+          "prompt": "How much will Pell & Rowe Consulting most likely be charged in total?",
+          "options": {
+            "A": "$2,052",
+            "B": "$2,172",
+            "C": "$2,280",
+            "D": "$2,400"
+          },
+          "answer": "B",
+          "explanation": "9/20 報名 → 一般價 $380（早鳥截止 9/15）；6 人 ≥ 5 人享 9 折：$380 × 0.9 = $342，× 6 = $2,052；再加兩張晚宴票 $60 × 2 = $120 → $2,172。$2,052 漏了晚宴，$2,280 漏了折扣。"
+        },
+        {
+          "id": 6,
+          "prompt": "According to the e-mail, why was the keynote address rescheduled?",
+          "options": {
+            "A": "Hall A will not be available in the morning",
+            "B": "The panel moderator requested an earlier time",
+            "C": "The speaker's flight was pushed back",
+            "D": "Too many attendees registered for it"
+          },
+          "answer": "C",
+          "explanation": "Ms. Lin's flight from Singapore has been pushed back, and she will not arrive until late morning：講者班機延後。"
+        },
+        {
+          "id": 7,
+          "prompt": "Where will the session that begins at 9:30 A.M. on October 14 be held?",
+          "options": {
+            "A": "Hall A",
+            "B": "Hall B",
+            "C": "Room 3",
+            "D": "Skyline Ballroom"
+          },
+          "answer": "B",
+          "explanation": "信中說座談會移到 9:30，且 Each session will still be held in the room originally assigned to it；議程上座談會的場地是 Hall B，所以 9:30 在 Hall B。要整合議程表與信件兩篇。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is suggested about Ms. Ito?",
+          "options": {
+            "A": "She is not yet guaranteed a place on the site tour",
+            "B": "She will moderate the panel discussion",
+            "C": "She registered before September 15",
+            "D": "She will not attend the dinner banquet"
+          },
+          "answer": "A",
+          "explanation": "Ms. Ito has been placed on the waitlist，we will contact her directly if a place becomes available：她目前在候補名單上，還不確定能參加參觀行程。信中沒說哪兩位買晚宴票，D 無法判斷。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The committee has decided to postpone _____ a venue until the final headcount is confirmed.",
+          "options": {
+            "A": "book",
+            "B": "to book",
+            "C": "booking",
+            "D": "booked"
+          },
+          "answer": "C",
+          "explanation": "postpone + V-ing（規則 1）。decided to postpone 中的 decide 才接 to V，不要被前面的 to 影響。"
+        },
+        {
+          "id": 2,
+          "prompt": "Ms. Alvarez has agreed _____ the opening remarks at next month's conference.",
+          "options": {
+            "A": "to deliver",
+            "B": "delivering",
+            "C": "deliver",
+            "D": "delivered"
+          },
+          "answer": "A",
+          "explanation": "agree + to V（規則 2）。"
+        },
+        {
+          "id": 3,
+          "prompt": "We look forward to _____ you at the awards banquet on May 12.",
+          "options": {
+            "A": "welcome",
+            "B": "welcomed",
+            "C": "be welcomed",
+            "D": "welcoming"
+          },
+          "answer": "D",
+          "explanation": "look forward to 的 to 是介系詞，後接 V-ing（規則 3）。"
+        },
+        {
+          "id": 4,
+          "prompt": "Please remember _____ your name badge at the registration desk before the keynote address begins.",
+          "options": {
+            "A": "pick up",
+            "B": "to pick up",
+            "C": "picking up",
+            "D": "picked up"
+          },
+          "answer": "B",
+          "explanation": "remember to V = 記得要去做（還沒做）；remember V-ing 是記得做過，不符語意（規則 4）。"
+        },
+        {
+          "id": 5,
+          "prompt": "The organizers had the seating _____ so that every attendee could see the stage.",
+          "options": {
+            "A": "rearrange",
+            "B": "rearranging",
+            "C": "rearranged",
+            "D": "to rearrange"
+          },
+          "answer": "C",
+          "explanation": "have + 受詞 + p.p.：座位是「被重新安排」，用過去分詞（規則 5）。"
+        },
+        {
+          "id": 6,
+          "prompt": "All attendees are required _____ their registration by Friday, March 6.",
+          "options": {
+            "A": "confirm",
+            "B": "confirming",
+            "C": "confirmation",
+            "D": "to confirm"
+          },
+          "answer": "D",
+          "explanation": "be required to V（規則 2）。"
+        },
+        {
+          "id": 7,
+          "prompt": "Because the morning session ran _____, the lunch break was shortened by fifteen minutes.",
+          "options": {
+            "A": "out",
+            "B": "off",
+            "C": "through",
+            "D": "over"
+          },
+          "answer": "D",
+          "explanation": "run over = 超出預定時間。run out 是用完，run off 是印出／跑掉。"
+        },
+        {
+          "id": 8,
+          "prompt": "The board meeting has been _____ up to 9 A.M. to accommodate the CEO's travel schedule.",
+          "options": {
+            "A": "pushed",
+            "B": "moved",
+            "C": "set",
+            "D": "held"
+          },
+          "answer": "B",
+          "explanation": "move up = 提前；push back 才是延後，push up 不用於時間。"
+        },
+        {
+          "id": 9,
+          "prompt": "A final _____ is needed by Wednesday so that the caterer can prepare enough meals.",
+          "options": {
+            "A": "agenda",
+            "B": "venue",
+            "C": "headcount",
+            "D": "moderator"
+          },
+          "answer": "C",
+          "explanation": "外燴要準備餐點數量，需要的是最終人數 headcount。"
+        },
+        {
+          "id": 10,
+          "prompt": "The meeting was _____ at 5:30 P.M. after all of the items on the agenda had been discussed.",
+          "options": {
+            "A": "adjourned",
+            "B": "convened",
+            "C": "facilitated",
+            "D": "postponed"
+          },
+          "answer": "A",
+          "explanation": "所有議程討論完後「散會」= adjourned。convene 是召開，postpone 是延期，都不符 after… had been discussed。"
+        },
+        {
+          "id": 11,
+          "prompt": "Dr. Yamada stopped _____ a question from the audience and then resumed her presentation.",
+          "options": {
+            "A": "take",
+            "B": "to take",
+            "C": "taking",
+            "D": "taken"
+          },
+          "answer": "B",
+          "explanation": "stop to V = 停下（原本的演講）去做另一件事；後面 resumed her presentation 證明她只是暫停演講去回答問題（規則 4）。"
+        },
+        {
+          "id": 12,
+          "prompt": "The new registration system enables event organizers _____ attendance in real time.",
+          "options": {
+            "A": "track",
+            "B": "tracking",
+            "C": "to track",
+            "D": "tracked"
+          },
+          "answer": "C",
+          "explanation": "enable + 受詞 + to V（規則 2）。"
+        },
+        {
+          "id": 13,
+          "prompt": "Ms. Chen is committed to _____ sure that the conference runs smoothly.",
+          "options": {
+            "A": "make",
+            "B": "to make",
+            "C": "made",
+            "D": "making"
+          },
+          "answer": "D",
+          "explanation": "be committed to 的 to 是介系詞，後接 V-ing（規則 3）。"
+        },
+        {
+          "id": 14,
+          "prompt": "Light refreshments will be served _____ the panel discussion and the closing remarks.",
+          "options": {
+            "A": "between",
+            "B": "among",
+            "C": "while",
+            "D": "since"
+          },
+          "answer": "A",
+          "explanation": "between A and B：在兩個場次之間。while 是連接詞，後面要接子句。"
+        },
+        {
+          "id": 15,
+          "prompt": "_____ the venue's seating capacity is only 150, some registrants will have to be placed on a waitlist.",
+          "options": {
+            "A": "Despite",
+            "B": "However",
+            "C": "Since",
+            "D": "Due to"
+          },
+          "answer": "C",
+          "explanation": "空格後是完整子句，需要連接詞；Since = 因為。Despite / Due to 是介系詞，However 是連接副詞，都不能直接連接兩個子句。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "move",
+            "B": "moving",
+            "C": "moved",
+            "D": "to move"
+          },
+          "answer": "D",
+          "explanation": "decide + to V：we have decided to move the workshop。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "The workshop has been canceled because of low registration.",
+            "B": "Our office will be closed for renovations next year.",
+            "C": "Directions and a map are attached to this e-mail.",
+            "D": "Please submit your expense report by the end of the month."
+          },
+          "answer": "C",
+          "explanation": "前一句剛說明新場地在 Bellamy Hotel，接著附上路線與地圖最合理。A 與 registration has far exceeded our expectations 矛盾，B、D 與主題無關。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "arrive",
+            "B": "arriving",
+            "C": "to arrive",
+            "D": "arrived"
+          },
+          "answer": "B",
+          "explanation": "recommend + V-ing（規則 1）。recommend 不接 to V。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "However",
+            "B": "Therefore",
+            "C": "Similarly",
+            "D": "For instance"
+          },
+          "answer": "A",
+          "explanation": "前句「午餐免費」，後句「停車費不包含」，語意轉折，用 However。"
+        }
+      ]
+    },
+    {
+      "id": "day-57-quiz",
+      "title": "Day 57 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The vendor failed _____ the audiovisual equipment on time, so the presentation started twenty minutes late.",
+          "options": {
+            "A": "to deliver",
+            "B": "delivering",
+            "C": "deliver",
+            "D": "delivered"
+          },
+          "answer": "A",
+          "explanation": "fail + to V = 未能做到（規則 2）。"
+        },
+        {
+          "id": 2,
+          "prompt": "We regret _____ you that the evening reception has been called off because of the storm.",
+          "options": {
+            "A": "inform",
+            "B": "informing",
+            "C": "informed",
+            "D": "to inform"
+          },
+          "answer": "D",
+          "explanation": "regret to inform = 遺憾通知，公告固定用語；regret informing 是「後悔告知過」（規則 4）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Would you mind _____ the minutes of today's meeting, Mr. Owens?",
+          "options": {
+            "A": "take",
+            "B": "to take",
+            "C": "taking",
+            "D": "taken"
+          },
+          "answer": "C",
+          "explanation": "mind + V-ing（規則 1）。"
+        },
+        {
+          "id": 4,
+          "prompt": "The training room has a seating _____ of only 40, so the workshop will be held in the auditorium.",
+          "options": {
+            "A": "ability",
+            "B": "volume",
+            "C": "dimension",
+            "D": "capacity"
+          },
+          "answer": "D",
+          "explanation": "seating capacity = 座位容量，固定搭配。"
+        },
+        {
+          "id": 5,
+          "prompt": "The keynote speaker's flight was delayed, so her address has been _____ back to the afternoon.",
+          "options": {
+            "A": "called",
+            "B": "pushed",
+            "C": "turned",
+            "D": "run"
+          },
+          "answer": "B",
+          "explanation": "push back = 延後。call back 是回電，turn back 是折返。"
+        },
+        {
+          "id": 6,
+          "prompt": "In addition to _____ the venue, the events team will arrange catering for all 200 attendees.",
+          "options": {
+            "A": "book",
+            "B": "booked",
+            "C": "to book",
+            "D": "booking"
+          },
+          "answer": "D",
+          "explanation": "in addition to 的 to 是介系詞，後接 V-ing（規則 3）。"
+        },
+        {
+          "id": 7,
+          "prompt": "The organizers made every speaker _____ a summary of the presentation one week in advance.",
+          "options": {
+            "A": "submitting",
+            "B": "to submit",
+            "C": "submit",
+            "D": "submitted"
+          },
+          "answer": "C",
+          "explanation": "make + 受詞 + 原形動詞（規則 5）。被動才是 Speakers were made to submit。"
+        },
+        {
+          "id": 8,
+          "prompt": "Please RSVP by Friday _____ we can give the caterer an accurate headcount.",
+          "options": {
+            "A": "so that",
+            "B": "in order to",
+            "C": "because of",
+            "D": "even though"
+          },
+          "answer": "A",
+          "explanation": "後面是完整子句且表目的 → so that。in order to 後接原形動詞；because of 後接名詞。"
+        },
+        {
+          "id": 9,
+          "prompt": "Not until the final headcount was confirmed _____ the caterer begin preparing the menu.",
+          "options": {
+            "A": "does",
+            "B": "did",
+            "C": "had",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Not until… 置首，主要子句倒裝；過去式且後面是原形 begin → did（Day 50–51 複習）。"
+        },
+        {
+          "id": 10,
+          "prompt": "The coordinator announced that the panel discussion _____ in the Grand Hall instead of Room 201.",
+          "options": {
+            "A": "will be held",
+            "B": "is holding",
+            "C": "would be held",
+            "D": "has held"
+          },
+          "answer": "C",
+          "explanation": "主要子句 announced 是過去式，that 子句的 will 要改成 would；座談會是被舉辦，用被動（Day 55 時態一致複習）。"
+        },
+        {
+          "id": 11,
+          "prompt": "_____ the awards banquet will be held indoors or outdoors depends on the weather forecast.",
+          "options": {
+            "A": "Whether",
+            "B": "If",
+            "C": "That",
+            "D": "What"
+          },
+          "answer": "A",
+          "explanation": "名詞子句放句首當主詞且有 or…，只能用 Whether，不能用 If（Day 54 複習）。"
+        },
+        {
+          "id": 12,
+          "prompt": "Ms. Park has been asked to _____ the panel discussion on supply chain trends.",
+          "options": {
+            "A": "adjourn",
+            "B": "overlap",
+            "C": "accommodate",
+            "D": "moderate"
+          },
+          "answer": "D",
+          "explanation": "moderate a panel discussion = 主持座談會。adjourn 是散會，overlap 是時間重疊。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "會議籌辦題抓住「誰、何時、在哪、幾人」：postpone / recommend / mind + V-ing，agree / arrange / fail + to V，look forward to / in addition to 的 to 後接 V-ing，remember / stop / regret 依語意選 to V 或 V-ing，使役 have + 受詞 + p.p.；三人對話先把名字和立場對上，議程圖表題聽到 take its place、originally reserved for 就先對調兩列；Part 7 費用題依序確認費率 → 折扣 → 另計項目。",
+  "nextDay": "IT 系統導入與資安政策／Part 4 公告／分詞構句"
+}
