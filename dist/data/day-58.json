@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 58,
+  "title": "IT 系統導入與資安政策、Part 4 公告與分詞構句",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 58 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 58 學習概覽",
+      "markdown": "- IT 系統導入與資安政策 30 字：rollout、migrate、authentication、phishing、patch、downtime、access privileges 等公告與政策高頻字\n- 文法：分詞構句，主動 V-ing、被動 p.p.、完成式 Having p.p.、when prompted / once installed 保留連接詞、獨立分詞構句與懸垂分詞\n- Listening：Part 3 技術支援對話、Part 4 系統導入公告＋時程表圖表題、Part 4 資安說明的說話者意圖題\n- Part 7 三篇整合：IT 備忘錄 → 遷移時程表 → 部門主管請求信，推算備份期限、交換後日期，並計算年度授權費用\n- 完成 50 題後，把分詞題錯題分成「主被動判斷錯」與「時間先後判斷錯」兩類\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| rollout | （分階段）推出；導入 | the phased rollout of the new software |\n| implementation | 實施；導入 | oversee the implementation of the system |\n| migrate | 遷移（資料或系統） | migrate customer records to the new platform |\n| deploy | 部署；上線 | deploy the update across all branches |\n| authentication | 身分驗證 | two-factor authentication |\n| credentials | 登入憑證（帳號密碼） | enter your login credentials |\n| password | 密碼 | reset your password every 90 days |\n| encryption | 加密 | comply with data encryption standards |\n| firewall | 防火牆 | configure the firewall |\n| malware | 惡意軟體 | scan all attachments for malware |\n| phishing | 網路釣魚 | report suspicious phishing e-mails |\n| vulnerability | （系統）漏洞；弱點 | fix a security vulnerability |\n| patch | 修補程式 | install the latest security patch |\n| compatible | 相容的 | compatible with existing hardware |\n| downtime | 停機時間 | scheduled downtime over the weekend |\n| back up | 備份 | back up your files before the upgrade |\n| restore | 恢復；還原 | restore data from last night's backup |\n| troubleshoot | 排除故障 | troubleshoot connection problems |\n| help desk | 技術支援服務台 | contact the IT help desk |\n| access privileges | 存取權限 | grant access privileges to new staff |\n| authorized | 經授權的 | authorized personnel only |\n| data breach | 資料外洩 | prevent a data breach |\n| confidential | 機密的 | handle confidential client information |\n| safeguard | 保護；防護措施 | safeguard customer data |\n| comply with | 遵守 | comply with the new security policy |\n| mandatory | 強制的；必須參加的 | mandatory security training |\n| interface | 介面 | a user-friendly interface |\n| glitch | 小故障 | a technical glitch in the payroll system |\n| transition | 過渡；轉換 | ensure a smooth transition to the new system |\n| phase out | 逐步淘汰 | phase out the old software by December |"
+    },
+    {
+      "title": "② 今日文法｜分詞構句",
+      "markdown": "主題：**分詞構句：主動 V-ing、被動 p.p.、完成式 Having p.p.、保留連接詞，以及獨立分詞構句與懸垂分詞**\n\n### 規則 1｜主動分詞構句：主詞「自己做」用 V-ing\n\n把副詞子句（when / because / as 等）的連接詞和相同主詞刪掉，主動動詞改成 V-ing。前提是兩個子句主詞相同；V-ing 也常放在句尾表示「附帶結果」（, causing / , allowing / , resulting in）。\n\n> Logging in for the first time, users will be asked to create a new password.\n\n### 規則 2｜被動分詞構句：主詞「被做」用 p.p.\n\n原本是被動語態（Being + p.p.），Being 通常省略，只留 p.p.。Part 5 判斷法：問「句子主詞是動作的執行者還是承受者」。Designed to…、Installed in…、Compared with… 開頭都是被動。\n\n> Designed to block phishing attempts, the new filter scans every incoming e-mail.\n\n### 規則 3｜完成式分詞 Having p.p.：動作比主要子句「先完成」\n\n分詞動作明顯發生在主要動作之前時，用 Having p.p.（主動）或 Having been p.p.（被動）。看到 last week、after three months of testing 等時間線索，又是主動，就選 Having p.p.。\n\n> Having tested the software for three months, the IT team approved the company-wide rollout.\n\n### 規則 4｜保留連接詞：when / once / if / unless / while + 分詞\n\n為了讓語意清楚，可以保留連接詞再接分詞：when prompted、once installed、if configured properly、unless otherwise instructed、while working remotely。公告與操作說明超高頻，被動用 p.p.，主動用 V-ing。\n\n> When prompted, enter the six-digit code sent to your mobile phone.\n\n### 規則 5｜獨立分詞構句、with + 受詞 + 分詞、懸垂分詞\n\n兩個主詞不同時，分詞前要保留自己的主詞：The upgrade (having been) completed, the IT team restored access。with + 受詞 + V-ing / p.p. 表伴隨狀況。主詞不同卻省略主詞就是「懸垂分詞」錯誤：Conducting the audit, several passwords were found（密碼不會做稽核）。Given / Considering + 名詞 是慣用介系詞用法。\n\n> With more employees working from home, the company has invested heavily in secure network access."
+    },
+    {
+      "title": "03 Listening｜Locked Out After a Password Update",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: IT help desk, this is Marta speaking. Man: Hi, Marta. This is Kevin Ruiz in Accounting. I changed my password this morning when the system asked me to, but now it keeps rejecting my login, and I have a client report due at noon. Woman: Let me take a look at your account. OK, it seems your account was locked after three failed sign-in attempts. Have you set up two-factor authentication yet? Man: No, I didn't realize that was required now. Woman: It has been since Monday. Without it, the system treats a new password as unverified. I've just unlocked your account for you. If you download the authenticator app on your phone, you'll receive a code each time you sign in. Man: All right, I can do that right now. Woman: Great. Once you've installed it, I'll stay on the line and walk you through linking it to your account."
+    },
+    {
+      "title": "04 Listening｜CloudDesk Rollout Update",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：CloudDesk Rollout Schedule\n\n| Phase | Departments | Go-Live Date |\n|---|---|---|\n| 1 | Finance, Purchasing | April 7 |\n| 2 | Human Resources, Legal | April 14 |\n| 3 | Sales, Marketing | April 21 |\n| 4 | Customer Service | April 28 |\n\n聽力稿：\n\n> Attention, all staff. This is Alan Brooks from the IT department with an update on the CloudDesk rollout. Having reviewed the results of last week's pilot test, we've decided to make one change to the schedule. Because the customer service team handles the largest volume of client data, we're moving their go-live date up by two weeks, so they'll switch over together with the second group. Every other department will keep its original date. To prepare, please save all your working files to the shared drive before you leave on the Friday before your go-live date. The old system will be shut down at seven P.M. that evening, and any files left on your desktop may not be transferred. Also, beginning next Monday, the IT help desk will extend its hours until nine P.M. to answer questions during the transition. Thank you for your patience."
+    },
+    {
+      "title": "05 Listening｜Phishing Awareness at a Team Meeting",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Thanks for having me at your team meeting. I'm Sandra Lee, and I manage information security here. I'd like to talk about something that happened at our Denver branch last month. An employee there received an e-mail that appeared to come from our payroll provider. Believing the message to be genuine, she clicked a link and entered her login credentials. Fortunately, our system detected the attempt within minutes, and no client data was exposed. But it could have been much worse. So, starting in June, all employees will be required to complete a short online course on recognizing phishing attempts. It takes about thirty minutes. Now, I know what you're thinking: another training module. But the last time we ran a simulated phishing test, nearly one in five people clicked the link. Finally, if you ever receive a suspicious message, please don't just delete it. Use the Report button in your e-mail toolbar so that our team can examine it and block the sender."
+    },
+    {
+      "title": "⑥ Reading｜IT Memo, Migration Schedule, and E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Memo\n\n> To: All Employees\n> From: Gregory Okafor, Chief Information Officer\n> Date: February 18\n> Subject: Transition to CloudDesk\n>\n> As announced at last month's town hall meeting, Corvane Industries will replace its current document management system with CloudDesk, a cloud-based platform designed to make remote collaboration easier and more secure. To minimize disruption, the rollout will take place one department at a time, as shown in the attached schedule.\n>\n> Each department's system will be unavailable for the entire day of its migration. Employees must back up all working files to the shared drive no later than 5:00 P.M. on the business day before their department's migration date. Files that have not been backed up by then may not be transferred.\n>\n> Before their department's migration date, all employees must also attend one 45-minute security training session. Employees who have not completed the training by that date will have their access privileges suspended until they do so. Once CloudDesk is in use, two-factor authentication will be mandatory for all accounts.\n>\n> CloudDesk licenses cost $12 per user per month and will be charged to each department's budget. Departments that purchase licenses for a full year in advance will receive a 20 percent discount.\n\n用途：參考文件\n\n### Schedule\n\n> CloudDesk Migration Schedule\n>\n> Finance — Migration: Tuesday, March 4 — Training: February 25 or February 27\n> Human Resources — Migration: Thursday, March 6 — Training: February 26 or March 3\n> Sales — Migration: Tuesday, March 11 — Training: March 4 or March 6\n> Legal — Migration: Thursday, March 13 — Training: March 5 or March 10\n>\n> All training sessions are held in Room 4B from 2:00 to 2:45 P.M. and are limited to 30 participants. Contact the IT help desk at extension 4410 to reserve a seat.\n\n用途：參考文件\n\n### E-mail\n\n> From: Priya Nandakumar, Sales Director\n> To: Ethan Cole, IT Project Manager\n> Date: February 28\n> Subject: Request regarding the CloudDesk schedule\n>\n> Dear Mr. Cole,\n>\n> I am writing about my department's migration date. On March 11, our team will be presenting a proposal to Halvorsen Retail, our largest client, and we will need full access to our files throughout the day. Having discussed the matter with Daniel Wu, the Legal director, I can confirm that his team is willing to exchange migration dates with us. Could you let me know whether this would be possible?\n>\n> In addition, three of my sales representatives will be visiting clients overseas from March 3 to March 14 and cannot attend any of the scheduled training sessions. Is there an online version of the training that they could complete while traveling?\n>\n> Finally, we would like to purchase annual licenses for all 25 members of our department. Please send the invoice to me directly.\n>\n> Best regards,\n> Priya Nandakumar\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Staff\n> From: IT Services\n> Date: May 9\n> Subject: Scheduled system maintenance\n>\n> Please be advised that our e-mail server will undergo scheduled maintenance this Saturday from 10:00 P.M. to 2:00 A.M. [1] _____ to strengthen protection against malware, the upgrade will also install the latest security patches on all company laptops. [2] _____\n>\n> After the maintenance, some older mobile devices may no longer be [3] _____ with the e-mail application. If your device is affected, please submit a request through the help desk portal. [4] _____, you can continue to access your e-mail through any web browser."
+    },
+    {
+      "title": "⑨ Day 58 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 55、Day 56、Day 57**，並延伸到今天的 IT 系統導入主題。\n\n### 複習重點\n- Day 55：時間子句現在代未來（until the migration is completed），公告中的 will be + p.p. 與今天被動分詞一起判斷\n- Day 56：倒裝條件 Had + 主詞 + p.p.、require / stipulate that + 原形動詞，今天小考第 5–6 題混合複習\n- Day 57：recommend / postpone + V-ing、agree / fail + to V；今天要分清楚「動名詞當受詞」和「分詞構句當修飾語」\n- 今日文法：先找句子主詞，再判斷主動（V-ing）或被動（p.p.）；動作明顯較早就用 Having p.p.；主詞不同要保留主詞或改用介系詞\n- Part 4 公告：聽到 move up by two weeks、together with the second group，先在圖表上算出新日期再選\n- 說話者意圖題：注意 I know what you're thinking… But… 這種先讓步再反駁的語氣\n- Part 7 計算：單價 × 人數 × 月數 → 再套折扣；日期題先找規則（前一個工作日），再查時程表\n\n### 錯題標籤\n- `G`：Grammar\n- `PART`：Participle Construction\n- `DANG`：Dangling Modifier\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `DATE`：Date Inference\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 rollout、downtime、phase out、comply with、access privileges 各寫一句 IT 公告句子。\n- 把 5 個副詞子句改寫成分詞構句（主動、被動、Having p.p. 各至少一句），再寫 2 句懸垂分詞錯句並訂正。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；每題標出屬於規則 1–5 的哪一類。\n- Reading 計算題重做：寫出 $12 × 25 × 12 × 0.8 的算式，並說明 Finance 的備份期限為什麼是 March 3 而不是 March 4。\n- Listening 第二組與第三組各聽兩次，第二輪不看逐字稿，寫下公告中所有日期與時間的變更。\n- Day 58 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；預習 Day 59 合約續約與價格調整字彙（renewal、terminate、price adjustment）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "rollout",
+      "meaning": "（分階段）推出；導入",
+      "phrase": "the phased rollout of the new software"
+    },
+    {
+      "id": 2,
+      "word": "implementation",
+      "meaning": "實施；導入",
+      "phrase": "oversee the implementation of the system"
+    },
+    {
+      "id": 3,
+      "word": "migrate",
+      "meaning": "遷移（資料或系統）",
+      "phrase": "migrate customer records to the new platform"
+    },
+    {
+      "id": 4,
+      "word": "deploy",
+      "meaning": "部署；上線",
+      "phrase": "deploy the update across all branches"
+    },
+    {
+      "id": 5,
+      "word": "authentication",
+      "meaning": "身分驗證",
+      "phrase": "two-factor authentication"
+    },
+    {
+      "id": 6,
+      "word": "credentials",
+      "meaning": "登入憑證（帳號密碼）",
+      "phrase": "enter your login credentials"
+    },
+    {
+      "id": 7,
+      "word": "password",
+      "meaning": "密碼",
+      "phrase": "reset your password every 90 days"
+    },
+    {
+      "id": 8,
+      "word": "encryption",
+      "meaning": "加密",
+      "phrase": "comply with data encryption standards"
+    },
+    {
+      "id": 9,
+      "word": "firewall",
+      "meaning": "防火牆",
+      "phrase": "configure the firewall"
+    },
+    {
+      "id": 10,
+      "word": "malware",
+      "meaning": "惡意軟體",
+      "phrase": "scan all attachments for malware"
+    },
+    {
+      "id": 11,
+      "word": "phishing",
+      "meaning": "網路釣魚",
+      "phrase": "report suspicious phishing e-mails"
+    },
+    {
+      "id": 12,
+      "word": "vulnerability",
+      "meaning": "（系統）漏洞；弱點",
+      "phrase": "fix a security vulnerability"
+    },
+    {
+      "id": 13,
+      "word": "patch",
+      "meaning": "修補程式",
+      "phrase": "install the latest security patch"
+    },
+    {
+      "id": 14,
+      "word": "compatible",
+      "meaning": "相容的",
+      "phrase": "compatible with existing hardware"
+    },
+    {
+      "id": 15,
+      "word": "downtime",
+      "meaning": "停機時間",
+      "phrase": "scheduled downtime over the weekend"
+    },
+    {
+      "id": 16,
+      "word": "back up",
+      "meaning": "備份",
+      "phrase": "back up your files before the upgrade"
+    },
+    {
+      "id": 17,
+      "word": "restore",
+      "meaning": "恢復；還原",
+      "phrase": "restore data from last night's backup"
+    },
+    {
+      "id": 18,
+      "word": "troubleshoot",
+      "meaning": "排除故障",
+      "phrase": "troubleshoot connection problems"
+    },
+    {
+      "id": 19,
+      "word": "help desk",
+      "meaning": "技術支援服務台",
+      "phrase": "contact the IT help desk"
+    },
+    {
+      "id": 20,
+      "word": "access privileges",
+      "meaning": "存取權限",
+      "phrase": "grant access privileges to new staff"
+    },
+    {
+      "id": 21,
+      "word": "authorized",
+      "meaning": "經授權的",
+      "phrase": "authorized personnel only"
+    },
+    {
+      "id": 22,
+      "word": "data breach",
+      "meaning": "資料外洩",
+      "phrase": "prevent a data breach"
+    },
+    {
+      "id": 23,
+      "word": "confidential",
+      "meaning": "機密的",
+      "phrase": "handle confidential client information"
+    },
+    {
+      "id": 24,
+      "word": "safeguard",
+      "meaning": "保護；防護措施",
+      "phrase": "safeguard customer data"
+    },
+    {
+      "id": 25,
+      "word": "comply with",
+      "meaning": "遵守",
+      "phrase": "comply with the new security policy"
+    },
+    {
+      "id": 26,
+      "word": "mandatory",
+      "meaning": "強制的；必須參加的",
+      "phrase": "mandatory security training"
+    },
+    {
+      "id": 27,
+      "word": "interface",
+      "meaning": "介面",
+      "phrase": "a user-friendly interface"
+    },
+    {
+      "id": 28,
+      "word": "glitch",
+      "meaning": "小故障",
+      "phrase": "a technical glitch in the payroll system"
+    },
+    {
+      "id": 29,
+      "word": "transition",
+      "meaning": "過渡；轉換",
+      "phrase": "ensure a smooth transition to the new system"
+    },
+    {
+      "id": 30,
+      "word": "phase out",
+      "meaning": "逐步淘汰",
+      "phrase": "phase out the old software by December"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Locked Out After a Password Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the man's problem?",
+          "options": {
+            "A": "He missed a deadline for a client report",
+            "B": "His mobile phone has stopped working",
+            "C": "He cannot sign in to his account",
+            "D": "His computer has been infected with malware"
+          },
+          "answer": "C",
+          "explanation": "男子說 it keeps rejecting my login：改完密碼後一直無法登入。報告是中午到期，還沒錯過，A 錯。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the woman, why was the man's account locked?",
+          "options": {
+            "A": "He made too many unsuccessful sign-in attempts",
+            "B": "He did not change his password on time",
+            "C": "His department's access was suspended",
+            "D": "He used a personal device"
+          },
+          "answer": "A",
+          "explanation": "your account was locked after three failed sign-in attempts：連續三次登入失敗被鎖。failed attempts 換成 unsuccessful attempts 是典型同義轉換。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman most likely do next?",
+          "options": {
+            "A": "Reset the man's password",
+            "B": "Send the man a new phone",
+            "C": "Contact the man's manager",
+            "D": "Guide the man through a setup process"
+          },
+          "answer": "D",
+          "explanation": "最後一句 I'll stay on the line and walk you through linking it to your account：她會一步步帶男子完成驗證 app 綁定。walk you through = guide through。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "CloudDesk Rollout Update",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the announcement?",
+          "options": {
+            "A": "To introduce a new IT manager",
+            "B": "To report a revision to a schedule",
+            "C": "To explain the results of a customer survey",
+            "D": "To apologize for a system failure"
+          },
+          "answer": "B",
+          "explanation": "Having reviewed the results of last week's pilot test, we've decided to make one change to the schedule：主旨是宣布導入時程的調整。pilot test 只是改期的依據。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. When will the Customer Service department start using the new system?",
+          "options": {
+            "A": "April 7",
+            "B": "April 21",
+            "C": "April 28",
+            "D": "April 14"
+          },
+          "answer": "D",
+          "explanation": "客服原本是第 4 階段 April 28，move up by two weeks、switch over together with the second group：提前兩週並與第二組同天，即 April 14。圖表題要先把原日期「搬動」再作答，C 是陷阱。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are the listeners asked to do?",
+          "options": {
+            "A": "Save their files to a shared location",
+            "B": "Attend a training session",
+            "C": "Shut down their computers at 7 P.M.",
+            "D": "Test the new system on Friday"
+          },
+          "answer": "A",
+          "explanation": "please save all your working files to the shared drive：把檔案存到共用磁碟。7 P.M. 是舊系統關機時間，不是要聽眾關機，C 錯。"
+        },
+        {
+          "id": 4,
+          "prompt": "According to the speaker, what will change next Monday?",
+          "options": {
+            "A": "The old system will be shut down",
+            "B": "A pilot test will begin",
+            "C": "The help desk will stay open later",
+            "D": "Customer data will be migrated"
+          },
+          "answer": "C",
+          "explanation": "beginning next Monday, the IT help desk will extend its hours until nine P.M.：服務台延長服務時間。extend its hours = stay open later。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Phishing Awareness at a Team Meeting",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the speaker?",
+          "options": {
+            "A": "A payroll manager",
+            "B": "A branch manager",
+            "C": "A software developer",
+            "D": "A security specialist"
+          },
+          "answer": "D",
+          "explanation": "I manage information security here：她負責資訊安全。payroll provider 只是釣魚信假冒的對象。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the speaker, what happened last month?",
+          "options": {
+            "A": "A client complained about a service",
+            "B": "An employee was tricked into sharing information",
+            "C": "Some client data was made public",
+            "D": "A new payroll provider was hired"
+          },
+          "answer": "B",
+          "explanation": "Believing the message to be genuine, she clicked a link and entered her login credentials：員工誤信釣魚信而輸入帳密。no client data was exposed，C 錯。注意 Believing… 就是今天的主動分詞構句。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker imply when she says, \"nearly one in five people clicked the link\"?",
+          "options": {
+            "A": "The test was poorly designed",
+            "B": "Most employees found the test easy",
+            "C": "The new course is clearly needed",
+            "D": "The results will be shared publicly"
+          },
+          "answer": "C",
+          "explanation": "前一句承認大家會覺得 another training module（又一個課程），接著用模擬測試有近兩成的人點了連結反駁：意思是這門課確實有必要。說話者意圖題要看前後語氣轉折（But）。"
+        },
+        {
+          "id": 4,
+          "prompt": "What does the speaker ask listeners to do with suspicious messages?",
+          "options": {
+            "A": "Report them by using a feature in their e-mail program",
+            "B": "Delete them immediately",
+            "C": "Forward them to their managers",
+            "D": "Reply to confirm the sender's identity"
+          },
+          "answer": "A",
+          "explanation": "don't just delete it. Use the Report button in your e-mail toolbar：用工具列的 Report 按鈕回報。B 正好是她說不要做的事。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "IT Memo, Migration Schedule, and E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the memo?",
+          "options": {
+            "A": "To explain how a new system will be introduced",
+            "B": "To announce the results of a town hall meeting",
+            "C": "To request feedback on a document platform",
+            "D": "To introduce a new chief information officer"
+          },
+          "answer": "A",
+          "explanation": "備忘錄說明 CloudDesk 將分部門導入，並交代備份、訓練與授權費用，目的是說明新系統如何上線。town hall 只是之前宣布過的場合。"
+        },
+        {
+          "id": 2,
+          "prompt": "What is indicated about CloudDesk?",
+          "options": {
+            "A": "It is already used by the Finance department",
+            "B": "It was developed by Corvane Industries",
+            "C": "It will require two-factor authentication",
+            "D": "It can be used only in the office"
+          },
+          "answer": "C",
+          "explanation": "Once CloudDesk is in use, two-factor authentication will be mandatory for all accounts。它是為遠端協作設計的雲端平台，D 錯；文中沒說是自家開發，B 無根據。"
+        },
+        {
+          "id": 3,
+          "prompt": "By when must employees in the Finance department back up their files?",
+          "options": {
+            "A": "5:00 P.M. on February 27",
+            "B": "5:00 P.M. on March 3",
+            "C": "5:00 P.M. on March 4",
+            "D": "2:00 P.M. on March 4"
+          },
+          "answer": "B",
+          "explanation": "備忘錄：遷移日前一個工作日 5:00 P.M. 前備份；時程表：Finance 遷移日是 Tuesday, March 4，前一個工作日是 Monday, March 3。February 27 是訓練日，A 錯。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why did Ms. Nandakumar write the e-mail?",
+          "options": {
+            "A": "To reserve a training room for her team",
+            "B": "To report a technical problem",
+            "C": "To introduce a new client",
+            "D": "To ask for a change to a migration date"
+          },
+          "answer": "D",
+          "explanation": "I am writing about my department's migration date…his team is willing to exchange migration dates with us. Could you let me know whether this would be possible?：請求調換遷移日期。"
+        },
+        {
+          "id": 5,
+          "prompt": "If Ms. Nandakumar's request is approved, when will the Sales department's system be migrated?",
+          "options": {
+            "A": "March 13",
+            "B": "March 11",
+            "C": "March 6",
+            "D": "March 14"
+          },
+          "answer": "A",
+          "explanation": "她要跟 Legal 交換日期。時程表上 Legal 是 Thursday, March 13，所以 Sales 改為 March 13。March 14 是業務出差結束日，D 是陷阱。"
+        },
+        {
+          "id": 6,
+          "prompt": "What does Ms. Nandakumar ask about some of her staff members?",
+          "options": {
+            "A": "Whether they can use personal devices",
+            "B": "Whether they can postpone their business trip",
+            "C": "Whether they can complete the training online",
+            "D": "Whether they can join the Legal department's session"
+          },
+          "answer": "C",
+          "explanation": "Is there an online version of the training that they could complete while traveling?：三位出差業務能否線上受訓。"
+        },
+        {
+          "id": 7,
+          "prompt": "How much will the Sales department most likely pay for the licenses Ms. Nandakumar requests?",
+          "options": {
+            "A": "$3,600",
+            "B": "$300",
+            "C": "$2,400",
+            "D": "$2,880"
+          },
+          "answer": "D",
+          "explanation": "備忘錄：每人每月 $12，一次買一年打八折。信件：25 人、annual licenses。$12 × 25 × 12 = $3,600，再 × 0.8 = $2,880。A 是未打折金額，B 是一個月的金額。"
+        },
+        {
+          "id": 8,
+          "prompt": "What will most likely happen if the three sales representatives do not complete the training before their department's migration date?",
+          "options": {
+            "A": "They will have to pay a fee",
+            "B": "Their access privileges will be suspended",
+            "C": "Their files will be deleted",
+            "D": "They will be transferred to another department"
+          },
+          "answer": "B",
+          "explanation": "備忘錄：Employees who have not completed the training by that date will have their access privileges suspended。這題要把信件中的出差問題和備忘錄規定連起來。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ in 2015, the current inventory software is no longer compatible with most mobile devices.",
+          "options": {
+            "A": "Install",
+            "B": "Installed",
+            "C": "Installing",
+            "D": "Having installed"
+          },
+          "answer": "B",
+          "explanation": "主詞 software 是「被安裝」，用被動分詞構句 Installed（規則 2）。Having installed 是主動，表示軟體自己安裝了東西，錯。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ the pilot test, the IT team recommended extending the rollout to all branches.",
+          "options": {
+            "A": "Complete",
+            "B": "Completed",
+            "C": "Being completed",
+            "D": "Having completed"
+          },
+          "answer": "D",
+          "explanation": "IT team 主動完成測試，且完成在建議之前，用 Having completed（規則 3）。"
+        },
+        {
+          "id": 3,
+          "prompt": "When _____ to enter a verification code, users should check the authentication app on their phones.",
+          "options": {
+            "A": "prompted",
+            "B": "prompting",
+            "C": "prompt",
+            "D": "to prompt"
+          },
+          "answer": "A",
+          "explanation": "users 是「被提示」，保留連接詞 when + p.p.（規則 4）。When prompted 是操作說明高頻用語。"
+        },
+        {
+          "id": 4,
+          "prompt": "Employees _____ to work remotely must use a company-issued laptop.",
+          "options": {
+            "A": "wish",
+            "B": "wished",
+            "C": "wishing",
+            "D": "are wishing"
+          },
+          "answer": "C",
+          "explanation": "已有主要動詞 must use，空格是省略關係代名詞的修飾語：Employees (who wish) → wishing。wish 是主動，用 V-ing。"
+        },
+        {
+          "id": 5,
+          "prompt": "The security patch, _____ last night, fixed a vulnerability in the e-mail server.",
+          "options": {
+            "A": "deploy",
+            "B": "deploying",
+            "C": "deployed",
+            "D": "to deploy"
+          },
+          "answer": "C",
+          "explanation": "patch 是「被部署」：which was deployed → deployed。"
+        },
+        {
+          "id": 6,
+          "prompt": "All staff are required to _____ with the updated data protection policy by the end of the month.",
+          "options": {
+            "A": "comply",
+            "B": "adhere",
+            "C": "follow",
+            "D": "observe"
+          },
+          "answer": "A",
+          "explanation": "comply with 遵守。adhere 要接 to；follow / observe 是及物動詞，後面不加 with。介系詞是判斷關鍵。"
+        },
+        {
+          "id": 7,
+          "prompt": "If any data is lost during the migration, the IT team will _____ it from last night's backup.",
+          "options": {
+            "A": "install",
+            "B": "troubleshoot",
+            "C": "deploy",
+            "D": "restore"
+          },
+          "answer": "D",
+          "explanation": "restore data from a backup 從備份還原資料，固定搭配。troubleshoot 的受詞是問題或設備，不接 from a backup。"
+        },
+        {
+          "id": 8,
+          "prompt": "_____ the large number of phishing attempts reported this year, the company has made security training mandatory.",
+          "options": {
+            "A": "Because",
+            "B": "Given",
+            "C": "Despite",
+            "D": "Although"
+          },
+          "answer": "B",
+          "explanation": "空格後是名詞片語，要用介系詞；Given + 名詞 = 考慮到（規則 5 慣用語）。Because 須寫成 Because of；Despite 語意相反；Although 接子句。"
+        },
+        {
+          "id": 9,
+          "prompt": "The new software, _____ intuitive interface was praised by testers, will be rolled out next month.",
+          "options": {
+            "A": "whose",
+            "B": "which",
+            "C": "its",
+            "D": "that"
+          },
+          "answer": "A",
+          "explanation": "空格後是名詞 intuitive interface，表「它的介面」，用所有格關係代名詞 whose。its 無法連接兩個子句。"
+        },
+        {
+          "id": 10,
+          "prompt": "_____ properly, the new firewall should block most unauthorized access attempts.",
+          "options": {
+            "A": "Configuring",
+            "B": "Having configured",
+            "C": "To configure",
+            "D": "Configured"
+          },
+          "answer": "D",
+          "explanation": "firewall 是「被設定」：If it is configured properly → Configured properly（規則 2、4）。"
+        },
+        {
+          "id": 11,
+          "prompt": "The upgrade _____ completed ahead of schedule, the IT department restored access to all users by noon.",
+          "options": {
+            "A": "was",
+            "B": "having been",
+            "C": "has been",
+            "D": "had been"
+          },
+          "answer": "B",
+          "explanation": "逗號後已有完整子句，前半不能再有動詞，主詞又不同（upgrade vs. IT department），用獨立分詞構句 The upgrade having been completed（規則 5）。"
+        },
+        {
+          "id": 12,
+          "prompt": "With more employees _____ from home, the company has invested heavily in secure network access.",
+          "options": {
+            "A": "work",
+            "B": "worked",
+            "C": "working",
+            "D": "to work"
+          },
+          "answer": "C",
+          "explanation": "with + 受詞 + V-ing 表伴隨狀況，employees 主動在家工作，用 working（規則 5）。"
+        },
+        {
+          "id": 13,
+          "prompt": "Only _____ personnel may enter the server room.",
+          "options": {
+            "A": "authorized",
+            "B": "authorizing",
+            "C": "authorization",
+            "D": "authorize"
+          },
+          "answer": "A",
+          "explanation": "authorized personnel 經授權的人員，人員是「被授權」，用 p.p. 當形容詞。"
+        },
+        {
+          "id": 14,
+          "prompt": "Unless otherwise _____, all employees should change their passwords every 90 days.",
+          "options": {
+            "A": "instruct",
+            "B": "instructing",
+            "C": "instruction",
+            "D": "instructed"
+          },
+          "answer": "D",
+          "explanation": "unless otherwise instructed 除非另有指示，員工是「被指示」，用 p.p.（規則 4）。"
+        },
+        {
+          "id": 15,
+          "prompt": "The scheduled downtime is expected to last approximately three hours, _____ the system to be unavailable until 2 A.M.",
+          "options": {
+            "A": "caused",
+            "B": "causing",
+            "C": "causes",
+            "D": "to cause"
+          },
+          "answer": "B",
+          "explanation": "句尾 , V-ing 表附帶結果（規則 1）。causes 會讓兩個子句沒有連接詞；caused 是被動，語意不對。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "Designing",
+            "B": "Design",
+            "C": "Designed",
+            "D": "Having designed"
+          },
+          "answer": "C",
+          "explanation": "主詞 the upgrade 是「被設計」來加強防護，用被動分詞構句 Designed to…（規則 2）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "Laptops should therefore be left on and connected to the office network before you leave on Friday.",
+            "B": "The maintenance was completed earlier than expected.",
+            "C": "Our new office will open to visitors on Monday.",
+            "D": "Please let us know which session you would like to attend."
+          },
+          "answer": "A",
+          "explanation": "前句說升級會替所有筆電安裝修補程式，A 用 therefore 接著交代員工要配合的事（筆電開機並連上公司網路），邏輯最順。B 時態與事實不符（維護在週六才進行）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "comparable",
+            "B": "consistent",
+            "C": "capable",
+            "D": "compatible"
+          },
+          "answer": "D",
+          "explanation": "be compatible with 與…相容。comparable with 是「可比較的」，consistent with 是「一致的」，capable 要接 of。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "As a result",
+            "B": "In the meantime",
+            "C": "Otherwise",
+            "D": "In contrast"
+          },
+          "answer": "B",
+          "explanation": "提出申請到問題解決之前的這段時間，可以先用瀏覽器收信：In the meantime 與此同時。Otherwise 會變成「若不提出申請」，語意不合。"
+        }
+      ]
+    },
+    {
+      "id": "day-58-quiz",
+      "title": "Day 58 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "_____ the new security policy, employees must lock their computers whenever they leave their desks.",
+          "options": {
+            "A": "Throughout",
+            "B": "Among",
+            "C": "Within",
+            "D": "Under"
+          },
+          "answer": "D",
+          "explanation": "under the policy 依照該政策，固定搭配。"
+        },
+        {
+          "id": 2,
+          "prompt": "_____ by the number of support requests, the help desk hired two temporary technicians.",
+          "options": {
+            "A": "Overwhelmed",
+            "B": "Overwhelming",
+            "C": "Overwhelm",
+            "D": "Having overwhelmed"
+          },
+          "answer": "A",
+          "explanation": "help desk 是「被大量請求淹沒」，用被動分詞 Overwhelmed（規則 2）。"
+        },
+        {
+          "id": 3,
+          "prompt": "The old accounting software will be _____ by the end of the year and replaced with a cloud-based system.",
+          "options": {
+            "A": "phased in",
+            "B": "carried out",
+            "C": "phased out",
+            "D": "brought up"
+          },
+          "answer": "C",
+          "explanation": "phase out 逐步淘汰，與後面的 replaced 呼應。phase in 是逐步導入，意思相反。"
+        },
+        {
+          "id": 4,
+          "prompt": "The IT director recommended _____ the rollout until all staff had completed the training.",
+          "options": {
+            "A": "delay",
+            "B": "delaying",
+            "C": "to delay",
+            "D": "delayed"
+          },
+          "answer": "B",
+          "explanation": "Day 57 複習：recommend + V-ing。"
+        },
+        {
+          "id": 5,
+          "prompt": "The policy requires that every employee _____ two-factor authentication by March 1.",
+          "options": {
+            "A": "enable",
+            "B": "enables",
+            "C": "enabled",
+            "D": "will enable"
+          },
+          "answer": "A",
+          "explanation": "Day 54 複習：require that + 主詞 + 原形動詞（假設語氣現在式）。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ the firewall been updated, the attack would have been blocked.",
+          "options": {
+            "A": "If",
+            "B": "Should",
+            "C": "Were",
+            "D": "Had"
+          },
+          "answer": "D",
+          "explanation": "Day 56 複習：與過去事實相反的倒裝 Had + 主詞 + p.p.，等於 If the firewall had been updated。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ the security audit, several outdated passwords were discovered by the consultants.",
+          "options": {
+            "A": "Conducting",
+            "B": "During",
+            "C": "Having conducted",
+            "D": "While conducting"
+          },
+          "answer": "B",
+          "explanation": "主詞是 passwords，若用 Conducting / Having conducted / While conducting 會變成「密碼在做稽核」的懸垂分詞（規則 5）。用介系詞 During + 名詞最正確。"
+        },
+        {
+          "id": 8,
+          "prompt": "A _____ in the payroll system caused some employees to receive their salaries a day late.",
+          "options": {
+            "A": "breach",
+            "B": "firewall",
+            "C": "glitch",
+            "D": "patch"
+          },
+          "answer": "C",
+          "explanation": "glitch 小故障，造成薪資晚一天入帳。breach 指資安外洩，與晚發薪的結果不搭。"
+        },
+        {
+          "id": 9,
+          "prompt": "The system will remain unavailable until the migration _____.",
+          "options": {
+            "A": "will complete",
+            "B": "will be completed",
+            "C": "completes",
+            "D": "is completed"
+          },
+          "answer": "D",
+          "explanation": "Day 55 複習：時間子句用現在式代替未來式；migration 是「被完成」，用被動 is completed。"
+        },
+        {
+          "id": 10,
+          "prompt": "_____ the software on 200 computers last week, the technicians are now collecting user feedback.",
+          "options": {
+            "A": "Having installed",
+            "B": "Installed",
+            "C": "Being installed",
+            "D": "To install"
+          },
+          "answer": "A",
+          "explanation": "技術人員主動安裝，且上週安裝早於現在收集回饋，用 Having installed（規則 3）。"
+        },
+        {
+          "id": 11,
+          "prompt": "Employees must not share _____ information with anyone outside the company.",
+          "options": {
+            "A": "confident",
+            "B": "confidence",
+            "C": "confidential",
+            "D": "confidentially"
+          },
+          "answer": "C",
+          "explanation": "修飾名詞 information 要用形容詞 confidential（機密的）。confident 是「有自信的」。"
+        },
+        {
+          "id": 12,
+          "prompt": "Once _____, the new authentication system will significantly reduce the risk of a data breach.",
+          "options": {
+            "A": "implementing",
+            "B": "implemented",
+            "C": "implement",
+            "D": "implementation"
+          },
+          "answer": "B",
+          "explanation": "系統是「被導入」，once + p.p.（規則 4）：Once (it is) implemented。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "IT 公告與資安題先抓「誰、何時、要做什麼、不做會怎樣」：分詞構句先找主詞再判斷主被動，主動 V-ing、被動 p.p.，動作較早用 Having p.p.，when prompted / once implemented / unless otherwise instructed 保留連接詞，主詞不同就保留主詞或改用 During / Given；Part 4 公告聽到 move up、together with 先在圖表上算出新日期；Part 7 費用題依序算單價 × 人數 × 月數 → 折扣，日期題先找規則再查時程表。",
+  "nextDay": "合約續約與價格調整／Part 7 多文件條件推論／假設語氣混合"
+}
