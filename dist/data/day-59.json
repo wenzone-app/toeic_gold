@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 59,
+  "title": "合約續約與價格調整、Part 7 多文件條件推論與假設語氣混合",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 59 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 59 學習概覽",
+      "markdown": "- 合約續約與價格調整 30 字：renewal、notice period、auto-renew、price adjustment、lock in、waive、penalty、retroactive 等合約與報價高頻字\n- 文法：假設語氣混合，與現在相反、與過去相反、混合時間假設、Were / Had / Should 倒裝，以及 but for / without / wish / as if / It's time\n- Listening：Part 3 影印機租約續約對話、Part 4 物流合約語音留言＋方案表圖表題、Part 4 自動續約失誤說明的說話者意圖題\n- Part 7 三篇整合：服務合約節錄 → 續約通知信 → 內部 Email，依條款推算通知期限、新月費、提前解約金與兩年方案省下的金額\n- 完成 50 題後，把假設語氣錯題分成「時間判斷錯（現在／過去／混合）」與「句型判斷錯（倒裝／but for／wish）」兩類\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| renewal | 續約；更新 | the contract is up for renewal |\n| expire | 到期；失效 | the agreement expires on December 31 |\n| terminate | 終止（合約） | terminate the contract early |\n| notice period | 預告期 | a 60-day notice period |\n| in writing | 以書面方式 | notify the supplier in writing |\n| auto-renew | 自動續約 | the subscription will auto-renew each year |\n| price adjustment | 價格調整 | an annual price adjustment |\n| surcharge | 附加費 | a temporary fuel surcharge |\n| rate | 費率；價格 | a fixed monthly rate |\n| lock in | 鎖定（價格、費率） | lock in the current rate for two years |\n| quote | 報價；報價單 | request quotes from three vendors |\n| vendor | 供應商；廠商 | an approved vendor list |\n| negotiate | 協商；談判 | negotiate more favorable terms |\n| terms | （合約）條款；條件 | under the terms of the agreement |\n| binding | 具約束力的 | a legally binding contract |\n| breach | 違反；違約 | be in breach of contract |\n| penalty | 罰款；違約金 | an early termination penalty |\n| waive | 免除（費用、權利） | waive the installation fee |\n| cap | 上限；設定上限 | cap annual increases at 4 percent |\n| incur | 招致；產生（費用） | incur additional charges |\n| retroactive | 追溯（既往）的 | a pay raise retroactive to January 1 |\n| valid | 有效的 | the quote is valid for 30 days |\n| extend | 延長 | extend the agreement by one year |\n| multiyear | 多年期的 | a multiyear service agreement |\n| volume discount | 大量採購折扣 | qualify for a volume discount |\n| inflation | 通貨膨脹 | adjust prices for inflation |\n| counteroffer | 還價；反提議 | respond with a counteroffer |\n| signatory | 簽署人；簽約方 | an authorized signatory |\n| discretion | 裁量權；自行決定 | at the supplier's discretion |\n| outstanding | 未付的；未解決的 | settle all outstanding invoices |"
+    },
+    {
+      "title": "② 今日文法｜假設語氣混合",
+      "markdown": "主題：**假設語氣混合：與現在相反、與過去相反、混合時間假設、Were / Had / Should 倒裝，以及其他假設表達**\n\n### 規則 1｜與現在事實相反：If + 過去式, would / could + 原形\n\n條件和結果都在「現在」，而且與事實相反或可能性很低。be 動詞一律用 were（正式寫作）。看到 now、currently 或明顯不是事實的情況，就選過去式。\n\n> If our contract included a price cap, the supplier could not raise its rates this much.\n\n### 規則 2｜與過去事實相反：If + had p.p., would / could have p.p.\n\n條件和結果都在「過去」，表示當時沒發生的事。合約題常見：沒在期限前寄出通知、沒鎖定費率，因此造成損失。\n\n> If we had sent the cancellation notice on time, we would have avoided the automatic renewal.\n\n### 規則 3｜混合時間假設：過去條件 → 現在結果；現在狀態 → 過去結果\n\n最常考的是「If + had p.p.（過去沒做）, would + 原形 + now（現在的結果）」。另一種是「If + 過去式（現在一直存在的狀態）, would have p.p.（過去的結果）」。判斷方法：條件與結果各自找時間線索，分開決定時態。\n\n> If we had locked in the rate last year, we would be paying 8 percent less now.\n\n### 規則 4｜倒裝假設：Were / Had / Should + 主詞（省略 if）\n\nIf I were → Were I；If we had known → Had we known；If you should need → Should you need。Should 倒裝表示「萬一」，主要子句常接祈使句或 will，是合約與通知信的固定寫法：Should you wish to terminate the agreement, please notify us in writing.\n\n> Had the vendor informed us of the price adjustment earlier, we would have requested other quotes.\n\n### 規則 5｜其他假設表達：but for / without、wish、as if、It's (high) time\n\nBut for / Without + 名詞 = If it were not for（現在）或 If it had not been for（過去），主要子句時態看時間線索。I wish + 過去式（現在）／had p.p.（過去）；as if + 過去式表示與現在事實相反；It's (high) time + 主詞 + 過去式表示「早該做了」。注意 unless / provided that 是「真實條件」，不用假設語氣。\n\n> But for the volume discount, our shipping costs would have exceeded the budget last quarter."
+    },
+    {
+      "title": "03 Listening｜Renewing a Copier Lease",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Hi, Tom. Thanks for coming by. I wanted to talk about our copier lease. The renewal notice you sent says our monthly rate is going up from four hundred to four hundred and forty dollars. That's quite a jump. Man: I understand, Ms. Grant. Our costs for parts and toner have risen sharply this year, so we've had to adjust prices for all of our clients. Woman: Well, if I'd known about the increase earlier, I would have asked a few other companies for quotes. But our lease expires at the end of next month, so there isn't much time. Man: I may be able to help with that. If you sign a three-year renewal, I can lock in your rate at four hundred and twenty dollars for the entire term, and we'll waive the delivery fee on all toner orders. Woman: That's better. But any agreement longer than one year has to be approved by our finance department. I'll forward your offer to them this afternoon."
+    },
+    {
+      "title": "04 Listening｜Shipping Contract Renewal Message",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Swiftline Shipping Plans (effective April 1)\n\n| Plan | Shipments per Month | Monthly Fee |\n|---|---|---|\n| Basic | Up to 200 | $1,800 |\n| Standard | Up to 400 | $3,200 |\n| Plus | Up to 700 | $5,100 |\n| Premium | Unlimited | $6,900 |\n\n聽力稿：\n\n> Hello, Mr. Okoye. This is Rachel Dunn from Swiftline Logistics, calling about your company's shipping contract, which is up for renewal on March thirty-first. As you may know, we're introducing new plans on April first. I took a look at your account, and over the past quarter your team averaged about four hundred and fifty shipments a month. That's more than your current plan covers, so you've been paying overage charges on every extra package. If you had been on the right plan, you would have saved over a thousand dollars last quarter alone. So I'd recommend moving to the plan that actually covers your volume, rather than paying for unlimited shipments you don't need. Also, if you renew before March fifteenth, we'll waive the fuel surcharge for the first six months. I'll e-mail you a side-by-side comparison of your current costs and the new rates this afternoon. Please call me back once you've had a chance to review it."
+    },
+    {
+      "title": "05 Listening｜A Costly Automatic Renewal",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Before we finish, I want to mention something about our office cleaning contract. As some of you know, we had planned to switch to a new provider this month. Unfortunately, our cancellation notice reached the current provider two weeks after the deadline, so the contract renewed automatically for another year, at a rate that's twelve percent higher. Had the notice been sent by April first, we would be working with the new provider right now. Now, nobody here did anything wrong on purpose. Our contracts are tracked in three different spreadsheets, and the dates simply slipped through the cracks. So, starting next month, all vendor agreements will be entered into a single contract management system. It sends an automatic reminder ninety days before any agreement expires. I've asked Daniel Kim in Procurement to lead the setup, and he'll be contacting each department head this week to collect copies of your current contracts."
+    },
+    {
+      "title": "⑥ Reading｜Service Agreement, Letter, and E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Service Agreement\n\n> Kestrel Climate Services — Maintenance Agreement (excerpt)\n> Client: Orland Medical Group\n>\n> Section 2. Term and Renewal\n> This Agreement covers the period from January 1 to December 31. It will renew automatically for successive one-year terms unless either party gives written notice of non-renewal at least 60 days before the end of the current term.\n>\n> Section 3. Fees and Price Adjustments\n> The annual fee for the current term is $36,000, billed in equal monthly installments. Upon renewal, Kestrel may increase the annual fee by no more than 4 percent. Should the Client commit to a two-year renewal term, the annual fee will remain unchanged for the full two years.\n>\n> Section 4. Early Termination\n> During a renewal term, the Client may terminate this Agreement with 30 days' written notice, subject to a termination fee equal to two months of service at the rate then in effect.\n\n用途：參考文件\n\n### Letter\n\n> Kestrel Climate Services\n> October 2\n>\n> Mr. Marcus Hale\n> Finance Director, Orland Medical Group\n>\n> Dear Mr. Hale,\n>\n> Thank you for choosing Kestrel Climate Services this year. Your maintenance agreement will renew on January 1. In accordance with Section 3, your annual fee for a one-year renewal term will be $37,440, reflecting rising costs for parts and labor.\n>\n> We are also pleased to offer quarterly indoor air-quality testing, a service many healthcare clients have requested. This option is available for $1,200 per year; however, it will be provided free of charge to clients who choose our two-year renewal option.\n>\n> If you do not wish to renew, written notice must be received no later than November 1. Should you have any questions, please contact me directly.\n>\n> Sincerely,\n> Olivia Brandt\n> Account Manager\n\n用途：參考文件\n\n### E-mail\n\n> From: Lena Fischer, Facilities Manager\n> To: Marcus Hale, Finance Director\n> Date: October 20\n> Subject: Kestrel renewal\n>\n> Marcus,\n>\n> I've compared Kestrel's renewal letter with a quote from Pinecrest Climate Systems. Pinecrest's annual fee would be $35,500, but they could not begin service until March 1. Were we to switch, we would have to remain with Kestrel through February anyway, and ending a renewal term early would cost us a fee equal to two months of service at the new rate. Had Pinecrest been able to start on January 1, I would have recommended them.\n>\n> As things stand, I suggest we accept Kestrel's two-year option. Our fee would stay at its current level, and the air-quality testing we had planned to add next year would be included at no extra cost. Since multiyear commitments must be signed by you as our authorized signatory, could you sign the renewal form by October 28? That way, it will reach Kestrel well before their deadline.\n>\n> Lena\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Customers\n> From: Harlow Office Supply\n> Date: May 12\n> Subject: Price adjustment\n>\n> Thank you for your continued business with Harlow Office Supply. We are writing to inform you of a price adjustment that will take effect on July 1. Because of rising paper and transportation costs, prices on most of our products will increase by an average of 5 percent. [1] _____\n>\n> However, customers who renew their annual supply agreement before June 15 will be able to [2] _____ their current prices for another twelve months. Believe us, if we could absorb these costs ourselves, we [3] _____ so. [4] _____, all orders over $500 will continue to ship free of charge."
+    },
+    {
+      "title": "⑨ Day 59 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 56、Day 57、Day 58**，並延伸到今天的合約續約主題。\n\n### 複習重點\n- Day 56：倒裝條件 Had + 主詞 + p.p.、stipulate / require that + 原形動詞；今天把倒裝擴充到 Were / Should，並在小考第 6 題複習 that 子句原形\n- Day 57：recommend / postpone + V-ing、agree + to V；小考第 5 題複習，續約談判中常見 agree to renew、postpone signing\n- Day 58：分詞構句 Having reviewed…；小考第 4 題複習，注意主詞必須是「做檢閱的人」\n- 今日文法：條件與結果「各自」找時間線索；過去沒做 → had p.p.，現在的結果 → would + 原形；Should 倒裝 = 萬一，主要子句可接祈使句\n- Part 4 語音留言：先把圖表數字和聽到的數量配對（450 件 → 落在 Up to 700 的方案），再注意 rather than 排除的選項\n- 說話者意圖題：nobody here did anything wrong on purpose 是在安撫聽眾，不是在追究責任\n- Part 7 條款推論：先找合約規則（60 天、4%、兩個月違約金），再用信件的實際數字代入計算\n\n### 錯題標籤\n- `G`：Grammar\n- `SUBJ`：Subjunctive / Conditional\n- `MIX`：Mixed Conditional\n- `INV`：Inversion\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 renewal、notice period、lock in、waive、retroactive 各寫一句合約或報價情境的句子。\n- 假設語氣改寫：寫出與現在相反、與過去相反、混合時間假設各 2 句，再把其中 3 句改成 Were / Had / Should 倒裝。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；每題標出屬於規則 1–5 的哪一類，並圈出決定時態的時間線索。\n- Reading 計算題重做：寫出 $36,000 × 1.04、$37,440 ÷ 12 × 2，以及 ($37,440 + $1,200) − $36,000 的算式，並說明為什麼通知期限是 November 1。\n- Listening 第二組與第三組各聽兩次，第二輪不看逐字稿，寫下所有數字（450、March 15、12 percent、90 days）與它們代表的意思。\n- Day 59 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；明天 Day 60 是半份模考，今晚先複習 Day 51–59 的錯題筆記。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "renewal",
+      "meaning": "續約；更新",
+      "phrase": "the contract is up for renewal"
+    },
+    {
+      "id": 2,
+      "word": "expire",
+      "meaning": "到期；失效",
+      "phrase": "the agreement expires on December 31"
+    },
+    {
+      "id": 3,
+      "word": "terminate",
+      "meaning": "終止（合約）",
+      "phrase": "terminate the contract early"
+    },
+    {
+      "id": 4,
+      "word": "notice period",
+      "meaning": "預告期",
+      "phrase": "a 60-day notice period"
+    },
+    {
+      "id": 5,
+      "word": "in writing",
+      "meaning": "以書面方式",
+      "phrase": "notify the supplier in writing"
+    },
+    {
+      "id": 6,
+      "word": "auto-renew",
+      "meaning": "自動續約",
+      "phrase": "the subscription will auto-renew each year"
+    },
+    {
+      "id": 7,
+      "word": "price adjustment",
+      "meaning": "價格調整",
+      "phrase": "an annual price adjustment"
+    },
+    {
+      "id": 8,
+      "word": "surcharge",
+      "meaning": "附加費",
+      "phrase": "a temporary fuel surcharge"
+    },
+    {
+      "id": 9,
+      "word": "rate",
+      "meaning": "費率；價格",
+      "phrase": "a fixed monthly rate"
+    },
+    {
+      "id": 10,
+      "word": "lock in",
+      "meaning": "鎖定（價格、費率）",
+      "phrase": "lock in the current rate for two years"
+    },
+    {
+      "id": 11,
+      "word": "quote",
+      "meaning": "報價；報價單",
+      "phrase": "request quotes from three vendors"
+    },
+    {
+      "id": 12,
+      "word": "vendor",
+      "meaning": "供應商；廠商",
+      "phrase": "an approved vendor list"
+    },
+    {
+      "id": 13,
+      "word": "negotiate",
+      "meaning": "協商；談判",
+      "phrase": "negotiate more favorable terms"
+    },
+    {
+      "id": 14,
+      "word": "terms",
+      "meaning": "（合約）條款；條件",
+      "phrase": "under the terms of the agreement"
+    },
+    {
+      "id": 15,
+      "word": "binding",
+      "meaning": "具約束力的",
+      "phrase": "a legally binding contract"
+    },
+    {
+      "id": 16,
+      "word": "breach",
+      "meaning": "違反；違約",
+      "phrase": "be in breach of contract"
+    },
+    {
+      "id": 17,
+      "word": "penalty",
+      "meaning": "罰款；違約金",
+      "phrase": "an early termination penalty"
+    },
+    {
+      "id": 18,
+      "word": "waive",
+      "meaning": "免除（費用、權利）",
+      "phrase": "waive the installation fee"
+    },
+    {
+      "id": 19,
+      "word": "cap",
+      "meaning": "上限；設定上限",
+      "phrase": "cap annual increases at 4 percent"
+    },
+    {
+      "id": 20,
+      "word": "incur",
+      "meaning": "招致；產生（費用）",
+      "phrase": "incur additional charges"
+    },
+    {
+      "id": 21,
+      "word": "retroactive",
+      "meaning": "追溯（既往）的",
+      "phrase": "a pay raise retroactive to January 1"
+    },
+    {
+      "id": 22,
+      "word": "valid",
+      "meaning": "有效的",
+      "phrase": "the quote is valid for 30 days"
+    },
+    {
+      "id": 23,
+      "word": "extend",
+      "meaning": "延長",
+      "phrase": "extend the agreement by one year"
+    },
+    {
+      "id": 24,
+      "word": "multiyear",
+      "meaning": "多年期的",
+      "phrase": "a multiyear service agreement"
+    },
+    {
+      "id": 25,
+      "word": "volume discount",
+      "meaning": "大量採購折扣",
+      "phrase": "qualify for a volume discount"
+    },
+    {
+      "id": 26,
+      "word": "inflation",
+      "meaning": "通貨膨脹",
+      "phrase": "adjust prices for inflation"
+    },
+    {
+      "id": 27,
+      "word": "counteroffer",
+      "meaning": "還價；反提議",
+      "phrase": "respond with a counteroffer"
+    },
+    {
+      "id": 28,
+      "word": "signatory",
+      "meaning": "簽署人；簽約方",
+      "phrase": "an authorized signatory"
+    },
+    {
+      "id": 29,
+      "word": "discretion",
+      "meaning": "裁量權；自行決定",
+      "phrase": "at the supplier's discretion"
+    },
+    {
+      "id": 30,
+      "word": "outstanding",
+      "meaning": "未付的；未解決的",
+      "phrase": "settle all outstanding invoices"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Renewing a Copier Lease",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "A delay in an equipment delivery",
+            "B": "The renewal terms of an equipment lease",
+            "C": "The purchase of a new copier",
+            "D": "A billing error on an invoice"
+          },
+          "answer": "B",
+          "explanation": "整段對話圍繞 copier lease 的 renewal notice 與月租調漲，是租約續約條件。不是購買新機，C 錯。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply when she says, \"That's quite a jump\"?",
+          "options": {
+            "A": "She is pleased with the man's offer",
+            "B": "She expects the copier to be replaced",
+            "C": "She did not receive the renewal notice",
+            "D": "She thinks the price increase is large"
+          },
+          "answer": "D",
+          "explanation": "前一句提到月租從 400 調到 440 美元（漲 10%），quite a jump 表示她覺得漲幅很大。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman most likely do next?",
+          "options": {
+            "A": "Send an offer to another department",
+            "B": "Sign a three-year agreement",
+            "C": "Request quotes from other companies",
+            "D": "Order toner cartridges"
+          },
+          "answer": "A",
+          "explanation": "最後她說超過一年的合約要財務部核准，I'll forward your offer to them：把提案轉給財務部。C 是她「本來會做」的事（if I'd known…, I would have asked），屬於假設語氣陷阱。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Shipping Contract Renewal Message",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To confirm a delivery date",
+            "B": "To apologize for a billing mistake",
+            "C": "To discuss an upcoming contract renewal",
+            "D": "To introduce a new sales representative"
+          },
+          "answer": "C",
+          "explanation": "開頭 calling about your company's shipping contract, which is up for renewal：為了即將到期的合約續約。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. What monthly fee does the speaker recommend?",
+          "options": {
+            "A": "$1,800",
+            "B": "$3,200",
+            "C": "$5,100",
+            "D": "$6,900"
+          },
+          "answer": "C",
+          "explanation": "每月平均約 450 件，超過目前方案（Up to 400 的 Standard），應改成涵蓋 450 件的方案 Plus（Up to 700），月費 $5,100。rather than paying for unlimited shipments 排除 Premium。"
+        },
+        {
+          "id": 3,
+          "prompt": "According to the speaker, what will customers who renew before March 15 receive?",
+          "options": {
+            "A": "A free upgrade to the Premium plan",
+            "B": "Relief from an additional charge for a limited time",
+            "C": "A refund of last quarter's overage charges",
+            "D": "A longer contract at the same rate"
+          },
+          "answer": "B",
+          "explanation": "we'll waive the fuel surcharge for the first six months：前六個月免收燃油附加費。waive the surcharge = relief from an additional charge，first six months = for a limited time。"
+        },
+        {
+          "id": 4,
+          "prompt": "What does the speaker say she will send the listener?",
+          "options": {
+            "A": "A cost comparison",
+            "B": "A signed contract",
+            "C": "A revised invoice",
+            "D": "A delivery schedule"
+          },
+          "answer": "A",
+          "explanation": "I'll e-mail you a side-by-side comparison of your current costs and the new rates：會寄費用比較表。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "A Costly Automatic Renewal",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem does the speaker describe?",
+          "options": {
+            "A": "A cleaning company canceled its services",
+            "B": "A new provider raised its prices",
+            "C": "A contract was renewed because a deadline was missed",
+            "D": "Some contracts were lost during an office move"
+          },
+          "answer": "C",
+          "explanation": "取消通知晚了兩週才寄到，合約因此 renewed automatically，而且費率高 12%。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the speaker say, \"nobody here did anything wrong on purpose\"?",
+          "options": {
+            "A": "To ask for volunteers for a new project",
+            "B": "To explain why a policy will not change",
+            "C": "To announce that a decision has been reversed",
+            "D": "To reassure listeners that they are not being blamed"
+          },
+          "answer": "D",
+          "explanation": "說明失誤原因前先強調沒有人故意犯錯，接著把問題歸因於三份分散的試算表，目的是安撫聽眾、表示不是在追究個人責任。"
+        },
+        {
+          "id": 3,
+          "prompt": "According to the speaker, what will the new system do?",
+          "options": {
+            "A": "Send reminders before agreements expire",
+            "B": "Compare prices from different vendors",
+            "C": "Process payments to service providers",
+            "D": "Store employee schedules"
+          },
+          "answer": "A",
+          "explanation": "It sends an automatic reminder ninety days before any agreement expires：合約到期前 90 天自動提醒。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will Daniel Kim do this week?",
+          "options": {
+            "A": "Negotiate with the cleaning company",
+            "B": "Gather documents from department heads",
+            "C": "Train employees on a spreadsheet program",
+            "D": "Send a cancellation notice"
+          },
+          "answer": "B",
+          "explanation": "he'll be contacting each department head this week to collect copies of your current contracts：向各部門主管收集合約副本。collect copies = gather documents。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Service Agreement, Letter, and E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the letter?",
+          "options": {
+            "A": "To request payment of an overdue bill",
+            "B": "To inform a client about the terms of a renewal",
+            "C": "To announce a change in account managers",
+            "D": "To confirm that a contract has been terminated"
+          },
+          "answer": "B",
+          "explanation": "信中說明 1 月 1 日將續約、一年期新年費 $37,440、加購空氣品質檢測的條件與不續約通知期限，是告知續約條件。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the agreement, why is the deadline in the letter November 1?",
+          "options": {
+            "A": "It is 30 days after the letter was sent",
+            "B": "It is the date the new fees take effect",
+            "C": "It is the last day of Kestrel's fiscal year",
+            "D": "It is 60 days before the current term ends"
+          },
+          "answer": "D",
+          "explanation": "合約 Section 2：須在現行期間結束前至少 60 天書面通知不續約。12 月 31 日往前推 60 天（12 月 30 天＋11 月 30 天）＝ 11 月 1 日。"
+        },
+        {
+          "id": 3,
+          "prompt": "If Orland Medical Group renews for one year without the testing service, what will its monthly payment be?",
+          "options": {
+            "A": "$3,000",
+            "B": "$3,120",
+            "C": "$3,220",
+            "D": "$3,240"
+          },
+          "answer": "B",
+          "explanation": "$36,000 × 1.04 = $37,440（信中金額，符合不超過 4% 的上限），按月平均分攤：$37,440 ÷ 12 = $3,120。$3,220 是加上 $1,200 檢測費後的月費，$3,240 是誤用 8% 的結果。"
+        },
+        {
+          "id": 4,
+          "prompt": "According to Ms. Fischer, how much would Orland have to pay Kestrel to end a one-year renewal term early?",
+          "options": {
+            "A": "$3,120",
+            "B": "$6,000",
+            "C": "$6,240",
+            "D": "$9,360"
+          },
+          "answer": "C",
+          "explanation": "Section 4：提前解約金＝兩個月的服務費，以「當時有效的費率」計算。續約後月費 $3,120 × 2 = $6,240。$6,000 是誤用舊月費 $3,000。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why does Ms. Fischer not recommend Pinecrest Climate Systems?",
+          "options": {
+            "A": "Its annual fee is higher than Kestrel's",
+            "B": "It does not offer air-quality testing",
+            "C": "It cannot start service on the date it is needed",
+            "D": "It requires a multiyear commitment"
+          },
+          "answer": "C",
+          "explanation": "Had Pinecrest been able to start on January 1, I would have recommended them：與過去事實相反的假設，表示 Pinecrest 無法在 1 月 1 日開始，所以不推薦。Pinecrest 年費 $35,500 其實比較便宜，A 錯。"
+        },
+        {
+          "id": 6,
+          "prompt": "Compared with a one-year renewal that includes air-quality testing, how much would the two-year option save Orland in the first year?",
+          "options": {
+            "A": "$1,200",
+            "B": "$1,440",
+            "C": "$2,640",
+            "D": "$3,640"
+          },
+          "answer": "C",
+          "explanation": "一年期＋檢測：$37,440 + $1,200 = $38,640。兩年期：年費維持 $36,000，檢測免費。差額 $38,640 − $36,000 = $2,640。$1,440 只算了漲價差額，$1,200 只算檢測費。"
+        },
+        {
+          "id": 7,
+          "prompt": "In the e-mail, the phrase \"As things stand\" in paragraph 2 is closest in meaning to",
+          "options": {
+            "A": "In the present situation",
+            "B": "According to the contract",
+            "C": "From a long-term perspective",
+            "D": "Despite the objections"
+          },
+          "answer": "A",
+          "explanation": "As things stand ＝ 就目前情況而言，前文剛說明 Pinecrest 無法 1 月開始，所以在現況下建議選 Kestrel 兩年方案。"
+        },
+        {
+          "id": 8,
+          "prompt": "What can be inferred about Mr. Hale?",
+          "options": {
+            "A": "He recently joined Orland Medical Group",
+            "B": "He has worked with Pinecrest before",
+            "C": "He requested the air-quality testing service",
+            "D": "He has the authority to approve long-term agreements"
+          },
+          "answer": "D",
+          "explanation": "Email：multiyear commitments must be signed by you as our authorized signatory，可推論他有權核准多年期合約。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "If the supplier _____ its prices again next year, we would start looking for another vendor.",
+          "options": {
+            "A": "raises",
+            "B": "raised",
+            "C": "will raise",
+            "D": "had raised"
+          },
+          "answer": "B",
+          "explanation": "主要子句是 would start，條件子句用過去式 raised，表示可能性低的假設（規則 1）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Had the contract been reviewed earlier, the company _____ the automatic renewal.",
+          "options": {
+            "A": "would avoid",
+            "B": "will have avoided",
+            "C": "avoided",
+            "D": "would have avoided"
+          },
+          "answer": "D",
+          "explanation": "Had + 主詞 + p.p. 是與過去相反的倒裝假設，主要子句用 would have p.p.（規則 2、4）。"
+        },
+        {
+          "id": 3,
+          "prompt": "If we had locked in the rate last year, we _____ much less for maintenance now.",
+          "options": {
+            "A": "would pay",
+            "B": "would have paid",
+            "C": "had paid",
+            "D": "pay"
+          },
+          "answer": "A",
+          "explanation": "條件是過去（last year, had locked in），結果是現在（now），混合假設用 would + 原形（規則 3）。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ you wish to terminate the agreement, please provide written notice at least 60 days in advance.",
+          "options": {
+            "A": "Unless",
+            "B": "Would",
+            "C": "Should",
+            "D": "Had"
+          },
+          "answer": "C",
+          "explanation": "Should + 主詞 + 原形 = If you should wish，萬一您想終止…，主要子句接祈使句 please provide（規則 4）。Unless 語意相反。"
+        },
+        {
+          "id": 5,
+          "prompt": "If Mr. Patel _____ more experienced in contract law, he would have noticed the penalty clause before signing.",
+          "options": {
+            "A": "is",
+            "B": "were",
+            "C": "will be",
+            "D": "being"
+          },
+          "answer": "B",
+          "explanation": "經驗不足是「現在一直存在」的狀態，結果是過去（would have noticed），用混合假設 If + were（規則 3）。"
+        },
+        {
+          "id": 6,
+          "prompt": "_____ the volume discount, our shipping costs would have exceeded the budget last quarter.",
+          "options": {
+            "A": "Unless",
+            "B": "Provided that",
+            "C": "But for",
+            "D": "Even if"
+          },
+          "answer": "C",
+          "explanation": "空格後是名詞片語，且主要子句為假設語氣 would have exceeded：But for + 名詞 = 要不是（規則 5）。Unless / Provided that / Even if 後面要接子句。"
+        },
+        {
+          "id": 7,
+          "prompt": "It is high time the company _____ its outdated service agreements.",
+          "options": {
+            "A": "reviews",
+            "B": "reviewed",
+            "C": "will review",
+            "D": "has reviewed"
+          },
+          "answer": "B",
+          "explanation": "It is (high) time + 主詞 + 過去式，表示「早就該做了」（規則 5）。"
+        },
+        {
+          "id": 8,
+          "prompt": "Because we signed a three-year contract, the vendor agreed to _____ the installation fee.",
+          "options": {
+            "A": "incur",
+            "B": "expire",
+            "C": "terminate",
+            "D": "waive"
+          },
+          "answer": "D",
+          "explanation": "waive the fee ＝ 免除費用。incur 是「產生（費用）」，語意相反；expire 是不及物動詞。"
+        },
+        {
+          "id": 9,
+          "prompt": "Unless written notice is received by November 1, the agreement will renew _____ for another year.",
+          "options": {
+            "A": "automatically",
+            "B": "automatic",
+            "C": "automation",
+            "D": "automate"
+          },
+          "answer": "A",
+          "explanation": "修飾動詞 renew 用副詞 automatically。注意 unless 是真實條件，主要子句用 will，不用假設語氣。"
+        },
+        {
+          "id": 10,
+          "prompt": "The reduced rate will be applied _____ to January 1, so customers will receive a credit for any overpayment.",
+          "options": {
+            "A": "retroactive",
+            "B": "retroactively",
+            "C": "retroaction",
+            "D": "retroact"
+          },
+          "answer": "B",
+          "explanation": "修飾動詞片語 be applied 用副詞 retroactively；retroactive to + 日期 ＝ 追溯至某日。"
+        },
+        {
+          "id": 11,
+          "prompt": "The client asked that annual price increases _____ at three percent.",
+          "options": {
+            "A": "cap",
+            "B": "is capped",
+            "C": "capping",
+            "D": "be capped"
+          },
+          "answer": "D",
+          "explanation": "ask that + 主詞 + (should) + 原形，且 increases 是「被設上限」，用 be capped（複習 Day 56）。"
+        },
+        {
+          "id": 12,
+          "prompt": "Without the new energy-efficient equipment, the factory's utility bills _____ even higher last winter.",
+          "options": {
+            "A": "were",
+            "B": "would have been",
+            "C": "would be",
+            "D": "will be"
+          },
+          "answer": "B",
+          "explanation": "Without + 名詞 表假設，時間是 last winter（過去），主要子句用 would have been（規則 5）。"
+        },
+        {
+          "id": 13,
+          "prompt": "Ms. Chen describes the contract terms as if she _____ every clause herself.",
+          "options": {
+            "A": "drafted",
+            "B": "drafts",
+            "C": "will draft",
+            "D": "drafting"
+          },
+          "answer": "A",
+          "explanation": "as if + 過去式，表示與現在事實相反（她其實不是起草人），規則 5。"
+        },
+        {
+          "id": 14,
+          "prompt": "The quote we received from Brightline Printing is _____ until the end of the month.",
+          "options": {
+            "A": "binding",
+            "B": "valid",
+            "C": "outstanding",
+            "D": "retroactive"
+          },
+          "answer": "B",
+          "explanation": "the quote is valid until… ＝ 報價有效至…，是報價單的固定說法。outstanding 是「未付的」。"
+        },
+        {
+          "id": 15,
+          "prompt": "After we rejected the supplier's proposed 9 percent increase, it responded with a _____ of 5 percent.",
+          "options": {
+            "A": "counteroffer",
+            "B": "penalty",
+            "C": "signatory",
+            "D": "surcharge"
+          },
+          "answer": "A",
+          "explanation": "拒絕對方提議後，對方提出新的條件 ＝ counteroffer（還價）。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which sentence best fits blank [1]?",
+          "options": {
+            "A": "Your order has been shipped and should arrive this week.",
+            "B": "We apologize for the delay in processing your payment.",
+            "C": "A complete list of the revised prices is attached for your reference.",
+            "D": "As a result, our prices have remained the same for this reason."
+          },
+          "answer": "C",
+          "explanation": "前句宣布 7 月 1 日起平均漲價 5%，接著附上新價目表最自然。D 與「漲價」矛盾且語意重複，A、B 與漲價通知無關。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which option best completes blank [2]?",
+          "options": {
+            "A": "lock in",
+            "B": "phase out",
+            "C": "call off",
+            "D": "back up"
+          },
+          "answer": "A",
+          "explanation": "在 6 月 15 日前續約可以「鎖定」現行價格 12 個月：lock in their current prices。phase out（淘汰）、call off（取消）、back up（備份）都是前幾天的單字，語意不合。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "will do",
+            "B": "would do",
+            "C": "would have done",
+            "D": "had done"
+          },
+          "answer": "B",
+          "explanation": "if we could absorb these costs（與現在事實相反，規則 1），主要子句用 would + 原形：would do so。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "Otherwise",
+            "B": "Instead",
+            "C": "As a result",
+            "D": "In addition"
+          },
+          "answer": "D",
+          "explanation": "前面說續約可鎖價，空格後再補充另一項好處（超過 $500 仍免運），用 In addition 表追加。"
+        }
+      ]
+    },
+    {
+      "id": "day-59-quiz",
+      "title": "Day 59 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The office lease has a 90-day _____ period, so we must inform the landlord by early October if we plan to move.",
+          "options": {
+            "A": "notice",
+            "B": "penalty",
+            "C": "surcharge",
+            "D": "inflation"
+          },
+          "answer": "A",
+          "explanation": "notice period ＝ 預告期，須在期限前通知房東。"
+        },
+        {
+          "id": 2,
+          "prompt": "If the contract _____ a price cap, the supplier could not have raised its rates by 10 percent last year.",
+          "options": {
+            "A": "includes",
+            "B": "included",
+            "C": "had included",
+            "D": "will include"
+          },
+          "answer": "C",
+          "explanation": "主要子句 could not have raised、時間 last year，與過去事實相反，條件用 had included（規則 2）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Should the vendor fail to deliver the parts on time, the client _____ entitled to a partial refund.",
+          "options": {
+            "A": "were",
+            "B": "is",
+            "C": "had been",
+            "D": "being"
+          },
+          "answer": "B",
+          "explanation": "Should 倒裝表示「萬一」，主要子句可用現在式或 will：the client is entitled to…（規則 4）。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the renewal terms carefully, Mr. Lopez signed the agreement.",
+          "options": {
+            "A": "Having reviewed",
+            "B": "Reviewed",
+            "C": "Review",
+            "D": "To have reviewed"
+          },
+          "answer": "A",
+          "explanation": "複習 Day 58：Mr. Lopez 主動檢閱，且檢閱先於簽約，用 Having reviewed。"
+        },
+        {
+          "id": 5,
+          "prompt": "The finance director recommended _____ the decision until the revised quote arrives.",
+          "options": {
+            "A": "postpone",
+            "B": "to postpone",
+            "C": "postponed",
+            "D": "postponing"
+          },
+          "answer": "D",
+          "explanation": "複習 Day 57：recommend + V-ing。"
+        },
+        {
+          "id": 6,
+          "prompt": "The agreement stipulates that the client _____ written notice before terminating the contract.",
+          "options": {
+            "A": "provides",
+            "B": "provided",
+            "C": "provide",
+            "D": "providing"
+          },
+          "answer": "C",
+          "explanation": "複習 Day 56：stipulate that + 主詞 + (should) + 原形動詞 provide。"
+        },
+        {
+          "id": 7,
+          "prompt": "Under the terms of the contract, all _____ invoices must be paid before the renewal can be processed.",
+          "options": {
+            "A": "outstand",
+            "B": "outstanding",
+            "C": "outstood",
+            "D": "outstandingly"
+          },
+          "answer": "B",
+          "explanation": "outstanding invoices ＝ 未付清的發票，形容詞修飾名詞。"
+        },
+        {
+          "id": 8,
+          "prompt": "A supplier raises a $2,500 monthly fee by 4 percent and adds a $150 monthly fuel surcharge. What is the new monthly total?",
+          "options": {
+            "A": "$2,650",
+            "B": "$2,756",
+            "C": "$2,750",
+            "D": "$2,800"
+          },
+          "answer": "C",
+          "explanation": "$2,500 × 1.04 = $2,600，再加附加費 $150 = $2,750。$2,756 是誤把附加費也乘上 4%：($2,500 + $150) × 1.04。"
+        },
+        {
+          "id": 9,
+          "prompt": "Were it not for the long-term agreement, we _____ exposed to the recent price increases.",
+          "options": {
+            "A": "would be",
+            "B": "are",
+            "C": "will be",
+            "D": "had been"
+          },
+          "answer": "A",
+          "explanation": "Were it not for = If it were not for，與現在事實相反，主要子句用 would be（規則 4、5）。"
+        },
+        {
+          "id": 10,
+          "prompt": "I wish we _____ the three-year option when it was offered last spring.",
+          "options": {
+            "A": "chose",
+            "B": "choose",
+            "C": "would choose",
+            "D": "had chosen"
+          },
+          "answer": "D",
+          "explanation": "wish + had p.p. 表示對過去的遺憾（last spring），規則 5。"
+        },
+        {
+          "id": 11,
+          "prompt": "The final price will be set at the board's _____ after it reviews all of the quotes.",
+          "options": {
+            "A": "breach",
+            "B": "discretion",
+            "C": "inflation",
+            "D": "renewal"
+          },
+          "answer": "B",
+          "explanation": "at one's discretion ＝ 由某人自行決定。"
+        },
+        {
+          "id": 12,
+          "prompt": "Which sentence is grammatically correct?",
+          "options": {
+            "A": "If we would have renewed in March, we would pay the old rate now.",
+            "B": "If we renewed in March, we would have paid the old rate now.",
+            "C": "If we have renewed in March, we would pay the old rate now.",
+            "D": "If we had renewed in March, we would pay the old rate now."
+          },
+          "answer": "D",
+          "explanation": "過去（in March）沒續約 → had renewed；現在（now）的結果 → would pay，是標準混合假設（規則 3）。if 子句不可用 would have。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "合約續約題先抓「期限、漲幅上限、解約代價」：假設語氣條件與結果各自找時間線索，過去沒做用 had p.p.、現在結果用 would + 原形，Were / Had / Should 倒裝省略 if，Should 倒裝常接祈使句，but for / without + 名詞、wish、as if、It's time + 過去式都屬假設；unless / provided that 是真實條件不用假設語氣。Part 4 方案表先把聽到的數量放進區間再排除 rather than 的選項；Part 7 先找條款規則（60 天、4%、兩個月違約金），再代入信件數字依序計算。",
+  "nextDay": "階段模考：半份模擬（聽讀混合）與錯題診斷"
+}
