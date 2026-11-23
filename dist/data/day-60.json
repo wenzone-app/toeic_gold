@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 60,
+  "title": "階段模考：Day 51–59 半份模擬（聽讀混合）與錯題診斷",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 60 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 60 學習概覽",
+      "markdown": "- 今天是 Day 51–59 的階段模考：50 題依「半份模擬」節奏作答，Listening → Reading → Part 5 → Part 6 → 小考一次做完，中間不查答案\n- 單字：30 個模考與職場高頻的跨主題字，含 diagnosis、pinpoint、overlook、in lieu of、adhere to、attribute A to B 等常見搭配\n- 文法：把 Day 51–59 的五大易錯點整理成診斷清單，倒裝、whether / that、時態與連接詞、動名詞與分詞構句、假設語氣\n- Listening：Part 3 三人對話（新人到職與立場改變）、Part 4 離退調查簡報＋圖表題、Part 4 電梯整修公告＋說話者意圖題；Reading：場地方案 → 預約確認信 → 變更 Email 的三篇計算題\n- 完成後用錯題標籤統計每一類錯幾題，找出錯最多的兩類，作為 Day 61–63 的加強重點\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| diagnosis | 診斷；判斷 | a diagnosis of recurring errors |\n| proficiency | 熟練度；精通 | an English proficiency test |\n| accuracy | 準確度 | improve accuracy under time pressure |\n| recurring | 反覆發生的 | a recurring billing problem |\n| pinpoint | 精確找出 | pinpoint the cause of the delay |\n| overlook | 忽略；沒注意到 | overlook an important detail |\n| underestimate | 低估 | underestimate the time required |\n| reassess | 重新評估 | reassess the project timeline |\n| address | 處理（問題）；對…發表演說 | address customer concerns promptly |\n| anticipate | 預期；預先考慮 | anticipate a rise in demand |\n| preliminary | 初步的 | preliminary survey results |\n| comprehensive | 全面的；綜合的 | a comprehensive review of expenses |\n| commence | 開始（正式用語） | construction will commence in May |\n| forthcoming | 即將到來的 | the forthcoming annual conference |\n| impending | 即將發生的（多指不好的事） | an impending deadline |\n| adhere to | 遵守；堅持 | adhere to safety regulations |\n| in lieu of | 代替 | store credit in lieu of a refund |\n| pertinent | 相關的；切題的 | submit all pertinent documents |\n| solicit | 徵求；請求 | solicit feedback from customers |\n| substantial | 大量的；可觀的 | a substantial increase in sales |\n| imperative | 必要的；緊急的 | it is imperative that all staff attend |\n| discontinue | 停產；停止 | discontinue an older product line |\n| inadvertently | 無意中；不小心地 | inadvertently delete a file |\n| overhaul | 徹底改革；全面檢修 | overhaul the billing system |\n| surpass | 超越；超過 | surpass last year's sales |\n| attribute | 把…歸因於（attribute A to B） | attribute the decline to higher costs |\n| deteriorate | 惡化 | service quality began to deteriorate |\n| incorporate | 納入；包含 | incorporate customer suggestions |\n| scrutinize | 仔細審查 | scrutinize every line item |\n| reiterate | 重申 | reiterate the importance of the deadline |"
+    },
+    {
+      "title": "② 今日文法｜Day 51–59 易錯點診斷",
+      "markdown": "主題：**Day 51–59 易錯點診斷：倒裝、名詞子句、時態與連接詞、動名詞／分詞、假設語氣**\n\n### 規則 1｜否定副詞與 Only 置首倒裝（Day 51、56）\n\nRarely / Seldom / Never / Not until / Only after 放句首時，主要子句要用「助動詞 + 主詞 + 原形或 p.p.」。Only after / Not until 後面那個子句本身不倒裝，倒裝的是逗號後的主要子句。\n\n> Only after the revised figures had been checked did the analyst send the report to the board.\n\n### 規則 2｜whether / if / that 與 require that + 原形（Day 52、54）\n\nwhether 可接 to V、可放句首、可接 or not；if 都不行。that 子句只陳述事實，不表「是否」。require / recommend / essential / imperative that 後面用原形動詞，被動就用 be p.p.\n\n> It is imperative that the safety inspection be completed before operations resume.\n\n### 規則 3｜時態一致與連接詞、連接副詞、介系詞的區分（Day 55）\n\n時間與條件子句用現在式表未來，by the time + 現在式搭配 will have p.p.。because / although 接子句；because of / despite 接名詞；however / therefore / nevertheless 是副詞，前面要用分號或句號。\n\n> By the time the new warehouse opens next spring, the company will have hired 200 more workers.\n\n### 規則 4｜動名詞、不定詞與分詞構句（Day 57、58）\n\nsuggest / postpone / recommend + V-ing；agree / plan / decide + to V。分詞構句先找主要子句主詞：主詞主動做就用 V-ing 或 Having p.p.，主詞被動就用 p.p.\n\n> Installed by the IT department last month, the new firewall has already blocked 3,000 phishing e-mails.\n\n### 規則 5｜假設語氣與真實條件（Day 59）\n\n條件與結果各自找時間線索：過去沒做 → had p.p.；現在的結果 → would + 原形；過去的結果 → would have p.p.。Should / Were / Had 可倒裝省略 if；without / but for + 名詞也能表假設。unless / provided that 是真實條件，不用假設語氣。\n\n> Without the volume discount, last month's order would have gone well over budget."
+    },
+    {
+      "title": "03 Listening｜Delaying a New Hire's Start Date",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman 1: Kevin, Sandra, thanks for joining on short notice. Our new financial analyst, Mr. Chen, is supposed to start on Monday, but I heard there might be a problem. Man: Yes, that's why I asked for this meeting. The laptops we ordered for new hires are backordered, and his network credentials can't be activated until his device has been registered with our security system. Woman 2: Couldn't he use a loaner for the first week? Man: I'd normally suggest that, but all of our loaners are being used by the accounting team while they migrate to the new billing software. Woman 1: Then maybe it makes more sense to push his start date back a week. Woman 2: I'd rather not. He already turned down another offer to join us, and his first week is mostly orientation sessions. He won't need a computer for most of them. Man: In that case, I can set up a shared workstation in the training room for the two sessions that require one. Woman 1: All right, that works. I'll call Mr. Chen this afternoon and tell him to come in on Monday as planned."
+    },
+    {
+      "title": "04 Listening｜Exit Survey Results Briefing",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Why Subscribers Canceled Freshbox (exit survey)\n\n| Reason | Share of Respondents |\n|---|---|\n| Price too high | 34% |\n| Limited menu variety | 27% |\n| Delivery problems | 22% |\n| Too much packaging | 17% |\n\n聽力稿：\n\n> Good morning, everyone. As promised, I'm sharing the results of the exit survey we sent to former Freshbox subscribers last month. Just over twelve hundred people responded, which is nearly double the number we usually get. Now, you might expect us to start with the most common reason, but given the rising cost of ingredients, we're simply not in a position to lower our prices this year. Instead, we'll tackle the second most common complaint. Starting in March, we'll increase the number of weekly recipes from eight to sixteen. We'll also test a recyclable box in two cities, though that's a much smaller project, and delivery issues will be handled separately by our logistics partner. So here's what I need from each of you: three original recipe ideas from your regional team, submitted through the shared folder by next Friday. Our head chef will review them and choose the ones we'll test in April."
+    },
+    {
+      "title": "05 Listening｜Elevator Renovation Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Attention, all tenants of the Harbor Point Building. This is Martin Shaw from building management. As mentioned in last month's newsletter, the renovation of the east elevators will commence this Monday and is expected to take three weeks. During that time, only the two west elevators will be in service. Now, I know what you're thinking: the morning rush is already bad enough. So, from eight to ten A.M., one of the west elevators will stop only at floors ten and above. Tenants on lower floors are encouraged to use the main staircase during those hours. The freight elevator will remain available for deliveries, but it must be reserved at least twenty-four hours in advance through the tenant portal. Once the work is complete, the east elevators will be about thirty percent faster and far more energy efficient. Thank you for your patience."
+    },
+    {
+      "title": "⑥ Reading｜Package Guide, Booking Confirmation, and E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Package Guide\n\nLakeview Conference Center — Corporate Event Packages (rates are per person, per day)\n\n| Package | Includes | Rate |\n|---|---|---|\n| Essential | Meeting room, projector, morning coffee break | $45 |\n| Standard | Essential + buffet lunch | $68 |\n| Premier | Standard + afternoon reception and a dedicated event coordinator | $92 |\n\n> Groups of 80 or more attendees receive a 10 percent discount on the package rate. Audiovisual recording of sessions is available for $350 per day. The final headcount must be confirmed at least 7 days before the event; charges are based on the confirmed headcount or actual attendance, whichever is higher. Cancellations made fewer than 14 days before the event are charged 50 percent of the estimated total.\n\n用途：參考文件\n\n### Booking Confirmation\n\n> From: Hana Mori, Lakeview Conference Center\n> To: Priya Nair, Delmont Pharmaceuticals\n> Date: September 3\n> Subject: Booking confirmation — Delmont Sales Summit\n>\n> Dear Ms. Nair,\n>\n> Thank you for choosing Lakeview for your two-day sales summit on October 14 and 15. As requested, we have reserved the Standard package for both days for an estimated 75 attendees, with audiovisual recording on the first day only. Your estimated total is $10,550.\n>\n> Please note that this estimate is subject to the policies outlined in our package guide, including the deadline for confirming your final headcount. Should you need to change any part of your booking, simply reply to this e-mail.\n>\n> Best regards,\n> Hana Mori, Event Sales\n\n用途：參考文件\n\n### E-mail\n\n> From: Priya Nair\n> To: Hana Mori\n> Date: October 6\n> Subject: RE: Booking confirmation — Delmont Sales Summit\n>\n> Dear Ms. Mori,\n>\n> I'm writing to confirm our final headcount ahead of your deadline. Registration was far stronger than we anticipated, and 90 people will now attend on both days.\n>\n> We would also like to make two changes. First, our CEO has decided to host a reception for all attendees at the end of the second day, so please upgrade October 15 to the Premier package. Had we known about the reception earlier, we would have booked it in September. Second, please add audiovisual recording for October 15 as well, since several regional managers will not be able to attend in person.\n>\n> Could you send me a revised estimate reflecting these changes? I'd like to submit it to our finance team before the end of the week.\n>\n> Regards,\n> Priya Nair\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Staff\n> From: Finance Department\n> Date: March 2\n> Subject: New expense reporting system\n>\n> Starting April 1, all expense reports will be submitted through ExpensePro, our new online platform. Our current paper-based process has led to [1] _____ delays in reimbursement, with some claims taking more than six weeks to process. [2] _____\n>\n> Training sessions will be held throughout March. Employees [3] _____ submit expense reports regularly are strongly encouraged to attend one. [4] _____, step-by-step video guides will be posted on the company intranet for anyone who is unable to attend in person."
+    },
+    {
+      "title": "⑨ Day 60 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 57、Day 58、Day 59**，並以今天的模考診斷 **Day 51–56** 的學習成果。\n\n### 複習重點\n- Day 57：suggest / postpone + V-ing、agree + to V；Part 5 第 4 題、小考第 4 題，以及 Part 3 三人對話要分清楚「誰」提出建議\n- Day 58：分詞構句先找主詞，主動用 V-ing / Having p.p.、被動用 p.p.；Part 5 第 5 題、小考第 5 題\n- Day 59：混合假設 had p.p. → would + 原形 now；Should 倒裝接祈使句；Without + 名詞＝假設；Part 5 第 6、14 題、小考第 6 題\n- Day 51、56 倒裝與 Day 54 whether / that：Part 5 第 1、2、7 題，小考第 1、2、7 題\n- Day 53、55 比較與時態連接詞：Part 5 第 3、8、9 題、Part 6 第 4 題，小考第 3、8 題\n- Listening：Part 3 立場改變題要聽「最後的決定」（as planned），Part 4 圖表題注意 second most common 這類排序字，意圖題先找前後句在回應什麼\n- Part 7 計算：條件門檻（80 人以上 9 折）＋期限推算（活動前 7 天）＋變更信重新計算，每一步都把算式寫出來\n\n### 錯題診斷方式\n- 每類錯 0–1 題：維持現有進度；錯 2 題：當週作業加做 10 題同類題；錯 3 題以上：回到對應 Day 重做文法規則與 Part 5\n- Listening 錯題若是因為選了「被推翻的想法」，標 `SHIFT`；若是沒把排序字換成圖表數字，標 `GRAPH`\n\n### 錯題標籤\n- `G`：Grammar\n- `INV`：Inversion\n- `NC`：Noun Clause\n- `TENSE`：Tense Consistency\n- `CONJ`：Conjunctive Adverb / Conjunction\n- `VING`：Gerund / Infinitive / Participle\n- `SUBJ`：Subjunctive / Conditional\n- `L`：Listening\n- `SHIFT`：Speaker's Position Change\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 pinpoint、overlook、in lieu of、adhere to、attribute A to B 各寫一句職場句子，並標出固定搭配的介系詞。\n- 50 題對完答案後，依錯題標籤做統計表（標籤｜錯題數｜題號），圈出錯最多的兩類，寫下各自要回頭複習的 Day。\n- Part 5 15 題第二輪限時 3 分 30 秒；每題寫出它屬於文法規則 1–5 的哪一條，以及決定答案的關鍵字（only after、by the time、now、to 等）。\n- Reading 計算題重做：寫出 75 × 68 × 2 + 350、90 × 68 × 0.9、90 × 92 × 0.9 與 + 2 × 350 的算式，並說明為什麼確認人數的期限是 October 7。\n- Listening 三組各再聽一次，第二輪不看逐字稿；Part 3 寫下三位說話者各自的立場，Part 4 寫下 second most common 對應的圖表數字。\n- Day 60 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；明天 Day 61 進入製造與品質管理，先預習被動語態的進階句型。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "diagnosis",
+      "meaning": "診斷；判斷",
+      "phrase": "a diagnosis of recurring errors"
+    },
+    {
+      "id": 2,
+      "word": "proficiency",
+      "meaning": "熟練度；精通",
+      "phrase": "an English proficiency test"
+    },
+    {
+      "id": 3,
+      "word": "accuracy",
+      "meaning": "準確度",
+      "phrase": "improve accuracy under time pressure"
+    },
+    {
+      "id": 4,
+      "word": "recurring",
+      "meaning": "反覆發生的",
+      "phrase": "a recurring billing problem"
+    },
+    {
+      "id": 5,
+      "word": "pinpoint",
+      "meaning": "精確找出",
+      "phrase": "pinpoint the cause of the delay"
+    },
+    {
+      "id": 6,
+      "word": "overlook",
+      "meaning": "忽略；沒注意到",
+      "phrase": "overlook an important detail"
+    },
+    {
+      "id": 7,
+      "word": "underestimate",
+      "meaning": "低估",
+      "phrase": "underestimate the time required"
+    },
+    {
+      "id": 8,
+      "word": "reassess",
+      "meaning": "重新評估",
+      "phrase": "reassess the project timeline"
+    },
+    {
+      "id": 9,
+      "word": "address",
+      "meaning": "處理（問題）；對…發表演說",
+      "phrase": "address customer concerns promptly"
+    },
+    {
+      "id": 10,
+      "word": "anticipate",
+      "meaning": "預期；預先考慮",
+      "phrase": "anticipate a rise in demand"
+    },
+    {
+      "id": 11,
+      "word": "preliminary",
+      "meaning": "初步的",
+      "phrase": "preliminary survey results"
+    },
+    {
+      "id": 12,
+      "word": "comprehensive",
+      "meaning": "全面的；綜合的",
+      "phrase": "a comprehensive review of expenses"
+    },
+    {
+      "id": 13,
+      "word": "commence",
+      "meaning": "開始（正式用語）",
+      "phrase": "construction will commence in May"
+    },
+    {
+      "id": 14,
+      "word": "forthcoming",
+      "meaning": "即將到來的",
+      "phrase": "the forthcoming annual conference"
+    },
+    {
+      "id": 15,
+      "word": "impending",
+      "meaning": "即將發生的（多指不好的事）",
+      "phrase": "an impending deadline"
+    },
+    {
+      "id": 16,
+      "word": "adhere to",
+      "meaning": "遵守；堅持",
+      "phrase": "adhere to safety regulations"
+    },
+    {
+      "id": 17,
+      "word": "in lieu of",
+      "meaning": "代替",
+      "phrase": "store credit in lieu of a refund"
+    },
+    {
+      "id": 18,
+      "word": "pertinent",
+      "meaning": "相關的；切題的",
+      "phrase": "submit all pertinent documents"
+    },
+    {
+      "id": 19,
+      "word": "solicit",
+      "meaning": "徵求；請求",
+      "phrase": "solicit feedback from customers"
+    },
+    {
+      "id": 20,
+      "word": "substantial",
+      "meaning": "大量的；可觀的",
+      "phrase": "a substantial increase in sales"
+    },
+    {
+      "id": 21,
+      "word": "imperative",
+      "meaning": "必要的；緊急的",
+      "phrase": "it is imperative that all staff attend"
+    },
+    {
+      "id": 22,
+      "word": "discontinue",
+      "meaning": "停產；停止",
+      "phrase": "discontinue an older product line"
+    },
+    {
+      "id": 23,
+      "word": "inadvertently",
+      "meaning": "無意中；不小心地",
+      "phrase": "inadvertently delete a file"
+    },
+    {
+      "id": 24,
+      "word": "overhaul",
+      "meaning": "徹底改革；全面檢修",
+      "phrase": "overhaul the billing system"
+    },
+    {
+      "id": 25,
+      "word": "surpass",
+      "meaning": "超越；超過",
+      "phrase": "surpass last year's sales"
+    },
+    {
+      "id": 26,
+      "word": "attribute",
+      "meaning": "把…歸因於（attribute A to B）",
+      "phrase": "attribute the decline to higher costs"
+    },
+    {
+      "id": 27,
+      "word": "deteriorate",
+      "meaning": "惡化",
+      "phrase": "service quality began to deteriorate"
+    },
+    {
+      "id": 28,
+      "word": "incorporate",
+      "meaning": "納入；包含",
+      "phrase": "incorporate customer suggestions"
+    },
+    {
+      "id": 29,
+      "word": "scrutinize",
+      "meaning": "仔細審查",
+      "phrase": "scrutinize every line item"
+    },
+    {
+      "id": 30,
+      "word": "reiterate",
+      "meaning": "重申",
+      "phrase": "reiterate the importance of the deadline"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Delaying a New Hire's Start Date",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem are the speakers discussing?",
+          "options": {
+            "A": "A training room has been double-booked",
+            "B": "A job candidate has declined an offer",
+            "C": "A new employee's computer will not arrive on time",
+            "D": "The billing software contains an error"
+          },
+          "answer": "C",
+          "explanation": "Kevin 說新進員工的筆電 backordered（缺貨延後），裝置沒註冊就無法開通帳號，問題是新人的電腦無法準時到位。B 是反向陷阱：Mr. Chen 是「拒絕了別家的 offer」。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why are the loaner laptops unavailable?",
+          "options": {
+            "A": "They are being used during a software migration",
+            "B": "They do not meet the new security standards",
+            "C": "They were sent out for repair",
+            "D": "They have been reserved for an orientation session"
+          },
+          "answer": "A",
+          "explanation": "being used by the accounting team while they migrate to the new billing software：會計部換系統期間在用，A 為同義轉換。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the first woman most likely tell Mr. Chen?",
+          "options": {
+            "A": "That he should report to the accounting team",
+            "B": "That his start date has been postponed",
+            "C": "That he must register his own device",
+            "D": "That he should start on the original date"
+          },
+          "answer": "D",
+          "explanation": "第一位女士原本提議延後一週，但 Sandra 反對、Kevin 提出共用電腦方案後，她改口 tell him to come in on Monday as planned。說話者立場改變題，B 是她「改變前」的想法。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Exit Survey Results Briefing",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely are the listeners?",
+          "options": {
+            "A": "Delivery drivers",
+            "B": "Employees of a meal kit company",
+            "C": "Survey respondents",
+            "D": "Restaurant customers"
+          },
+          "answer": "B",
+          "explanation": "說話者對內部同事報告前訂戶（former Freshbox subscribers）的離退調查，並要各區團隊提供食譜，聽眾是餐盒公司員工。C 是被調查的人，不是聽眾。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the speaker say about the survey?",
+          "options": {
+            "A": "It was sent to current subscribers",
+            "B": "It will be repeated in April",
+            "C": "It received an unusually large number of responses",
+            "D": "It was conducted by a logistics partner"
+          },
+          "answer": "C",
+          "explanation": "nearly double the number we usually get：回覆數約平常兩倍，C 為同義轉換。對象是 former subscribers，A 錯。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. What percentage of respondents chose the reason the company will focus on?",
+          "options": {
+            "A": "34%",
+            "B": "27%",
+            "C": "22%",
+            "D": "17%"
+          },
+          "answer": "B",
+          "explanation": "最常見的價格問題（34%）今年無法處理，改處理 second most common complaint，也就是 Limited menu variety（27%），對應把食譜從 8 道增為 16 道。"
+        },
+        {
+          "id": 4,
+          "prompt": "What are the listeners asked to do?",
+          "options": {
+            "A": "Reduce packaging costs",
+            "B": "Contact former subscribers",
+            "C": "Test a new type of box",
+            "D": "Submit recipe suggestions"
+          },
+          "answer": "D",
+          "explanation": "three original recipe ideas…submitted through the shared folder by next Friday：提交食譜點子。C 是公司在兩個城市試行的小專案，不是要聽眾做的事。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Elevator Renovation Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the announcement?",
+          "options": {
+            "A": "To explain how a renovation will affect tenants",
+            "B": "To introduce a new building manager",
+            "C": "To announce the opening of a new entrance",
+            "D": "To request feedback on a newsletter"
+          },
+          "answer": "A",
+          "explanation": "整段說明東側電梯整修三週期間的電梯安排、尖峰時段分流與貨梯預約規則，是告知整修對租戶的影響。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the speaker say, \"I know what you're thinking: the morning rush is already bad enough\"?",
+          "options": {
+            "A": "To apologize for a delayed project",
+            "B": "To acknowledge a concern about crowding",
+            "C": "To encourage tenants to arrive earlier",
+            "D": "To explain why the work will take three weeks"
+          },
+          "answer": "B",
+          "explanation": "只剩兩部電梯，早上本來就擠，他先說出租戶的擔憂，接著提出 8–10 點分流方案。是在回應「擁擠」的顧慮。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are tenants on lower floors encouraged to do?",
+          "options": {
+            "A": "Use the freight elevator",
+            "B": "Arrive after ten o'clock",
+            "C": "Read last month's newsletter",
+            "D": "Take the stairs during peak hours"
+          },
+          "answer": "D",
+          "explanation": "Tenants on lower floors are encouraged to use the main staircase during those hours（8–10 點）：尖峰時段走樓梯。"
+        },
+        {
+          "id": 4,
+          "prompt": "According to the speaker, what is required to use the freight elevator?",
+          "options": {
+            "A": "A tenant identification card",
+            "B": "Permission from a security guard",
+            "C": "An advance online reservation",
+            "D": "A delivery schedule from the newsletter"
+          },
+          "answer": "C",
+          "explanation": "must be reserved at least twenty-four hours in advance through the tenant portal：須提前 24 小時在網路平台預約。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Package Guide, Booking Confirmation, and E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the e-mail from Ms. Mori?",
+          "options": {
+            "A": "To request payment of a deposit",
+            "B": "To confirm the details of a reservation",
+            "C": "To announce a change in package rates",
+            "D": "To recommend a different conference venue"
+          },
+          "answer": "B",
+          "explanation": "信中確認日期、Standard 方案、預估 75 人、首日錄影與預估總額 $10,550，是預約確認信。"
+        },
+        {
+          "id": 2,
+          "prompt": "In the e-mail from Ms. Mori, the word \"outlined\" in paragraph 2 is closest in meaning to",
+          "options": {
+            "A": "described",
+            "B": "underlined",
+            "C": "reduced",
+            "D": "approved"
+          },
+          "answer": "A",
+          "explanation": "the policies outlined in our package guide ＝ 方案手冊中「說明」的規定，outline 在此是概述、描述。"
+        },
+        {
+          "id": 3,
+          "prompt": "By what date must Ms. Nair confirm the final number of attendees?",
+          "options": {
+            "A": "October 6",
+            "B": "September 30",
+            "C": "October 7",
+            "D": "October 14"
+          },
+          "answer": "C",
+          "explanation": "第一篇規定 at least 7 days before the event，活動 10 月 14 日開始，往前 7 天是 10 月 7 日。她 10 月 6 日來信，所以說 ahead of your deadline。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why was no discount included in the original estimate?",
+          "options": {
+            "A": "The booking was made too close to the event",
+            "B": "Discounts do not apply to the Standard package",
+            "C": "Recording services were added",
+            "D": "The expected attendance was below the required number"
+          },
+          "answer": "D",
+          "explanation": "第一篇：80 人以上才享 9 折；第二篇原估 75 人，不到門檻。驗算：75 × $68 × 2 = $10,200，加首日錄影 $350 ＝ $10,550，確實沒打折。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why does Ms. Nair want to change the package for October 15?",
+          "options": {
+            "A": "Additional meeting rooms are needed",
+            "B": "Some attendees will leave early",
+            "C": "A reception will be held for attendees",
+            "D": "The original package did not include lunch"
+          },
+          "answer": "C",
+          "explanation": "CEO 決定在第二天結束時辦 reception；第一篇只有 Premier 含 afternoon reception，所以要升級。"
+        },
+        {
+          "id": 6,
+          "prompt": "What additional service does Ms. Nair request?",
+          "options": {
+            "A": "Recording on the second day",
+            "B": "A dedicated coordinator for the first day",
+            "C": "An extra coffee break",
+            "D": "Transportation for regional managers"
+          },
+          "answer": "A",
+          "explanation": "add audiovisual recording for October 15 as well：第二天也要錄影，因為部分區域經理無法親自出席。B 是 Premier 方案本身附帶，不是額外要求，而且是第二天。"
+        },
+        {
+          "id": 7,
+          "prompt": "What will be the per-person package rate for October 15?",
+          "options": {
+            "A": "$92.00",
+            "B": "$82.80",
+            "C": "$68.00",
+            "D": "$61.20"
+          },
+          "answer": "B",
+          "explanation": "10 月 15 日升級 Premier $92；90 人達 80 人門檻，享 9 折：92 × 0.9 ＝ $82.80。D 是 Standard 打折後的價格（68 × 0.9）。"
+        },
+        {
+          "id": 8,
+          "prompt": "What will Ms. Nair's revised estimated total most likely be?",
+          "options": {
+            "A": "$12,960",
+            "B": "$13,310",
+            "C": "$14,400",
+            "D": "$13,660"
+          },
+          "answer": "D",
+          "explanation": "第一天 Standard：90 × 68 × 0.9 ＝ $5,508；第二天 Premier：90 × 92 × 0.9 ＝ $7,452；套裝合計 $12,960，再加兩天錄影 2 × $350 ＝ $700，總額 $13,660。A 漏了錄影費，B 只加一天錄影。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Only after the revised figures had been checked _____ the report to the board.",
+          "options": {
+            "A": "the analyst sent",
+            "B": "did the analyst send",
+            "C": "the analyst did send",
+            "D": "sent the analyst"
+          },
+          "answer": "B",
+          "explanation": "Only after + 子句置首，主要子句要倒裝：did + 主詞 + 原形（Day 51 倒裝）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Ms. Ito has not yet decided _____ to accept the transfer to the Singapore office.",
+          "options": {
+            "A": "whether",
+            "B": "if",
+            "C": "that",
+            "D": "what"
+          },
+          "answer": "A",
+          "explanation": "後面接 to 不定詞只能用 whether，if 不能接 to V；that / what 不表「是否」（Day 54 名詞子句）。"
+        },
+        {
+          "id": 3,
+          "prompt": "By the time the new warehouse opens next spring, the company _____ more than 200 additional workers.",
+          "options": {
+            "A": "hires",
+            "B": "has hired",
+            "C": "will have hired",
+            "D": "had hired"
+          },
+          "answer": "C",
+          "explanation": "By the time + 現在式（表未來），主要子句用未來完成式 will have hired（Day 55 時態一致）。"
+        },
+        {
+          "id": 4,
+          "prompt": "The marketing director suggested _____ the campaign launch until the survey results are available.",
+          "options": {
+            "A": "postpone",
+            "B": "to postpone",
+            "C": "postponed",
+            "D": "postponing"
+          },
+          "answer": "D",
+          "explanation": "suggest 後接動名詞 V-ing，不接 to V（Day 57 動名詞 vs 不定詞）。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ the security audit, the IT team recommended that all employees update their passwords.",
+          "options": {
+            "A": "Completed",
+            "B": "Having completed",
+            "C": "To be completed",
+            "D": "Being completed"
+          },
+          "answer": "B",
+          "explanation": "主詞 the IT team 是「完成稽核」的人，主動且先發生，用完成式分詞構句 Having completed（Day 58）。"
+        },
+        {
+          "id": 6,
+          "prompt": "If the vendor had delivered the parts on time, the production line _____ at full capacity now.",
+          "options": {
+            "A": "would be running",
+            "B": "would have run",
+            "C": "will be running",
+            "D": "had been running"
+          },
+          "answer": "A",
+          "explanation": "條件是過去沒發生（had delivered），結果在現在（now），混合假設用 would + 原形（Day 59 規則 3）。"
+        },
+        {
+          "id": 7,
+          "prompt": "The board requires that every contract over $50,000 _____ by two authorized signatories.",
+          "options": {
+            "A": "is signed",
+            "B": "signs",
+            "C": "was signed",
+            "D": "be signed"
+          },
+          "answer": "D",
+          "explanation": "require that + 主詞 + (should) 原形；合約是「被簽」，用被動原形 be signed（Day 54、56）。"
+        },
+        {
+          "id": 8,
+          "prompt": "Operating costs in the second quarter were nearly twice _____ in the first quarter.",
+          "options": {
+            "A": "those",
+            "B": "that",
+            "C": "these",
+            "D": "them"
+          },
+          "answer": "A",
+          "explanation": "比較對象是複數 costs，代名詞用 those（Day 53 倍數比較）。"
+        },
+        {
+          "id": 9,
+          "prompt": "The new scheduling software is easy to use; _____, several staff members have requested additional training.",
+          "options": {
+            "A": "therefore",
+            "B": "moreover",
+            "C": "nevertheless",
+            "D": "similarly"
+          },
+          "answer": "C",
+          "explanation": "前句「容易使用」、後句「仍有人要求加開訓練」是讓步轉折，用 nevertheless（Day 55 連接副詞）。"
+        },
+        {
+          "id": 10,
+          "prompt": "Applicants must submit all _____ documents, including proof of certification, by May 3.",
+          "options": {
+            "A": "imperative",
+            "B": "pertinent",
+            "C": "inadvertent",
+            "D": "impending"
+          },
+          "answer": "B",
+          "explanation": "pertinent documents ＝ 相關文件。imperative 是「必要的」，多用於 It is imperative that…，不直接修飾 documents。"
+        },
+        {
+          "id": 11,
+          "prompt": "The decline in third-quarter profits was largely _____ to higher shipping costs.",
+          "options": {
+            "A": "attributed",
+            "B": "contributed",
+            "C": "distributed",
+            "D": "committed"
+          },
+          "answer": "A",
+          "explanation": "be attributed to ＝ 歸因於。contribute to 主詞應為原因（shipping costs contributed to the decline），被動語意不符。"
+        },
+        {
+          "id": 12,
+          "prompt": "Customers who return an item after 30 days may receive store credit in _____ of a cash refund.",
+          "options": {
+            "A": "spite",
+            "B": "case",
+            "C": "lieu",
+            "D": "charge"
+          },
+          "answer": "C",
+          "explanation": "in lieu of ＝ 代替：以購物金代替現金退款。in spite of 是「儘管」，in case of 是「萬一」，語意不通。"
+        },
+        {
+          "id": 13,
+          "prompt": "Renovation of the lobby is scheduled to _____ on June 1 and be completed by mid-August.",
+          "options": {
+            "A": "surpass",
+            "B": "adhere",
+            "C": "solicit",
+            "D": "commence"
+          },
+          "answer": "D",
+          "explanation": "commence ＝ 開始，與 be completed 對應。adhere 須接 to，surpass / solicit 語意不符。"
+        },
+        {
+          "id": 14,
+          "prompt": "_____ you have any questions about the revised terms, please contact your account manager.",
+          "options": {
+            "A": "Were",
+            "B": "Should",
+            "C": "Had",
+            "D": "Unless"
+          },
+          "answer": "B",
+          "explanation": "Should + 主詞 + 原形 ＝ If you should…（萬一），主要子句接祈使句（Day 59 規則 4）。Were / Had 後面不接原形 have。"
+        },
+        {
+          "id": 15,
+          "prompt": "All visitors must _____ to the safety guidelines posted at the entrance of the plant.",
+          "options": {
+            "A": "comply",
+            "B": "follow",
+            "C": "adhere",
+            "D": "observe"
+          },
+          "answer": "C",
+          "explanation": "空格後有 to，只有 adhere to 正確；comply 要接 with，follow / observe 是及物動詞，不加 to。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "substance",
+            "B": "substantially",
+            "C": "substantiate",
+            "D": "substantial"
+          },
+          "answer": "D",
+          "explanation": "空格在名詞 delays 前，需要形容詞 substantial（可觀的、大量的）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits in blank [2]?",
+          "options": {
+            "A": "Last year's holiday party was a great success.",
+            "B": "The finance department will move to the third floor next year.",
+            "C": "ExpensePro is expected to reduce processing time to less than one week.",
+            "D": "Please return all company laptops to the IT department."
+          },
+          "answer": "C",
+          "explanation": "前句抱怨紙本流程讓報銷拖到六週以上，接著說新系統可把處理時間縮短到一週內，邏輯最連貫。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "先行詞 Employees 是人，關代在子句中當 submit 的主詞，用 who。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "However",
+            "B": "In addition",
+            "C": "Otherwise",
+            "D": "As a result"
+          },
+          "answer": "B",
+          "explanation": "前面說有實體訓練，後面再補充另一種資源（影片教學），用 In addition 表追加；不是轉折或因果。"
+        }
+      ]
+    },
+    {
+      "id": "day-60-quiz",
+      "title": "Day 60 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Rarely _____ such a high response rate to a customer survey.",
+          "options": {
+            "A": "have we seen",
+            "B": "we have seen",
+            "C": "we saw",
+            "D": "seen we have"
+          },
+          "answer": "A",
+          "explanation": "否定副詞 Rarely 置首要倒裝：助動詞 have + 主詞 + p.p.（Day 51）。"
+        },
+        {
+          "id": 2,
+          "prompt": "The committee will meet on Friday to decide _____ the proposal meets the budget requirements.",
+          "options": {
+            "A": "what",
+            "B": "which",
+            "C": "whether",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "decide whether + 完整子句 ＝ 決定是否；what / which 後面需缺主詞或受詞（Day 54）。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the meeting ran over by forty minutes, several attendees missed their trains.",
+          "options": {
+            "A": "Because of",
+            "B": "Due to",
+            "C": "Therefore",
+            "D": "Because"
+          },
+          "answer": "D",
+          "explanation": "空格後是完整子句（the meeting ran over），要用連接詞 Because；Because of / Due to 接名詞，Therefore 是副詞（Day 55）。"
+        },
+        {
+          "id": 4,
+          "prompt": "Ms. Rahman has agreed _____ the keynote address at the forthcoming conference.",
+          "options": {
+            "A": "delivering",
+            "B": "to deliver",
+            "C": "deliver",
+            "D": "delivered"
+          },
+          "answer": "B",
+          "explanation": "agree 後接不定詞 to V（Day 57）。"
+        },
+        {
+          "id": 5,
+          "prompt": "_____ by the IT department last month, the new firewall has already blocked more than 3,000 phishing e-mails.",
+          "options": {
+            "A": "Installed",
+            "B": "Installing",
+            "C": "Having installing",
+            "D": "To install"
+          },
+          "answer": "A",
+          "explanation": "防火牆是「被安裝」的，用過去分詞構句 Installed（Day 58）；Having installing 不合文法。"
+        },
+        {
+          "id": 6,
+          "prompt": "Without the volume discount, last month's order _____ well over budget.",
+          "options": {
+            "A": "would go",
+            "B": "will go",
+            "C": "has gone",
+            "D": "would have gone"
+          },
+          "answer": "D",
+          "explanation": "Without + 名詞 ＝ If it had not been for；last month 是過去，結果用 would have p.p.（Day 59 規則 5）。"
+        },
+        {
+          "id": 7,
+          "prompt": "It is imperative that the safety inspection _____ before the factory resumes operations.",
+          "options": {
+            "A": "is completed",
+            "B": "will be completed",
+            "C": "be completed",
+            "D": "completes"
+          },
+          "answer": "C",
+          "explanation": "It is imperative that + 主詞 + (should) 原形，檢查是「被完成」，用 be completed（Day 54、56）。"
+        },
+        {
+          "id": 8,
+          "prompt": "The preliminary findings look promising; _____, the final report will not be released until next month.",
+          "options": {
+            "A": "however",
+            "B": "because",
+            "C": "although",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "分號後接連接副詞 however 表轉折；because / although 是連接詞、despite 是介系詞，不能接在分號後面引導獨立子句（Day 55）。"
+        },
+        {
+          "id": 9,
+          "prompt": "Before approving the budget, the auditors will _____ every line item in the travel expenses.",
+          "options": {
+            "A": "reiterate",
+            "B": "scrutinize",
+            "C": "deteriorate",
+            "D": "commence"
+          },
+          "answer": "B",
+          "explanation": "scrutinize every line item ＝ 仔細審查每一筆項目。"
+        },
+        {
+          "id": 10,
+          "prompt": "Because customers kept reporting the same errors, the company decided to _____ its outdated billing system.",
+          "options": {
+            "A": "overlook",
+            "B": "surpass",
+            "C": "overhaul",
+            "D": "attribute"
+          },
+          "answer": "C",
+          "explanation": "overhaul the billing system ＝ 徹底改革帳務系統；overlook 是「忽略」，語意相反。"
+        },
+        {
+          "id": 11,
+          "prompt": "Several team members _____ the time needed for the data migration, so the project missed its deadline.",
+          "options": {
+            "A": "reassessed",
+            "B": "incorporated",
+            "C": "solicited",
+            "D": "underestimated"
+          },
+          "answer": "D",
+          "explanation": "因為「低估」所需時間才錯過期限，underestimate 符合因果。"
+        },
+        {
+          "id": 12,
+          "prompt": "The design team will _____ several customer suggestions into the next version of the app.",
+          "options": {
+            "A": "anticipate",
+            "B": "incorporate",
+            "C": "pinpoint",
+            "D": "adhere"
+          },
+          "answer": "B",
+          "explanation": "incorporate A into B ＝ 把 A 納入 B，介系詞 into 是關鍵線索。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "階段模考的價值在診斷：50 題做完先依錯題標籤統計，錯最多的兩類就是接下來三天的加強重點。文法五大易錯點是 Only after / Rarely 置首倒裝主要子句、whether 可接 to V 而 if 不行、by the time + 現在式配 will have p.p.、suggest + V-ing 與 agree + to V、分詞構句看主詞主被動，以及假設語氣條件與結果各自找時間線索。聽力立場改變題聽最後決定，圖表題把 second most common 換成數字；Part 7 先找門檻與期限規則，再用變更信的新數字逐步計算。",
+  "nextDay": "製造與品質管理、Part 4 工廠廣播、被動語態進階"
+}
