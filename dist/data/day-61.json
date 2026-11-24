@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 61,
+  "title": "製造與品質管理、Part 4 工廠廣播與被動語態進階",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 61 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 61 學習概覽",
+      "markdown": "- 製造與品質管理 30 字：assembly line、production capacity、defective、tolerance、calibrate、root cause、corrective action、rework 等工廠與品管高頻字\n- 文法：被動語態進階，進行式／完成式被動、助動詞與不定詞被動（to have been p.p.）、使役與感官動詞的被動、It is said that／S is said to、不及物動詞不能被動與 need + V-ing\n- Listening：Part 3 刮傷面板客訴對話、Part 4 工廠廣播＋產線分配表圖表題、Part 4 工廠參觀導覽的說話者意圖題\n- Part 7 三篇整合：品檢摘要 → 客戶 Email → 廠長備忘錄，依 3% 門檻判斷全檢批次，推算出貨數量、重工數量與第二批出貨日\n- 完成 50 題後，把被動語態錯題分成「時態錯（is being / has been / will have been）」與「結構錯（不及物、to have been、使役被動要加 to）」兩類\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| assembly line | 裝配線；生產線 | work on the assembly line |\n| production capacity | 產能 | expand production capacity by 20 percent |\n| output | 產量；產出 | daily output has risen sharply |\n| defective | 有瑕疵的；不良的 | replace defective units free of charge |\n| inspection | 檢驗；檢查 | pass a final inspection |\n| quality assurance | 品質保證（QA） | the quality assurance department |\n| specifications | 規格；規格說明 | meet the client's specifications |\n| tolerance | （尺寸）公差；容許誤差 | within a tolerance of ±0.05 mm |\n| batch | 一批（產品） | a batch of 4,000 units |\n| recall | 召回（產品） | recall thousands of heaters |\n| prototype | 原型；樣品 | test the prototype thoroughly |\n| raw materials | 原料 | a shortage of raw materials |\n| component | 零件；組件 | source components from overseas |\n| inventory | 存貨；庫存 | keep inventory levels low |\n| shift | 輪班；班次 | work the night shift |\n| malfunction | 故障；運作失常 | a malfunction in the cooling system |\n| calibrate | 校準；校正 | calibrate the machines after each update |\n| yield | 良率；產出量 | improve the production yield |\n| lead time | 交貨前置時間 | reduce lead times for key parts |\n| root cause | 根本原因 | identify the root cause of the defect |\n| corrective action | 矯正措施 | submit a corrective action report |\n| certification | 認證；證照 | obtain ISO 9001 certification |\n| audit | 稽核；查核 | pass an on-site quality audit |\n| streamline | 精簡；使…更有效率 | streamline the packaging process |\n| automate | 使自動化 | automate the labeling process |\n| bottleneck | 瓶頸 | eliminate a bottleneck in production |\n| shutdown | 停機；停工 | a temporary shutdown of Line 3 |\n| protective equipment | 防護裝備 | wear protective equipment at all times |\n| hazardous | 有危險的；有害的 | dispose of hazardous waste safely |\n| rework | 重工；返工（修正後再加工） | send defective parts back for rework |"
+    },
+    {
+      "title": "② 今日文法｜被動語態進階",
+      "markdown": "主題：**被動語態進階：進行式與完成式被動、助動詞與不定詞被動、使役與感官動詞被動、It is said that / S is said to、不能用被動的動詞**\n\n### 規則 1｜進行式與完成式被動：is being p.p. / has been p.p. / will have been p.p.\n\n被動語態的時態全部落在 be 動詞上：進行式 is / was being p.p.，完成式 has / had / will have been p.p.。看到 currently、at the moment、while 選 being p.p.；看到 since、so far、by the end of next month 選 been p.p.。\n\n> Line 3 is currently being recalibrated, so its orders have been moved to Line 1.\n\n### 規則 2｜助動詞與不定詞被動：must be p.p. / to be p.p. / to have been p.p.\n\n助動詞後接 be p.p.（must be inspected、should be reported）。不定詞被動 to be p.p. 表示「之後才被做」；完成不定詞被動 to have been p.p. 表示「比主要動詞更早已被做」，常接在 seem / appear / is believed 後面。\n\n> The defects appear to have been caused by a worn cutting blade.\n\n### 規則 3｜使役與感官動詞：主動省 to，被動要加 to；have / get + 受詞 + p.p.\n\n主動 make workers repeat the test → 被動 Workers were made to repeat the test；see someone leave → someone was seen to leave。另外 have / get + 物 + p.p. 表示「請人把某物處理好」：have the sensor replaced。\n\n> All new operators were made to complete the safety course before starting work.\n\n### 規則 4｜報導動詞的被動：It is said that… = S is said to V / to have p.p.\n\nsay、believe、expect、report、estimate 常用兩種被動：It is expected that output will double. = Output is expected to double. 若 that 子句的時間比報導動詞早，改寫時用 to have p.p.：It is reported that the supplier raised prices. → The supplier is reported to have raised prices.\n\n> The new robotic system is expected to increase daily output by 30 percent.\n\n### 規則 5｜不及物動詞不能被動；need / require + V-ing 表被動意義\n\noccur、happen、arise、remain、consist of、take place 沒有受詞，不能寫成 was occurred 或 is remained。另外 The machine needs servicing. = The machine needs to be serviced.，V-ing 本身就有被動意思，不可再寫 needs being serviced。\n\n> The malfunction occurred during the night shift, and the conveyor still needs adjusting."
+    },
+    {
+      "title": "03 Listening｜Scratched Panels Complaint",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Jun, do you have a minute? We've just received a complaint from Delmar Appliances. They say some of the stainless steel panels in last week's shipment arrived scratched. Man: Really? Every panel is inspected before it leaves the line. Could they have been damaged in transit? Woman: That's what I thought at first, but in the photos they sent, the scratches are under the protective film. So they must have been made before the film was applied. Man: Hmm. Then it's probably the conveyor on Line 2. One of its rollers was replaced last Tuesday, and the new one may not have been installed correctly. Woman: OK. Could you have the roller checked this afternoon? In the meantime, I'll ask Delmar to send back the damaged panels so they can be examined in our lab. Man: Sure. I'll get the maintenance team on it right after the shift change."
+    },
+    {
+      "title": "04 Listening｜Factory Floor Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Temporary Line Assignments (this week)\n\n| Line | Product | Supervisor |\n|---|---|---|\n| Line 1 | Motor housings | R. Tanaka |\n| Line 2 | Fan blades | M. Ortiz |\n| Line 3 | Control panels | S. Byrne |\n| Line 4 | Wiring harnesses | L. Novak |\n\n聽力稿：\n\n> Attention, all second-shift staff. This is Gloria Pratt from the plant office. As some of you may have heard, a shipment of copper wire from our supplier has been delayed, so production of wiring harnesses will be suspended until Thursday. During that time, workers normally assigned to the harness line will be reassigned to the line that produces control panels, where an urgent order has to be completed by Friday. Please report to that line's supervisor at the start of your shift. I'd also like to remind everyone that safety glasses must be worn at all times on the production floor, even if you're only passing through. Several people were seen walking through the welding area without them yesterday. Finally, the cafeteria will be closed on Wednesday while new kitchen equipment is being installed, so lunch will be served in the training room on the second floor instead. Thank you."
+    },
+    {
+      "title": "05 Listening｜A Plant Tour",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Good morning, everyone, and welcome to the Ridgeway Plastics plant. I'm Hannah Cole, the operations manager, and I'll be showing you around today. Before we start, please put on the safety vests and earplugs that have just been handed out. Some areas are quite noisy. Our first stop is the molding area, which was completely redesigned last year. Previously, every part had to be removed from the molds by hand, and that step was the main bottleneck in our process. Now it's handled by robotic arms, and our daily output has risen by about thirty percent. Now, you might be wondering whether jobs were cut as a result. Actually, not a single position was eliminated. The employees who used to do that task were retrained as quality inspectors, and our defect rate is now the lowest it's ever been. After the molding area, we'll visit the testing lab, where samples from every batch are checked against our customers' specifications. The tour will end in the main conference room, where lunch will be served."
+    },
+    {
+      "title": "⑥ Reading｜Inspection Summary, E-mail, and Memo",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Inspection Summary\n\n> Halvorsen Precision Parts — Quality Inspection Summary\n> Order #4471: Aluminum brake brackets | Client: Vireo Cycles | Date: May 19\n>\n> Batch B-101 (Line 1): 4,000 units produced; 200 sampled; 2 defects (1.0%)\n> Batch B-102 (Line 3): 4,000 units produced; 200 sampled; 7 defects (3.5%)\n> Batch B-103 (Line 1): 4,000 units produced; 200 sampled; 1 defect (0.5%)\n> Batch B-104 (Line 3): 3,000 units produced; 150 sampled; 6 defects (4.0%)\n>\n> Under the quality agreement with Vireo Cycles, any batch with a sample defect rate above 3 percent must undergo 100 percent inspection before it can be shipped. Most of the defects found were mounting holes drilled outside the specified tolerance of ±0.05 mm.\n\n用途：參考文件\n\n### E-mail\n\n> From: Priya Raman, Purchasing Manager, Vireo Cycles\n> To: Anders Holm, Account Manager, Halvorsen Precision Parts\n> Date: May 19\n> Subject: Order #4471\n>\n> Anders,\n>\n> Thank you for sending the inspection summary so promptly. As you know, our new model is scheduled to go into production on June 2, and assembly cannot begin until all 15,000 brackets have been received. Please ship every batch that has already been cleared as soon as possible so that our own receiving inspection can begin.\n>\n> For the remaining units, I would appreciate a firm delivery date. I would also like to know what is being done to prevent this problem from recurring. Our auditors will need to see a written corrective action report before our next order can be placed.\n>\n> Best regards,\n> Priya Raman\n\n用途：參考文件\n\n### Memo\n\n> To: Plant 2 Production and Quality Staff\n> From: Karl Weiss, Plant Manager\n> Date: May 20\n> Subject: Order #4471 follow-up\n>\n> The cleared batches for Order #4471 were shipped to Vireo Cycles this morning. The two remaining batches will be fully inspected starting tomorrow, May 21. Our inspection team can check 1,000 units per shift, and two shifts a day will be assigned to this task until it is finished. Units that fail inspection will be reworked on Line 1 during the shift immediately after the inspection is completed. Based on the sample results, we expect that roughly 260 units will need rework. The remaining units will be shipped the day after the rework is finished.\n>\n> Meanwhile, Line 3 has been shut down. The root cause of the defects has been traced to a cutting machine that had not been recalibrated after its most recent software update. The machine is currently being recalibrated by the manufacturer's technician, and Line 3 is expected to be back in operation by May 23. From now on, every machine on the line must be calibrated after each software update, and a record of each calibration is to be kept by the shift supervisor. A full corrective action report will be sent to Vireo Cycles by May 27.\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Plant Staff\n> From: Quality Assurance Department\n> Date: September 3\n> Subject: Certification audit\n>\n> As many of you know, our plant is seeking ISO 9001 certification this year. The on-site audit [1] _____ on October 14 and 15 by an independent certification body. During the audit, any employee may be asked to explain how his or her tasks are performed. [2] _____\n>\n> To help everyone prepare, a series of short training sessions will be held next month. Attendance is [3] _____ for all supervisors and strongly encouraged for other staff. [4] _____, updated work instructions have been posted at every workstation, so please review the ones that apply to you."
+    },
+    {
+      "title": "⑨ Day 61 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 58、Day 59、Day 60**，並延伸到今天的製造與品管主題。\n\n### 複習重點\n- Day 58：分詞構句 Having reviewed…，主詞必須是「做檢閱的人」；小考第 6 題複習，今天的被動語態是分詞構句 p.p. 開頭的基礎\n- Day 59：與過去相反的假設 had been p.p. → would not have been p.p.；小考第 7 題把假設語氣和被動語態結合\n- Day 60：模考診斷出的 suggest + V-ing、Not until 倒裝；小考第 8、12 題複習，Not until 置首時倒裝的是主要子句\n- 今日文法：被動的時態全看 be 動詞（being / been）；occur、remain、take place 不能被動；were made to V 被動要補 to\n- Part 4 工廠廣播圖表題：聽到的是「產品名稱」（wiring harnesses → control panels），要換成圖表上的主管姓名，不要選原本那條線的主管\n- 說話者意圖題：you might be wondering whether… 是先替聽眾說出疑慮，再回答它\n- Part 7 品管計算：先用 3% 門檻篩出全檢批次（B-102、B-104），再算可立即出貨的 8,000 件、預估重工 140 + 120 = 260 件，以及 7,000 件 ÷ 每天 2,000 件的檢驗天數\n\n### 錯題標籤\n- `G`：Grammar\n- `PASS`：Passive Voice\n- `INTR`：Intransitive Verb (no passive)\n- `VING`：Gerund / Infinitive / Participle\n- `SUBJ`：Subjunctive / Conditional\n- `INV`：Inversion\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 tolerance、calibrate、root cause、corrective action、bottleneck 各寫一句工廠或品管情境的句子。\n- 被動語態改寫：把 5 句主動句改成被動，分別使用 is being p.p.、has been p.p.、will have been p.p.、was made to V、is said to have p.p. 各一次。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；每題標出屬於規則 1–5 的哪一類，並圈出決定時態的時間線索（currently、since、by the end of…）。\n- Reading 計算題重做：寫出 4,000 + 4,000、4,000 × 3.5% + 3,000 × 4%、(4,000 + 3,000) ÷ (1,000 × 2) 的算式，並說明為什麼第二批出貨日是 May 25。\n- Listening 第二組與第三組各聽兩次，第二輪不看逐字稿，寫下所有時間與數字（Thursday、Friday、Wednesday、thirty percent）與它們代表的意思。\n- Day 61 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；明天 Day 62 進入差旅、飯店與交通改期，先預習行程表上的時間與地點字彙。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "assembly line",
+      "meaning": "裝配線；生產線",
+      "phrase": "work on the assembly line"
+    },
+    {
+      "id": 2,
+      "word": "production capacity",
+      "meaning": "產能",
+      "phrase": "expand production capacity by 20 percent"
+    },
+    {
+      "id": 3,
+      "word": "output",
+      "meaning": "產量；產出",
+      "phrase": "daily output has risen sharply"
+    },
+    {
+      "id": 4,
+      "word": "defective",
+      "meaning": "有瑕疵的；不良的",
+      "phrase": "replace defective units free of charge"
+    },
+    {
+      "id": 5,
+      "word": "inspection",
+      "meaning": "檢驗；檢查",
+      "phrase": "pass a final inspection"
+    },
+    {
+      "id": 6,
+      "word": "quality assurance",
+      "meaning": "品質保證（QA）",
+      "phrase": "the quality assurance department"
+    },
+    {
+      "id": 7,
+      "word": "specifications",
+      "meaning": "規格；規格說明",
+      "phrase": "meet the client's specifications"
+    },
+    {
+      "id": 8,
+      "word": "tolerance",
+      "meaning": "（尺寸）公差；容許誤差",
+      "phrase": "within a tolerance of ±0.05 mm"
+    },
+    {
+      "id": 9,
+      "word": "batch",
+      "meaning": "一批（產品）",
+      "phrase": "a batch of 4,000 units"
+    },
+    {
+      "id": 10,
+      "word": "recall",
+      "meaning": "召回（產品）",
+      "phrase": "recall thousands of heaters"
+    },
+    {
+      "id": 11,
+      "word": "prototype",
+      "meaning": "原型；樣品",
+      "phrase": "test the prototype thoroughly"
+    },
+    {
+      "id": 12,
+      "word": "raw materials",
+      "meaning": "原料",
+      "phrase": "a shortage of raw materials"
+    },
+    {
+      "id": 13,
+      "word": "component",
+      "meaning": "零件；組件",
+      "phrase": "source components from overseas"
+    },
+    {
+      "id": 14,
+      "word": "inventory",
+      "meaning": "存貨；庫存",
+      "phrase": "keep inventory levels low"
+    },
+    {
+      "id": 15,
+      "word": "shift",
+      "meaning": "輪班；班次",
+      "phrase": "work the night shift"
+    },
+    {
+      "id": 16,
+      "word": "malfunction",
+      "meaning": "故障；運作失常",
+      "phrase": "a malfunction in the cooling system"
+    },
+    {
+      "id": 17,
+      "word": "calibrate",
+      "meaning": "校準；校正",
+      "phrase": "calibrate the machines after each update"
+    },
+    {
+      "id": 18,
+      "word": "yield",
+      "meaning": "良率；產出量",
+      "phrase": "improve the production yield"
+    },
+    {
+      "id": 19,
+      "word": "lead time",
+      "meaning": "交貨前置時間",
+      "phrase": "reduce lead times for key parts"
+    },
+    {
+      "id": 20,
+      "word": "root cause",
+      "meaning": "根本原因",
+      "phrase": "identify the root cause of the defect"
+    },
+    {
+      "id": 21,
+      "word": "corrective action",
+      "meaning": "矯正措施",
+      "phrase": "submit a corrective action report"
+    },
+    {
+      "id": 22,
+      "word": "certification",
+      "meaning": "認證；證照",
+      "phrase": "obtain ISO 9001 certification"
+    },
+    {
+      "id": 23,
+      "word": "audit",
+      "meaning": "稽核；查核",
+      "phrase": "pass an on-site quality audit"
+    },
+    {
+      "id": 24,
+      "word": "streamline",
+      "meaning": "精簡；使…更有效率",
+      "phrase": "streamline the packaging process"
+    },
+    {
+      "id": 25,
+      "word": "automate",
+      "meaning": "使自動化",
+      "phrase": "automate the labeling process"
+    },
+    {
+      "id": 26,
+      "word": "bottleneck",
+      "meaning": "瓶頸",
+      "phrase": "eliminate a bottleneck in production"
+    },
+    {
+      "id": 27,
+      "word": "shutdown",
+      "meaning": "停機；停工",
+      "phrase": "a temporary shutdown of Line 3"
+    },
+    {
+      "id": 28,
+      "word": "protective equipment",
+      "meaning": "防護裝備",
+      "phrase": "wear protective equipment at all times"
+    },
+    {
+      "id": 29,
+      "word": "hazardous",
+      "meaning": "有危險的；有害的",
+      "phrase": "dispose of hazardous waste safely"
+    },
+    {
+      "id": 30,
+      "word": "rework",
+      "meaning": "重工；返工（修正後再加工）",
+      "phrase": "send defective parts back for rework"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Scratched Panels Complaint",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem are the speakers discussing?",
+          "options": {
+            "A": "A shipment was sent to the wrong address",
+            "B": "A client has not paid an invoice",
+            "C": "Some products were delivered damaged",
+            "D": "A production line is understaffed"
+          },
+          "answer": "C",
+          "explanation": "女子說 Delmar Appliances 投訴上週出貨的不鏽鋼面板有刮傷（arrived scratched），是產品到貨受損。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does the woman mention the protective film?",
+          "options": {
+            "A": "To show that the damage did not happen during shipping",
+            "B": "To suggest using a different type of film",
+            "C": "To explain why the shipment was delayed",
+            "D": "To request that the film be removed before delivery"
+          },
+          "answer": "A",
+          "explanation": "刮痕在保護膜底下，表示貼膜前就刮傷，所以不是運送途中造成的，否定了男子 damaged in transit 的猜測。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the woman most likely do next?",
+          "options": {
+            "A": "Inspect a conveyor roller",
+            "B": "Schedule a shift change",
+            "C": "Replace a client's order",
+            "D": "Ask a client to return some items"
+          },
+          "answer": "D",
+          "explanation": "女子說 I'll ask Delmar to send back the damaged panels，請客戶寄回受損面板。檢查滾輪是男子安排維修人員做的事，A 錯。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Factory Floor Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why will production of wiring harnesses be suspended?",
+          "options": {
+            "A": "A machine needs to be repaired",
+            "B": "Some raw materials have not arrived",
+            "C": "An urgent order has been canceled",
+            "D": "Workers are attending a training session"
+          },
+          "answer": "B",
+          "explanation": "a shipment of copper wire from our supplier has been delayed：原料銅線延遲到貨，所以線束停產到週四。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. Who should the listeners report to?",
+          "options": {
+            "A": "R. Tanaka",
+            "B": "M. Ortiz",
+            "C": "S. Byrne",
+            "D": "L. Novak"
+          },
+          "answer": "C",
+          "explanation": "線束線的員工改派到生產 control panels 的產線，圖表上 Line 3 Control panels 的主管是 S. Byrne。L. Novak 是原本線束線的主管，屬於陷阱。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker remind the listeners to do?",
+          "options": {
+            "A": "Wear protective eyewear",
+            "B": "Sign in at the plant office",
+            "C": "Avoid the welding area",
+            "D": "Complete a safety survey"
+          },
+          "answer": "A",
+          "explanation": "safety glasses must be worn at all times on the production floor：在廠區一律要戴護目鏡（protective eyewear 是同義轉換）。"
+        },
+        {
+          "id": 4,
+          "prompt": "According to the speaker, what will happen on Wednesday?",
+          "options": {
+            "A": "A new supervisor will start work",
+            "B": "The second shift will end early",
+            "C": "Copper wire will be delivered",
+            "D": "Lunch will be served in a different location"
+          },
+          "answer": "D",
+          "explanation": "週三餐廳因安裝新廚房設備關閉，午餐改在二樓訓練教室供應。銅線恢復生產是週四，C 錯。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "A Plant Tour",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely are the listeners?",
+          "options": {
+            "A": "New machine operators",
+            "B": "Visitors on a guided tour",
+            "C": "Quality inspectors",
+            "D": "Equipment technicians"
+          },
+          "answer": "B",
+          "explanation": "I'll be showing you around today、Our first stop… The tour will end…，聽眾是來參觀工廠的訪客。"
+        },
+        {
+          "id": 2,
+          "prompt": "What are the listeners asked to do before the tour begins?",
+          "options": {
+            "A": "Put on safety gear",
+            "B": "Watch a short video",
+            "C": "Sign a confidentiality form",
+            "D": "Leave their bags in a locker"
+          },
+          "answer": "A",
+          "explanation": "please put on the safety vests and earplugs：穿上安全背心並戴上耳塞，即安全裝備。"
+        },
+        {
+          "id": 3,
+          "prompt": "Why does the speaker say, \"you might be wondering whether jobs were cut as a result\"?",
+          "options": {
+            "A": "To announce an upcoming change in staffing",
+            "B": "To ask the listeners for their opinions",
+            "C": "To address a concern the listeners may have",
+            "D": "To explain why output has decreased"
+          },
+          "answer": "C",
+          "explanation": "自動化後聽眾可能擔心有人被裁員，講者先說出這個疑慮，接著回答 not a single position was eliminated。產量其實上升 30%，D 錯。"
+        },
+        {
+          "id": 4,
+          "prompt": "What happened to the employees who used to remove parts by hand?",
+          "options": {
+            "A": "They moved to another plant",
+            "B": "They were promoted to managers",
+            "C": "They now operate the robotic arms",
+            "D": "They were trained for new positions"
+          },
+          "answer": "D",
+          "explanation": "were retrained as quality inspectors：重新受訓成為品檢員。原文沒有說他們操作機械手臂，C 錯。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Inspection Summary, E-mail, and Memo",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of the inspection summary?",
+          "options": {
+            "A": "To report the results of sample checks on an order",
+            "B": "To request additional raw materials",
+            "C": "To announce the closure of a production line",
+            "D": "To explain a change in a client's specifications"
+          },
+          "answer": "A",
+          "explanation": "品檢摘要列出 4 個批次的抽樣數、不良數與不良率，並說明 3% 全檢門檻，是報告訂單抽檢結果。關閉產線是備忘錄的內容，C 錯。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which batches were shipped to Vireo Cycles on May 20?",
+          "options": {
+            "A": "B-101 and B-102",
+            "B": "B-101 and B-103",
+            "C": "B-102 and B-104",
+            "D": "B-103 and B-104"
+          },
+          "answer": "B",
+          "explanation": "不良率超過 3% 的 B-102（3.5%）與 B-104（4.0%）必須全檢，其餘 B-101（1.0%）、B-103（0.5%）合格，備忘錄說 cleared batches 已於 5 月 20 日早上出貨。"
+        },
+        {
+          "id": 3,
+          "prompt": "How many brackets were shipped on May 20?",
+          "options": {
+            "A": "7,000",
+            "B": "8,000",
+            "C": "11,000",
+            "D": "15,000"
+          },
+          "answer": "B",
+          "explanation": "B-101 4,000 件＋B-103 4,000 件＝8,000 件。7,000 是尚待全檢的 B-102＋B-104，15,000 是整張訂單總數。"
+        },
+        {
+          "id": 4,
+          "prompt": "According to Ms. Raman, what must happen before Vireo Cycles places its next order?",
+          "options": {
+            "A": "Its own receiving inspection must be finished",
+            "B": "Production of its new model must begin",
+            "C": "Halvorsen must submit a written report on the problem",
+            "D": "A new delivery schedule must be negotiated"
+          },
+          "answer": "C",
+          "explanation": "Email：Our auditors will need to see a written corrective action report before our next order can be placed，下一張訂單前要看到書面矯正措施報告。"
+        },
+        {
+          "id": 5,
+          "prompt": "When will the remaining brackets most likely be shipped?",
+          "options": {
+            "A": "May 23",
+            "B": "May 24",
+            "C": "June 2",
+            "D": "May 25"
+          },
+          "answer": "D",
+          "explanation": "剩下 4,000＋3,000＝7,000 件，每班 1,000 件、每天 2 班＝每天 2,000 件：5/21、5/22、5/23 共 6,000 件，5/24 第一班完成最後 1,000 件；緊接的下一班（5/24）完成重工，隔天 5/25 出貨。May 23 是 Line 3 復工日，June 2 是客戶開始組裝日。"
+        },
+        {
+          "id": 6,
+          "prompt": "Based on the sample results, approximately how many units from Line 3 are expected to need rework?",
+          "options": {
+            "A": "140",
+            "B": "260",
+            "C": "520",
+            "D": "7,000"
+          },
+          "answer": "B",
+          "explanation": "B-102：4,000 × 3.5% = 140；B-104：3,000 × 4.0% = 120；合計 260 件，與備忘錄 roughly 260 units 一致。140 只算了一個批次。"
+        },
+        {
+          "id": 7,
+          "prompt": "What is identified as the cause of the defects?",
+          "options": {
+            "A": "Aluminum of poor quality was used",
+            "B": "Inspectors did not follow the sampling rules",
+            "C": "A machine was not adjusted after a software change",
+            "D": "Line 3 workers had not been properly trained"
+          },
+          "answer": "C",
+          "explanation": "The root cause … a cutting machine that had not been recalibrated after its most recent software update：軟體更新後沒有重新校準。recalibrate ≈ adjust。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is indicated about shift supervisors at Plant 2?",
+          "options": {
+            "A": "They will be responsible for keeping calibration records",
+            "B": "They will inspect every unit on Line 3",
+            "C": "They will send a report to Vireo Cycles by May 27",
+            "D": "They will receive training from a technician"
+          },
+          "answer": "A",
+          "explanation": "a record of each calibration is to be kept by the shift supervisor：be to be p.p. 表示規定，由班長保存校準紀錄。寄報告給客戶沒有說是班長負責，C 錯。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The new safety guidelines _____ to all factory staff by the end of the week.",
+          "options": {
+            "A": "distribute",
+            "B": "will distribute",
+            "C": "distributing",
+            "D": "will be distributed"
+          },
+          "answer": "D",
+          "explanation": "主詞 guidelines 是「被分發」的對象，後面也沒有受詞，用未來式被動 will be distributed。"
+        },
+        {
+          "id": 2,
+          "prompt": "The assembly line is currently _____ upgraded, so production has been moved to Plant 3.",
+          "options": {
+            "A": "being",
+            "B": "been",
+            "C": "be",
+            "D": "to be"
+          },
+          "answer": "A",
+          "explanation": "is currently being upgraded：現在進行式被動 is being p.p.，currently 是時間線索（規則 1）。"
+        },
+        {
+          "id": 3,
+          "prompt": "All defective units must _____ before the shipment leaves the warehouse.",
+          "options": {
+            "A": "remove",
+            "B": "be removed",
+            "C": "have removed",
+            "D": "removing"
+          },
+          "answer": "B",
+          "explanation": "units 是被移除的，助動詞 must 後接 be p.p.（規則 2）。"
+        },
+        {
+          "id": 4,
+          "prompt": "The malfunction is believed _____ by a power surge during the night shift.",
+          "options": {
+            "A": "to cause",
+            "B": "causing",
+            "C": "to have been caused",
+            "D": "to be causing"
+          },
+          "answer": "C",
+          "explanation": "故障「已經」被電壓突波造成，早於 is believed 的時間，且是被動，用完成不定詞被動 to have been caused（規則 2、4）。"
+        },
+        {
+          "id": 5,
+          "prompt": "Since the beginning of the year, the plant's defect rate _____ by nearly 40 percent.",
+          "options": {
+            "A": "has reduced",
+            "B": "is reducing",
+            "C": "was reduced",
+            "D": "has been reduced"
+          },
+          "answer": "D",
+          "explanation": "Since… 用現在完成式；defect rate 是被降低的，reduce 是及物動詞，所以用 has been reduced（規則 1）。"
+        },
+        {
+          "id": 6,
+          "prompt": "The cause of the delay _____ unclear until the supplier's report arrives.",
+          "options": {
+            "A": "is remained",
+            "B": "will be remained",
+            "C": "will remain",
+            "D": "remains being"
+          },
+          "answer": "C",
+          "explanation": "remain 是不及物（連綴）動詞，不能用被動；until 子句用現在式表未來，主要子句用 will remain（規則 5）。"
+        },
+        {
+          "id": 7,
+          "prompt": "Workers were made _____ the training module again after the audit.",
+          "options": {
+            "A": "complete",
+            "B": "to complete",
+            "C": "completing",
+            "D": "completed"
+          },
+          "answer": "B",
+          "explanation": "使役動詞 make 主動時省略 to（make workers complete），改成被動要補回 to：were made to complete（規則 3）。"
+        },
+        {
+          "id": 8,
+          "prompt": "The calibration error _____ during a routine inspection last Tuesday.",
+          "options": {
+            "A": "was occurred",
+            "B": "had been occurred",
+            "C": "has been occurred",
+            "D": "occurred"
+          },
+          "answer": "D",
+          "explanation": "occur 是不及物動詞，沒有被動；last Tuesday 用過去式 occurred（規則 5）。"
+        },
+        {
+          "id": 9,
+          "prompt": "The prototype needs _____ thoroughly before it is presented to the client.",
+          "options": {
+            "A": "testing",
+            "B": "to test",
+            "C": "tested",
+            "D": "be tested"
+          },
+          "answer": "A",
+          "explanation": "need + V-ing 本身表被動意義＝needs to be tested。to test 是主動，表示原型自己去測試，不合理（規則 5）。"
+        },
+        {
+          "id": 10,
+          "prompt": "It _____ that the new automated system will double the plant's output.",
+          "options": {
+            "A": "expects",
+            "B": "is expected",
+            "C": "is expecting",
+            "D": "has expected"
+          },
+          "answer": "B",
+          "explanation": "It is expected that… 是報導動詞的被動句型（規則 4），等於 The new system is expected to double…"
+        },
+        {
+          "id": 11,
+          "prompt": "Mr. Ruiz had the faulty sensor _____ by a certified technician.",
+          "options": {
+            "A": "replace",
+            "B": "replacing",
+            "C": "replaced",
+            "D": "to replace"
+          },
+          "answer": "C",
+          "explanation": "have + 物 + p.p.：請人把感測器換掉，感測器是被替換的，用 replaced（規則 3）。"
+        },
+        {
+          "id": 12,
+          "prompt": "Every component is inspected to ensure that it meets the client's _____.",
+          "options": {
+            "A": "specifications",
+            "B": "specifies",
+            "C": "specific",
+            "D": "specify"
+          },
+          "answer": "A",
+          "explanation": "所有格 client's 後面需要名詞；meet the specifications＝符合規格，是品管固定搭配。"
+        },
+        {
+          "id": 13,
+          "prompt": "Production was temporarily halted while the machines _____.",
+          "options": {
+            "A": "recalibrated",
+            "B": "were recalibrating",
+            "C": "were being recalibrated",
+            "D": "had recalibrated"
+          },
+          "answer": "C",
+          "explanation": "while 表示同時進行，機器是被校準的，用過去進行式被動 were being recalibrated（規則 1）。"
+        },
+        {
+          "id": 14,
+          "prompt": "To reduce the _____ at the packaging stage, the company installed a second labeling machine.",
+          "options": {
+            "A": "bottleneck",
+            "B": "tolerance",
+            "C": "certification",
+            "D": "yield"
+          },
+          "answer": "A",
+          "explanation": "加裝第二台貼標機是為了消除包裝階段的「瓶頸」。reduce the yield（降低良率）語意相反。"
+        },
+        {
+          "id": 15,
+          "prompt": "All employees working near the furnace are required _____ protective equipment.",
+          "options": {
+            "A": "wear",
+            "B": "wearing",
+            "C": "to be worn",
+            "D": "to wear"
+          },
+          "answer": "D",
+          "explanation": "be required to V：員工「被要求」穿戴，穿戴本身是主動，用 to wear；to be worn 的主詞必須是裝備。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "conducted",
+            "B": "will be conducted",
+            "C": "will conduct",
+            "D": "has conducted"
+          },
+          "answer": "B",
+          "explanation": "稽核是「被」認證機構執行（by an independent certification body），且在 10 月，晚於 9 月 3 日的備忘錄，用未來式被動 will be conducted。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "The certificate was displayed in the main lobby last year.",
+            "B": "Applications for the position are due by September 30.",
+            "C": "Thank you for completing our customer survey.",
+            "D": "You should therefore be familiar with the procedures that apply to your work area."
+          },
+          "answer": "D",
+          "explanation": "前句說稽核時任何員工都可能被問到如何執行工作，所以應該熟悉自己區域的作業程序。A 與「今年才在申請認證」矛盾。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "optional",
+            "B": "hazardous",
+            "C": "mandatory",
+            "D": "defective"
+          },
+          "answer": "C",
+          "explanation": "主管「必須」出席、其他員工「強烈鼓勵」出席，對比之下用 mandatory。optional 會讓主管比一般員工更不需要出席，不合邏輯。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "In addition",
+            "B": "Otherwise",
+            "C": "Nevertheless",
+            "D": "Instead"
+          },
+          "answer": "A",
+          "explanation": "除了舉辦訓練課程之外，「另外」也在每個工作站張貼了更新的作業指示，是補充資訊，用 In addition。"
+        }
+      ]
+    },
+    {
+      "id": "day-61-quiz",
+      "title": "Day 61 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The plant can increase its production _____ by adding a third shift.",
+          "options": {
+            "A": "capacity",
+            "B": "tolerance",
+            "C": "recall",
+            "D": "hazard"
+          },
+          "answer": "A",
+          "explanation": "production capacity＝產能，增加一個班次可以提高產能。"
+        },
+        {
+          "id": 2,
+          "prompt": "Thousands of space heaters were _____ after a wiring fault was discovered.",
+          "options": {
+            "A": "calibrated",
+            "B": "recalled",
+            "C": "automated",
+            "D": "streamlined"
+          },
+          "answer": "B",
+          "explanation": "發現線路瑕疵後產品被「召回」：be recalled。"
+        },
+        {
+          "id": 3,
+          "prompt": "The new packaging line _____ by the end of next month.",
+          "options": {
+            "A": "will have been installed",
+            "B": "will have installed",
+            "C": "is installing",
+            "D": "installs"
+          },
+          "answer": "A",
+          "explanation": "by the end of next month 用未來完成式；產線是被安裝的，用 will have been installed（規則 1）。"
+        },
+        {
+          "id": 4,
+          "prompt": "Parts that do not fall within the specified _____ are sent back for rework.",
+          "options": {
+            "A": "inventory",
+            "B": "yield",
+            "C": "tolerance",
+            "D": "lead time"
+          },
+          "answer": "C",
+          "explanation": "fall within the specified tolerance＝落在規定公差內；超出公差的零件要重工。"
+        },
+        {
+          "id": 5,
+          "prompt": "The safety inspection _____ while the second shift was still working.",
+          "options": {
+            "A": "was carrying out",
+            "B": "was being carried out",
+            "C": "has been carried out",
+            "D": "carried out"
+          },
+          "answer": "B",
+          "explanation": "inspection 是被執行的，while 表同時進行，用過去進行式被動 was being carried out（規則 1）。"
+        },
+        {
+          "id": 6,
+          "prompt": "Having _____ the inspection report, the plant manager ordered a full shutdown of Line 3.",
+          "options": {
+            "A": "reviewing",
+            "B": "been reviewed",
+            "C": "reviewed",
+            "D": "review"
+          },
+          "answer": "C",
+          "explanation": "Day 58 複習：分詞構句主詞是 the plant manager，經理「已經看過」報告，用主動完成式 Having reviewed。"
+        },
+        {
+          "id": 7,
+          "prompt": "If the sensor had been calibrated properly, the batch _____ rejected.",
+          "options": {
+            "A": "would not be",
+            "B": "had not been",
+            "C": "will not be",
+            "D": "would not have been"
+          },
+          "answer": "D",
+          "explanation": "Day 59 複習：條件 had been calibrated 是與過去相反，主要子句用 would have p.p.，批次是被退回的，所以是 would not have been rejected。"
+        },
+        {
+          "id": 8,
+          "prompt": "The supervisor suggested _____ the inspection schedule to avoid overtime.",
+          "options": {
+            "A": "revise",
+            "B": "to revise",
+            "C": "revising",
+            "D": "revised"
+          },
+          "answer": "C",
+          "explanation": "Day 57、60 複習：suggest + V-ing，不能接 to V。"
+        },
+        {
+          "id": 9,
+          "prompt": "Raw material costs are said _____ sharply last quarter.",
+          "options": {
+            "A": "to rise",
+            "B": "to have risen",
+            "C": "rising",
+            "D": "to have been risen"
+          },
+          "answer": "B",
+          "explanation": "last quarter 早於 are said 的現在，用完成不定詞 to have risen；rise 是不及物動詞，不能寫成 to have been risen（規則 4、5）。"
+        },
+        {
+          "id": 10,
+          "prompt": "The root cause of the defect has not yet been _____.",
+          "options": {
+            "A": "identify",
+            "B": "identifying",
+            "C": "identity",
+            "D": "identified"
+          },
+          "answer": "D",
+          "explanation": "has not yet been + p.p. 是現在完成式被動：根本原因尚未被找出。"
+        },
+        {
+          "id": 11,
+          "prompt": "Because the supplier's _____ has grown from two weeks to six, we must order components earlier.",
+          "options": {
+            "A": "lead time",
+            "B": "output",
+            "C": "shutdown",
+            "D": "certification"
+          },
+          "answer": "A",
+          "explanation": "從下單到交貨的時間由兩週變六週，是 lead time（交貨前置時間）變長，所以要提早訂零件。"
+        },
+        {
+          "id": 12,
+          "prompt": "Not until the audit was completed _____ allowed to resume normal production.",
+          "options": {
+            "A": "the plant was",
+            "B": "was the plant",
+            "C": "the plant is",
+            "D": "had the plant"
+          },
+          "answer": "B",
+          "explanation": "Day 60 複習：Not until… 置首，倒裝的是主要子句：was the plant allowed。had the plant 後面需接 p.p.（had the plant been allowed），D 錯。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "品管題先抓「門檻、數量、時程」：被動語態的時態全看 be 動詞，currently / while 用 being p.p.，since / by the end of 用 been p.p.；比主要動詞更早的被動用 to have been p.p.，使役 make 改被動要補 to，have + 物 + p.p. 表示請人處理；occur、remain、rise 不能被動，need + V-ing 本身就是被動意義。Part 4 工廠廣播圖表題把聽到的產品名稱換成圖表上的主管；Part 7 先用 3% 門檻篩出全檢批次，再依序算出貨量、重工量與檢驗天數。",
+  "nextDay": "差旅、飯店與交通改期、Part 7 行程表整合"
+}
