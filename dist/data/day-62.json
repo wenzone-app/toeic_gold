@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 62,
+  "title": "差旅、飯店與交通改期、Part 7 行程表整合",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 62 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 62 學習概覽",
+      "markdown": "- 差旅與交通改期 30 字：itinerary、reimbursement、per diem、layover、rebook、cancellation fee、inclement weather、voucher 等出差、飯店與航班高頻字\n- 文法：時間與地點介系詞進階，by（期限）vs until（持續到）、in / within / after、as of / prior to / following、during vs while、交通工具的 by / on / in\n- Listening：Part 3 航班延誤致電飯店、Part 4 登機門廣播＋航班看板圖表題、Part 4 旅行社語音留言的說話者意圖題\n- Part 7 三篇整合：原始行程表 → 改期 Email → 旅行社回覆，推算抵達時間、飯店可報銷金額與每日津貼總額\n- 完成 50 題後，把介系詞錯題分成「期限／持續錯（by vs until、in vs within）」與「名詞／子句錯（during vs while、prior to + N）」兩類\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| itinerary | 行程表 | send a revised itinerary |\n| accommodations | 住宿 | arrange accommodations for visiting clients |\n| reimbursement | 報銷；費用退還 | submit receipts for reimbursement |\n| per diem | 每日津貼（膳雜費） | receive a per diem of $60 |\n| layover | （轉機）中途停留 | a three-hour layover in Frankfurt |\n| connecting flight | 轉機航班 | miss a connecting flight |\n| boarding pass | 登機證 | present your boarding pass at the gate |\n| aisle seat | 靠走道座位 | request an aisle seat |\n| upgrade | 升等；升級 | be upgraded to business class |\n| complimentary | 免費贈送的 | complimentary breakfast for all guests |\n| amenities | （飯店）設施；便利設施 | on-site amenities such as a fitness center |\n| late checkout | 延遲退房 | request a late checkout at no extra charge |\n| shuttle | 接駁車 | a free airport shuttle every 30 minutes |\n| fare | 票價；車資 | a nonrefundable economy fare |\n| round-trip | 來回的 | a round-trip ticket to Tokyo |\n| reschedule | 改期；重新安排時間 | reschedule the meeting for Thursday |\n| rebook | 重新訂位 | rebook passengers on a later flight |\n| cancellation fee | 取消費 | waive the cancellation fee |\n| confirmation number | 訂位確認編號 | quote your confirmation number |\n| departure | 出發；起飛 | two hours before departure |\n| en route | 在途中 | en route to the airport |\n| terminal | 航廈；轉運站 | arrive at Terminal 2 |\n| baggage allowance | 行李限額 | exceed the checked baggage allowance |\n| expense report | 費用報告；報帳單 | file an expense report within 10 days |\n| travel advisory | 旅遊警示；交通警示 | issue a travel advisory for the region |\n| inclement weather | 惡劣天氣 | flights delayed by inclement weather |\n| occupancy | 住房率；入住 | high hotel occupancy during the trade fair |\n| vacancy | 空房；空缺 | the hotel has no vacancies this weekend |\n| car rental | 租車 | a car rental counter at the airport |\n| voucher | 兌換券；抵用券 | hand out meal vouchers to delayed passengers |"
+    },
+    {
+      "title": "② 今日文法｜時間與地點介系詞進階",
+      "markdown": "主題：**時間與地點介系詞進階：by vs until、in / within / after、as of / prior to / following、during vs while、交通工具與地點的 by / on / in / at**\n\n### 規則 1｜by 是「最晚在…之前完成」，until 是「一直持續到…」\n\nby 搭配一次完成的動作（submit、arrive、confirm、check out）；until 搭配持續狀態（stay、remain、wait、be valid、be held）。否定句 not … until 表示「直到…才」。\n\n> Please submit your expense report by Friday; the hotel will hold your room until 6 P.M.\n\n### 規則 2｜in two days（兩天後）vs within two days（兩天之內）vs after（某時間點之後）\n\nin + 一段時間 指「從現在算起多久之後」；within 指「在這段期間內的任何時間」，退款、回覆、改票期限最常用；after 接時間點或事件（after the meeting），敘述過去「幾天後」用 two days later。\n\n> Refunds are processed within ten business days, and the next shuttle leaves in fifteen minutes.\n\n### 規則 3｜as of / effective / starting + 日期 表生效；prior to = before，following = after\n\nas of October 1、effective immediately 是政策公告最常見的起始用語。prior to 與 following 是介系詞，後面接名詞或 V-ing，不能直接接子句：prior to departure、prior to boarding、following the merger。\n\n> As of October 1, all travel must be booked through the company portal at least 14 days prior to departure.\n\n### 規則 4｜during + 名詞，while + 子句／V-ing；for + 期間長度\n\nduring 後面接事件名詞（during the flight、during the renovation）；while 後面接子句或分詞（while she was waiting、while traveling）；for 後面接時間長度（for three nights）。during three nights 很少見，看到數字長度優先選 for。\n\n> While waiting for her connecting flight, Ms. Park reviewed the contract she had signed during the trip.\n\n### 規則 5｜交通工具與地點：by car / on the train / in a taxi；at the airport / on the second floor\n\nby + 交通工具不加冠詞（by train、by air）；一旦有冠詞或所有格就改用 on（大型、可在裡面走動：on the train、on flight 305）或 in（小型：in a taxi、in my car）。地點 at 指一個點（at the gate、at the front desk），on 指樓層或街道（on the second floor），in 指城市或空間（in Nagoya、in the lobby）。\n\n> Mr. Ito will travel to Kyoto by train and meet us at the front desk on the third floor."
+    },
+    {
+      "title": "03 Listening｜Flight Delay Call to a Hotel",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Hi, this is Mei-Ling Chen. I have a reservation at your hotel starting tonight. The confirmation number is H-4482. My flight from Seoul has been delayed because of inclement weather, and I won't land until about eleven thirty. I just want to make sure my room won't be given to someone else. Man: Thanks for letting us know, Ms. Chen. I've added a note to your reservation, so your room will be held until you arrive. I should mention, though, that our airport shuttle stops running at eleven. Woman: Oh, that's a problem. Is there another way to get to the hotel at that hour? Man: Taxis are available outside Terminal 2 all night. And since the delay wasn't your fault, we'll cover the fare. Just keep the receipt and show it at the front desk when you check in. Woman: That's very kind of you. I'll do that."
+    },
+    {
+      "title": "04 Listening｜Gate Change Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Departures — Gate Area C\n\n| Flight | Destination | Gate | Status |\n|---|---|---|---|\n| BX 221 | Singapore | C4 | On time |\n| BX 305 | Bangkok | C7 | Delayed |\n| BX 418 | Manila | C9 | Boarding |\n| BX 502 | Hong Kong | C12 | On time |\n\n聽力稿：\n\n> Attention, passengers on Brixel Air flight 305 to Bangkok. Because of a mechanical problem with the aircraft that was originally scheduled for this flight, a replacement aircraft is being prepared. Departure has been rescheduled for three forty this afternoon. Please also note that the flight will no longer leave from Gate C7. It will depart from the gate currently being used by our flight to Manila, which is boarding now. Passengers who are continuing on connecting flights from Bangkok should speak with an agent at the transfer desk next to Gate C5. If you are going to miss your connection, you will be rebooked on the next available flight at no charge. Meal vouchers worth fifteen dollars will be handed out at the Gate C7 counter in about ten minutes. We apologize for the inconvenience and thank you for your patience."
+    },
+    {
+      "title": "05 Listening｜Travel Agent Voice Mail",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Hi, Mr. Okafor. This is Renata Silva from Altura Corporate Travel, returning your call about your Chicago trip. You asked about moving your return flight from Thursday to Wednesday evening. I checked, and there's a seat available on the six-fifteen flight. However, your current ticket is a nonrefundable economy fare, so the change would cost a hundred and twenty dollars plus any difference in fare. Now, I know you mentioned that your client meeting on Thursday might be canceled. Well, that hasn't been confirmed yet. Changes can be made up to two hours before departure, so you don't have to decide today. As for your hotel, the booking is fully refundable as long as it's canceled by 6 P.M. the day before you arrive, so there's no rush there either. Please call me back at 555-0148, extension 22, once you know what you'd like to do."
+    },
+    {
+      "title": "⑥ Reading｜Itinerary, E-mail, and Reply",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Itinerary\n\n> Brightway Corporate Travel — Itinerary for Daniel Ferreira, Corvane Industries\n> Issued: September 24\n>\n> Mon., Oct. 6 — Flight GA 316, Taipei 08:40 → Osaka (Kansai) 12:15. Hotel: Harbor View Osaka (Oct. 6–8, 2 nights), $172 per night.\n> Tue., Oct. 7 — 10:00 Meeting with Mizuki Foods, Osaka head office.\n> Wed., Oct. 8 — Train 09:12 Shin-Osaka → Nagoya 10:02. 13:00 Site visit, Tolland Packaging. Hotel: Grand Linden Nagoya (Oct. 8–10, 2 nights), $165 per night.\n> Fri., Oct. 10 — Flight GA 329, Nagoya 17:30 → Taipei 19:55.\n>\n> Corvane travel policy: Hotel costs are reimbursed up to $180 per night. A meal allowance (per diem) of $60 is paid for each full day of travel, and $30 is paid for the departure day and the return day.\n\n用途：參考文件\n\n### E-mail\n\n> From: Daniel Ferreira, Corvane Industries\n> To: Nora Liang, Brightway Corporate Travel\n> Date: September 29\n> Subject: Changes to my October trip\n>\n> Hi Nora,\n>\n> A few things have changed since you sent my itinerary. First, the president of Mizuki Foods will be out of the office on October 7, so our meeting has been moved to 9:00 A.M. on October 8. It should last about two hours, which means I'll need a later train to Nagoya, ideally one leaving around 1 P.M. Tolland Packaging has kindly agreed to push the site visit back to 3:30 P.M.\n>\n> Second, Tolland has asked me to stay an extra day so that I can meet with their engineering team on October 10. I'd therefore like to fly home on Saturday, October 11, instead. Please extend my stay at the Grand Linden accordingly and keep me on an evening flight if possible.\n>\n> Finally, could you request an aisle seat on the return flight? Thanks for your help.\n>\n> Daniel\n\n用途：參考文件\n\n### Reply\n\n> From: Nora Liang, Brightway Corporate Travel\n> To: Daniel Ferreira, Corvane Industries\n> Date: September 30\n> Subject: RE: Changes to my October trip\n>\n> Hi Daniel,\n>\n> All of your changes have been made. The 13:10 train was fully booked, so I've reserved a seat on the 13:42 departure, which arrives in Nagoya at 14:32. That should still give you plenty of time to reach Tolland.\n>\n> Your stay at the Grand Linden Nagoya now runs from October 8 to October 11. Please note that the hotel's rate for the night of October 10 is $195 because of a trade fair in the city; the first two nights remain at $165.\n>\n> Your return flight is now GA 333, departing Nagoya at 18:05 on October 11. The airline charged a change fee of $75, which has been billed to Corvane's corporate account. Unfortunately, no aisle seats were available, so you've been assigned a window seat. You may be able to change it when you check in online, which opens 24 hours before departure.\n>\n> Best regards,\n> Nora\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: Guests with upcoming reservations\n> From: Harborline Hotel Guest Services\n> Date: September 18\n> Subject: Renovation and shuttle update\n>\n> Thank you for choosing the Harborline Hotel. Please note that our lobby and main restaurant [1] _____ from October 3 to October 24. During this period, breakfast will be served in the Bayview Room on the second floor. [2] _____\n>\n> In addition, our airport shuttle schedule is changing. [3] _____ October 3, shuttles will leave the main entrance every 40 minutes between 6 A.M. and 10 P.M. Guests who wish to reserve a seat should contact the front desk at least two hours [4] _____ departure."
+    },
+    {
+      "title": "⑨ Day 62 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 59、Day 60、Day 61**，並延伸到今天的差旅與交通改期主題。\n\n### 複習重點\n- Day 59：與過去相反的假設 If + had p.p. → would have p.p.；小考第 11 題複習，訂房、改票情境最常出現「早知道就…」\n- Day 60：模考診斷出的 suggest + V-ing 與 Only after 置首倒裝；小考第 10、12 題複習，倒裝的是主要子句 did she change\n- Day 61：被動語態，occur 不能被動、will be sent 未來被動；Part 5 第 14 題與小考第 9 題複習\n- 今日文法：by（期限）vs until（持續）；within（期間內）vs in（多久之後）；as of 表生效、prior to 接名詞；during + N、while + 子句；by train 無冠詞、on the train 有冠詞\n- Part 4 登機門圖表題：廣播說的是「目前 Manila 航班使用的登機門」，要從看板換成 C9，不要選原本的 C7\n- 說話者意圖題：that hasn't been confirmed yet 接著說 you don't have to decide today，意思是先別急著改票\n- Part 7 差旅計算：飯店每晚上限 $180，$195 那晚只報 $180，165 + 165 + 180 = $510；行程改到 10/11 後，津貼是 2 × $30 + 4 × $60 = $300\n\n### 錯題標籤\n- `G`：Grammar\n- `PREP`：Preposition (time / place)\n- `CONJ`：Conjunction vs Preposition (while / during)\n- `PASS`：Passive Voice\n- `SUBJ`：Subjunctive / Conditional\n- `INV`：Inversion\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 itinerary、reimbursement、per diem、rebook、cancellation fee 各寫一句出差或改期情境的句子。\n- 介系詞改錯：自己寫 10 句差旅句子，各用一次 by、until、in、within、as of、prior to、following、during、while、by train，並標出它屬於規則 1–5 的哪一類。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；by / until、during / while 的題目寫出判斷依據（完成動作或持續狀態、後面接名詞或子句）。\n- Reading 計算題重做：寫出 165 + 165 + min(195, 180)、2 × 30 + 4 × 60 的算式，並說明為什麼 $195 那晚只能報 $180、為什麼改期後津貼比原本多 $60。\n- Listening 第二組與第三組各聽兩次，第二輪不看逐字稿，寫下所有時間、金額與登機門（three forty、C7、C5、fifteen dollars、six-fifteen、a hundred and twenty dollars）。\n- Day 62 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；明天 Day 63 是第九週整合，先把 Day 57–62 錯題本各挑 3 題重做。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "itinerary",
+      "meaning": "行程表",
+      "phrase": "send a revised itinerary"
+    },
+    {
+      "id": 2,
+      "word": "accommodations",
+      "meaning": "住宿",
+      "phrase": "arrange accommodations for visiting clients"
+    },
+    {
+      "id": 3,
+      "word": "reimbursement",
+      "meaning": "報銷；費用退還",
+      "phrase": "submit receipts for reimbursement"
+    },
+    {
+      "id": 4,
+      "word": "per diem",
+      "meaning": "每日津貼（膳雜費）",
+      "phrase": "receive a per diem of $60"
+    },
+    {
+      "id": 5,
+      "word": "layover",
+      "meaning": "（轉機）中途停留",
+      "phrase": "a three-hour layover in Frankfurt"
+    },
+    {
+      "id": 6,
+      "word": "connecting flight",
+      "meaning": "轉機航班",
+      "phrase": "miss a connecting flight"
+    },
+    {
+      "id": 7,
+      "word": "boarding pass",
+      "meaning": "登機證",
+      "phrase": "present your boarding pass at the gate"
+    },
+    {
+      "id": 8,
+      "word": "aisle seat",
+      "meaning": "靠走道座位",
+      "phrase": "request an aisle seat"
+    },
+    {
+      "id": 9,
+      "word": "upgrade",
+      "meaning": "升等；升級",
+      "phrase": "be upgraded to business class"
+    },
+    {
+      "id": 10,
+      "word": "complimentary",
+      "meaning": "免費贈送的",
+      "phrase": "complimentary breakfast for all guests"
+    },
+    {
+      "id": 11,
+      "word": "amenities",
+      "meaning": "（飯店）設施；便利設施",
+      "phrase": "on-site amenities such as a fitness center"
+    },
+    {
+      "id": 12,
+      "word": "late checkout",
+      "meaning": "延遲退房",
+      "phrase": "request a late checkout at no extra charge"
+    },
+    {
+      "id": 13,
+      "word": "shuttle",
+      "meaning": "接駁車",
+      "phrase": "a free airport shuttle every 30 minutes"
+    },
+    {
+      "id": 14,
+      "word": "fare",
+      "meaning": "票價；車資",
+      "phrase": "a nonrefundable economy fare"
+    },
+    {
+      "id": 15,
+      "word": "round-trip",
+      "meaning": "來回的",
+      "phrase": "a round-trip ticket to Tokyo"
+    },
+    {
+      "id": 16,
+      "word": "reschedule",
+      "meaning": "改期；重新安排時間",
+      "phrase": "reschedule the meeting for Thursday"
+    },
+    {
+      "id": 17,
+      "word": "rebook",
+      "meaning": "重新訂位",
+      "phrase": "rebook passengers on a later flight"
+    },
+    {
+      "id": 18,
+      "word": "cancellation fee",
+      "meaning": "取消費",
+      "phrase": "waive the cancellation fee"
+    },
+    {
+      "id": 19,
+      "word": "confirmation number",
+      "meaning": "訂位確認編號",
+      "phrase": "quote your confirmation number"
+    },
+    {
+      "id": 20,
+      "word": "departure",
+      "meaning": "出發；起飛",
+      "phrase": "two hours before departure"
+    },
+    {
+      "id": 21,
+      "word": "en route",
+      "meaning": "在途中",
+      "phrase": "en route to the airport"
+    },
+    {
+      "id": 22,
+      "word": "terminal",
+      "meaning": "航廈；轉運站",
+      "phrase": "arrive at Terminal 2"
+    },
+    {
+      "id": 23,
+      "word": "baggage allowance",
+      "meaning": "行李限額",
+      "phrase": "exceed the checked baggage allowance"
+    },
+    {
+      "id": 24,
+      "word": "expense report",
+      "meaning": "費用報告；報帳單",
+      "phrase": "file an expense report within 10 days"
+    },
+    {
+      "id": 25,
+      "word": "travel advisory",
+      "meaning": "旅遊警示；交通警示",
+      "phrase": "issue a travel advisory for the region"
+    },
+    {
+      "id": 26,
+      "word": "inclement weather",
+      "meaning": "惡劣天氣",
+      "phrase": "flights delayed by inclement weather"
+    },
+    {
+      "id": 27,
+      "word": "occupancy",
+      "meaning": "住房率；入住",
+      "phrase": "high hotel occupancy during the trade fair"
+    },
+    {
+      "id": 28,
+      "word": "vacancy",
+      "meaning": "空房；空缺",
+      "phrase": "the hotel has no vacancies this weekend"
+    },
+    {
+      "id": 29,
+      "word": "car rental",
+      "meaning": "租車",
+      "phrase": "a car rental counter at the airport"
+    },
+    {
+      "id": 30,
+      "word": "voucher",
+      "meaning": "兌換券；抵用券",
+      "phrase": "hand out meal vouchers to delayed passengers"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Flight Delay Call to a Hotel",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the woman calling?",
+          "options": {
+            "A": "To cancel her hotel reservation",
+            "B": "To ask for a room upgrade",
+            "C": "To book an airport shuttle",
+            "D": "To say she will arrive later than planned"
+          },
+          "answer": "D",
+          "explanation": "女子說航班因 inclement weather 延誤，大約 11:30 才落地，打電話是要確認房間不會被取消，也就是告知會晚到。"
+        },
+        {
+          "id": 2,
+          "prompt": "What problem does the man mention?",
+          "options": {
+            "A": "The shuttle will not be running when she lands",
+            "B": "The hotel is fully booked",
+            "C": "Her confirmation number is incorrect",
+            "D": "The front desk closes at eleven"
+          },
+          "answer": "A",
+          "explanation": "our airport shuttle stops running at eleven，而她 11:30 才落地，接駁車已經停駛。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the man offer to do?",
+          "options": {
+            "A": "Send a driver to the airport",
+            "B": "Give her a free breakfast",
+            "C": "Pay for her taxi",
+            "D": "Change her flight"
+          },
+          "answer": "C",
+          "explanation": "we'll cover the fare. Just keep the receipt：飯店願意負擔計程車資，請她保留收據。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Gate Change Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What has caused the delay?",
+          "options": {
+            "A": "Inclement weather",
+            "B": "A problem with an aircraft",
+            "C": "A shortage of flight crew",
+            "D": "Heavy air traffic"
+          },
+          "answer": "B",
+          "explanation": "Because of a mechanical problem with the aircraft that was originally scheduled：原定飛機有機械問題，需要換一架。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. From which gate will flight 305 depart?",
+          "options": {
+            "A": "Gate C4",
+            "B": "Gate C7",
+            "C": "Gate C12",
+            "D": "Gate C9"
+          },
+          "answer": "D",
+          "explanation": "廣播說改用 the gate currently being used by our flight to Manila，看板上 Manila（BX 418）在 C9。原本的 C7 是陷阱。"
+        },
+        {
+          "id": 3,
+          "prompt": "Who should go to the transfer desk?",
+          "options": {
+            "A": "Passengers with connecting flights",
+            "B": "Passengers traveling to Manila",
+            "C": "Passengers who need meal vouchers",
+            "D": "Passengers with checked baggage"
+          },
+          "answer": "A",
+          "explanation": "Passengers who are continuing on connecting flights from Bangkok should speak with an agent at the transfer desk。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will passengers receive at the Gate C7 counter?",
+          "options": {
+            "A": "New boarding passes",
+            "B": "Hotel reservations",
+            "C": "Meal vouchers",
+            "D": "Seat upgrades"
+          },
+          "answer": "C",
+          "explanation": "Meal vouchers worth fifteen dollars will be handed out at the Gate C7 counter：發放 15 美元餐券。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Travel Agent Voice Mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To confirm a hotel cancellation",
+            "B": "To announce a new travel policy",
+            "C": "To respond to a question about changing a flight",
+            "D": "To request payment for a ticket"
+          },
+          "answer": "C",
+          "explanation": "returning your call… You asked about moving your return flight：回覆對方詢問改回程航班的事。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the speaker say about the listener's current ticket?",
+          "options": {
+            "A": "Changing it would involve a fee",
+            "B": "It can be fully refunded",
+            "C": "It was booked in business class",
+            "D": "It has already been changed"
+          },
+          "answer": "A",
+          "explanation": "nonrefundable economy fare，改票要 a hundred and twenty dollars 再加票價差額。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the speaker imply when she says, \"that hasn't been confirmed yet\"?",
+          "options": {
+            "A": "The client has already canceled the meeting",
+            "B": "The six-fifteen flight may be full",
+            "C": "She could not reach the client",
+            "D": "The listener should wait before changing his flight"
+          },
+          "answer": "D",
+          "explanation": "她接著說 Changes can be made up to two hours before departure, so you don't have to decide today，暗示會議還沒確定取消，先別急著付費改票。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is mentioned about the hotel booking?",
+          "options": {
+            "A": "It must be paid for in advance",
+            "B": "It can be canceled without charge until the day before arrival",
+            "C": "It has been moved to Wednesday",
+            "D": "It includes airport transportation"
+          },
+          "answer": "B",
+          "explanation": "fully refundable as long as it's canceled by 6 P.M. the day before you arrive：入住前一天下午 6 點前取消不收費。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Itinerary, E-mail, and Reply",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of Mr. Ferreira's e-mail?",
+          "options": {
+            "A": "To submit an expense report",
+            "B": "To ask for changes to his travel arrangements",
+            "C": "To complain about a delayed train",
+            "D": "To confirm a hotel's cancellation policy"
+          },
+          "answer": "B",
+          "explanation": "Email 開頭 A few things have changed since you sent my itinerary，接著請旅行社改火車、延長住宿、改回程與選座位。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why was the meeting with Mizuki Foods moved?",
+          "options": {
+            "A": "The Osaka office is being renovated",
+            "B": "Mr. Ferreira's flight was rescheduled",
+            "C": "Tolland Packaging requested the change",
+            "D": "An executive will be unavailable on the original date"
+          },
+          "answer": "D",
+          "explanation": "the president of Mizuki Foods will be out of the office on October 7：總裁原定日期不在，同義轉換成 an executive will be unavailable。"
+        },
+        {
+          "id": 3,
+          "prompt": "What time will Mr. Ferreira arrive in Nagoya on October 8?",
+          "options": {
+            "A": "At 2:32 P.M.",
+            "B": "At 10:02 A.M.",
+            "C": "At 1:10 P.M.",
+            "D": "At 3:30 P.M."
+          },
+          "answer": "A",
+          "explanation": "回覆信：13:10 那班客滿，改訂 13:42 出發、14:32 抵達名古屋，即下午 2:32。10:02 是原行程，13:10 是客滿那班，3:30 是參訪開始時間。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is indicated about the visit to Tolland Packaging on October 8?",
+          "options": {
+            "A": "It has been canceled",
+            "B": "It will take place in Osaka",
+            "C": "It will begin later than originally scheduled",
+            "D": "It will last about two hours"
+          },
+          "answer": "C",
+          "explanation": "原行程表 13:00 Site visit，Email 說 Tolland 同意 push the site visit back to 3:30 P.M.，比原定晚。two hours 是 Mizuki 會議的長度。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why will Mr. Ferreira stay in Nagoya an additional night?",
+          "options": {
+            "A": "To attend a trade fair",
+            "B": "To meet with a company's engineers",
+            "C": "Because no flights were available on October 10",
+            "D": "Because a train was fully booked"
+          },
+          "answer": "B",
+          "explanation": "Tolland has asked me to stay an extra day so that I can meet with their engineering team on October 10。trade fair 只是 10/10 房價變高的原因。"
+        },
+        {
+          "id": 6,
+          "prompt": "Under Corvane's policy, how much of Mr. Ferreira's Grand Linden Nagoya bill will be reimbursed?",
+          "options": {
+            "A": "$495",
+            "B": "$525",
+            "C": "$540",
+            "D": "$510"
+          },
+          "answer": "D",
+          "explanation": "三晚房價 165 + 165 + 195 = $525，但每晚上限 $180，10/10 那晚只能報 $180，所以 165 + 165 + 180 = $510。"
+        },
+        {
+          "id": 7,
+          "prompt": "How much will Mr. Ferreira receive in meal allowances for the revised trip?",
+          "options": {
+            "A": "$300",
+            "B": "$240",
+            "C": "$270",
+            "D": "$360"
+          },
+          "answer": "A",
+          "explanation": "新行程 10/6 出發、10/11 返回：出發日與返回日各 $30，10/7–10/10 四個整天各 $60，2 × 30 + 4 × 60 = $300。原行程是 2 × 30 + 3 × 60 = $240。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is suggested about Mr. Ferreira's return flight?",
+          "options": {
+            "A": "It leaves earlier than his original flight",
+            "B": "He must pay the change fee himself",
+            "C": "He may be able to get a different seat before departure",
+            "D": "It departs from Osaka"
+          },
+          "answer": "C",
+          "explanation": "回覆信說沒有走道座位，先排靠窗，但 You may be able to change it when you check in online。新航班 18:05 比原本 17:30 晚；改票費 billed to Corvane's corporate account。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "All receipts must be submitted _____ the end of the month for expenses to be reimbursed.",
+          "options": {
+            "A": "until",
+            "B": "by",
+            "C": "within",
+            "D": "since"
+          },
+          "answer": "B",
+          "explanation": "submit 是一次完成的動作，「最晚在月底前」用 by。until 要搭配持續狀態。"
+        },
+        {
+          "id": 2,
+          "prompt": "The hotel's fitness center will remain closed _____ the renovation is completed.",
+          "options": {
+            "A": "by",
+            "B": "during",
+            "C": "until",
+            "D": "within"
+          },
+          "answer": "C",
+          "explanation": "remain closed 是持續狀態，「一直關閉到…為止」用 until，且 until 可當連接詞接子句。by、during、within 後面不接子句。"
+        },
+        {
+          "id": 3,
+          "prompt": "Flight changes requested _____ 24 hours of departure are subject to a $50 fee.",
+          "options": {
+            "A": "within",
+            "B": "during",
+            "C": "by",
+            "D": "until"
+          },
+          "answer": "A",
+          "explanation": "within 24 hours of departure＝起飛前 24 小時內，within + 時間長度 + of 是固定用法。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ October 1, employees must book all domestic travel through the company's online portal.",
+          "options": {
+            "A": "Since",
+            "B": "Until",
+            "C": "During",
+            "D": "As of"
+          },
+          "answer": "D",
+          "explanation": "政策從某日起生效用 As of + 日期。Since 要搭配完成式；Until 表示到某日為止，與 must book 的新規定語意不合。"
+        },
+        {
+          "id": 5,
+          "prompt": "Ms. Grant read through the client's proposal _____ her flight to Denver.",
+          "options": {
+            "A": "while",
+            "B": "during",
+            "C": "for",
+            "D": "within"
+          },
+          "answer": "B",
+          "explanation": "空格後是名詞 her flight，用介系詞 during。while 是連接詞，要接子句或 V-ing。"
+        },
+        {
+          "id": 6,
+          "prompt": "Passengers are asked to remain seated _____ the aircraft is taxiing to the gate.",
+          "options": {
+            "A": "while",
+            "B": "during",
+            "C": "by",
+            "D": "within"
+          },
+          "answer": "A",
+          "explanation": "空格後是完整子句 the aircraft is taxiing，要用連接詞 while。during 只能接名詞。"
+        },
+        {
+          "id": 7,
+          "prompt": "Guests who wish to leave after noon may request a _____ checkout at the front desk.",
+          "options": {
+            "A": "later",
+            "B": "lately",
+            "C": "late",
+            "D": "latest"
+          },
+          "answer": "C",
+          "explanation": "late checkout＝延遲退房，是固定搭配，冠詞 a 後需要形容詞原級 late。lately 是副詞「最近」。"
+        },
+        {
+          "id": 8,
+          "prompt": "The conference organizers will cover the cost of _____ for all invited speakers.",
+          "options": {
+            "A": "accommodate",
+            "B": "accommodating",
+            "C": "accommodated",
+            "D": "accommodations"
+          },
+          "answer": "D",
+          "explanation": "the cost of + 名詞，accommodations＝住宿，for all invited speakers 修飾它。accommodating 是 V-ing，後面還需要受詞。"
+        },
+        {
+          "id": 9,
+          "prompt": "Because of _____ weather, all afternoon flights to Boston have been canceled.",
+          "options": {
+            "A": "inclement",
+            "B": "incremental",
+            "C": "indifferent",
+            "D": "inclusive"
+          },
+          "answer": "A",
+          "explanation": "inclement weather＝惡劣天氣，是航班取消的固定說法。incremental 是「逐步增加的」。"
+        },
+        {
+          "id": 10,
+          "prompt": "Mr. Liu's train arrives at 9:40, so he will be _____ the convention center in time for the opening session.",
+          "options": {
+            "A": "on",
+            "B": "at",
+            "C": "in",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "be at + 地點（一個點）表示「在某處」。by the convention center 是「在旁邊」，語意不對。"
+        },
+        {
+          "id": 11,
+          "prompt": "Employees traveling _____ train must reserve their seats at least three days in advance.",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "with",
+            "D": "by"
+          },
+          "answer": "D",
+          "explanation": "交通工具前沒有冠詞時用 by：by train、by air。若是 on the train 才要冠詞。"
+        },
+        {
+          "id": 12,
+          "prompt": "Requests for _____ of travel expenses must include the original receipts.",
+          "options": {
+            "A": "reimburse",
+            "B": "reimbursed",
+            "C": "reimbursement",
+            "D": "reimbursable"
+          },
+          "answer": "C",
+          "explanation": "介系詞 for 後面需要名詞，reimbursement of travel expenses＝差旅費報銷。"
+        },
+        {
+          "id": 13,
+          "prompt": "_____ to the airport, Ms. Owens learned that her flight had been canceled.",
+          "options": {
+            "A": "En route",
+            "B": "Prior",
+            "C": "Along",
+            "D": "Through"
+          },
+          "answer": "A",
+          "explanation": "en route to＝在前往…的途中。Prior to the airport 語意不通，prior to 要接事件或時間（prior to departure）。"
+        },
+        {
+          "id": 14,
+          "prompt": "The revised itinerary _____ to all participants by the end of today.",
+          "options": {
+            "A": "will send",
+            "B": "will be sent",
+            "C": "is sending",
+            "D": "has sent"
+          },
+          "answer": "B",
+          "explanation": "主詞 itinerary 是「被寄出」的，後面沒有受詞，by the end of today 表未來，用未來被動 will be sent（Day 61 被動語態）。"
+        },
+        {
+          "id": 15,
+          "prompt": "Had the train not been delayed, Mr. Park _____ the opening keynote.",
+          "options": {
+            "A": "would attend",
+            "B": "will attend",
+            "C": "would have attended",
+            "D": "had attended"
+          },
+          "answer": "C",
+          "explanation": "Had the train not been delayed 是 If the train had not been delayed 的倒裝，與過去事實相反，主要子句用 would have p.p.（Day 59 假設語氣）。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "will be renovated",
+            "B": "renovated",
+            "C": "are renovating",
+            "D": "have renovated"
+          },
+          "answer": "A",
+          "explanation": "大廳與餐廳是「被」整修，且 10 月晚於 9 月 18 日的通知，用未來被動 will be renovated。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "The renovation was completed ahead of schedule.",
+            "B": "Your loyalty points have been credited to your account.",
+            "C": "Guests can reach it using the elevators next to the business center.",
+            "D": "Please return your room key when you check out."
+          },
+          "answer": "C",
+          "explanation": "前一句說早餐改在二樓 Bayview Room 供應，接著說明怎麼到那裡（it 指 the Bayview Room）最連貫。整修尚未開始，B 選項前後矛盾。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "Since",
+            "B": "Until",
+            "C": "During",
+            "D": "As of"
+          },
+          "answer": "D",
+          "explanation": "新時刻表從 10 月 3 日起生效，用 As of + 日期。Since 要搭配完成式，Until 表示到那天為止。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "ahead",
+            "B": "prior to",
+            "C": "previous",
+            "D": "before of"
+          },
+          "answer": "B",
+          "explanation": "at least two hours prior to departure＝出發前至少兩小時，prior to 後接名詞。ahead 要說 ahead of；before of 不是正確用法。"
+        }
+      ]
+    },
+    {
+      "id": "day-62-quiz",
+      "title": "Day 62 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Please check the revised _____ for updated departure times.",
+          "options": {
+            "A": "inventory",
+            "B": "tolerance",
+            "C": "audit",
+            "D": "itinerary"
+          },
+          "answer": "D",
+          "explanation": "itinerary＝行程表，上面列出出發時間。inventory、tolerance、audit 是 Day 61 品管字彙。"
+        },
+        {
+          "id": 2,
+          "prompt": "The hotel offers _____ breakfast to all guests who book directly through its Web site.",
+          "options": {
+            "A": "complementary",
+            "B": "complimentary",
+            "C": "compulsory",
+            "D": "competitive"
+          },
+          "answer": "B",
+          "explanation": "complimentary＝免費贈送的。complementary 是「互補的」，拼字只差一個字母，是常見陷阱。"
+        },
+        {
+          "id": 3,
+          "prompt": "Ms. Diaz had a three-hour _____ in Frankfurt before her connecting flight to Lisbon.",
+          "options": {
+            "A": "layover",
+            "B": "takeover",
+            "C": "turnover",
+            "D": "overhaul"
+          },
+          "answer": "A",
+          "explanation": "layover＝轉機中途停留。takeover 是收購，turnover 是營業額或離職率。"
+        },
+        {
+          "id": 4,
+          "prompt": "Employees receive a _____ of $60 to cover meals while traveling on business.",
+          "options": {
+            "A": "per annum",
+            "B": "pro bono",
+            "C": "per diem",
+            "D": "ad hoc"
+          },
+          "answer": "C",
+          "explanation": "per diem＝每日津貼。per annum 是每年，pro bono 是無償，ad hoc 是臨時的。"
+        },
+        {
+          "id": 5,
+          "prompt": "The airport shuttle will not operate _____ the holiday weekend.",
+          "options": {
+            "A": "during",
+            "B": "while",
+            "C": "within",
+            "D": "until"
+          },
+          "answer": "A",
+          "explanation": "空格後是名詞 the holiday weekend，表示「在這段期間」用 during。while 要接子句。"
+        },
+        {
+          "id": 6,
+          "prompt": "Your room will be held _____ 6 P.M. on the day of arrival.",
+          "options": {
+            "A": "by",
+            "B": "until",
+            "C": "within",
+            "D": "since"
+          },
+          "answer": "B",
+          "explanation": "be held 是持續狀態，「保留到下午 6 點」用 until。"
+        },
+        {
+          "id": 7,
+          "prompt": "Because the conference was postponed, all attendees' flights had to be _____.",
+          "options": {
+            "A": "recalled",
+            "B": "reworked",
+            "C": "reiterated",
+            "D": "rebooked"
+          },
+          "answer": "D",
+          "explanation": "rebook＝重新訂位，會議延期所以機票要改訂。recall、rework 是 Day 61 品管字，reiterate 是 Day 60 字。"
+        },
+        {
+          "id": 8,
+          "prompt": "Guests are asked to check out _____ 11 A.M. so that rooms can be prepared for new arrivals.",
+          "options": {
+            "A": "until",
+            "B": "during",
+            "C": "by",
+            "D": "within"
+          },
+          "answer": "C",
+          "explanation": "check out 是一次完成的動作，「最晚 11 點前」用 by。"
+        },
+        {
+          "id": 9,
+          "prompt": "The delay was caused by a technical problem that _____ during the final safety check.",
+          "options": {
+            "A": "was occurred",
+            "B": "occurred",
+            "C": "has been occurred",
+            "D": "was occurring by"
+          },
+          "answer": "B",
+          "explanation": "occur 是不及物動詞，不能用被動，過去發生直接用 occurred（Day 61 規則 5）。"
+        },
+        {
+          "id": 10,
+          "prompt": "The travel coordinator suggested _____ the earlier train to avoid the morning rush.",
+          "options": {
+            "A": "to take",
+            "B": "take",
+            "C": "taken",
+            "D": "taking"
+          },
+          "answer": "D",
+          "explanation": "suggest + V-ing，不能接 to V（Day 60 模考易錯點）。"
+        },
+        {
+          "id": 11,
+          "prompt": "If we had booked the hotel earlier, we _____ the corporate rate.",
+          "options": {
+            "A": "would receive",
+            "B": "will receive",
+            "C": "would have received",
+            "D": "had received"
+          },
+          "answer": "C",
+          "explanation": "If + had p.p. 與過去事實相反，主要子句用 would have p.p.（Day 59 假設語氣）。"
+        },
+        {
+          "id": 12,
+          "prompt": "Only after the airline confirmed the new departure time _____ her hotel reservation.",
+          "options": {
+            "A": "did Ms. Ito change",
+            "B": "Ms. Ito changed",
+            "C": "Ms. Ito did change",
+            "D": "changed Ms. Ito"
+          },
+          "answer": "A",
+          "explanation": "Only after + 子句置首時，倒裝的是主要子句：did + 主詞 + 原形動詞（Day 60 倒裝）。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "差旅題先抓「期限、生效日、地點」：by 搭完成動作、until 搭持續狀態；within 是期間內、in 是多久之後；as of 表生效、prior to 與 following 後面接名詞；during 接名詞、while 接子句；by train 不加冠詞，有冠詞就改 on the train 或 in a taxi。Part 4 登機門廣播圖表題把「Manila 航班的登機門」換成看板上的 C9；Part 7 行程整合先比對原始行程與改期信的新時間，再用每晚 $180 上限與 $60／$30 津貼規則計算報銷金額。",
+  "nextDay": "第九週整合：Day 57–62 綜合複習"
+}
