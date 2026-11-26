@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 63,
+  "title": "第九週整合：Day 57–62 綜合複習、三人對話與公告混合、Part 7 活動場地多文件計算",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 63 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 63 學習概覽",
+      "markdown": "- 整合 Day 57–62 主題：會議籌辦、IT 系統導入、合約續約、階段模考、製造品管、差旅改期，並補上 30 個跨主題的預算、合規與專案字彙\n- 總整理五大易錯文法：動名詞 vs 不定詞、分詞構句、假設語氣混合、被動語態進階、時間與地點介系詞\n- Listening 混合練習：Part 3 三人對話（講者改期）、Part 4 IT 公告＋移轉時程圖表題、Part 4 供應商續約語音留言\n- Part 7 三篇整合：場地報價 → 人數變更 Email → 場地回覆，計算折扣後場地費、餐飲費與修正後總額\n- 完成 50 題後把 Day 57–63 錯題依標籤分類，找出最弱的兩類列入下週重點\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| contingency plan | 應變計畫 | have a contingency plan in place |\n| tentative | 暫定的 | a tentative schedule for the forum |\n| itemized | 逐項列出的 | request an itemized invoice |\n| deposit | 訂金；押金 | pay a 20 percent deposit upon signing |\n| allocate | 分配（資金、資源） | allocate funds for the conference |\n| projected | 預計的；預估的 | higher than projected attendance |\n| surplus | 盈餘；過剩 | a budget surplus at year-end |\n| shortfall | 短缺；不足額 | cover a funding shortfall |\n| consolidate | 整併；合併 | consolidate shipments to cut costs |\n| expedite | 加速處理 | expedite the replacement order |\n| outsource | 外包 | outsource catering to a local firm |\n| liaison | 聯絡人；聯繫窗口 | serve as a liaison between departments |\n| stakeholder | 利害關係人 | keep all stakeholders informed |\n| benchmark | 基準；標竿 | set a benchmark for defect rates |\n| compliance | 遵守；合規 | ensure compliance with safety regulations |\n| discrepancy | 差異；不一致 | notice a discrepancy in the figures |\n| interim | 暫時的；過渡期的 | appoint an interim project manager |\n| feasibility | 可行性 | conduct a feasibility study |\n| accommodate | 容納；配合（需求） | accommodate up to 180 guests |\n| reconcile | 核對（帳目）；調和 | reconcile receipts with the expense report |\n| fluctuate | 波動；起伏 | hotel rates fluctuate seasonally |\n| nonrefundable | 不可退款的 | a nonrefundable booking fee |\n| prorated | 按比例計算的 | receive a prorated refund |\n| on-site | 現場的；在場的 | on-site technical support |\n| turnout | 出席人數；到場人數 | a record turnout at the trade fair |\n| downturn | 衰退；下滑 | during an economic downturn |\n| overrun | 超支；超出（時間或預算） | a cost overrun of 15 percent |\n| undertake | 著手進行；承擔 | undertake a major renovation |\n| stipulate | （合約）規定；明定 | the contract stipulates a 60-day notice period |\n| follow-up | 後續的；追蹤的 | schedule a follow-up meeting |"
+    },
+    {
+      "title": "② 今日文法｜Day 57–62 易錯點總整理",
+      "markdown": "主題：**Day 57–62 易錯點總整理：動名詞與不定詞、分詞構句、假設語氣混合、被動語態進階、時間與地點介系詞**\n\n### 規則 1｜動名詞 vs 不定詞：先看前面的動詞（Day 57）\n\npostpone / recommend / mind / consider / avoid + V-ing；agree / arrange / decide / fail / hesitate + to V；look forward to、be committed to、in addition to 的 to 是介系詞，後接 V-ing。remember / forget / stop / regret 依語意選擇：to V 是「之後要做」，V-ing 是「已經做過」。\n\n> The organizers agreed to move the keynote, and we look forward to seeing Dr. Haddad in person.\n\n### 規則 2｜分詞構句：先找主要子句的主詞，再判斷主被動（Day 58）\n\n主詞主動做 → V-ing；主詞被動承受 → p.p.；動作明顯早於主要子句 → Having p.p.。when prompted、once installed、unless otherwise instructed 保留連接詞；分詞的邏輯主詞必須和主要子句主詞相同，否則要改成完整子句。\n\n> Having reviewed the pilot feedback, the IT team revised the migration schedule.\n\n### 規則 3｜假設語氣混合：條件與結果各自看時間線索（Day 59）\n\n過去沒做 → If + had p.p.（或倒裝 Had + 主詞 + p.p.）；現在的結果 → would + 原形（常見 now、today、still）。Were / Should 倒裝省略 if；It's time + 過去式、wish + 過去式也是假設。unless、provided that 是真實條件，不用假設語氣。\n\n> Had we signed the renewal in March, we would be paying the old rate now.\n\n### 規則 4｜被動語態進階：時態全看 be 動詞（Day 61）\n\n進行中的被動用 be being p.p.；完成式被動用 have been p.p.；比主要動詞更早的被動用 to have been p.p.。have / get + 物 + p.p. 表示請人處理；occur、happen、remain、rise 是不及物動詞，不能用被動。\n\n> The defective sensors were being replaced when the auditors arrived.\n\n### 規則 5｜時間與地點介系詞：by / until、in / within、during / while（Day 62）\n\nby 搭配一次完成的動作（submit、confirm），until 搭配持續狀態（remain、hold）；within 是「在期間內」，in 是「多久之後」；prior to、following、as of 是介系詞，後接名詞；during + 名詞，while + 子句或 V-ing；by train 不加冠詞，有冠詞就改 on the train、in a taxi。\n\n> The final headcount must be confirmed by October 29, and the room will be held until noon."
+    },
+    {
+      "title": "03 Listening｜Rescheduling a Keynote Speaker",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman 1: Kevin, Lucia, have you seen the message from Dr. Haddad? Her flight from Boston was canceled because of the storm, and the earliest she can get here is eleven tomorrow morning. Man: But her keynote is scheduled for nine. Should we ask her to give it by video instead? Woman 2: Half the attendees registered specifically to hear her in person. What if we swap her keynote with the panel discussion that's set for one thirty? Woman 1: That could work, but are the panelists available that early? Two of them are driving in from out of town. Woman 2: I called them this morning, just in case. They all said they'd be here by eight. Man: All right, then. I'll update the printed agenda and the event app tonight. Ana, could you let the moderator know about the change? Woman 1: Sure. And I'll arrange for a car to pick Dr. Haddad up at the airport."
+    },
+    {
+      "title": "04 Listening｜Platform Migration Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：New Platform Migration Schedule\n\n| Department | Migration Date |\n|---|---|\n| Accounting | March 3 |\n| Sales | March 5 |\n| Human Resources | March 10 |\n| Customer Service | March 12 |\n\n聽力稿：\n\n> Good morning, everyone. This is Gareth Lim from the IT department. As you know, every department is being moved to our new expense and scheduling platform this month. Having reviewed the feedback from the pilot group, we've decided to make one change to the schedule. Because the accounting team will be closing the quarter during the first week of March, accounting will now switch over on the date originally assigned to Human Resources, and Human Resources will take accounting's original date. On your department's migration day, the old system will be unavailable from seven A.M. until noon, so please save any drafts before seven. When prompted, you'll also need to set up two-step authentication the first time you log in. Training sessions will be held in Room 410 every Tuesday afternoon. Seats are limited, so please register through the help desk portal."
+    },
+    {
+      "title": "05 Listening｜Supplier Renewal Voice Mail",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Hello, Ms. Navarro. This is Tobias Brandt from Keller Components, calling about your contract renewal. As you know, your current agreement expires on June 30. Because the cost of aluminum has risen sharply this year, our prices for the housing units will be adjusted by six percent starting in July. That said, if you sign a two-year renewal before May 15, we can lock in your current rate for the first six months. I've also just been told by our production team that your last order, which was delayed by a machine malfunction, has been shipped and should arrive on Thursday. Had we been informed of the malfunction sooner, I would have called you right away, and I apologize for that. I've attached a revised quote to the e-mail I sent you this morning. Please call me back at extension 214."
+    },
+    {
+      "title": "⑥ Reading｜Event Quote, E-mail, and Reply",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Event Quote\n\n> Lakeshore Convention Center — Event Quote\n> Prepared for: Priya Raman, Harmon Biotech\n> Date: September 28\n> Event: Harmon Biotech Annual Sales Conference, November 12–13 (2 days)\n>\n> Room: Ballroom B (seating capacity: 120), $1,600 per day\n> Expected attendance: 110\n> Lunch buffet: $28 per person per day (both days)\n> Morning coffee break: $9 per person per day (both days)\n> Audiovisual package (projector, screen, two microphones): $350 per day\n>\n> Terms: Events booked for two or more consecutive days receive a 10% discount on room rental; catering and audiovisual charges are not discounted. A deposit of 20% of the estimated total is due upon signing and is nonrefundable. The final headcount must be guaranteed 10 business days before the event; after that, charges are based on the guaranteed number even if fewer guests attend.\n\n用途：參考文件\n\n### E-mail\n\n> From: Priya Raman, Harmon Biotech\n> To: Owen Fitch, Lakeshore Convention Center\n> Date: October 20\n> Subject: Changes to our conference booking\n>\n> Dear Mr. Fitch,\n>\n> Thank you again for your help with our conference. Registration has gone far better than we projected: 150 people have now signed up, so Ballroom B will no longer be large enough. Could we move to Ballroom A for both days if it is still available?\n>\n> There is one more change. The second day will now end at noon, so we won't need lunch on November 13. The coffee break should still be provided on both mornings. Please also let me know whether the audiovisual package would be different in another room.\n>\n> Finally, I paid the deposit of $2,344 on October 2. Could you tell me how it will be handled?\n>\n> Best regards,\n> Priya Raman, Events Coordinator\n\n用途：參考文件\n\n### Reply\n\n> From: Owen Fitch, Lakeshore Convention Center\n> To: Priya Raman, Harmon Biotech\n> Date: October 21\n> Subject: RE: Changes to our conference booking\n>\n> Dear Ms. Raman,\n>\n> Good news: Ballroom A is available on both November 12 and 13. It can comfortably accommodate 180 guests, so there will be room for a few late registrations. The rental rate is $2,400 per day, and your two-day discount still applies.\n>\n> Because Ballroom A has a built-in sound system, its audiovisual package costs $300 per day rather than $350. I have removed the lunch on November 13 and updated all catering to 150 guests.\n>\n> Your deposit has been received and will be credited toward the revised total. Please note that the deadline for guaranteeing your final headcount is October 29. Until then, you may still adjust the number of attendees.\n>\n> Kind regards,\n> Owen Fitch, Event Sales Manager\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: All Valued Customers\n> From: Ostrava Precision Parts\n> Date: April 8\n> Subject: Annual maintenance shutdown\n>\n> Our Brno plant will be closed from May 4 to May 15 for its annual equipment maintenance. During this period, all production lines [1] _____ and recalibrated to meet updated certification standards. [2] _____\n>\n> To avoid delays, we recommend [3] _____ any orders for May delivery no later than April 24. Orders received after that date will be processed [4] _____ the plant reopens. Thank you for your understanding."
+    },
+    {
+      "title": "⑨ Day 63 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 60、Day 61、Day 62**，並串連 **Day 57–59**。\n\n### 複習重點\n- Day 57：會議籌辦的 postpone / recommend + V-ing、agree / arrange + to V、look forward to + V-ing；三人對話先把名字和立場對上\n- Day 58：IT 公告與分詞構句，Having reviewed（動作較早）、When prompted（保留連接詞）；聽到 take ... original date 先在圖表上對調兩列\n- Day 59：合約續約與假設語氣混合，Had we signed ... we would be paying now；lock in、notice period、price adjustment 是續約題核心字\n- Day 60：模考診斷出的兩大弱點，請對照自己的錯題統計\n- Day 61：被動語態進階，were being replaced（進行被動）、have + 物 + p.p.；工廠停機公告常用未來被動 will be inspected\n- Day 62：by vs until、within vs in、prior to + 名詞；once + 子句表示「一…就…」\n- Part 7 場地計算：先算折扣後場地費（只打場地費），再依新人數與天數算餐飲，最後加上新的 AV 費；訂金是「抵扣」不是「另加」\n\n### 錯題標籤\n- `G`：Grammar\n- `GER`：Gerund vs Infinitive\n- `PART`：Participle Construction\n- `SUBJ`：Subjunctive / Conditional\n- `PASS`：Passive Voice\n- `PREP`：Preposition (time / place)\n- `L`：Listening\n- `3P`：Three-Speaker Conversation\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，挑 12 個寫成「活動籌辦、供應商合約、IT 導入」三種情境的句子，每個情境至少 4 句。\n- 把 Day 57–63 所有錯題依錯題標籤分類，統計每類錯幾題，圈出最弱的兩類，寫下下週要注意的具體線索字。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；每題標出它屬於規則 1–5 的哪一類。\n- Reading 計算題重做：寫出 2,400 × 2 × 0.9 = 4,320、150 × 28 = 4,200、150 × 9 × 2 = 2,700、300 × 2 = 600 的算式與總額 $11,820，並說明為什麼訂金 $2,344 不另加在總額上。\n- Listening 三組各練兩次，第二輪使用 TTS 1.1x 且不看逐字稿；第一組寫下三人各自的立場，第二組在圖表上畫出對調的兩列，第三組寫下 six percent、May 15、six months、Thursday、extension 214。\n- Day 63 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；預習 Day 64 公司合併與組織調整字彙（merger、acquisition、restructure）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "contingency plan",
+      "meaning": "應變計畫",
+      "phrase": "have a contingency plan in place"
+    },
+    {
+      "id": 2,
+      "word": "tentative",
+      "meaning": "暫定的",
+      "phrase": "a tentative schedule for the forum"
+    },
+    {
+      "id": 3,
+      "word": "itemized",
+      "meaning": "逐項列出的",
+      "phrase": "request an itemized invoice"
+    },
+    {
+      "id": 4,
+      "word": "deposit",
+      "meaning": "訂金；押金",
+      "phrase": "pay a 20 percent deposit upon signing"
+    },
+    {
+      "id": 5,
+      "word": "allocate",
+      "meaning": "分配（資金、資源）",
+      "phrase": "allocate funds for the conference"
+    },
+    {
+      "id": 6,
+      "word": "projected",
+      "meaning": "預計的；預估的",
+      "phrase": "higher than projected attendance"
+    },
+    {
+      "id": 7,
+      "word": "surplus",
+      "meaning": "盈餘；過剩",
+      "phrase": "a budget surplus at year-end"
+    },
+    {
+      "id": 8,
+      "word": "shortfall",
+      "meaning": "短缺；不足額",
+      "phrase": "cover a funding shortfall"
+    },
+    {
+      "id": 9,
+      "word": "consolidate",
+      "meaning": "整併；合併",
+      "phrase": "consolidate shipments to cut costs"
+    },
+    {
+      "id": 10,
+      "word": "expedite",
+      "meaning": "加速處理",
+      "phrase": "expedite the replacement order"
+    },
+    {
+      "id": 11,
+      "word": "outsource",
+      "meaning": "外包",
+      "phrase": "outsource catering to a local firm"
+    },
+    {
+      "id": 12,
+      "word": "liaison",
+      "meaning": "聯絡人；聯繫窗口",
+      "phrase": "serve as a liaison between departments"
+    },
+    {
+      "id": 13,
+      "word": "stakeholder",
+      "meaning": "利害關係人",
+      "phrase": "keep all stakeholders informed"
+    },
+    {
+      "id": 14,
+      "word": "benchmark",
+      "meaning": "基準；標竿",
+      "phrase": "set a benchmark for defect rates"
+    },
+    {
+      "id": 15,
+      "word": "compliance",
+      "meaning": "遵守；合規",
+      "phrase": "ensure compliance with safety regulations"
+    },
+    {
+      "id": 16,
+      "word": "discrepancy",
+      "meaning": "差異；不一致",
+      "phrase": "notice a discrepancy in the figures"
+    },
+    {
+      "id": 17,
+      "word": "interim",
+      "meaning": "暫時的；過渡期的",
+      "phrase": "appoint an interim project manager"
+    },
+    {
+      "id": 18,
+      "word": "feasibility",
+      "meaning": "可行性",
+      "phrase": "conduct a feasibility study"
+    },
+    {
+      "id": 19,
+      "word": "accommodate",
+      "meaning": "容納；配合（需求）",
+      "phrase": "accommodate up to 180 guests"
+    },
+    {
+      "id": 20,
+      "word": "reconcile",
+      "meaning": "核對（帳目）；調和",
+      "phrase": "reconcile receipts with the expense report"
+    },
+    {
+      "id": 21,
+      "word": "fluctuate",
+      "meaning": "波動；起伏",
+      "phrase": "hotel rates fluctuate seasonally"
+    },
+    {
+      "id": 22,
+      "word": "nonrefundable",
+      "meaning": "不可退款的",
+      "phrase": "a nonrefundable booking fee"
+    },
+    {
+      "id": 23,
+      "word": "prorated",
+      "meaning": "按比例計算的",
+      "phrase": "receive a prorated refund"
+    },
+    {
+      "id": 24,
+      "word": "on-site",
+      "meaning": "現場的；在場的",
+      "phrase": "on-site technical support"
+    },
+    {
+      "id": 25,
+      "word": "turnout",
+      "meaning": "出席人數；到場人數",
+      "phrase": "a record turnout at the trade fair"
+    },
+    {
+      "id": 26,
+      "word": "downturn",
+      "meaning": "衰退；下滑",
+      "phrase": "during an economic downturn"
+    },
+    {
+      "id": 27,
+      "word": "overrun",
+      "meaning": "超支；超出（時間或預算）",
+      "phrase": "a cost overrun of 15 percent"
+    },
+    {
+      "id": 28,
+      "word": "undertake",
+      "meaning": "著手進行；承擔",
+      "phrase": "undertake a major renovation"
+    },
+    {
+      "id": 29,
+      "word": "stipulate",
+      "meaning": "（合約）規定；明定",
+      "phrase": "the contract stipulates a 60-day notice period"
+    },
+    {
+      "id": 30,
+      "word": "follow-up",
+      "meaning": "後續的；追蹤的",
+      "phrase": "schedule a follow-up meeting"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Rescheduling a Keynote Speaker",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What problem do the speakers discuss?",
+          "options": {
+            "A": "The venue is overbooked",
+            "B": "The printed agendas contain errors",
+            "C": "A speaker's flight has been canceled",
+            "D": "A panelist has withdrawn from the event"
+          },
+          "answer": "C",
+          "explanation": "Woman 1 開頭就說 Dr. Haddad 的航班因暴風雨取消，最快明早 11 點才到，而她的 keynote 排在 9 點。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the woman imply when she says, \"Half the attendees registered specifically to hear her in person\"?",
+          "options": {
+            "A": "A video presentation would disappoint many attendees",
+            "B": "Registration for the event should be closed",
+            "C": "The keynote room needs more seats",
+            "D": "Some attendees have asked for refunds"
+          },
+          "answer": "A",
+          "explanation": "男子提議改成視訊演講，女子回應一半與會者就是為了現場聽她演講才報名，言下之意是反對視訊、怕與會者失望，接著就提出對調議程的替代方案。"
+        },
+        {
+          "id": 3,
+          "prompt": "What will the man do tonight?",
+          "options": {
+            "A": "Call the panel moderator",
+            "B": "Pick up Dr. Haddad at the airport",
+            "C": "Book a later flight",
+            "D": "Revise the event schedule"
+          },
+          "answer": "D",
+          "explanation": "男子說 I'll update the printed agenda and the event app tonight。通知主持人是 Ana 的工作，派車接機也是 Ana 負責。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Platform Migration Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the announcement mainly about?",
+          "options": {
+            "A": "A new travel reimbursement policy",
+            "B": "A change to a software migration schedule",
+            "C": "The results of a security audit",
+            "D": "The relocation of the IT department"
+          },
+          "answer": "B",
+          "explanation": "公告說明各部門移轉到新的 expense and scheduling platform 的時程，以及其中一項變更。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why was a change made?",
+          "options": {
+            "A": "The pilot group reported a data breach",
+            "B": "One department will be busy closing the quarter",
+            "C": "A training room is unavailable",
+            "D": "The new platform is not yet compatible"
+          },
+          "answer": "B",
+          "explanation": "Because the accounting team will be closing the quarter during the first week of March，所以會計部改期。pilot feedback 只是檢討的依據，沒有提到資料外洩。"
+        },
+        {
+          "id": 3,
+          "prompt": "Look at the graphic. When will the accounting department switch to the new platform?",
+          "options": {
+            "A": "March 3",
+            "B": "March 5",
+            "C": "March 10",
+            "D": "March 12"
+          },
+          "answer": "C",
+          "explanation": "會計部改用原本分配給 Human Resources 的日期，圖表上 HR 是 March 10；HR 則改到會計部原本的 March 3。"
+        },
+        {
+          "id": 4,
+          "prompt": "What are listeners asked to do before seven A.M. on their migration day?",
+          "options": {
+            "A": "Save any unfinished drafts",
+            "B": "Register for a training session",
+            "C": "Change their passwords",
+            "D": "Contact the help desk"
+          },
+          "answer": "A",
+          "explanation": "old system will be unavailable from seven A.M. until noon, so please save any drafts before seven。報名訓練雖有提到，但不是七點前要做的事。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "Supplier Renewal Voice Mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who most likely is the speaker?",
+          "options": {
+            "A": "A factory safety inspector",
+            "B": "A shipping company dispatcher",
+            "C": "A corporate travel agent",
+            "D": "A supplier's sales representative"
+          },
+          "answer": "D",
+          "explanation": "說話者來自 Keller Components，打來談合約續約、價格調整與報價，是供應商的業務代表。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the speaker, what will happen in July?",
+          "options": {
+            "A": "A new contract will be signed automatically",
+            "B": "A production line will be shut down",
+            "C": "A shipment will be delivered",
+            "D": "Prices will increase"
+          },
+          "answer": "D",
+          "explanation": "our prices for the housing units will be adjusted by six percent starting in July，原因是鋁價上漲，所以是漲價。"
+        },
+        {
+          "id": 3,
+          "prompt": "How can the listener temporarily avoid the change?",
+          "options": {
+            "A": "By signing a two-year renewal before May 15",
+            "B": "By paying a surcharge in advance",
+            "C": "By ordering a larger volume of units",
+            "D": "By switching to a different material"
+          },
+          "answer": "A",
+          "explanation": "if you sign a two-year renewal before May 15, we can lock in your current rate for the first six months，lock in 就是鎖定原價。"
+        },
+        {
+          "id": 4,
+          "prompt": "Why does the speaker apologize?",
+          "options": {
+            "A": "He sent an incorrect quote",
+            "B": "He did not report a delay sooner",
+            "C": "An order was shipped to the wrong address",
+            "D": "He missed a scheduled call"
+          },
+          "answer": "B",
+          "explanation": "Had we been informed of the malfunction sooner, I would have called you right away, and I apologize for that，道歉的是沒有早點通知訂單因機器故障而延誤。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Event Quote, E-mail, and Reply",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the main purpose of Ms. Raman's e-mail?",
+          "options": {
+            "A": "To confirm the final number of attendees",
+            "B": "To complain about a catering charge",
+            "C": "To request changes to an event booking",
+            "D": "To ask for a refund of a deposit"
+          },
+          "answer": "C",
+          "explanation": "Email 主旨 Changes to our conference booking，內容是換場地、取消第二天午餐、詢問 AV 與訂金處理，屬於變更預約。"
+        },
+        {
+          "id": 2,
+          "prompt": "Why does Ms. Raman want to use a different room?",
+          "options": {
+            "A": "Ballroom B lacks audiovisual equipment",
+            "B": "The conference has been extended by one day",
+            "C": "More people have registered than the room can seat",
+            "D": "Ballroom B is no longer available on November 13"
+          },
+          "answer": "C",
+          "explanation": "報名人數變成 150 人，而報價單上 Ballroom B 的 seating capacity 只有 120，所以要換大場地。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is indicated about the conference?",
+          "options": {
+            "A": "It will be held at a new venue",
+            "B": "Registration has exceeded expectations",
+            "C": "Its second day has been canceled",
+            "D": "Its keynote speaker has changed"
+          },
+          "answer": "B",
+          "explanation": "Registration has gone far better than we projected，報名狀況超出預期。第二天只是提早到中午結束，並沒有取消。"
+        },
+        {
+          "id": 4,
+          "prompt": "How much will Harmon Biotech be charged for room rental under the revised plan?",
+          "options": {
+            "A": "$4,800",
+            "B": "$2,880",
+            "C": "$3,200",
+            "D": "$4,320"
+          },
+          "answer": "D",
+          "explanation": "Ballroom A 每天 $2,400 × 2 天 = $4,800，回覆信說 two-day discount still applies，打九折 = $4,320。$2,880 是原本 Ballroom B 折扣後的金額。"
+        },
+        {
+          "id": 5,
+          "prompt": "In the reply, the word \"accommodate\" in paragraph 1 is closest in meaning to",
+          "options": {
+            "A": "hold",
+            "B": "adjust",
+            "C": "satisfy",
+            "D": "lodge"
+          },
+          "answer": "A",
+          "explanation": "It can comfortably accommodate 180 guests 是「可以容納 180 人」，最接近 hold。accommodate 也有「配合需求」的意思，但此處講場地容量。"
+        },
+        {
+          "id": 6,
+          "prompt": "What is suggested about the deposit Ms. Raman paid?",
+          "options": {
+            "A": "It will be refunded because the room changed",
+            "B": "It must be paid again at the new rate",
+            "C": "It will be deducted from the amount she owes",
+            "D": "It covers the full cost of catering"
+          },
+          "answer": "C",
+          "explanation": "回覆信說 Your deposit ... will be credited toward the revised total，也就是從修正後總額中扣抵；報價單也寫明訂金 nonrefundable。"
+        },
+        {
+          "id": 7,
+          "prompt": "What must Ms. Raman do by October 29?",
+          "options": {
+            "A": "Confirm the final number of guests",
+            "B": "Pay the remaining balance",
+            "C": "Sign a revised contract",
+            "D": "Choose a lunch menu"
+          },
+          "answer": "A",
+          "explanation": "the deadline for guaranteeing your final headcount is October 29，headcount 就是出席人數。"
+        },
+        {
+          "id": 8,
+          "prompt": "What is the revised estimated total for the event, before the deposit is applied?",
+          "options": {
+            "A": "$11,720",
+            "B": "$12,300",
+            "C": "$16,020",
+            "D": "$11,820"
+          },
+          "answer": "D",
+          "explanation": "場地 $4,320＋午餐只剩第一天 150 × $28 = $4,200＋咖啡兩天 150 × $9 × 2 = $2,700＋AV $300 × 2 = $600，合計 $11,820。$11,720 是原報價總額，$12,300 是忘了場地折扣，$16,020 是誤算兩天午餐。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The committee has agreed _____ the venue deposit by the end of the week.",
+          "options": {
+            "A": "paying",
+            "B": "to pay",
+            "C": "pay",
+            "D": "having paid"
+          },
+          "answer": "B",
+          "explanation": "agree 後接不定詞 to V（規則 1）。agree + V-ing 是常見陷阱。"
+        },
+        {
+          "id": 2,
+          "prompt": "We look forward to _____ you at the annual client forum in November.",
+          "options": {
+            "A": "see",
+            "B": "be seen",
+            "C": "have seen",
+            "D": "seeing"
+          },
+          "answer": "D",
+          "explanation": "look forward to 的 to 是介系詞，後接動名詞 seeing（規則 1）。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ by our own engineers, the new software is expected to reduce downtime significantly.",
+          "options": {
+            "A": "Developing",
+            "B": "To develop",
+            "C": "Developed",
+            "D": "Having developing"
+          },
+          "answer": "C",
+          "explanation": "主要子句主詞 the new software 是「被」開發的，用過去分詞 Developed 開頭的分詞構句（規則 2）。Having developing 文法錯誤。"
+        },
+        {
+          "id": 4,
+          "prompt": "_____ the contract in March, we would not be paying the higher rate now.",
+          "options": {
+            "A": "Had we signed",
+            "B": "If we signed",
+            "C": "Were we sign",
+            "D": "Should we sign"
+          },
+          "answer": "A",
+          "explanation": "條件是過去沒做（in March），結果是現在（now），屬混合假設：Had we signed = If we had signed（規則 3）。"
+        },
+        {
+          "id": 5,
+          "prompt": "The defective components _____ by a technician when the quality supervisor arrived.",
+          "options": {
+            "A": "were inspecting",
+            "B": "were being inspected",
+            "C": "had inspected",
+            "D": "inspect"
+          },
+          "answer": "B",
+          "explanation": "零件是被檢查，且主管到達時正在進行，用過去進行被動 were being inspected（規則 4）。"
+        },
+        {
+          "id": 6,
+          "prompt": "All guests must check out of their rooms _____ 11 A.M. on the day of departure.",
+          "options": {
+            "A": "until",
+            "B": "by",
+            "C": "within",
+            "D": "during"
+          },
+          "answer": "B",
+          "explanation": "check out 是一次完成的動作，「最晚在 11 點前」用 by；until 要搭配持續狀態（規則 5）。"
+        },
+        {
+          "id": 7,
+          "prompt": "The new security patch will be installed _____ the scheduled maintenance this weekend.",
+          "options": {
+            "A": "while",
+            "B": "for",
+            "C": "since",
+            "D": "during"
+          },
+          "answer": "D",
+          "explanation": "空格後是名詞 the scheduled maintenance，用介系詞 during；while 後面接子句或 V-ing（規則 5）。"
+        },
+        {
+          "id": 8,
+          "prompt": "It is time the company _____ its outdated inventory tracking system.",
+          "options": {
+            "A": "replaces",
+            "B": "replace",
+            "C": "replaced",
+            "D": "will replace"
+          },
+          "answer": "C",
+          "explanation": "It's time + 主詞 + 過去式，表示「早該…了」，屬假設語氣（規則 3）。"
+        },
+        {
+          "id": 9,
+          "prompt": "The keynote speaker remembered _____ her slides to the organizers last week, so they were ready on time.",
+          "options": {
+            "A": "sending",
+            "B": "to send",
+            "C": "send",
+            "D": "sent"
+          },
+          "answer": "A",
+          "explanation": "last week 已經寄過，remember + V-ing 表示「記得做過」；remember to V 是「記得要去做」（規則 1）。"
+        },
+        {
+          "id": 10,
+          "prompt": "When _____, employees must enter the six-digit code sent to their mobile phones.",
+          "options": {
+            "A": "prompted",
+            "B": "prompting",
+            "C": "prompt",
+            "D": "to prompt"
+          },
+          "answer": "A",
+          "explanation": "員工是「被」系統提示，保留連接詞 When 的被動分詞構句 When prompted（規則 2）。"
+        },
+        {
+          "id": 11,
+          "prompt": "Before the audit, the production manager had the faulty sensors _____ by an outside contractor.",
+          "options": {
+            "A": "replace",
+            "B": "replacing",
+            "C": "replaced",
+            "D": "to replace"
+          },
+          "answer": "C",
+          "explanation": "have + 物 + p.p. 表示請人處理，感測器是被更換，用 replaced（規則 4）。"
+        },
+        {
+          "id": 12,
+          "prompt": "Because of a funding _____, the size of our trade show booth had to be reduced.",
+          "options": {
+            "A": "surplus",
+            "B": "shortfall",
+            "C": "turnout",
+            "D": "benchmark"
+          },
+          "answer": "B",
+          "explanation": "攤位必須縮小，原因是資金「不足」shortfall。surplus 是盈餘，語意相反。"
+        },
+        {
+          "id": 13,
+          "prompt": "Please send us an _____ invoice so that we can reconcile each charge with our records.",
+          "options": {
+            "A": "interim",
+            "B": "tentative",
+            "C": "projected",
+            "D": "itemized"
+          },
+          "answer": "D",
+          "explanation": "要逐筆核對費用，需要「逐項列出」的發票 itemized invoice。"
+        },
+        {
+          "id": 14,
+          "prompt": "The banquet hall can _____ up to 250 guests seated at round tables.",
+          "options": {
+            "A": "undertake",
+            "B": "expedite",
+            "C": "stipulate",
+            "D": "accommodate"
+          },
+          "answer": "D",
+          "explanation": "場地「容納」多少人用 accommodate。undertake 是著手進行，expedite 是加速，stipulate 是規定。"
+        },
+        {
+          "id": 15,
+          "prompt": "_____ a cost overrun of nearly 15 percent, the plant renovation was completed on schedule.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "However",
+            "D": "Even"
+          },
+          "answer": "A",
+          "explanation": "空格後是名詞片語 a cost overrun，用介系詞 Despite。Although 是連接詞要接子句，However 是副詞。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "will inspect",
+            "B": "are inspecting",
+            "C": "will be inspected",
+            "D": "have inspected"
+          },
+          "answer": "C",
+          "explanation": "生產線是「被」檢查，且與後面的 recalibrated 並列，停機在 5 月、晚於 4 月 8 日的通知，用未來被動 will be inspected。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "We are pleased to announce the opening of our first plant in Brno.",
+            "B": "Orders already scheduled to ship before May 4 will not be affected.",
+            "C": "As a result, prices for all products were lowered in March.",
+            "D": "Our customer service office will close permanently on May 15."
+          },
+          "answer": "B",
+          "explanation": "前文說明停機期間做什麼，下一段開始談訂單安排；先補充「5 月 4 日前已排定出貨的訂單不受影響」最連貫。Brno 工廠早已存在，所以 first plant 前後矛盾。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "to place",
+            "B": "place",
+            "C": "placing",
+            "D": "placed"
+          },
+          "answer": "C",
+          "explanation": "recommend 後接動名詞 placing；recommend to V 是常見錯誤（Day 57 規則）。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "once",
+            "B": "during",
+            "C": "by",
+            "D": "prior to"
+          },
+          "answer": "A",
+          "explanation": "空格後是完整子句 the plant reopens，需要連接詞 once（一…就…）。during、by、prior to 都是介系詞，不能接子句。"
+        }
+      ]
+    },
+    {
+      "id": "day-63-quiz",
+      "title": "Day 63 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "The figures in the two budget reports do not match, so please look into the _____.",
+          "options": {
+            "A": "turnout",
+            "B": "discrepancy",
+            "C": "deposit",
+            "D": "liaison"
+          },
+          "answer": "B",
+          "explanation": "兩份報告數字不符，要調查的是「差異」discrepancy。"
+        },
+        {
+          "id": 2,
+          "prompt": "Ms. Ortiz will serve as the _____ between the event planners and the hotel staff.",
+          "options": {
+            "A": "benchmark",
+            "B": "downturn",
+            "C": "surplus",
+            "D": "liaison"
+          },
+          "answer": "D",
+          "explanation": "serve as a liaison between A and B 是「擔任 A 與 B 之間的聯絡窗口」。"
+        },
+        {
+          "id": 3,
+          "prompt": "The schedule is still _____, so please do not print the agendas yet.",
+          "options": {
+            "A": "itemized",
+            "B": "tentative",
+            "C": "prorated",
+            "D": "on-site"
+          },
+          "answer": "B",
+          "explanation": "時程還是「暫定的」tentative，所以先別印議程。"
+        },
+        {
+          "id": 4,
+          "prompt": "Because Mr. Cole left the company in the middle of the month, he received a _____ refund of his parking fee.",
+          "options": {
+            "A": "prorated",
+            "B": "nonrefundable",
+            "C": "projected",
+            "D": "follow-up"
+          },
+          "answer": "A",
+          "explanation": "月中離職，依天數比例退費，用 prorated refund。nonrefundable 與 refund 語意矛盾。"
+        },
+        {
+          "id": 5,
+          "prompt": "To reduce costs, the firm decided to _____ its payroll processing to an outside provider.",
+          "options": {
+            "A": "consolidate",
+            "B": "fluctuate",
+            "C": "reconcile",
+            "D": "outsource"
+          },
+          "answer": "D",
+          "explanation": "outsource A to B 是「把 A 外包給 B」，與 an outside provider 呼應。"
+        },
+        {
+          "id": 6,
+          "prompt": "If the parts had been ordered on time, they _____ in stock now.",
+          "options": {
+            "A": "would have been",
+            "B": "will be",
+            "C": "would be",
+            "D": "are"
+          },
+          "answer": "C",
+          "explanation": "條件是過去（had been ordered），結果是現在（now），混合假設用 would + 原形 would be（規則 3）。"
+        },
+        {
+          "id": 7,
+          "prompt": "_____ the proposal carefully, the board approved the conference budget unanimously.",
+          "options": {
+            "A": "Having reviewed",
+            "B": "Reviewed",
+            "C": "Having been reviewed",
+            "D": "To have reviewed"
+          },
+          "answer": "A",
+          "explanation": "董事會主動審閱，且審閱早於核准，用 Having p.p. 主動完成分詞（規則 2）。Having been reviewed 是被動，主詞不合。"
+        },
+        {
+          "id": 8,
+          "prompt": "Ms. Wu stopped _____ the old spreadsheet once the new expense system was deployed.",
+          "options": {
+            "A": "to use",
+            "B": "use",
+            "C": "used",
+            "D": "using"
+          },
+          "answer": "D",
+          "explanation": "新系統上線後「停止使用」舊試算表，stop + V-ing；stop to V 是「停下來去做」（規則 1）。"
+        },
+        {
+          "id": 9,
+          "prompt": "Hotel rooms near the convention center must be reserved at least 30 days _____ the event.",
+          "options": {
+            "A": "until",
+            "B": "while",
+            "C": "prior to",
+            "D": "as of"
+          },
+          "answer": "C",
+          "explanation": "「活動前至少 30 天」用 prior to + 名詞（= before）。as of 表生效日（規則 5）。"
+        },
+        {
+          "id": 10,
+          "prompt": "Refund requests must be submitted _____ 14 days of purchase.",
+          "options": {
+            "A": "in",
+            "B": "within",
+            "C": "by",
+            "D": "until"
+          },
+          "answer": "B",
+          "explanation": "「購買後 14 天內」用 within ... of；in 14 days 是「14 天後」（規則 5）。"
+        },
+        {
+          "id": 11,
+          "prompt": "Hotel rates near the stadium tend to _____ depending on the season and local events.",
+          "options": {
+            "A": "fluctuate",
+            "B": "undertake",
+            "C": "allocate",
+            "D": "expedite"
+          },
+          "answer": "A",
+          "explanation": "價格隨季節「波動」用 fluctuate，為不及物動詞。"
+        },
+        {
+          "id": 12,
+          "prompt": "The revised safety protocol needs _____ by every shift supervisor before Monday.",
+          "options": {
+            "A": "to approve",
+            "B": "approve",
+            "C": "to be approved",
+            "D": "been approved"
+          },
+          "answer": "C",
+          "explanation": "protocol 是被核准的，need + to be p.p. 表被動；後面 by every shift supervisor 是行為者（規則 4）。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "第九週整合的關鍵是「先分類、再判斷」：動詞後接 to V 或 V-ing 先看前面的動詞，look forward to 的 to 是介系詞；分詞構句先找主要子句主詞再定主被動，動作較早用 Having p.p.；假設語氣條件看過去、結果看 now；被動的時態全看 be 動詞，進行中用 being p.p.；by 搭完成動作、until 搭持續狀態，once 接子句、prior to 接名詞。三人對話先把名字和立場對上，IT 公告圖表題聽到 take ... original date 就對調兩列；Part 7 場地計算依序算折扣後場地費 → 新人數餐飲 → 新 AV 費，訂金是抵扣不是另加。",
+  "nextDay": "公司合併與組織調整公告／Part 6 篇章邏輯"
+}
