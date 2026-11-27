@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "day": 64,
+  "title": "公司合併與組織調整公告、Part 6 篇章邏輯",
+  "courseTitle": "TOEIC 金色證書 90 天訓練",
+  "targetScore": 860,
+  "minutes": 115,
+  "durationMinutes": {
+    "min": 110,
+    "max": 120
+  },
+  "level": "860-900+ baseline",
+  "source": "Claude 依課程大綱產生的 Day 64 網站 JSON",
+  "sections": [
+    {
+      "title": "Day 64 學習概覽",
+      "markdown": "- 公司合併與組織調整 30 字：merger、acquisition、subsidiary、step down、successor、redundant、severance package、regulatory approval 等併購公告高頻字\n- 文法：Part 6 篇章邏輯，連接副詞依「轉折／因果／補充／條件」分類、連接副詞 vs 連接詞、指示詞與代名詞回指（its、these + N）、依公告日期判斷時態、句子插入題的前後線索\n- Listening：Part 3 同事討論合併後的匯報關係、Part 4 執行長合併完成公告＋組織圖圖表題、Part 4 人資語音留言的說話者意圖題\n- Part 7 三篇整合：合併新聞稿 → 人資整合備忘錄 → 員工 Email，推論新主管、資遣週數與重要日期\n- 完成 50 題後，把錯題分成「連接副詞語意錯（however / therefore / otherwise）」與「結構錯（連接詞 vs 副詞、代名詞單複數、時態）」兩類\n\n建議訓練時間：**115 分鐘**。"
+    },
+    {
+      "title": "① 今日單字｜30 個",
+      "markdown": "| 單字 | 中文 | TOEIC 高頻搭配 |\n|---|---|---|\n| merger | 合併 | announce a merger with a regional rival |\n| acquisition | 收購 | complete the acquisition of a smaller firm |\n| restructuring | 組織重整；改組 | a company-wide restructuring plan |\n| subsidiary | 子公司 | a wholly owned subsidiary |\n| parent company | 母公司 | report results to the parent company |\n| division | 事業部；部門 | head the newly formed Freight Operations division |\n| oversee | 監督；主管 | oversee the integration of the two IT teams |\n| report to | 直屬於；向…報告 | report directly to the vice president |\n| appoint | 任命 | be appointed chief financial officer |\n| step down | 卸任；下台 | step down as chief executive at the end of the year |\n| successor | 繼任者 | name a successor to the retiring director |\n| redundant | （職位）被裁撤的；多餘的 | positions made redundant by the merger |\n| relocate | 遷移；調派到外地 | relocate staff to the Rotterdam headquarters |\n| transition period | 過渡期 | during a six-month transition period |\n| rebrand | 品牌重塑；更名 | rebrand the combined company under a new name |\n| shareholder | 股東 | shareholders voted to approve the deal |\n| board of directors | 董事會 | a special adviser to the board of directors |\n| regulatory approval | 主管機關核准 | the deal is pending regulatory approval |\n| synergy | 綜效；協同效應 | achieve cost synergies of $40 million |\n| retain | 留住；保留 | retain key employees after the acquisition |\n| workforce | 全體員工；人力 | a combined workforce of about 4,200 |\n| realign | 重新調整（組織、目標） | realign sales teams by region |\n| hierarchy | 層級；等級制度 | a flatter management hierarchy |\n| headcount | 員工人數；編制 | keep headcount unchanged through June |\n| effective date | 生效日 | the effective date of the new structure |\n| organizational chart | 組織圖 | distribute the revised organizational chart |\n| severance package | 資遣方案；離職補償 | offer a generous severance package |\n| seamless | 順暢無縫的 | ensure a seamless transition for customers |\n| joint venture | 合資企業 | form a joint venture in Southeast Asia |\n| assume | 承擔；就任（職務） | assume the role of division head |"
+    },
+    {
+      "title": "② 今日文法｜Part 6 篇章邏輯",
+      "markdown": "主題：**Part 6 篇章邏輯：連接副詞的語意分類、連接副詞 vs 連接詞、指示詞與代名詞回指、依公告日期判斷時態、句子插入題線索**\n\n### 規則 1｜連接副詞先判斷前後句的「關係」，再選字\n\n轉折：however、nevertheless、even so；因果：therefore、as a result、consequently；補充：moreover、in addition、furthermore；條件：otherwise（否則）；同時：meanwhile；舉例：for example。Part 6 的空格常在第二段句首，先把前後兩句各用一句中文說出來，再判斷是相反、結果還是補充。\n\n> Most employees will keep their current roles. However, a few positions will be eliminated.\n\n### 規則 2｜連接副詞不能連接兩個子句；要連接就用連接詞或分號\n\nhowever、therefore、otherwise 是副詞，後面通常接逗號，前面要句號或分號；although、because、whereas、while 才是連接詞，可以直接帶出從屬子句。despite、in spite of 是介系詞，只能接名詞或 V-ing。\n\n> Although the two firms have different cultures, the integration has gone smoothly; therefore, the board has approved the next phase.\n\n### 規則 3｜指涉一致：its 回指單數公司，these / such + 名詞 回指前文\n\n公司名稱、the company、the board 在美式 TOEIC 中視為單數，用 its、it；前文提到多個事物（concerns、workshops、changes），回指時用 these / those + 名詞；the former 指前者、the latter 指後者。代名詞的選項要回頭找它代替的那個名詞，確認單複數與人或物。\n\n> Many employees raised concerns about relocation. To address these concerns, HR will hold individual meetings.\n\n### 規則 4｜時態看篇章的時間錨點：發文日期 vs 生效日期\n\n先看 Date 欄位，再看文中日期：生效日在發文日之後 → will + V／will be p.p.；已經發生、影響延續到現在 → has / have p.p.；過去某時點已完成 → 過去式。合併、改組公告最常見的陷阱是生效日還沒到卻選 have been combined。\n\n> As of September 1, the two departments will be combined; the decision was announced at last week's meeting.\n\n### 規則 5｜句子插入題：新句子要「接住前一句、引出後一句」\n\n看選項中的線索字：代名詞（He、This、These）必須有前文可指；連接副詞（As a result、However）必須和前句關係一致；時間與事實不能和全文矛盾。前句剛介紹新主管，下一句介紹他的背景最自然；突然出現前文沒提過的調查、取消、招募就是陷阱。\n\n> The new department will be led by Kwame Asante. He joins us from Delmont Partners, where he directed global brand campaigns."
+    },
+    {
+      "title": "03 Listening｜Discussing a Merger E-mail",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Woman: Raj, did you read the CEO's e-mail this morning about the merger with Brightfield Publishing? Man: I did. It sounds like most of our department won't be affected. The main change is that our team will now report to the director of the new Digital Content division instead of to Helen. Woman: Right, and that director is going to be based in Toronto. I'm a little worried about how we'll handle approvals when our manager is in a different office. Man: Me too. Actually, there's a question-and-answer session for employees on Thursday afternoon. Maybe we should bring it up there. Woman: Good idea. I'll put together a list of the questions our team has and send it to Human Resources in advance, so they have time to prepare answers."
+    },
+    {
+      "title": "04 Listening｜Merger Completion Announcement",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n### 圖表：Corliss Media — Division Heads\n\n| Division | Head |\n|---|---|\n| Digital Content | Samuel Reed |\n| Print | Aiko Harada |\n| Audio and Podcasts | Victor Lindqvist |\n| Advertising Sales | Nadia Osei |\n\n聽力稿：\n\n> Good afternoon, everyone. This is Daniel Ortiz, chief executive of Corliss Media. As most of you know, our merger with Brightfield Publishing was formally completed yesterday, and I'd like to thank all of you for your patience over the past six months. You should have received a copy of the new organizational chart this morning. However, I need to make one correction. Ms. Harada, who is listed as head of the Print division, has agreed to lead our Audio and Podcasts division instead, and the person currently shown as head of Audio and Podcasts will take over Print. Both of them have worked in each area before, so I'm confident the change will be seamless. Next, staff from Brightfield's downtown office will be relocating to our Elm Street building over the next three weekends. Meanwhile, several meeting rooms will be unavailable, so please use the shared calendar to reserve a room before you schedule a meeting. Finally, our first all-staff meeting as a combined company will take place on the fifteenth. Details will be sent by e-mail later this week."
+    },
+    {
+      "title": "05 Listening｜HR Voice Mail About a Transfer",
+      "markdown": "先閱讀題目，再聆聽內容並完成作答。\n\n聽力稿：\n\n> Hi, Thomas. This is Lena Vogel from Human Resources. I'm calling about the request you submitted last week to transfer to the Customer Solutions team after the restructuring. I spoke with the team's director, Mr. Achebe, and he was very impressed with your background in client support. The position is based in our Lyon office, though, and I know you said you'd prefer not to relocate. Well, Mr. Achebe mentioned that two members of his team already work remotely three days a week. So you might want to ask him about that arrangement during your interview. He's available on Tuesday or Wednesday morning. Also, please remember that, as part of the transition, your current role will remain in place until September 30, so there won't be any gap in your employment if the transfer is approved. Call me back at extension 316 to confirm an interview time."
+    },
+    {
+      "title": "⑥ Reading｜Press Release, Memo, and E-mail",
+      "markdown": "限時：**10 分 0 秒**。\n\n### Press Release\n\n> FOR IMMEDIATE RELEASE — March 3\n>\n> **Halvorsen Logistics and Pemberton Freight Agree to Merge**\n>\n> ROTTERDAM — Halvorsen Logistics and Pemberton Freight announced today that they have agreed to combine their businesses. The merger, which is expected to close by June 30 pending regulatory approval, will create Halvorsen Pemberton Group, one of the largest independent freight and warehousing providers in northern Europe, with a combined workforce of about 4,200.\n>\n> The new company will be headquartered in Rotterdam. Pemberton's office in Antwerp will remain open and will serve as a regional hub for freight operations. Anders Lind, Halvorsen's chief executive, will lead the combined company. Claire Dubois, chief executive of Pemberton, will step down when the deal closes; however, she will remain with the company for one year as a special adviser to the board of directors.\n>\n> \"Our networks complement each other,\" said Mr. Lind. \"Together, we can offer customers faster delivery and a wider range of services.\"\n\n用途：參考文件\n\n### Memo\n\n> To: All Halvorsen Pemberton employees\n> From: Ingrid Saar, Human Resources\n> Date: May 20\n> Subject: Next steps in our integration\n>\n> I am pleased to report that regulatory approval came through earlier than expected. As a result, the merger will take effect on June 1, a month ahead of schedule.\n>\n> As of June 1, the company will be organized into three divisions:\n> - Freight Operations — head: Marta Novak (Antwerp)\n> - Warehousing — head: Jun Okada (Rotterdam)\n> - Customer Solutions — head: Leon Brandt (Hamburg)\n>\n> The two IT departments will be combined into a single team in Rotterdam, and former Pemberton IT staff will be asked to relocate by September 1. Employees who choose not to relocate may apply for open positions in any division. Those who are not placed in a new role will receive a severance package of two weeks' pay for each full year of service, with a minimum of eight weeks.\n>\n> New company e-mail addresses will be activated on July 1. Former Pemberton employees will remain on their current health plan until December 31 and will then be enrolled in the Halvorsen plan. A list of open positions is posted on the intranet.\n\n用途：參考文件\n\n### E-mail\n\n> From: Sofia Reyes\n> To: Ingrid Saar, Human Resources\n> Date: May 27\n> Subject: Question about relocation\n>\n> Dear Ms. Saar,\n>\n> I have worked in Pemberton's IT department in Antwerp for six years. Unfortunately, because of family commitments, I will not be able to move to Rotterdam. I noticed on the intranet that the division based in my city is looking for a systems analyst to support its shipment-tracking software, and I would like to apply.\n>\n> Could you tell me whether my application would be treated as an internal transfer? Also, in case I am not selected, I would like to confirm how my severance would be calculated.\n>\n> Thank you for your help.\n>\n> Sofia Reyes\n\n用途：參考文件"
+    },
+    {
+      "title": "⑦ Part 5 仿真題｜15 題",
+      "markdown": "限時：**4 分 0 秒**。"
+    },
+    {
+      "title": "⑧ Part 6 篇章填空｜4 題",
+      "markdown": "限時：**3 分 0 秒**。\n\n### 閱讀文章\n\n> To: Marketing and Communications Staff\n> From: Elena Rossi, Vice President\n> Date: August 4\n> Subject: Department restructuring\n>\n> As announced at last week's meeting, the Marketing and Communications departments [1] _____ into a single Brand Strategy department on September 1. The new department will be led by Kwame Asante. [2] _____\n>\n> Most of you will keep your current responsibilities. [3] _____, a few roles will change, and your manager will contact you individually about these changes. To make the transition as smooth as possible, we will hold a series of workshops in late August. A detailed schedule of [4] _____ will be posted on the intranet by Friday."
+    },
+    {
+      "title": "⑨ Day 64 小考",
+      "markdown": "正式限時：**6 分 0 秒**。"
+    },
+    {
+      "title": "⑩ 複習與錯題分類",
+      "markdown": "回顧 **Day 61、Day 62、Day 63**，並延伸到今天的公司合併與組織調整主題。\n\n### 複習重點\n- Day 61：被動語態，The restructuring plan was approved by the board、will be distributed 未來被動；Part 5 第 9、13 題複習\n- Day 62：by（期限）vs until（持續）、within（期間內）；Part 5 第 10 題與小考第 4、10 題複習；once + 子句、prior to + 名詞是 Part 5 第 11 題的關鍵\n- Day 63：Having p.p. 分詞構句、混合假設 If + had p.p. → would + 原形 + today、Only after 倒裝；小考第 7、8、11 題複習\n- 今日文法：連接副詞先分「轉折／因果／補充／條件」；however 不能連接兩個子句，although 才可以；公司用 its、前文多個事物用 these + N；生效日未到用 will be p.p.\n- Part 4 組織圖圖表題：執行長說 Harada 和 Audio and Podcasts 的負責人「互換」，Print 改由看板上的 Victor Lindqvist 負責，不要選原本列出的 Aiko Harada\n- 說話者意圖題：提到「團隊已經有兩人每週遠距三天」，是在暗示對方不一定要整個搬到 Lyon\n- Part 7 整合：Sofia 在 Antwerp，Antwerp 的事業部是 Freight Operations，主管是 Marta Novak；資遣 6 年 × 2 週 = 12 週，高於最低 8 週，所以是 12 週\n\n### 錯題標籤\n- `G`：Grammar\n- `TRANS`：Transition Words (however / therefore / otherwise)\n- `CONJ`：Conjunction vs Adverb vs Preposition\n- `REF`：Pronoun / Demonstrative Reference\n- `TENSE`：Tense from Context (date anchors)\n- `INS`：Sentence Insertion\n- `PASS`：Passive Voice\n- `PREP`：Preposition (time)\n- `L`：Listening\n- `GRAPH`：Graphic Question\n- `INTENT`：Speaker's Intent\n- `I`：Information Integration\n- `CALC`：Calculation\n- `V`：Vocabulary"
+    },
+    {
+      "title": "⑪ 今日作業",
+      "markdown": "- 複習今日 30 個單字，用 merger、subsidiary、step down、successor、severance package、regulatory approval 各寫一句合併公告情境的句子。\n- 連接副詞分類：把 however、nevertheless、therefore、as a result、moreover、in addition、otherwise、meanwhile 依「轉折／因果／補充／條件／同時」分類，每個各寫一組前後句。\n- Part 5 15 題首次限時 4 分鐘，第二輪 3 分 30 秒；連接副詞題寫出前後句的關係，代名詞題寫出它回指的名詞。\n- Part 6 重做：寫出 [1] 為什麼是 will be combined（發文 8/4、生效 9/1）、[2] 為什麼 He joins us 接在新主管之後最自然、[4] these sessions 回指哪個名詞。\n- Reading 整合題重做：畫出「城市 → 事業部 → 主管」對照表，並寫出 6 × 2 = 12 週與最低 8 週的比較算式。\n- Day 64 Quiz 第二輪限時 5 分 30 秒，記錄首次答案、耗時與 errorTags；預習 Day 65 永續與法規字彙（compliance 複習、emissions、regulation、sustainability）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "merger",
+      "meaning": "合併",
+      "phrase": "announce a merger with a regional rival"
+    },
+    {
+      "id": 2,
+      "word": "acquisition",
+      "meaning": "收購",
+      "phrase": "complete the acquisition of a smaller firm"
+    },
+    {
+      "id": 3,
+      "word": "restructuring",
+      "meaning": "組織重整；改組",
+      "phrase": "a company-wide restructuring plan"
+    },
+    {
+      "id": 4,
+      "word": "subsidiary",
+      "meaning": "子公司",
+      "phrase": "a wholly owned subsidiary"
+    },
+    {
+      "id": 5,
+      "word": "parent company",
+      "meaning": "母公司",
+      "phrase": "report results to the parent company"
+    },
+    {
+      "id": 6,
+      "word": "division",
+      "meaning": "事業部；部門",
+      "phrase": "head the newly formed Freight Operations division"
+    },
+    {
+      "id": 7,
+      "word": "oversee",
+      "meaning": "監督；主管",
+      "phrase": "oversee the integration of the two IT teams"
+    },
+    {
+      "id": 8,
+      "word": "report to",
+      "meaning": "直屬於；向…報告",
+      "phrase": "report directly to the vice president"
+    },
+    {
+      "id": 9,
+      "word": "appoint",
+      "meaning": "任命",
+      "phrase": "be appointed chief financial officer"
+    },
+    {
+      "id": 10,
+      "word": "step down",
+      "meaning": "卸任；下台",
+      "phrase": "step down as chief executive at the end of the year"
+    },
+    {
+      "id": 11,
+      "word": "successor",
+      "meaning": "繼任者",
+      "phrase": "name a successor to the retiring director"
+    },
+    {
+      "id": 12,
+      "word": "redundant",
+      "meaning": "（職位）被裁撤的；多餘的",
+      "phrase": "positions made redundant by the merger"
+    },
+    {
+      "id": 13,
+      "word": "relocate",
+      "meaning": "遷移；調派到外地",
+      "phrase": "relocate staff to the Rotterdam headquarters"
+    },
+    {
+      "id": 14,
+      "word": "transition period",
+      "meaning": "過渡期",
+      "phrase": "during a six-month transition period"
+    },
+    {
+      "id": 15,
+      "word": "rebrand",
+      "meaning": "品牌重塑；更名",
+      "phrase": "rebrand the combined company under a new name"
+    },
+    {
+      "id": 16,
+      "word": "shareholder",
+      "meaning": "股東",
+      "phrase": "shareholders voted to approve the deal"
+    },
+    {
+      "id": 17,
+      "word": "board of directors",
+      "meaning": "董事會",
+      "phrase": "a special adviser to the board of directors"
+    },
+    {
+      "id": 18,
+      "word": "regulatory approval",
+      "meaning": "主管機關核准",
+      "phrase": "the deal is pending regulatory approval"
+    },
+    {
+      "id": 19,
+      "word": "synergy",
+      "meaning": "綜效；協同效應",
+      "phrase": "achieve cost synergies of $40 million"
+    },
+    {
+      "id": 20,
+      "word": "retain",
+      "meaning": "留住；保留",
+      "phrase": "retain key employees after the acquisition"
+    },
+    {
+      "id": 21,
+      "word": "workforce",
+      "meaning": "全體員工；人力",
+      "phrase": "a combined workforce of about 4,200"
+    },
+    {
+      "id": 22,
+      "word": "realign",
+      "meaning": "重新調整（組織、目標）",
+      "phrase": "realign sales teams by region"
+    },
+    {
+      "id": 23,
+      "word": "hierarchy",
+      "meaning": "層級；等級制度",
+      "phrase": "a flatter management hierarchy"
+    },
+    {
+      "id": 24,
+      "word": "headcount",
+      "meaning": "員工人數；編制",
+      "phrase": "keep headcount unchanged through June"
+    },
+    {
+      "id": 25,
+      "word": "effective date",
+      "meaning": "生效日",
+      "phrase": "the effective date of the new structure"
+    },
+    {
+      "id": 26,
+      "word": "organizational chart",
+      "meaning": "組織圖",
+      "phrase": "distribute the revised organizational chart"
+    },
+    {
+      "id": 27,
+      "word": "severance package",
+      "meaning": "資遣方案；離職補償",
+      "phrase": "offer a generous severance package"
+    },
+    {
+      "id": 28,
+      "word": "seamless",
+      "meaning": "順暢無縫的",
+      "phrase": "ensure a seamless transition for customers"
+    },
+    {
+      "id": 29,
+      "word": "joint venture",
+      "meaning": "合資企業",
+      "phrase": "form a joint venture in Southeast Asia"
+    },
+    {
+      "id": 30,
+      "word": "assume",
+      "meaning": "承擔；就任（職務）",
+      "phrase": "assume the role of division head"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "listening-1",
+      "title": "Discussing a Merger E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "A new product launch",
+            "B": "Changes resulting from a merger",
+            "C": "A delayed shipment",
+            "D": "Plans for a holiday party"
+          },
+          "answer": "B",
+          "explanation": "女子一開頭就提到 the CEO's e-mail about the merger with Brightfield Publishing，兩人接著討論合併後的匯報關係，主題是合併帶來的改變。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the man, what will change for his team?",
+          "options": {
+            "A": "It will move to Toronto",
+            "B": "It will hire new staff",
+            "C": "It will be eliminated",
+            "D": "It will report to a different manager"
+          },
+          "answer": "D",
+          "explanation": "our team will now report to the director of the new Digital Content division instead of to Helen：直屬主管改變。搬到 Toronto 的是新主管，不是團隊。"
+        },
+        {
+          "id": 3,
+          "prompt": "What does the woman say she will do?",
+          "options": {
+            "A": "Send questions to a department in advance",
+            "B": "Call the CEO",
+            "C": "Cancel a session",
+            "D": "Visit the Toronto office"
+          },
+          "answer": "A",
+          "explanation": "I'll put together a list of the questions ... and send it to Human Resources in advance：她會事先把問題整理給人資。"
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "title": "Merger Completion Announcement",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What happened yesterday?",
+          "options": {
+            "A": "A new office opened",
+            "B": "A chief executive retired",
+            "C": "A merger was finalized",
+            "D": "An all-staff meeting was held"
+          },
+          "answer": "C",
+          "explanation": "our merger with Brightfield Publishing was formally completed yesterday：昨天合併正式完成，was formally completed = was finalized。"
+        },
+        {
+          "id": 2,
+          "prompt": "Look at the graphic. Who will head the Print division?",
+          "options": {
+            "A": "Victor Lindqvist",
+            "B": "Aiko Harada",
+            "C": "Samuel Reed",
+            "D": "Nadia Osei"
+          },
+          "answer": "A",
+          "explanation": "Harada 改去帶 Audio and Podcasts，而圖表上原本 Audio and Podcasts 的負責人 Victor Lindqvist 接手 Print。選原本列在 Print 的 Aiko Harada 是陷阱。"
+        },
+        {
+          "id": 3,
+          "prompt": "What are listeners asked to do?",
+          "options": {
+            "A": "Move their belongings this weekend",
+            "B": "Update the organizational chart",
+            "C": "Reply to an e-mail by Friday",
+            "D": "Reserve rooms through a shared calendar"
+          },
+          "answer": "D",
+          "explanation": "please use the shared calendar to reserve a room before you schedule a meeting：請大家用共用行事曆預約會議室。"
+        },
+        {
+          "id": 4,
+          "prompt": "What will take place on the fifteenth?",
+          "options": {
+            "A": "The office relocation",
+            "B": "A meeting for all employees",
+            "C": "A training workshop",
+            "D": "A press conference"
+          },
+          "answer": "B",
+          "explanation": "our first all-staff meeting as a combined company will take place on the fifteenth：15 號舉行合併後第一次全員大會。"
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "title": "HR Voice Mail About a Transfer",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Why is the speaker calling?",
+          "options": {
+            "A": "To follow up on a transfer request",
+            "B": "To offer a promotion",
+            "C": "To announce a new policy",
+            "D": "To reschedule a training session"
+          },
+          "answer": "A",
+          "explanation": "I'm calling about the request you submitted last week to transfer to the Customer Solutions team：回覆對方的調職申請。"
+        },
+        {
+          "id": 2,
+          "prompt": "What does the speaker imply when she says, \"Mr. Achebe mentioned that two members of his team already work remotely three days a week\"?",
+          "options": {
+            "A": "The team is understaffed",
+            "B": "The office in Lyon will close",
+            "C": "The listener may not need to relocate full-time",
+            "D": "Mr. Achebe rarely comes to the office"
+          },
+          "answer": "C",
+          "explanation": "前一句提到職位在 Lyon、對方不想搬家，接著說團隊已有兩人每週遠距三天，並建議面試時問這個安排，暗示他可能不必完全搬過去。"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the listener asked to do?",
+          "options": {
+            "A": "Submit a new application",
+            "B": "Call back to schedule an interview",
+            "C": "Visit the Lyon office",
+            "D": "Sign a contract by Tuesday"
+          },
+          "answer": "B",
+          "explanation": "Call me back at extension 316 to confirm an interview time：回電確認面試時間。"
+        },
+        {
+          "id": 4,
+          "prompt": "According to the speaker, what will happen until September 30?",
+          "options": {
+            "A": "The listener will receive training",
+            "B": "The Customer Solutions team will be restructured",
+            "C": "Mr. Achebe will be on leave",
+            "D": "The listener's current position will continue"
+          },
+          "answer": "D",
+          "explanation": "your current role will remain in place until September 30：現職保留到 9 月 30 日，until 搭配持續狀態 remain（Day 62 規則 1）。"
+        }
+      ]
+    },
+    {
+      "id": "reading-triple-passage",
+      "title": "Press Release, Memo, and E-mail",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What is the purpose of the press release?",
+          "options": {
+            "A": "To report a company's annual profits",
+            "B": "To introduce a new delivery service",
+            "C": "To announce the opening of a new headquarters",
+            "D": "To announce that two companies will combine"
+          },
+          "answer": "D",
+          "explanation": "Halvorsen Logistics and Pemberton Freight ... have agreed to combine their businesses：新聞稿的目的是宣布兩家公司合併。"
+        },
+        {
+          "id": 2,
+          "prompt": "According to the press release, what will Ms. Dubois do after the deal closes?",
+          "options": {
+            "A": "Lead the combined company",
+            "B": "Advise the board of directors",
+            "C": "Manage the Antwerp office",
+            "D": "Join a competitor"
+          },
+          "answer": "B",
+          "explanation": "she will remain with the company for one year as a special adviser to the board of directors：她卸任執行長後擔任董事會顧問一年。領導新公司的是 Mr. Lind。"
+        },
+        {
+          "id": 3,
+          "prompt": "In the press release, the word \"close\" in paragraph 1 is closest in meaning to",
+          "options": {
+            "A": "be finalized",
+            "B": "shut down",
+            "C": "come nearer",
+            "D": "stop operating"
+          },
+          "answer": "A",
+          "explanation": "the merger is expected to close by June 30：交易「完成、成交」，等於 be finalized / be completed，不是關門 shut down。"
+        },
+        {
+          "id": 4,
+          "prompt": "What is indicated in the memo?",
+          "options": {
+            "A": "The Antwerp office will be closed",
+            "B": "All IT staff will work from Hamburg",
+            "C": "The merger will take effect earlier than originally planned",
+            "D": "Employees must choose a new health plan by July 1"
+          },
+          "answer": "C",
+          "explanation": "新聞稿預計 June 30 前完成，備忘錄說核准提早下來，June 1 生效，a month ahead of schedule。"
+        },
+        {
+          "id": 5,
+          "prompt": "Why did Ms. Reyes write the e-mail?",
+          "options": {
+            "A": "To accept an offer to relocate",
+            "B": "To ask about applying for a position in her city",
+            "C": "To complain about her health plan",
+            "D": "To request a change to her e-mail address"
+          },
+          "answer": "B",
+          "explanation": "她無法搬到 Rotterdam，想應徵所在城市事業部的 systems analyst 職缺，並詢問是否算內部調動。"
+        },
+        {
+          "id": 6,
+          "prompt": "If Ms. Reyes is hired for the position she mentions, who will most likely be the head of her division?",
+          "options": {
+            "A": "Jun Okada",
+            "B": "Leon Brandt",
+            "C": "Anders Lind",
+            "D": "Marta Novak"
+          },
+          "answer": "D",
+          "explanation": "Sofia 在 Antwerp 工作，備忘錄列出設在 Antwerp 的事業部是 Freight Operations，主管 Marta Novak；新聞稿也說 Antwerp 是 freight operations 的區域樞紐。"
+        },
+        {
+          "id": 7,
+          "prompt": "If Ms. Reyes is not placed in a new role, how many weeks of severance pay will she receive?",
+          "options": {
+            "A": "12 weeks",
+            "B": "6 weeks",
+            "C": "8 weeks",
+            "D": "14 weeks"
+          },
+          "answer": "A",
+          "explanation": "每滿一年 2 週：6 × 2 = 12 週；最低 8 週只在算出來少於 8 週時才適用，12 > 8，所以是 12 週。"
+        },
+        {
+          "id": 8,
+          "prompt": "According to the memo, what will happen on July 1?",
+          "options": {
+            "A": "Former Pemberton staff will join a new health plan",
+            "B": "IT staff must complete their relocation",
+            "C": "Employees will begin using new e-mail addresses",
+            "D": "The merger will receive regulatory approval"
+          },
+          "answer": "C",
+          "explanation": "New company e-mail addresses will be activated on July 1。健保轉換在 December 31 之後，IT 搬遷期限是 September 1。"
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part 5 仿真題",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Pemberton Freight's shareholders approved the merger last week; _____, the deal still requires regulatory approval.",
+          "options": {
+            "A": "therefore",
+            "B": "however",
+            "C": "moreover",
+            "D": "otherwise"
+          },
+          "answer": "B",
+          "explanation": "前句「股東已核准」，後句「仍需主管機關核准」是轉折關係，用 however（規則 1）。"
+        },
+        {
+          "id": 2,
+          "prompt": "The new CEO plans to reduce the number of management layers. _____, she intends to give regional offices more authority.",
+          "options": {
+            "A": "Nevertheless",
+            "B": "Otherwise",
+            "C": "In addition",
+            "D": "Even so"
+          },
+          "answer": "C",
+          "explanation": "減少管理層級與下放權力是同方向的兩項措施，屬於補充關係，用 In addition；Nevertheless、Even so 表轉折。"
+        },
+        {
+          "id": 3,
+          "prompt": "_____ the two companies have very different corporate cultures, the integration has gone smoothly.",
+          "options": {
+            "A": "Although",
+            "B": "However",
+            "C": "Despite",
+            "D": "Nevertheless"
+          },
+          "answer": "A",
+          "explanation": "空格後是完整子句，且句中只有逗號連接，需要連接詞 Although；However、Nevertheless 是副詞，Despite 是介系詞（規則 2）。"
+        },
+        {
+          "id": 4,
+          "prompt": "All employees must complete the transition training; _____, they will not be able to access the new system.",
+          "options": {
+            "A": "moreover",
+            "B": "likewise",
+            "C": "consequently",
+            "D": "otherwise"
+          },
+          "answer": "D",
+          "explanation": "「必須完成訓練，否則無法登入」是條件關係，用 otherwise（規則 1）。"
+        },
+        {
+          "id": 5,
+          "prompt": "Halvorsen Logistics reported that _____ quarterly profit rose by 8 percent after the acquisition.",
+          "options": {
+            "A": "its",
+            "B": "their",
+            "C": "it's",
+            "D": "his"
+          },
+          "answer": "A",
+          "explanation": "公司名稱視為單數，所有格用 its；it's = it is，不能修飾名詞（規則 3）。"
+        },
+        {
+          "id": 6,
+          "prompt": "The board is expected to name a _____ to Ms. Dubois before she steps down in June.",
+          "options": {
+            "A": "success",
+            "B": "succeed",
+            "C": "successor",
+            "D": "successful"
+          },
+          "answer": "C",
+          "explanation": "a 後面需要名詞，且是「人」——接任她的人 successor；success 是「成功」。"
+        },
+        {
+          "id": 7,
+          "prompt": "Several positions in the finance department were made _____ after the two accounting teams were combined.",
+          "options": {
+            "A": "redundancy",
+            "B": "redundant",
+            "C": "redundantly",
+            "D": "redundancies"
+          },
+          "answer": "B",
+          "explanation": "make + 受詞 + 形容詞 的被動 be made + adj.，positions were made redundant（職位被裁撤）。"
+        },
+        {
+          "id": 8,
+          "prompt": "Mr. Lind, _____ has led Halvorsen Logistics for nine years, will head the combined company.",
+          "options": {
+            "A": "whom",
+            "B": "which",
+            "C": "whose",
+            "D": "who"
+          },
+          "answer": "D",
+          "explanation": "關係代名詞在子句中當主詞（___ has led），且先行詞是人，用 who。"
+        },
+        {
+          "id": 9,
+          "prompt": "The restructuring plan was approved _____ the board of directors last Monday.",
+          "options": {
+            "A": "to",
+            "B": "with",
+            "C": "by",
+            "D": "from"
+          },
+          "answer": "C",
+          "explanation": "被動語態的動作者用 by 引出（Day 61）。"
+        },
+        {
+          "id": 10,
+          "prompt": "All staff are required to start using their new e-mail addresses _____ July 1.",
+          "options": {
+            "A": "by",
+            "B": "until",
+            "C": "during",
+            "D": "while"
+          },
+          "answer": "A",
+          "explanation": "start using 是在期限前完成的一次性動作，用 by；until 搭持續狀態（Day 62 規則 1）。"
+        },
+        {
+          "id": 11,
+          "prompt": "_____ the merger was completed, the two IT teams began migrating their data to a single server.",
+          "options": {
+            "A": "Following",
+            "B": "Prior to",
+            "C": "During",
+            "D": "Once"
+          },
+          "answer": "D",
+          "explanation": "空格後是完整子句 the merger was completed，需要連接詞 Once；Following、Prior to、During 都是介系詞，只能接名詞（Day 62）。"
+        },
+        {
+          "id": 12,
+          "prompt": "The Antwerp office will continue to operate as a regional hub, as _____ in the original press release.",
+          "options": {
+            "A": "stating",
+            "B": "stated",
+            "C": "states",
+            "D": "to state"
+          },
+          "answer": "B",
+          "explanation": "as stated in ... 是「如…中所述」的固定用法，省略了 it was，分詞用被動 stated（Day 58 分詞構句）。"
+        },
+        {
+          "id": 13,
+          "prompt": "The revised organizational chart will be _____ to all employees by the end of the week.",
+          "options": {
+            "A": "distributed",
+            "B": "distribution",
+            "C": "distributing",
+            "D": "distributes"
+          },
+          "answer": "A",
+          "explanation": "will be + p.p. 未來被動：組織圖「被分發」（Day 61）。"
+        },
+        {
+          "id": 14,
+          "prompt": "Many employees raised concerns about relocation. To address _____ concerns, HR will hold individual meetings next week.",
+          "options": {
+            "A": "this",
+            "B": "it",
+            "C": "these",
+            "D": "that"
+          },
+          "answer": "C",
+          "explanation": "concerns 是複數，回指前文提到的那些疑慮，用 these + 複數名詞（規則 3）。this、that 要接單數名詞，it 是代名詞不能修飾名詞。"
+        },
+        {
+          "id": 15,
+          "prompt": "Analysts expect the merger to produce _____ worth €40 million a year through shared warehouses and systems.",
+          "options": {
+            "A": "hierarchies",
+            "B": "successors",
+            "C": "subsidiaries",
+            "D": "synergies"
+          },
+          "answer": "D",
+          "explanation": "共用倉庫與系統帶來的成本效益是 synergies（綜效）。"
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part 6 篇章填空",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Which option best completes blank [1]?",
+          "options": {
+            "A": "combined",
+            "B": "have been combined",
+            "C": "will be combined",
+            "D": "combining"
+          },
+          "answer": "C",
+          "explanation": "備忘錄日期 8 月 4 日，合併生效是 9 月 1 日，還沒發生，用未來被動 will be combined；have been combined 表示已完成，與日期矛盾（規則 4）。"
+        },
+        {
+          "id": 2,
+          "prompt": "Which sentence best fits blank [2]?",
+          "options": {
+            "A": "He joins us from Delmont Partners, where he directed global brand campaigns for eight years.",
+            "B": "The workshops were canceled because of low attendance.",
+            "C": "As a result, the Marketing department will hire twelve new employees.",
+            "D": "Please return your completed survey by July 1."
+          },
+          "answer": "A",
+          "explanation": "前句剛介紹新主管 Kwame Asante，接著用 He 介紹他的經歷最連貫。工作坊後文才提到且尚未舉行，survey 與招募前文都沒提過（規則 5）。"
+        },
+        {
+          "id": 3,
+          "prompt": "Which option best completes blank [3]?",
+          "options": {
+            "A": "Therefore",
+            "B": "Similarly",
+            "C": "For example",
+            "D": "However"
+          },
+          "answer": "D",
+          "explanation": "前句「大多數人職責不變」，後句「少數職位會改變」，是轉折關係，用 However（規則 1）。"
+        },
+        {
+          "id": 4,
+          "prompt": "Which option best completes blank [4]?",
+          "options": {
+            "A": "him",
+            "B": "these sessions",
+            "C": "it",
+            "D": "that session"
+          },
+          "answer": "B",
+          "explanation": "回指前一句的 a series of workshops（複數），用 these sessions；that session 是單數，him、it 都對不上（規則 3）。"
+        }
+      ]
+    },
+    {
+      "id": "day-64-quiz",
+      "title": "Day 64 小考",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "After the acquisition, Pemberton Freight will operate as a wholly owned _____ of Halvorsen Logistics.",
+          "options": {
+            "A": "subsidiary",
+            "B": "shareholder",
+            "C": "successor",
+            "D": "headcount"
+          },
+          "answer": "A",
+          "explanation": "wholly owned subsidiary（百分之百持股的子公司）是併購固定搭配。"
+        },
+        {
+          "id": 2,
+          "prompt": "Ms. Novak will _____ all freight operations in the Benelux region.",
+          "options": {
+            "A": "overlook",
+            "B": "overcome",
+            "C": "overtake",
+            "D": "oversee"
+          },
+          "answer": "D",
+          "explanation": "oversee = 監督、主管；overlook 是忽略、overcome 是克服、overtake 是超越。"
+        },
+        {
+          "id": 3,
+          "prompt": "The company hopes to _____ its most experienced engineers during the transition period.",
+          "options": {
+            "A": "retire",
+            "B": "retain",
+            "C": "remain",
+            "D": "restrain"
+          },
+          "answer": "B",
+          "explanation": "retain employees（留住員工）；remain 是不及物動詞，不能直接接受詞。"
+        },
+        {
+          "id": 4,
+          "prompt": "The merger cannot be completed _____ regulators have finished reviewing it.",
+          "options": {
+            "A": "by",
+            "B": "within",
+            "C": "until",
+            "D": "prior to"
+          },
+          "answer": "C",
+          "explanation": "not ... until 表示「直到…才」，且空格後是子句，需要連接詞 until；by、within、prior to 是介系詞（Day 62）。"
+        },
+        {
+          "id": 5,
+          "prompt": "The firm's revenue rose last year. _____, its operating costs increased even faster, so profits fell.",
+          "options": {
+            "A": "Therefore",
+            "B": "For instance",
+            "C": "Likewise",
+            "D": "However"
+          },
+          "answer": "D",
+          "explanation": "營收上升但成本漲更快、獲利下滑，是轉折關係，用 However。"
+        },
+        {
+          "id": 6,
+          "prompt": "Ms. Dubois will step _____ as chief executive when the deal closes.",
+          "options": {
+            "A": "down",
+            "B": "off",
+            "C": "out",
+            "D": "over"
+          },
+          "answer": "A",
+          "explanation": "step down as + 職位 = 卸任該職位。"
+        },
+        {
+          "id": 7,
+          "prompt": "Having _____ the proposal carefully, the board voted to approve the acquisition.",
+          "options": {
+            "A": "review",
+            "B": "reviewing",
+            "C": "reviewed",
+            "D": "to review"
+          },
+          "answer": "C",
+          "explanation": "審閱在投票之前完成，用完成式分詞構句 Having + p.p.（Day 58、63）。"
+        },
+        {
+          "id": 8,
+          "prompt": "Only after the acquisition was approved _____ the details of the deal public.",
+          "options": {
+            "A": "the two companies made",
+            "B": "did the two companies make",
+            "C": "made the two companies",
+            "D": "the two companies did make"
+          },
+          "answer": "B",
+          "explanation": "Only after ... 置首，倒裝的是主要子句：did + 主詞 + 原形（Day 60、63）。"
+        },
+        {
+          "id": 9,
+          "prompt": "The new logo, which was introduced as part of the company's _____, has received positive feedback.",
+          "options": {
+            "A": "rebranding",
+            "B": "rebranded",
+            "C": "rebrands",
+            "D": "rebrander"
+          },
+          "answer": "A",
+          "explanation": "所有格 company's 後面要名詞，rebranding（品牌重塑）。"
+        },
+        {
+          "id": 10,
+          "prompt": "Employees who accept the severance package must sign the agreement _____ 30 days of receiving it.",
+          "options": {
+            "A": "in",
+            "B": "until",
+            "C": "since",
+            "D": "within"
+          },
+          "answer": "D",
+          "explanation": "within + 期間 + of ... 表示「在…之後的期間內」；in 30 days 指 30 天後（Day 62 規則 2）。"
+        },
+        {
+          "id": 11,
+          "prompt": "If regulators had rejected the deal last year, the two firms _____ separate companies today.",
+          "options": {
+            "A": "would have still been",
+            "B": "would still be",
+            "C": "are still",
+            "D": "had still been"
+          },
+          "answer": "B",
+          "explanation": "條件是過去（last year, had rejected），結果是現在（today），混合假設用 would + 原形（Day 59、63）。"
+        },
+        {
+          "id": 12,
+          "prompt": "The new structure will reduce the number of management levels, making the company's _____ flatter and decision-making faster.",
+          "options": {
+            "A": "synergy",
+            "B": "workforce",
+            "C": "hierarchy",
+            "D": "headcount"
+          },
+          "answer": "C",
+          "explanation": "management levels 構成的是 hierarchy（層級），a flatter hierarchy 是組織扁平化的固定說法。"
+        }
+      ]
+    }
+  ],
+  "keyTakeaway": "Part 6 篇章邏輯先判斷前後句的關係再選字：轉折 however／nevertheless、因果 therefore／as a result、補充 in addition／moreover、條件 otherwise；however 是副詞不能連接兩個子句，要連接子句用 although、once 等連接詞。代名詞回頭找它代替的名詞，公司用 its，前文多個事物用 these + N；時態先看發文日期與生效日期，生效日未到用 will be p.p.。Part 4 組織圖圖表題聽到兩人互換就在圖上對調；Part 7 合併整合題用「城市 → 事業部 → 主管」對照，資遣週數先算 6 × 2 = 12 週再和最低 8 週比較。",
+  "nextDay": "永續政策與法規遵循／Part 7 單篇長文同義轉換"
+}
